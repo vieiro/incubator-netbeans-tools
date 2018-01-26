@@ -32,7 +32,7 @@ The splash screen is here:
 autoupdate.services/libsrc/org/netbeans/updater/resources/updatersplash.gif
 ----
 
-You can brand this in your application; see: link:BrandingUpdaterSplash.html[BrandingUpdaterSplash]
+You can brand this in your application; see: link:BrandingUpdaterSplash[BrandingUpdaterSplash]
 
 <hr/>
 Applies to: NetBeans 6.5 and later
@@ -47,4 +47,4 @@ that was last modified by NetBeans user Jglick
 on 2009-12-03T14:06:53Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

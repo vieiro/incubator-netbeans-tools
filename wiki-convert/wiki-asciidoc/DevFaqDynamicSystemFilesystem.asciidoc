@@ -30,11 +30,11 @@ There are two ways to do it.  The most obvious way is to programmatically write 
 
 === Using Dynamically Added Layers
 
-The alternative is quite simple:  Write a subclass of `link:http://bits.netbeans.org/dev/javadoc/org-openide-filesystems/org/openide/filesystems/MultiFileSystem.html[MultiFileSystem]`.  Put it in the link:DevFaqLookupDefault.html[default lookup].
+The alternative is quite simple:  Write a subclass of `link:http://bits.netbeans.org/dev/javadoc/org-openide-filesystems/org/openide/filesystems/MultiFileSystem.html[MultiFileSystem]`.  Put it in the link:DevFaqLookupDefault[default lookup].
 
 At runtime, when you want to add contents to the system filesystem, simply add additional filesystems to your `MultiFileSystem`.  To remove the contents, simply remove those filesystems.
 
-A convenient way to do this is to use XMLFileSystem - this is a filesystem created with exactly the same syntax as normal module XML layer files (see link:DevFaqModulesLayerFile.html[DevFaqModulesLayerFile]). The following code loads an XML filesystem, which is in an XML file in the same package as the class, called `dynamicContent.xml`:
+A convenient way to do this is to use XMLFileSystem - this is a filesystem created with exactly the same syntax as normal module XML layer files (see link:DevFaqModulesLayerFile[DevFaqModulesLayerFile]). The following code loads an XML filesystem, which is in an XML file in the same package as the class, called `dynamicContent.xml`:
 
 [source,java]
 ----
@@ -86,4 +86,4 @@ that was last modified by NetBeans user Jglick
 on 2012-04-10T00:02:19Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

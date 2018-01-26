@@ -46,7 +46,7 @@ hg clone http://hg.netbeans.org/main/contrib/
 To build, simply run `ant`.
 The build will appear in `nbbuild/netbeans/`.
 
-link:HgHowTos.html[More info about using Mercurial with NetBeans sources...]
+link:HgHowTos[More info about using Mercurial with NetBeans sources...]
 
 === Apache Migration Information
 
@@ -58,4 +58,4 @@ that was last modified by NetBeans user Jglick
 on 2009-11-12T22:37:30Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

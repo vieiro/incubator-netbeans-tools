@@ -75,7 +75,7 @@ Applies to: NetBeans 5.x, 6.x
 Platforms: All
 
 See also:
-link:DevFaqLookup.html[What is Lookup?], 
+link:DevFaqLookup[What is Lookup?], 
 link:http://www.netbeans.org/download/dev/javadoc/org-netbeans-modules-editor-mimelookup/index.html[MimeLookup API]
 
 === Apache Migration Information
@@ -88,4 +88,4 @@ that was last modified by NetBeans user Dbell
 on 2010-09-30T10:33:17Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

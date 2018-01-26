@@ -48,7 +48,7 @@ which packages up an external library as well:
 
 Since NetBeans 6.9 NBM files now supports pack200 compression and all jar files in NBMs becomes compressed and have ".pack.gz" appended to the name e.g. modules/org-netbeans-modules-hexeditor.jar.pack.gz. 
 
-For more info about pack200 usage see link:DevFaqNBMPack200.html[DevFaqNBMPack200].
+For more info about pack200 usage see link:DevFaqNBMPack200[DevFaqNBMPack200].
 
 ==== Runtime module XML metadata
 
@@ -129,4 +129,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-16T08:13:22Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

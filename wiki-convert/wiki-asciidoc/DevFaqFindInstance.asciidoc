@@ -24,7 +24,7 @@
 
 === I have a .instance file. How do I get an actual object instance?
 
-Using `InstanceCookie` (note that if you have an entire folder of `.instance` files, there's a link:DevFaqFolderOfInstances.html[more efficient way ] to get all of them):
+Using `InstanceCookie` (note that if you have an entire folder of `.instance` files, there's a link:DevFaqFolderOfInstances[more efficient way ] to get all of them):
 
 [source,java]
 ----
@@ -59,4 +59,4 @@ that was last modified by NetBeans user Markiewb
 on 2013-03-31T16:20:03Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

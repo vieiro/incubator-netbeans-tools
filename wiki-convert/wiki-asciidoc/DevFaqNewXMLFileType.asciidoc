@@ -42,7 +42,7 @@ See below for issues with pre-release 6.0
 
 Anyway, here's how I do it for an xml flavor called SCXML:
 
-1. Register the link:DevFaqDataLoader.html[loader] for text/xml mimetype
+1. Register the link:DevFaqDataLoader[loader] for text/xml mimetype
 
 2. The loader:
 
@@ -258,4 +258,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-24T19:59:00Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

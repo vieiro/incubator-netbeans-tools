@@ -25,7 +25,7 @@
 === How can I register services into the default lookup using the system filesystem?
 
 In short, you probably do not want to.
-The typical way of registering services is via `META-INF/services` registration: link:DevFaqLookupDefault.html[DevFaqLookupDefault].
+The typical way of registering services is via `META-INF/services` registration: link:DevFaqLookupDefault[DevFaqLookupDefault].
 That method is easier to use and offers compatibility with non-platform applications via the Java Extension Mechanism.
 
 But there are some special cases when registration via the system filesystem is needed.
@@ -102,4 +102,4 @@ that was last modified by NetBeans user Silhanek
 on 2011-01-28T21:16:34Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

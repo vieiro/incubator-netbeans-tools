@@ -30,16 +30,16 @@ Contains info how to develop tests for NetBeans plugin.
 
 === Starting to writing tests for NetBeans
 
-* link:FirstTests.html[First tests]
-* link:UnitVersusQaFunctionalTests.html[Unit versus qa-functional tests]
-* link:ModuleDependenciesForTests.html[Module dependencies for tests]
-* link:DebuggingTests.html[Debugging tests] 
+* link:FirstTests[First tests]
+* link:UnitVersusQaFunctionalTests[Unit versus qa-functional tests]
+* link:ModuleDependenciesForTests[Module dependencies for tests]
+* link:DebuggingTests[Debugging tests] 
 
 === NetBeans Testing Infrastructure
 
-* link:DevFaqUsingSimpletests.html[How do I test platform-based application?]
-* link:TestDistribution.html[Test distribution] (NOTE: applies to 6.1 and earlier) 
-* link:CodeCoverage.html[Code coverage] (NOTE: updated for NB 6.7) 
+* link:DevFaqUsingSimpletests[How do I test platform-based application?]
+* link:TestDistribution[Test distribution] (NOTE: applies to 6.1 and earlier) 
+* link:CodeCoverage[Code coverage] (NOTE: updated for NB 6.7) 
 
 === Test patterns
 
@@ -47,30 +47,30 @@ Contains info how to develop tests for NetBeans plugin.
 
 === Test API
 
-link:UsefulTestClassesInModules.html[Useful test classes in modules]
+link:UsefulTestClassesInModules[Useful test classes in modules]
 
 === Frequently used patterns
 
-* link:InitializationOfDefaultLookup.html[Initialization of default Lookup]
-* link:LayerInitialization.html[Layer initialization]
-* link:UsingFileSystems,Masterfs.html[Using FileSystems, Masterfs]
+* link:InitializationOfDefaultLookup[Initialization of default Lookup]
+* link:LayerInitialization[Layer initialization]
+* link:UsingFileSystems,Masterfs[Using FileSystems, Masterfs]
 
 === Testing NetBeans Projects
 
-* link:ClasspathAndQueriesTesting.html[Classpath and queries testing]
-* link:TestingThingsThatUseFileObjectDataObjectDataFolder.html[Testing things that use FileObjects]
-* link:DevFaqTestDataObject.html[Writing Tests for DataObjects and DataLoaders]
-* link:ExecutingAntScriptsInTests.html[Executing ant scripts in tests]
-* link:DevFaqTestUnitTestFailsNoSuchMethodError.html[How to fix NoSuchMethodError in com/sun/tools/javac/ when running unit tests]
+* link:ClasspathAndQueriesTesting[Classpath and queries testing]
+* link:TestingThingsThatUseFileObjectDataObjectDataFolder[Testing things that use FileObjects]
+* link:DevFaqTestDataObject[Writing Tests for DataObjects and DataLoaders]
+* link:ExecutingAntScriptsInTests[Executing ant scripts in tests]
+* link:DevFaqTestUnitTestFailsNoSuchMethodError[How to fix NoSuchMethodError in com/sun/tools/javac/ when running unit tests]
 
 === Test Editor
 
-* link:CodeCompletionProvider.html[Code completion provider]
-* link:Lexer.html[Lexer]
+* link:CodeCompletionProvider[Code completion provider]
+* link:Lexer[Lexer]
 
 === Testing  new Java infrastructure
 
-* link:Java_DevelopersGuide.html[Java Developers Guide] - introduction to  new java infrastructure
+* link:Java_DevelopersGuide[Java Developers Guide] - introduction to  new java infrastructure
 * TODO
 
 === Testing J2EE
@@ -83,9 +83,9 @@ link:UsefulTestClassesInModules.html[Useful test classes in modules]
 
 === UI Tests
 
-* link:FirstUITests.html[First UI tests]
-* link:VisualLibraryAndUITests.html[VisualLibraryAndUITests]
-* link:JemmyAndJellytools.html[Jemmy and Jellytools]
+* link:FirstUITests[First UI tests]
+* link:VisualLibraryAndUITests[VisualLibraryAndUITests]
+* link:JemmyAndJellytools[Jemmy and Jellytools]
 
 ===Wr
 requires.nb.javac=true
@@ -100,4 +100,4 @@ that was last modified by NetBeans user Markiewb
 on 2012-10-10T14:25:26Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

@@ -24,7 +24,7 @@
 
 == When should I use a WeakListener
 
-You should use a link:DevFaqWeakListener.html[WeakListener] any time you are adding a listener to an object, but there is no code - and possibly no opportunity - to explicitly remove it.
+You should use a link:DevFaqWeakListener[WeakListener] any time you are adding a listener to an object, but there is no code - and possibly no opportunity - to explicitly remove it.
 
 If the thing you are listening to does have some kind of observable life-cycle, it is preferable to explicitly add and detach listeners.
 
@@ -40,4 +40,4 @@ that was last modified by NetBeans user Tboudreau
 on 2010-01-24T06:12:14Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

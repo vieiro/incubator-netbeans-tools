@@ -38,7 +38,7 @@ Description of declarative MIME resolve can be found in link:http://bits.netbean
 [source,java]
 ----
 
-  Related: link:DevFaqFileRecognition.html[DevFaqFileRecognition]
+  Related: link:DevFaqFileRecognition[DevFaqFileRecognition]
 ----
 
 === Apache Migration Information
@@ -51,4 +51,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T15:53:24Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

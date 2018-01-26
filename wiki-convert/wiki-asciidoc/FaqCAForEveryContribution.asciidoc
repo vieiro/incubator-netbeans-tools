@@ -24,7 +24,7 @@
 
 === Do I have to file a CA for every contribution?
 
-No, once you have a CA on file it will cover all your contributions to netbeans.org, and other projects owned or managed by Oracle, going forward. For more information, read link:FaqOtherSunCA.html[another FAQ].
+No, once you have a CA on file it will cover all your contributions to netbeans.org, and other projects owned or managed by Oracle, going forward. For more information, read link:FaqOtherSunCA[another FAQ].
 
 === Apache Migration Information
 
@@ -36,4 +36,4 @@ that was last modified by NetBeans user Skygo
 on 2013-12-16T13:22:45Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

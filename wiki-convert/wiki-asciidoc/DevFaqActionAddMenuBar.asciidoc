@@ -28,12 +28,12 @@ The simplest way is to run New Action Wizard (File > New... > Module Development
 
 === See also:
 
-* link:DevFaqActionsFolder.html[An example how to register action manually ]
-* link:DevFaqActionAddFileMime.html[How do I add an action to a file of a given mime-type? ]
-* link:DevFaqActionAddFolder.html[How do I add an action to a folder? ]
-* link:DevFaqActionAddEditorPopup.html[How do I add an action to the text-editor popup menu? ]
-* link:DevFaqActionAddToolBar.html[How do I add an action to the NetBeans tool bar? ]
-* link:DevFaqActionAddDataObject.html[How do I add an action to my custom node? ]
+* link:DevFaqActionsFolder[An example how to register action manually ]
+* link:DevFaqActionAddFileMime[How do I add an action to a file of a given mime-type? ]
+* link:DevFaqActionAddFolder[How do I add an action to a folder? ]
+* link:DevFaqActionAddEditorPopup[How do I add an action to the text-editor popup menu? ]
+* link:DevFaqActionAddToolBar[How do I add an action to the NetBeans tool bar? ]
+* link:DevFaqActionAddDataObject[How do I add an action to my custom node? ]
 
 === Apache Migration Information
 
@@ -45,4 +45,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T15:34:17Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

@@ -24,7 +24,7 @@
 
 ==== How do I find out which keybindings are already in use?
 
-For an existing release you can look at e.g. link:KeymapProfileFor60.html[KeymapProfileFor60] to see the specification.
+For an existing release you can look at e.g. link:KeymapProfileFor60[KeymapProfileFor60] to see the specification.
 
 If you are developing a module for NetBeans development builds,
 you can just look at
@@ -55,4 +55,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T15:50:58Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

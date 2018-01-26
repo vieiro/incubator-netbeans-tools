@@ -36,7 +36,7 @@ You can specify it on the command line, e.g.:
 It contains configuration data that allows NetBeans to restore its state after shutdown;
 it also contains log files and other miscellaneous artifacts of running NetBeans.
 The `config/` subfolder of the userdir
-is where changes made at runtime to the system filesystem (link:DevFaqSystemFilesystem.html[DevFaqSystemFilesystem])
+is where changes made at runtime to the system filesystem (link:DevFaqSystemFilesystem[DevFaqSystemFilesystem])
 are written.
 
 Some new modules installed by Plugin Manager will also be installed here, as if it were a "cluster" directory (such as `platform` or similar in a NetBeans IDE or Platform installation). NBMs which specify a particular cluster name will not be placed in the user directory, however.
@@ -73,4 +73,4 @@ that was last modified by NetBeans user Frederic.deniger
 on 2012-11-01T17:21:20Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

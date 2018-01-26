@@ -26,7 +26,7 @@
 
 The individual should sign the CA. If the contribution involves your company's property, then you need to obtain proper approval from your company. netbeans.org assumes that, when necessary, individuals have obtained the necessary permission from their company.
 
-However, if there are many contributors from the same company it is impractical to send individual OCAs for each employee. In such case it's possible to send a link:FaqBlanketJCAForEmployees.html[blanket company OCA].
+However, if there are many contributors from the same company it is impractical to send individual OCAs for each employee. In such case it's possible to send a link:FaqBlanketJCAForEmployees[blanket company OCA].
 
 === Apache Migration Information
 
@@ -38,4 +38,4 @@ that was last modified by NetBeans user Skygo
 on 2013-12-16T13:20:11Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

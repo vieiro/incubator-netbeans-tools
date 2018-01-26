@@ -29,7 +29,7 @@
 * expand the nodes "_Important Files/XML Layer/<this layer in context>/Projects_" within the project view
 * the direct childnodes of "Projects" are the supported project types of the target platform (see the screenshot below)
 
-The project type can be used for extending the project properties - See link:DevFaqActionAddProjectCustomizer.html[DevFaqActionAddProjectCustomizer].
+The project type can be used for extending the project properties - See link:DevFaqActionAddProjectCustomizer[DevFaqActionAddProjectCustomizer].
 
 ==== Example of some available types in NetBeans 7.2
 
@@ -70,4 +70,4 @@ that was last modified by NetBeans user Skygo
 on 2013-12-16T19:53:47Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

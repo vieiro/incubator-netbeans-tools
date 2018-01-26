@@ -199,7 +199,7 @@ To use it just place the sound file in the appropriate folder and use:
 SoundPlayer.instance().play("<file name>");
 ----
 
-To make your application talk, see link:DevFaqMakeItTalk.html[DevFaqMakeItTalk]
+To make your application talk, see link:DevFaqMakeItTalk[DevFaqMakeItTalk]
 
 === Apache Migration Information
 
@@ -211,4 +211,4 @@ that was last modified by NetBeans user Javydreamercsw
 on 2011-09-19T21:46:28Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

@@ -21,8 +21,6 @@ package wikimedia.html.conversion;
 import java.io.IOException;
 import java.io.StringWriter;
 import java.io.Writer;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 import org.eclipse.mylyn.wikitext.asciidoc.internal.AsciiDocDocumentBuilder;
 import org.eclipse.mylyn.wikitext.parser.Attributes;
 import org.eclipse.mylyn.wikitext.parser.LinkAttributes;
@@ -100,9 +98,16 @@ public class CustomAsciiDocDocumentBuilder extends AsciiDocDocumentBuilder {
             // link:http://url.com[label]
             CustomAsciiDocDocumentBuilder.this.emitContent("link:"); //$NON-NLS-1$
             String href = attributes.getHref();
-            if (href.startsWith("/wiki/")) {
-                href = href.substring(6) + ".html";
+            if (href.startsWith("/wiki/")) { // NOI18N
+                href = href.substring("/wiki/".length()); // NOI18N
+                if (content.startsWith("/wiki/")) {
+                    content = content.substring("/wiki/".length());
+                }
             }
+//            if (href.startsWith("http://wiki.netbeans.org/") ) { // NOI18N
+//                href = href.substring("http://wiki.netbeans.org/".length()); // NOI18N
+//                content = href;
+//            }
             CustomAsciiDocDocumentBuilder.this.emitContent(href);
             CustomAsciiDocDocumentBuilder.this.emitContent('[');
             if (content != null) {
@@ -152,8 +157,7 @@ public class CustomAsciiDocDocumentBuilder extends AsciiDocDocumentBuilder {
         {"<tt>", "`"},
         {"</tt>", "`"},
         {"<code>", "`"},
-        {"</code>", "`"},
-    };
+        {"</code>", "`"},};
 
     @Override
     protected void emitContent(String str) throws IOException {

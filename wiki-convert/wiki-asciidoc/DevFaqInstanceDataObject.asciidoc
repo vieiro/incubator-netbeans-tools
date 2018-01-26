@@ -34,7 +34,7 @@ with a default constructor, or by calling a static method on a class.
 In NetBeans infrastructure, `*.instance` files result in `InstanceDataObject`s.
 `InstanceDataObject`s can supply `InstanceCookie`s,
 which in turn instantiate the object.
-So, code to actually get an instance of an object declared in the system filesystem  (link:DevFaqSystemFilesystem.html[DevFaqSystemFilesystem]) would look like this (plus error checking):
+So, code to actually get an instance of an object declared in the system filesystem  (link:DevFaqSystemFilesystem[DevFaqSystemFilesystem]) would look like this (plus error checking):
 
 [source,java]
 ----
@@ -75,7 +75,7 @@ This is only useful in folders that contain objects of many different types mixe
 which is normally true only in the semi-deprecated `Services` folder:
 code looking for instances of one type only would rather not load everything.)
 
-See also: link:DevFaqDotSettingsFiles.html[DevFaqDotSettingsFiles]
+See also: link:DevFaqDotSettingsFiles[DevFaqDotSettingsFiles]
 
 <hr/>
 Applies to: NetBeans 6.7 and later
@@ -90,4 +90,4 @@ that was last modified by NetBeans user Jglick
 on 2011-12-13T23:58:07Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

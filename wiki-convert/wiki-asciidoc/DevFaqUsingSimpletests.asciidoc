@@ -22,11 +22,11 @@
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
 
-During development of the 6.5 series, an effort was made to improve testing by inherent support for tests in NetBeans build scripts (also known as the _build harness_).  Therefore, unit and functional tests for platform applications are now supported _out of the box_ in NetBeans 6.5 and later.  This effort is sometimes called "simpletests" because it greatly simplifies the work necessary to do such tests on your application.  link:FitnessTestsWithoutX.html[More information about simpletests] can be found in the Wiki.
+During development of the 6.5 series, an effort was made to improve testing by inherent support for tests in NetBeans build scripts (also known as the _build harness_).  Therefore, unit and functional tests for platform applications are now supported _out of the box_ in NetBeans 6.5 and later.  This effort is sometimes called "simpletests" because it greatly simplifies the work necessary to do such tests on your application.  link:FitnessTestsWithoutX[More information about simpletests] can be found in the Wiki.
 
 ==== NbModuleSuite
 
-Right link:API.html[API] for starting the test inside link:apidesign:NetBeans_Runtime_Container.html[NetBeans Runtime Container] is provided in form of link:http://bits.netbeans.org/dev/javadoc/org-netbeans-modules-nbjunit/org/netbeans/junit/NbModuleSuite.html[NbModuleSuite]. Add *suite* method into your test class to fully emulate link:NetBeans.html[NetBeans] environment:
+Right link:API[API] for starting the test inside link:apidesign:NetBeans_Runtime_Container[NetBeans Runtime Container] is provided in form of link:http://bits.netbeans.org/dev/javadoc/org-netbeans-modules-nbjunit/org/netbeans/junit/NbModuleSuite.html[NbModuleSuite]. Add *suite* method into your test class to fully emulate link:NetBeans[NetBeans] environment:
 
 [source,java]
 ----
@@ -42,7 +42,7 @@ NetBeans 6.5 now supports JUnit 4.x, via the `JUnit 4` module in the `platform` 
 
 ==== Code Coverage
 
-See link:CodeCoverage.html[Code Coverage].
+See link:CodeCoverage[Code Coverage].
 
 ==== Setting up functional tests for a Platform Application
 
@@ -98,4 +98,4 @@ that was last modified by NetBeans user Stophi
 on 2012-02-14T17:58:12Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

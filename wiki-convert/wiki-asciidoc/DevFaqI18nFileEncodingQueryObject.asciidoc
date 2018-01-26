@@ -63,7 +63,7 @@ Applies to: Netbeans 6.x
 Platforms: All
 
 See also:
-link:FaqI18nProjectEncoding.html[How do I set or modify the language encoding for a project?]
+link:FaqI18nProjectEncoding[How do I set or modify the language encoding for a project?]
 
 === Apache Migration Information
 
@@ -75,4 +75,4 @@ that was last modified by NetBeans user Vstejskal
 on 2010-06-16T14:13:35Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

@@ -24,7 +24,7 @@
 
 === How do I get at the file that a particular node represents?
 
-In general, it shall be enough to request a link:FileObject.html[FileObject] via link:Lookup.html[Lookup]:
+In general, it shall be enough to request a link:FileObject[FileObject] via link:Lookup[Lookup]:
 
 [source,java]
 ----
@@ -66,7 +66,7 @@ if (dob == null) {
 In the other direction you can use `DataObject.find` and then `DataObject.getNodeDelegate`
 to get a node representing a file object.
 
-Also see link:DevFaqFileVsFileObject.html[DevFaqFileVsFileObject] if you need `java.io.File` for some reason.
+Also see link:DevFaqFileVsFileObject[DevFaqFileVsFileObject] if you need `java.io.File` for some reason.
 
 === Apache Migration Information
 
@@ -78,4 +78,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-24T18:53:56Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

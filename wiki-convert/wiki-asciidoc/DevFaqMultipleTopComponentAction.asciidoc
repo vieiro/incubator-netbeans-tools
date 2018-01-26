@@ -178,9 +178,9 @@ This will create an _inline_ array of menu items, not a submenu.  If you want a 
 
 ==== Registering The Action
 
-Now we just need to actually add our multi-item action to the main menu, by registering it in our module's link:DevFaqModulesLayerFile.html[XML layer].
+Now we just need to actually add our multi-item action to the main menu, by registering it in our module's link:DevFaqModulesLayerFile[XML layer].
 
-In this example, we register it in the `Actions/Window` folder and then create a link in the Window menu folder using a link:DevFaqDotShadowFiles.html[.shadow file].  Note that we could simply put the link:DevFaqInstanceDataObject.html[.instance file] directly in the `Menu/Window` folder, but this approach is the preferred practice:
+In this example, we register it in the `Actions/Window` folder and then create a link in the Window menu folder using a link:DevFaqDotShadowFiles[.shadow file].  Note that we could simply put the link:DevFaqInstanceDataObject[.instance file] directly in the `Menu/Window` folder, but this approach is the preferred practice:
 
 [source,java]
 ----
@@ -220,4 +220,4 @@ that was last modified by NetBeans user Tboudreau
 on 2010-03-11T15:01:05Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.

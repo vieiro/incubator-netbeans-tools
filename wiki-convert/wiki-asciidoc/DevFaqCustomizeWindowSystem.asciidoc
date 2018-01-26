@@ -64,7 +64,7 @@ WindowManager.getDefault().findTopComponent("output").putClientProperty("netbean
 
 ==== Turn some features on/off on window system level
 
-If you want to customize features of all windows you can use the following branding properties. (See for example link:DevFaqRenamingMenuItem.html[here] how NetBeans branding works.)
+If you want to customize features of all windows you can use the following branding properties. (See for example link:DevFaqRenamingMenuItem[here] how NetBeans branding works.)
 
 * _TopComponent.DragAndDrop.Enabled_ - it is not possible to drag and drop any window when set to false.
 
@@ -128,4 +128,4 @@ that was last modified by NetBeans user Jtulach
 on 2012-01-10T11:22:58Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-10, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
