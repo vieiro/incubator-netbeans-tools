@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqAutoUpdateCheckEveryStartup
+:description: Apache NetBeans wiki DevFaqAutoUpdateCheckEveryStartup
+:toc: left
+:toc-title:
+:syntax: true
 
 = How to force to check for updates at every startup?
 
@@ -42,4 +47,4 @@ that was last modified by NetBeans user Markiewb
 on 2016-02-07T14:27:12Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

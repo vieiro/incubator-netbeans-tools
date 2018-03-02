@@ -21,12 +21,17 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqActionAddProjectPopUp
+:description: Apache NetBeans wiki DevFaqActionAddProjectPopUp
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I add an action to a project popup menu?
 
 Just use `@ActionReference(path="Projects/Actions")`. The action should take a context parameter in its constructor.
 
-See also link:DevFaqActionAddProjectTypePopUp[How do I add an action to a project popup menu of a specific project type?]
+See also link:DevFaqActionAddProjectTypePopUp.asciidoc[How do I add an action to a project popup menu of a specific project type?]
 
 === Apache Migration Information
 
@@ -38,4 +43,4 @@ that was last modified by NetBeans user Jglick
 on 2011-12-14T00:12:26Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

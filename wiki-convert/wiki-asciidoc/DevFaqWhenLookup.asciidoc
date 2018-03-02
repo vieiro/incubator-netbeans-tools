@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqWhenLookup
+:description: Apache NetBeans wiki DevFaqWhenLookup
+:toc: left
+:toc-title:
+:syntax: true
 
 == When should I use Lookup in my own APIs?
 
@@ -81,7 +86,7 @@ public String getDisplayName() {
 
 ----
 
-Some other module can then contribute (most likely via a link:DevFaqModulesLayerFile[layer file] and Lookups.forPath()) a Displayable for that object.  This is a rather extreme form of extensibility and can be hard to debug, but if you need it, Lookup can be used for that.
+Some other module can then contribute (most likely via a link:DevFaqModulesLayerFile.asciidoc[layer file] and Lookups.forPath()) a Displayable for that object.  This is a rather extreme form of extensibility and can be hard to debug, but if you need it, Lookup can be used for that.
 
 === Conclusion
 
@@ -89,7 +94,7 @@ These cover most of the typical cases. If you're not doing something like these 
 
 For a more detailed discussion, which this FAQ entry was assembled from, see link:http://netbeans.org/projects/platform/lists/dev/archive/2010-01/message/315[this thread on the dev@platform mailing list]
 
-See also: link:DevFaqWhenToUseWhatRegistrationMethod[When To Use Various Declarative Registration Mechanisms]
+See also: link:DevFaqWhenToUseWhatRegistrationMethod.asciidoc[When To Use Various Declarative Registration Mechanisms]
 
 === Apache Migration Information
 
@@ -101,4 +106,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-24T20:18:23Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

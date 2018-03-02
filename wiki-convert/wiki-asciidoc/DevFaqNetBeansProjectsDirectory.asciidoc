@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqNetBeansProjectsDirectory
+:description: Apache NetBeans wiki DevFaqNetBeansProjectsDirectory
+:toc: left
+:toc-title:
+:syntax: true
 
 == How can I customize the default project directory for my application, replacing "NetBeansProjects"?
 
@@ -53,4 +58,4 @@ that was last modified by NetBeans user Jglick
 on 2010-06-14T20:26:10Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

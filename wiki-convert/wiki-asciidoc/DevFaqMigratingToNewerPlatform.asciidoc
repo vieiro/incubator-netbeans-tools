@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqMigratingToNewerPlatform
+:description: Apache NetBeans wiki DevFaqMigratingToNewerPlatform
+:toc: left
+:toc-title:
+:syntax: true
 
 == Migrating to a newer version of the Platform
 
@@ -82,4 +87,4 @@ that was last modified by NetBeans user Markiewb
 on 2016-11-24T13:02:17Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

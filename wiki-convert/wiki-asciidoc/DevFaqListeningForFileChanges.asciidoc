@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqListeningForFileChanges
+:description: Apache NetBeans wiki DevFaqListeningForFileChanges
+:toc: left
+:toc-title:
+:syntax: true
 
 === I am listening for changes in a folder/file but when there are changes I do not receive an event
 
@@ -47,4 +52,4 @@ that was last modified by NetBeans user Tboudreau
 on 2010-01-23T20:41:36Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

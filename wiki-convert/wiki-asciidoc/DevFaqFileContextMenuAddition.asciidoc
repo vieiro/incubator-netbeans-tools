@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqFileContextMenuAddition
+:description: Apache NetBeans wiki DevFaqFileContextMenuAddition
+:toc: left
+:toc-title:
+:syntax: true
 
 === Can I add a menu item to the context menu of every Java source file?
 
@@ -36,4 +41,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-24T19:53:56Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

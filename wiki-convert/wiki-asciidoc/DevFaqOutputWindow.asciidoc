@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqOutputWindow
+:description: Apache NetBeans wiki DevFaqOutputWindow
+:toc: left
+:toc-title:
+:syntax: true
 
 == How do I create my own tab in the output window and write to it?
 
@@ -85,4 +90,4 @@ that was last modified by NetBeans user Javydreamercsw
 on 2011-08-01T14:18:43Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

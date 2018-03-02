@@ -21,10 +21,15 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqOWTabEmbedding
+:description: Apache NetBeans wiki DevFaqOWTabEmbedding
+:toc: left
+:toc-title:
+:syntax: true
 
 == How do I embed output window tab to another component?
 
-You have to create `IOContainer` which provides access (for `IOProvider`) to your component where you want to embed OW tab (IO tab). Then you need to pass `IOContainer` instance to `IOProvider.getIO(String name, Actionlink:_[ ] actions, IOContainer ioContainer)`. `IOContainer` is created by `IOContainer.create(IOContainer.Provider)`. The following code demonstrates how to add OW to custom TopComponent.:
+You have to create `IOContainer` which provides access (for `IOProvider`) to your component where you want to embed OW tab (IO tab). Then you need to pass `IOContainer` instance to `IOProvider.getIO(String name, Actionlink:_.asciidoc[ ] actions, IOContainer ioContainer)`. `IOContainer` is created by `IOContainer.create(IOContainer.Provider)`. The following code demonstrates how to add OW to custom TopComponent.:
 
 [source,java]
 ----
@@ -130,4 +135,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T15:58:04Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

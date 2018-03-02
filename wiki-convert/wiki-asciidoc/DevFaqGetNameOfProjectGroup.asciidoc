@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqGetNameOfProjectGroup
+:description: Apache NetBeans wiki DevFaqGetNameOfProjectGroup
+:toc: left
+:toc-title:
+:syntax: true
 
 = How to get the name of the active project group
 
@@ -91,4 +96,4 @@ that was last modified by NetBeans user Markiewb
 on 2013-01-12T17:40:12Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

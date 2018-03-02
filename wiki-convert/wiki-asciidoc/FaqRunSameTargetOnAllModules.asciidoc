@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki FaqRunSameTargetOnAllModules
+:description: Apache NetBeans wiki FaqRunSameTargetOnAllModules
+:toc: left
+:toc-title:
+:syntax: true
 
 ==== How can I launch an Ant Task on all modules of my suite?
 
@@ -50,4 +55,4 @@ that was last modified by NetBeans user Skygo
 on 2013-12-16T20:06:19Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

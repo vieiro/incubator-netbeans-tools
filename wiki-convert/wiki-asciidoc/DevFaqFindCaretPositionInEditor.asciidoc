@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqFindCaretPositionInEditor
+:description: Apache NetBeans wiki DevFaqFindCaretPositionInEditor
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I get the position of the caret in the currently selected editor window?
 
@@ -91,4 +96,4 @@ that was last modified by NetBeans user Markiewb
 on 2016-03-05T13:25:27Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

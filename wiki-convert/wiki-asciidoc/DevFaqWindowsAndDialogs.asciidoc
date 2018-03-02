@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqWindowsAndDialogs
+:description: Apache NetBeans wiki DevFaqWindowsAndDialogs
+:toc: left
+:toc-title:
+:syntax: true
 
 == Windows &amp; dialogs
 
@@ -81,4 +86,4 @@ that was last modified by NetBeans user Saubrecht
 on 2009-12-07T10:43:35Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

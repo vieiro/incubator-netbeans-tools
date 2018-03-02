@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqMakeGroupTemplate
+:description: Apache NetBeans wiki DevFaqMakeGroupTemplate
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I make a file template which actually creates more than one file?
 
@@ -50,4 +55,4 @@ that was last modified by NetBeans user Markiewb
 on 2013-07-28T14:06:22Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

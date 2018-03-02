@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqActionAddProjectOwnTypePopUp
+:description: Apache NetBeans wiki DevFaqActionAddProjectOwnTypePopUp
+:toc: left
+:toc-title:
+:syntax: true
 
 ==== How do I add an action to a project node's popup menu of my own project type?
 
@@ -96,4 +101,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-24T20:31:30Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

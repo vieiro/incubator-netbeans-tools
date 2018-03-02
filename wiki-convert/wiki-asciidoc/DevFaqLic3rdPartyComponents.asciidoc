@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqLic3rdPartyComponents
+:description: Apache NetBeans wiki DevFaqLic3rdPartyComponents
+:toc: left
+:toc-title:
+:syntax: true
 
 == What third party libraries are in the Platform and what are their licenses?
 
@@ -40,4 +45,4 @@ that was last modified by NetBeans user Anebuzelsky
 on 2011-12-27T17:04:56Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

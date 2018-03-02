@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqLgpl3rdPartySources
+:description: Apache NetBeans wiki DevFaqLgpl3rdPartySources
+:toc: left
+:toc-title:
+:syntax: true
 
 == Where to download sources of LGPL third-party components?
 
@@ -75,4 +80,4 @@ that was last modified by NetBeans user Pjiricka
 on 2013-11-06T10:37:17Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

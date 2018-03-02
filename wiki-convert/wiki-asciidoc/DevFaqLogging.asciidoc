@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqLogging
+:description: Apache NetBeans wiki DevFaqLogging
+:toc: left
+:toc-title:
+:syntax: true
 
 === Using java.util.logging in NetBeans
 
@@ -279,4 +284,4 @@ that was last modified by NetBeans user Cvdenzen
 on 2012-02-16T13:06:37Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

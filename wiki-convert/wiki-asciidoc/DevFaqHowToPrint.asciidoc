@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqHowToPrint
+:description: Apache NetBeans wiki DevFaqHowToPrint
+:toc: left
+:toc-title:
+:syntax: true
 
 === Help the Print menu item is disabled!
 
@@ -101,4 +106,4 @@ that was last modified by NetBeans user Skygo
 on 2013-12-14T17:08:39Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

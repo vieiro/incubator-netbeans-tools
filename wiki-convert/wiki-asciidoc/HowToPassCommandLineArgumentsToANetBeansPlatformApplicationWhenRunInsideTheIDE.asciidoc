@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki HowToPassCommandLineArgumentsToANetBeansPlatformApplicationWhenRunInsideTheIDE
+:description: Apache NetBeans wiki HowToPassCommandLineArgumentsToANetBeansPlatformApplicationWhenRunInsideTheIDE
+:toc: left
+:toc-title:
+:syntax: true
 
 === How to pass command line arguments to a NetBeans Platform application when run inside the IDE
 
@@ -38,4 +43,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T18:21:32Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

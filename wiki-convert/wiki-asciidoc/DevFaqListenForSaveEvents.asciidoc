@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqListenForSaveEvents
+:description: Apache NetBeans wiki DevFaqListenForSaveEvents
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I be notified when a file is modified and saved??
 
@@ -30,7 +35,7 @@ If you have a FileObject and want to listen for save events, you will need to ge
 
 To listen on a single DataObject for save events, simply add a `PropertyChangeListener` and listen for changes in `DataObject.PROP_MODIFIED`.
 
-Note that listening for something to be saved is _not the same as listening for any changes in the file_ - you are really listening only for (directly or indirectly) user-initiated save events, as in the user pressing CTRL-S when the file is modified and opened in the editor.  For notifications about any changes in a file, instead attach a `link:DevFaqListenForChangesInNonExistentFile[FileChangeListener]` to the underlying `link:DevFaqFileObject[FileObject]`.
+Note that listening for something to be saved is _not the same as listening for any changes in the file_ - you are really listening only for (directly or indirectly) user-initiated save events, as in the user pressing CTRL-S when the file is modified and opened in the editor.  For notifications about any changes in a file, instead attach a `link:DevFaqListenForChangesInNonExistentFile.asciidoc[FileChangeListener]` to the underlying `link:DevFaqFileObject.asciidoc[FileObject]`.
 
 == Track the currently modified files by DataObject Registry listening - Sample code
 
@@ -76,4 +81,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-24T19:50:39Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

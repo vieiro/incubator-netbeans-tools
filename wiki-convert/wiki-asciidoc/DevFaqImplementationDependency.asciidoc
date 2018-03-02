@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqImplementationDependency
+:description: Apache NetBeans wiki DevFaqImplementationDependency
+:toc: left
+:toc-title:
+:syntax: true
 
 === What is an implementation dependency and when should I use one?
 
@@ -224,4 +229,4 @@ that was last modified by NetBeans user Jglick
 on 2011-08-03T14:59:11Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

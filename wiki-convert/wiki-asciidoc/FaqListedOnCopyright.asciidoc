@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki FaqListedOnCopyright
+:description: Apache NetBeans wiki FaqListedOnCopyright
+:toc: left
+:toc-title:
+:syntax: true
 
 === I have a JCA on file and I have made a code contribution to netbeans.org. Can I get listed on the copyright notice?
 
@@ -36,4 +41,4 @@ that was last modified by NetBeans user Jkovalsky
 on 2011-12-12T14:41:18Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

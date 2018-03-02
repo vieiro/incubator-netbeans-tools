@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqSwitchingMenusByContext
+:description: Apache NetBeans wiki DevFaqSwitchingMenusByContext
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I change the contents of a menu according to the selected file in the editor?
 
@@ -75,4 +80,4 @@ that was last modified by NetBeans user Jglick
 on 2011-12-14T00:20:23Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

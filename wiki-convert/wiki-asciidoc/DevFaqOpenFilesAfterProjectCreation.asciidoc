@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqOpenFilesAfterProjectCreation
+:description: Apache NetBeans wiki DevFaqOpenFilesAfterProjectCreation
+:toc: left
+:toc-title:
+:syntax: true
 
 == How to open files in editor after project creation?
 
@@ -41,4 +46,4 @@ that was last modified by NetBeans user Markiewb
 on 2013-04-29T21:18:22Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

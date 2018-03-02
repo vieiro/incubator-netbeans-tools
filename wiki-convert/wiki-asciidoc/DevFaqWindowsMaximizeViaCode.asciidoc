@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqWindowsMaximizeViaCode
+:description: Apache NetBeans wiki DevFaqWindowsMaximizeViaCode
+:toc: left
+:toc-title:
+:syntax: true
 
 === How to maximize a TopComponent?
 
@@ -65,4 +70,4 @@ that was last modified by NetBeans user Markiewb
 on 2013-06-08T07:58:56Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

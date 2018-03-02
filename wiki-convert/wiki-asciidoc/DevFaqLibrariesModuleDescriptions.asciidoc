@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqLibrariesModuleDescriptions
+:description: Apache NetBeans wiki DevFaqLibrariesModuleDescriptions
+:toc: left
+:toc-title:
+:syntax: true
 
 === In the Libraries tab of my application's Project Properties, there sure are a lot of modules listed. What are they for?
 
@@ -862,4 +867,4 @@ that was last modified by NetBeans user Golthiryus
 on 2012-07-13T08:44:08Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqMavenHowToMigrateFromANT
+:description: Apache NetBeans wiki DevFaqMavenHowToMigrateFromANT
+:toc: left
+:toc-title:
+:syntax: true
 
 The following list was created while converting a simple plugin with less than 20 classes, so the migration steps of large projects might vary. But you should get the basic idea.
 
@@ -115,4 +120,4 @@ that was last modified by NetBeans user Markiewb
 on 2013-10-22T19:52:24Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

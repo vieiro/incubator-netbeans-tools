@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki FaqJCAAndCA
+:description: Apache NetBeans wiki FaqJCAAndCA
+:toc: left
+:toc-title:
+:syntax: true
 
 === I've already signed a JCA; do I still have to sign the CA?
 
@@ -38,4 +43,4 @@ that was last modified by NetBeans user Jkovalsky
 on 2011-12-12T13:56:00Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqFileRecognition
+:description: Apache NetBeans wiki DevFaqFileRecognition
+:toc: left
+:toc-title:
+:syntax: true
 
 === How does NetBeans recognize files?
 
@@ -73,4 +78,4 @@ that was last modified by NetBeans user Tboudreau
 on 2010-02-25T16:08:57Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

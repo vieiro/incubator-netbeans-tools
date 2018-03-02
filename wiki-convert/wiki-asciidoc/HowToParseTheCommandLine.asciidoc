@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki HowToParseTheCommandLine
+:description: Apache NetBeans wiki HowToParseTheCommandLine
+:toc: left
+:toc-title:
+:syntax: true
 
 === Apache Migration Information
 
@@ -32,4 +37,4 @@ that was last modified by NetBeans user
 on .
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqPlatformRuntimeProperties
+:description: Apache NetBeans wiki DevFaqPlatformRuntimeProperties
+:toc: left
+:toc-title:
+:syntax: true
 
 == I want to set some flags or CLI arguments for running my NB RCP/Platform based application (such as disable assertions).  How do I do that?
 
@@ -43,4 +48,4 @@ that was last modified by NetBeans user Rmichalsky
 on 2009-12-02T15:24:03Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

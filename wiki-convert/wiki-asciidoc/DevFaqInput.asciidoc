@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqInput
+:description: Apache NetBeans wiki DevFaqInput
+:toc: left
+:toc-title:
+:syntax: true
 
 This is an example on how to get inout from the Output Window. Just change what's done on the read method (listener implementation) to customize the behavior. Things that come to mind: chat client, text based games, etc...
 
@@ -137,4 +142,4 @@ that was last modified by NetBeans user Jhavlin
 on 2012-10-17T11:51:08Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

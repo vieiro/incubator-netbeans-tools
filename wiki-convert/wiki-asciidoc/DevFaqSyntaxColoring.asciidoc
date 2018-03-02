@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqSyntaxColoring
+:description: Apache NetBeans wiki DevFaqSyntaxColoring
+:toc: left
+:toc-title:
+:syntax: true
 
 === Can I add syntax coloring for my own data object/MIME type?
 
@@ -40,4 +45,4 @@ that was last modified by NetBeans user Vstejskal
 on 2010-06-16T14:00:28Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

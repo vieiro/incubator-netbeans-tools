@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqMultipleProgrammaticEdits
+:description: Apache NetBeans wiki DevFaqMultipleProgrammaticEdits
+:toc: left
+:toc-title:
+:syntax: true
 
 === I want to make some programmatic changes to the edited file. How can I do it so one Undo undoes it all?
 
@@ -83,4 +88,4 @@ that was last modified by NetBeans user TheloniousBonk
 on 2012-03-06T22:14:01Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

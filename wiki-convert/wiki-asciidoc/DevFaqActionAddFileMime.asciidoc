@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqActionAddFileMime
+:description: Apache NetBeans wiki DevFaqActionAddFileMime
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I add an action to a file of a given mime-type?
 
@@ -33,11 +38,11 @@ You can use `text/html`, `text/x-java`, `text/x-ant+xml`, `text/x-jsp`, `image/p
 
 === See also:
 
-* link:DevFaqActionAddFolder[How do I add an action to a folder?]
-* link:DevFaqActionAddEditorPopup[How do I add an action to the text-editor popup menu?]
-* link:DevFaqActionAddMenuBar[How do I add an action to the NetBeans menu bar?]
-* link:DevFaqActionAddToolBar[How do I add an action to the NetBeans tool bar?]
-* link:DevFaqActionAddDataObject[How do I add an action to my custom node?]
+* link:DevFaqActionAddFolder.asciidoc[How do I add an action to a folder?]
+* link:DevFaqActionAddEditorPopup.asciidoc[How do I add an action to the text-editor popup menu?]
+* link:DevFaqActionAddMenuBar.asciidoc[How do I add an action to the NetBeans menu bar?]
+* link:DevFaqActionAddToolBar.asciidoc[How do I add an action to the NetBeans tool bar?]
+* link:DevFaqActionAddDataObject.asciidoc[How do I add an action to my custom node?]
 
 === Apache Migration Information
 
@@ -49,4 +54,4 @@ that was last modified by NetBeans user Jglick
 on 2011-12-14T00:10:43Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

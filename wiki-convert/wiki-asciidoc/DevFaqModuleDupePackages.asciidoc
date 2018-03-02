@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqModuleDupePackages
+:description: Apache NetBeans wiki DevFaqModuleDupePackages
+:toc: left
+:toc-title:
+:syntax: true
 
 === Can two or more modules contain the same package?
 
@@ -42,4 +47,4 @@ that was last modified by NetBeans user Jglick
 on 2009-12-03T14:12:11Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

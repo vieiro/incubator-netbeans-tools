@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqActionAddProjectCustomizerToMultipleTypes
+:description: Apache NetBeans wiki DevFaqActionAddProjectCustomizerToMultipleTypes
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I register a "ProjectCustomizer" to multiple project types?
 
@@ -57,4 +62,4 @@ that was last modified by NetBeans user Markiewb
 on 2012-10-07T13:56:52Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

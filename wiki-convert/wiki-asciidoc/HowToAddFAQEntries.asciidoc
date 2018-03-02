@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki HowToAddFAQEntries
+:description: Apache NetBeans wiki HowToAddFAQEntries
+:toc: left
+:toc-title:
+:syntax: true
 
 1. link:#How_to_add.2Fcreate_a_FAQ_entry[How to add/create a FAQ entry]
 1. link:#Logging_on[Logging on]
@@ -57,7 +62,7 @@ How do you read this line?
 * Names of all _plugin-developer_ FAQ items should start with "DevFaq", as in "DevFaqLookup".  This keeps the FAQs organized and searchable and allows the link:http://deadlock.netbeans.org/hudson/job/faqsuck/lastSuccessfulBuild/artifact/other/faqsuck/build/faq.html[giant developer FAQ page] to be built.
 * In the middle there is a `|` between the question and the page title as a separator.
 * The second part is the question. It starts with a square bracket.
-* Note that the `link:_[ ]` braces make the entire thing a link to the actual answer page.
+* Note that the `link:_.asciidoc[ ]` braces make the entire thing a link to the actual answer page.
 
 
 3. Click the Save button to save the page (or click Cancel to discard your changes).
@@ -116,4 +121,4 @@ that was last modified by NetBeans user Jkovalsky
 on 2015-08-28T15:47:14Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

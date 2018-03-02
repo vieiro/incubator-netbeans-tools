@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqInvokeActionProgrammatically
+:description: Apache NetBeans wiki DevFaqInvokeActionProgrammatically
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I invoke an action programmatically?
 
@@ -71,4 +76,4 @@ that was last modified by NetBeans user Markiewb
 on 2016-07-23T12:51:30Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

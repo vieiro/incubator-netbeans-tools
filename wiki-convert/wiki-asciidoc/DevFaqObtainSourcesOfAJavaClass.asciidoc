@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqObtainSourcesOfAJavaClass
+:description: Apache NetBeans wiki DevFaqObtainSourcesOfAJavaClass
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I obtain a source file for a Java class and open it in the editor?
 
@@ -48,7 +53,7 @@ for (FileObject curRoot : GlobalPathRegistry.getDefault().getSourceRoots()) {
 
 In the `if` block you can do something with the source file you found.
 For example, you can open it in the Java editor.
-link:DevFaqOpenFileAtLine[DevFaqOpenFileAtLine] describes how.
+link:DevFaqOpenFileAtLine.asciidoc[DevFaqOpenFileAtLine] describes how.
 
 === Apache Migration Information
 
@@ -60,4 +65,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T15:57:14Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

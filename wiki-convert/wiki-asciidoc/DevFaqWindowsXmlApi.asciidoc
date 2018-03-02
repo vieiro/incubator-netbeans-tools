@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqWindowsXmlApi
+:description: Apache NetBeans wiki DevFaqWindowsXmlApi
+:toc: left
+:toc-title:
+:syntax: true
 
 === How does the declarative XML API for the window system work?
 
@@ -38,16 +43,16 @@ to be instantiated/deserialized during startup just to figure out if they actual
 need to be on screen.  The XML definitions for window system components allow
 a module to completely declaratively provide all the information described above.
 
-There are three main file types to be concerned with - these are put in the link:DevFaqSystemFilesystem[System Filesystem ]
-by declaring them in your module's link:DevFaqModulesLayerFile[layer file]:
+There are three main file types to be concerned with - these are put in the link:DevFaqSystemFilesystem.asciidoc[System Filesystem ]
+by declaring them in your module's link:DevFaqModulesLayerFile.asciidoc[layer file]:
 
-* *`link:DevFaqDotSettingsFiles[.settings files]`* - representing link:DevFaqWindowsTopComponent[TopComponent]s that will be on screen - these go in `Windows2/Components`
-* *`link:DevFaqWindowsMode[.wsmode files]`* - representing link:DevFaqWindowsMode[docking modes] - places where TopComponents can be put - think of them as tabbed containers - these go in `Windows2/Modes`.  For each Mode, you will also create a folder in `Windows2/Modes` where the `.wstcref` files that indicate what components are present can go TopComponents can live (essentially tabbed containers)
-* *`link:DevFaqWindowsWstcrefAndFriends[.wstcrf files]`* - a pseudo symbolic-link that contains some configuration data and points to the appropriate .settings file via its ID - put these in the folder you created in `Windows2/Modes`
+* *`link:DevFaqDotSettingsFiles.asciidoc[.settings files]`* - representing link:DevFaqWindowsTopComponent.asciidoc[TopComponent]s that will be on screen - these go in `Windows2/Components`
+* *`link:DevFaqWindowsMode.asciidoc[.wsmode files]`* - representing link:DevFaqWindowsMode.asciidoc[docking modes] - places where TopComponents can be put - think of them as tabbed containers - these go in `Windows2/Modes`.  For each Mode, you will also create a folder in `Windows2/Modes` where the `.wstcref` files that indicate what components are present can go TopComponents can live (essentially tabbed containers)
+* *`link:DevFaqWindowsWstcrefAndFriends.asciidoc[.wstcrf files]`* - a pseudo symbolic-link that contains some configuration data and points to the appropriate .settings file via its ID - put these in the folder you created in `Windows2/Modes`
 
 See also:
 
-* link:DevFaqWindowsWstcrefAndFriends[How to use .wstcrf and other files]
+* link:DevFaqWindowsWstcrefAndFriends.asciidoc[How to use .wstcrf and other files]
 * link:http://bits.netbeans.org/dev/javadoc/org-openide-windows/org/openide/windows/doc-files/api.html[The Window System API]
 
 === Apache Migration Information
@@ -60,4 +65,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T16:06:42Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

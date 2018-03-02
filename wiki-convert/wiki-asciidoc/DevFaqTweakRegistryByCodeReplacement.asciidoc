@@ -21,11 +21,16 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqTweakRegistryByCodeReplacement
+:description: Apache NetBeans wiki DevFaqTweakRegistryByCodeReplacement
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I have only shortcut keys for an action?
 
 The *New Action* wizard allows you to uncheck both menu and toolbar placement for your action and only assign a keyboard shortcut. To learn how to do this manually, read on.
-Refer to link:TaT_HackingNetBeansXMLLayerPartOne[TaT_HackingNetBeansXMLLayerPartOne] for more details.
+Refer to link:TaT_HackingNetBeansXMLLayerPartOne.asciidoc[TaT_HackingNetBeansXMLLayerPartOne] for more details.
 
 ==== Trick #1
 
@@ -99,7 +104,7 @@ Refer to link:TaT_HackingNetBeansXMLLayerPartOne[TaT_HackingNetBeansXMLLayerPart
 * *.* as `PERIOD`
 * *‘* as `QUOTE`
 
-See also link:DevFaqKeybindings[DevFaqKeybindings].
+See also link:DevFaqKeybindings.asciidoc[DevFaqKeybindings].
 
 (Reposted from link:http://netbeans.dzone.com/tips/play-with-xml-layer[this entry on NetBeans Zone].)
 
@@ -113,4 +118,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-24T20:39:23Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

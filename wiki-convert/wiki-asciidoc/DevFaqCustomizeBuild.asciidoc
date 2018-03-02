@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqCustomizeBuild
+:description: Apache NetBeans wiki DevFaqCustomizeBuild
+:toc: left
+:toc-title:
+:syntax: true
 
 ==== How can I customize the build process?
 
@@ -45,7 +50,7 @@ The key part is calling the suite.-init task as it initializes a lot of stuff us
 --
 Applies to: NetBeans IDE 6.8 and 6.9
 Platforms: All
-See also link:DevFaqSignNbm[DevFaqSignNbm] for an example using this.
+See also link:DevFaqSignNbm.asciidoc[DevFaqSignNbm] for an example using this.
 
 === Apache Migration Information
 
@@ -57,4 +62,4 @@ that was last modified by NetBeans user Jglick
 on 2010-06-14T20:25:17Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

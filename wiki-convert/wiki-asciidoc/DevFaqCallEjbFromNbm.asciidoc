@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqCallEjbFromNbm
+:description: Apache NetBeans wiki DevFaqCallEjbFromNbm
+:toc: left
+:toc-title:
+:syntax: true
 
 == How to call EJB from NetBeans module
 
@@ -28,7 +33,7 @@ This How-To is based on link:https://glassfish.dev.java.net/javaee5/ejb/EJB_FAQ.
 
 === How to call EJB from Java EE Application Client built on top of NetBeans Platform
 
-*Important:* Application Client must be created as it is described in link:DevFaqAppClientOnNbPlatformTut[Java EE Application Client on top of the NetBeans Platform Tutorial] otherwise this will not work
+*Important:* Application Client must be created as it is described in link:DevFaqAppClientOnNbPlatformTut.asciidoc[Java EE Application Client on top of the NetBeans Platform Tutorial] otherwise this will not work
 
 * create lookup method in some class in your module
 * add entry to `application-client.xml` in application client module
@@ -120,4 +125,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T15:37:04Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

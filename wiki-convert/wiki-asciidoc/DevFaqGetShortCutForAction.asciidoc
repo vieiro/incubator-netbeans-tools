@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqGetShortCutForAction
+:description: Apache NetBeans wiki DevFaqGetShortCutForAction
+:toc: left
+:toc-title:
+:syntax: true
 
 == How to get the shortcut/shortkey of an action at runtime?
 
@@ -48,4 +53,4 @@ that was last modified by NetBeans user Markiewb
 on 2016-03-27T14:05:30Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

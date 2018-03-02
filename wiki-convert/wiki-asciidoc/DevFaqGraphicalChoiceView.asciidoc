@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqGraphicalChoiceView
+:description: Apache NetBeans wiki DevFaqGraphicalChoiceView
+:toc: left
+:toc-title:
+:syntax: true
 
 == How can I graphically create a ChoiceView in using the GUI designer?
 
@@ -49,7 +54,7 @@ java.lang.ClassCastException: java.lang.String cannot be cast to org.openide.exp
 ----
 
 Finally switch to the "Source" view and fix the import errors.
---link:User:Tboudreau[Tboudreau] 02:40, 24 January 2010 (UTC)
+--link:User:Tboudreau.asciidoc[Tboudreau] 02:40, 24 January 2010 (UTC)
 
 === Apache Migration Information
 
@@ -61,4 +66,4 @@ that was last modified by NetBeans user Tboudreau
 on 2010-01-24T02:40:27Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

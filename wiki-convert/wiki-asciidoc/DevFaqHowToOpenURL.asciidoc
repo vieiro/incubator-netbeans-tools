@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqHowToOpenURL
+:description: Apache NetBeans wiki DevFaqHowToOpenURL
+:toc: left
+:toc-title:
+:syntax: true
 
 === How to open a URL in the internal/default HTML browser?
 
@@ -45,4 +50,4 @@ that was last modified by NetBeans user Markiewb
 on 2013-05-27T19:47:35Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -8,3 +8,6 @@
 /wiki-convert/target/
 *.swp
 *.swo
+wiki-convert/asciidoc-output/
+wiki-convert/html-input/
+wiki-export/wiki-markdown/

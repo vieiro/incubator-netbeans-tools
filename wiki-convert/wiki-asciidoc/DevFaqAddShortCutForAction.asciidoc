@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqAddShortCutForAction
+:description: Apache NetBeans wiki DevFaqAddShortCutForAction
+:toc: left
+:toc-title:
+:syntax: true
 
 = How to set the shortcut of an action outside of your own module?
 
@@ -47,4 +52,4 @@ that was last modified by NetBeans user Markiewb
 on 2016-08-06T14:53:22Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

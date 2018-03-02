@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqI18nFileEncodingQueryObject
+:description: Apache NetBeans wiki DevFaqI18nFileEncodingQueryObject
+:toc: left
+:toc-title:
+:syntax: true
 
 === Project Encoding vs. File Encoding - What are the precedence rules used in NetBeans 6.x?
 
@@ -63,7 +68,7 @@ Applies to: Netbeans 6.x
 Platforms: All
 
 See also:
-link:FaqI18nProjectEncoding[How do I set or modify the language encoding for a project?]
+link:FaqI18nProjectEncoding.asciidoc[How do I set or modify the language encoding for a project?]
 
 === Apache Migration Information
 
@@ -75,4 +80,4 @@ that was last modified by NetBeans user Vstejskal
 on 2010-06-16T14:13:35Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki NetBeansDeveloperTestFAQ
+:description: Apache NetBeans wiki NetBeansDeveloperTestFAQ
+:toc: left
+:toc-title:
+:syntax: true
 
 == NetBeans Developer Test FAQ
 
@@ -30,16 +35,16 @@ Contains info how to develop tests for NetBeans plugin.
 
 === Starting to writing tests for NetBeans
 
-* link:FirstTests[First tests]
-* link:UnitVersusQaFunctionalTests[Unit versus qa-functional tests]
-* link:ModuleDependenciesForTests[Module dependencies for tests]
-* link:DebuggingTests[Debugging tests] 
+* link:FirstTests.asciidoc[First tests]
+* link:UnitVersusQaFunctionalTests.asciidoc[Unit versus qa-functional tests]
+* link:ModuleDependenciesForTests.asciidoc[Module dependencies for tests]
+* link:DebuggingTests.asciidoc[Debugging tests] 
 
 === NetBeans Testing Infrastructure
 
-* link:DevFaqUsingSimpletests[How do I test platform-based application?]
-* link:TestDistribution[Test distribution] (NOTE: applies to 6.1 and earlier) 
-* link:CodeCoverage[Code coverage] (NOTE: updated for NB 6.7) 
+* link:DevFaqUsingSimpletests.asciidoc[How do I test platform-based application?]
+* link:TestDistribution.asciidoc[Test distribution] (NOTE: applies to 6.1 and earlier) 
+* link:CodeCoverage.asciidoc[Code coverage] (NOTE: updated for NB 6.7) 
 
 === Test patterns
 
@@ -47,30 +52,30 @@ Contains info how to develop tests for NetBeans plugin.
 
 === Test API
 
-link:UsefulTestClassesInModules[Useful test classes in modules]
+link:UsefulTestClassesInModules.asciidoc[Useful test classes in modules]
 
 === Frequently used patterns
 
-* link:InitializationOfDefaultLookup[Initialization of default Lookup]
-* link:LayerInitialization[Layer initialization]
-* link:UsingFileSystems,Masterfs[Using FileSystems, Masterfs]
+* link:InitializationOfDefaultLookup.asciidoc[Initialization of default Lookup]
+* link:LayerInitialization.asciidoc[Layer initialization]
+* link:UsingFileSystems,Masterfs.asciidoc[Using FileSystems, Masterfs]
 
 === Testing NetBeans Projects
 
-* link:ClasspathAndQueriesTesting[Classpath and queries testing]
-* link:TestingThingsThatUseFileObjectDataObjectDataFolder[Testing things that use FileObjects]
-* link:DevFaqTestDataObject[Writing Tests for DataObjects and DataLoaders]
-* link:ExecutingAntScriptsInTests[Executing ant scripts in tests]
-* link:DevFaqTestUnitTestFailsNoSuchMethodError[How to fix NoSuchMethodError in com/sun/tools/javac/ when running unit tests]
+* link:ClasspathAndQueriesTesting.asciidoc[Classpath and queries testing]
+* link:TestingThingsThatUseFileObjectDataObjectDataFolder.asciidoc[Testing things that use FileObjects]
+* link:DevFaqTestDataObject.asciidoc[Writing Tests for DataObjects and DataLoaders]
+* link:ExecutingAntScriptsInTests.asciidoc[Executing ant scripts in tests]
+* link:DevFaqTestUnitTestFailsNoSuchMethodError.asciidoc[How to fix NoSuchMethodError in com/sun/tools/javac/ when running unit tests]
 
 === Test Editor
 
-* link:CodeCompletionProvider[Code completion provider]
-* link:Lexer[Lexer]
+* link:CodeCompletionProvider.asciidoc[Code completion provider]
+* link:Lexer.asciidoc[Lexer]
 
 === Testing  new Java infrastructure
 
-* link:Java_DevelopersGuide[Java Developers Guide] - introduction to  new java infrastructure
+* link:Java_DevelopersGuide.asciidoc[Java Developers Guide] - introduction to  new java infrastructure
 * TODO
 
 === Testing J2EE
@@ -83,9 +88,9 @@ link:UsefulTestClassesInModules[Useful test classes in modules]
 
 === UI Tests
 
-* link:FirstUITests[First UI tests]
-* link:VisualLibraryAndUITests[VisualLibraryAndUITests]
-* link:JemmyAndJellytools[Jemmy and Jellytools]
+* link:FirstUITests.asciidoc[First UI tests]
+* link:VisualLibraryAndUITests.asciidoc[VisualLibraryAndUITests]
+* link:JemmyAndJellytools.asciidoc[Jemmy and Jellytools]
 
 ===Wr
 requires.nb.javac=true
@@ -100,4 +105,4 @@ that was last modified by NetBeans user Markiewb
 on 2012-10-10T14:25:26Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqHowToChangeUpdateCenterURL
+:description: Apache NetBeans wiki DevFaqHowToChangeUpdateCenterURL
+:toc: left
+:toc-title:
+:syntax: true
 
 = How to change the update center URL via code?
 
@@ -60,4 +65,4 @@ that was last modified by NetBeans user Markiewb
 on 2016-09-18T14:21:48Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqJavaStartParms
+:description: Apache NetBeans wiki DevFaqJavaStartParms
+:toc: left
+:toc-title:
+:syntax: true
 
 This is simple to do but hard to figure out.
 <ol>
@@ -53,4 +58,4 @@ that was last modified by NetBeans user Javydreamercsw
 on 2011-09-21T20:28:28Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

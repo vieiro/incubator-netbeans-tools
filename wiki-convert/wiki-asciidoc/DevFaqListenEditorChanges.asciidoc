@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqListenEditorChanges
+:description: Apache NetBeans wiki DevFaqListenEditorChanges
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I track what file the user is currently editing?
 
@@ -70,4 +75,4 @@ that was last modified by NetBeans user Markiewb
 on 2016-02-22T22:27:20Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

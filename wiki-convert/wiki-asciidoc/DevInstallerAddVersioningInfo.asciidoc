@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevInstallerAddVersioningInfo
+:description: Apache NetBeans wiki DevInstallerAddVersioningInfo
+:toc: left
+:toc-title:
+:syntax: true
 
 == How to add versioning information to be shown in "Installed Programs" (Windows-only)?
 
@@ -94,4 +99,4 @@ that was last modified by NetBeans user Markiewb
 on 2014-12-28T20:56:56Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

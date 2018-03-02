@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqAccessSourcesWeb
+:description: Apache NetBeans wiki DevFaqAccessSourcesWeb
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I get access to zipped NetBeans sources for a periodic build?
 
@@ -59,4 +64,4 @@ that was last modified by NetBeans user Anebuzelsky
 on 2010-06-11T14:32:19Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

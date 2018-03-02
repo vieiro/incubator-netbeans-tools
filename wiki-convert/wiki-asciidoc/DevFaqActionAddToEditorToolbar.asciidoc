@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqActionAddToEditorToolbar
+:description: Apache NetBeans wiki DevFaqActionAddToEditorToolbar
+:toc: left
+:toc-title:
+:syntax: true
 
 == How do I add an action to the toolbar of the editor?
 
@@ -44,4 +49,4 @@ that was last modified by NetBeans user Markiewb
 on 2014-03-15T08:58:41Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

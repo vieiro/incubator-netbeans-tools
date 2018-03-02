@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqSetPrefs
+:description: Apache NetBeans wiki DevFaqSetPrefs
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I let the user set preferences/options/customization/configuration for my module/application?
 
@@ -41,4 +46,4 @@ that was last modified by NetBeans user Zolta
 on 2013-06-09T10:11:46Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

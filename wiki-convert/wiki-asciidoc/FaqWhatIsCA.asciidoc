@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki FaqWhatIsCA
+:description: Apache NetBeans wiki FaqWhatIsCA
+:toc: left
+:toc-title:
+:syntax: true
 
 === What is the Contributor Agreement ("CA")?
 
@@ -44,4 +49,4 @@ that was last modified by NetBeans user Jtulach
 on 2014-02-08T04:35:18Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

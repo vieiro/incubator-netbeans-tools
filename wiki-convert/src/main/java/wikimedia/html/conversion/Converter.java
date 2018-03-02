@@ -174,7 +174,13 @@ public class Converter {
             output.write("= " + title + "\n");
             output.write(":jbake-type: wiki\n");
             output.write(":jbake-tags: wiki, devfaq, needsreview\n");
-            output.write(":jbake-status: published\n\n");
+            output.write(":jbake-status: published\n");
+            output.write(":keywords: Apache NetBeans wiki " + title + "\n");
+            output.write(":description: Apache NetBeans wiki " + title + "\n");
+            output.write(":toc: left\n");
+            output.write(":toc-title:\n");
+            output.write(":syntax: true\n");
+            output.write("\n");
             CustomAsciiDocDocumentBuilder asciidocBuilder = new CustomAsciiDocDocumentBuilder(output);
             MarkupParser parser = new MarkupParser(mediaWikiLanguage, asciidocBuilder);
             parser.parse(reader);

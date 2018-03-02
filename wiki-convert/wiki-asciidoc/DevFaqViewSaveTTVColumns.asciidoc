@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqViewSaveTTVColumns
+:description: Apache NetBeans wiki DevFaqViewSaveTTVColumns
+:toc: left
+:toc-title:
+:syntax: true
 
 === Saving Column Attributes of a TreeTableView
 
@@ -141,4 +146,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-24T19:14:04Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

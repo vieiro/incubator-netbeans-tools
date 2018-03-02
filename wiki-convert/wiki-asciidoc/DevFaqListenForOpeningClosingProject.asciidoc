@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqListenForOpeningClosingProject
+:description: Apache NetBeans wiki DevFaqListenForOpeningClosingProject
+:toc: left
+:toc-title:
+:syntax: true
 
 = How to listen for projects to be opened/closed?
 
@@ -74,4 +79,4 @@ that was last modified by NetBeans user Markiewb
 on 2015-03-12T18:54:53Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

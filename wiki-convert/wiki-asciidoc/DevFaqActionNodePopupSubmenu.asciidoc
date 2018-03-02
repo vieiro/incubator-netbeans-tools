@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqActionNodePopupSubmenu
+:description: Apache NetBeans wiki DevFaqActionNodePopupSubmenu
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I make my Node have a submenu on its popup menu?
 
@@ -180,4 +185,4 @@ that was last modified by NetBeans user Markiewb
 on 2015-09-13T19:53:44Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

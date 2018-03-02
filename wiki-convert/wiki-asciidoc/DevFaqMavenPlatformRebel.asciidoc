@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqMavenPlatformRebel
+:description: Apache NetBeans wiki DevFaqMavenPlatformRebel
+:toc: left
+:toc-title:
+:syntax: true
 
 == Can I use JRebel to speed up development?
 
@@ -89,4 +94,4 @@ that was last modified by NetBeans user Mkleint
 on 2012-09-07T10:58:50Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

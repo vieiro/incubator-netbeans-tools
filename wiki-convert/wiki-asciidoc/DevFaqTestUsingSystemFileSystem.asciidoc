@@ -21,15 +21,20 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqTestUsingSystemFileSystem
+:description: Apache NetBeans wiki DevFaqTestUsingSystemFileSystem
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I test something which uses the System Filesystem?
 
-There is a fake System FileSystem provided by as soon as FileSystem link:API[API] is on classpath. It understands link:NetBeans[NetBeans] layer definitions and is generally suitable for running unit tests.
+There is a fake System FileSystem provided by as soon as FileSystem link:API.asciidoc[API] is on classpath. It understands link:NetBeans.asciidoc[NetBeans] layer definitions and is generally suitable for running unit tests.
 
 In case you see difference from expected behavior:
 
-* Try to run tests in link:DevFaqUsingSimpletests[real mode]
-* Report link:NetBeans[NetBeans] a bug (product platform/filesystems) with a test case
+* Try to run tests in link:DevFaqUsingSimpletests.asciidoc[real mode]
+* Report link:NetBeans.asciidoc[NetBeans] a bug (product platform/filesystems) with a test case
 
 === Apache Migration Information
 
@@ -41,4 +46,4 @@ that was last modified by NetBeans user Jtulach
 on 2009-12-08T11:51:31Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

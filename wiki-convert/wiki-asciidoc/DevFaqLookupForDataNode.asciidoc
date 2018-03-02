@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqLookupForDataNode
+:description: Apache NetBeans wiki DevFaqLookupForDataNode
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I add support for `Lookup`s on nodes representing my file type?
 
@@ -58,4 +63,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-24T20:17:21Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

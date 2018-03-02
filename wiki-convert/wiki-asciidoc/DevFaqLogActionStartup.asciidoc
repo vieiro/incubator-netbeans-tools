@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqLogActionStartup
+:description: Apache NetBeans wiki DevFaqLogActionStartup
+:toc: left
+:toc-title:
+:syntax: true
 
 = How do you invoke the View/IDE Log Action programmatically?
 
@@ -188,4 +193,4 @@ that was last modified by NetBeans user Jglick
 on 2011-12-14T00:23:24Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

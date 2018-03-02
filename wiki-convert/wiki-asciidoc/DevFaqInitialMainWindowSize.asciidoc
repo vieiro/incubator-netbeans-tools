@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqInitialMainWindowSize
+:description: Apache NetBeans wiki DevFaqInitialMainWindowSize
+:toc: left
+:toc-title:
+:syntax: true
 
 ==== How do I adjust the initial size/position of the main window?
 
@@ -81,4 +86,4 @@ that was last modified by NetBeans user Simpatico
 on 2010-11-02T01:43:02Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

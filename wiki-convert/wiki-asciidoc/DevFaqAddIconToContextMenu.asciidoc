@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqAddIconToContextMenu
+:description: Apache NetBeans wiki DevFaqAddIconToContextMenu
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do i add an icon to the context menu?
 
@@ -108,4 +113,4 @@ that was last modified by NetBeans user Jmborer
 on 2013-10-17T13:27:02Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

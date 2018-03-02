@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqChangeMenuItemToolbarAppearanceForAction
+:description: Apache NetBeans wiki DevFaqChangeMenuItemToolbarAppearanceForAction
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I change the appearance of the menu items and toolbar buttons for my action?
 
@@ -60,4 +65,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-24T20:39:57Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

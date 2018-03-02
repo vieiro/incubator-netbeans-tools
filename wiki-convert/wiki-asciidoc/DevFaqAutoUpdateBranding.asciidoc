@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqAutoUpdateBranding
+:description: Apache NetBeans wiki DevFaqAutoUpdateBranding
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I update the splash screen, title bar and other branding items via AutoUpdate?
 
@@ -80,4 +85,4 @@ that was last modified by NetBeans user Bruehlicke
 on 2012-02-24T03:15:05Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

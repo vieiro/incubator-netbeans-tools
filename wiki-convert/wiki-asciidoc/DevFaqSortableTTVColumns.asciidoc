@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqSortableTTVColumns
+:description: Apache NetBeans wiki DevFaqSortableTTVColumns
+:toc: left
+:toc-title:
+:syntax: true
 
 == How can I make sortable columns in a TreeTableView?
 
@@ -39,4 +44,4 @@ that was last modified by NetBeans user Markiewb
 on 2012-10-10T20:09:50Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

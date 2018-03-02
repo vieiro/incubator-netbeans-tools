@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki HowToEnableDisableModulesFromCommandLine
+:description: Apache NetBeans wiki HowToEnableDisableModulesFromCommandLine
+:toc: left
+:toc-title:
+:syntax: true
 
 === Same as the above, but this time for enabling/disabling modules?
 
@@ -36,4 +41,4 @@ that was last modified by NetBeans user Anebuzelsky
 on 2011-12-27T16:33:57Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

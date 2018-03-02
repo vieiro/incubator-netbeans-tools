@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqNodeChildrenDotLeaf
+:description: Apache NetBeans wiki DevFaqNodeChildrenDotLeaf
+:toc: left
+:toc-title:
+:syntax: true
 
 == Why do my nodes in the Explorer always have an expand-box by them, even though they have no children?
 
@@ -64,4 +69,4 @@ that was last modified by NetBeans user Markiewb
 on 2012-12-27T13:42:23Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

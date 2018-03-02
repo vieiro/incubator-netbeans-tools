@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqWindowsMode
+:description: Apache NetBeans wiki DevFaqWindowsMode
+:toc: left
+:toc-title:
+:syntax: true
 
 === What is a Mode in the Windowing System?
 
@@ -30,9 +35,9 @@ Think of a `Mode` as synonymous with a one of the tabbed containers you see in t
 
 *A Mode is _not_ a GUI component*.  There is no legitimate programmatic way to fetch the component that represents a Mode on-screen, and the windowing system makes no guarantees about what that component is.
 
-Modes can contain one or more link:DevFaqWindowsTopComponent[TopComponent]s.  They may be visible or non-visible at any given time.
+Modes can contain one or more link:DevFaqWindowsTopComponent.asciidoc[TopComponent]s.  They may be visible or non-visible at any given time.
 
-The link:DevFaqCustomWindowMode[DevFaqCustomWindowMode] page has a visual representation of the available modes, and link:http://bits.netbeans.org/dev/javadoc/org-openide-windows/org/openide/windows/doc-files/api.html[http://bits.netbeans.org/dev/javadoc/org-openide-windows/org/openide/windows/doc-files/api.html] has details about the contents of wstcref and settings files.
+The link:DevFaqCustomWindowMode.asciidoc[DevFaqCustomWindowMode] page has a visual representation of the available modes, and link:http://bits.netbeans.org/dev/javadoc/org-openide-windows/org/openide/windows/doc-files/api.html[http://bits.netbeans.org/dev/javadoc/org-openide-windows/org/openide/windows/doc-files/api.html] has details about the contents of wstcref and settings files.
 
 === Pre-Defined Modes
 
@@ -78,4 +83,4 @@ that was last modified by NetBeans user Maehem
 on 2012-11-13T01:09:52Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

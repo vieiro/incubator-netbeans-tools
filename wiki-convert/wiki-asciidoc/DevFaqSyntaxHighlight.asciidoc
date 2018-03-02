@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqSyntaxHighlight
+:description: Apache NetBeans wiki DevFaqSyntaxHighlight
+:toc: left
+:toc-title:
+:syntax: true
 
 ==== How do I add syntax highlighting for my language?
 
@@ -38,4 +43,4 @@ that was last modified by NetBeans user Stefika
 on 2010-10-01T19:56:10Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

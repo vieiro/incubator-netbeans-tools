@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki FaqCAAndRejectedContribution
+:description: Apache NetBeans wiki FaqCAAndRejectedContribution
+:toc: left
+:toc-title:
+:syntax: true
 
 === I tried to make a contribution to netbeans.org and signed a CA, but my contribution was not accepted. What is the result?
 
@@ -36,4 +41,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T16:28:20Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqDialogsApiIntro
+:description: Apache NetBeans wiki DevFaqDialogsApiIntro
+:toc: left
+:toc-title:
+:syntax: true
 
 === What is the Dialogs API and How Do I Use It?
 
@@ -106,4 +111,4 @@ that was last modified by NetBeans user Maehem
 on 2012-11-10T06:16:12Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

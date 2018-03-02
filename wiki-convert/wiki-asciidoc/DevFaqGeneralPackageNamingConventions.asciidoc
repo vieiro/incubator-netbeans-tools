@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqGeneralPackageNamingConventions
+:description: Apache NetBeans wiki DevFaqGeneralPackageNamingConventions
+:toc: left
+:toc-title:
+:syntax: true
 
 === Why are some packages org.netbeans.api.something and others are org.netbeans.something.api?
 
@@ -38,4 +43,4 @@ that was last modified by NetBeans user Anebuzelsky
 on 2010-06-11T14:40:26Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

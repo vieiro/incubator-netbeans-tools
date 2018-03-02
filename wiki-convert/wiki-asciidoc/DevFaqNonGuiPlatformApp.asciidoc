@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqNonGuiPlatformApp
+:description: Apache NetBeans wiki DevFaqNonGuiPlatformApp
+:toc: left
+:toc-title:
+:syntax: true
 
 == Can I create a console or server (non-GUI) app with the NetBeans Platform?
 
@@ -70,4 +75,4 @@ that was last modified by NetBeans user Tomwheeler
 on 2010-09-10T16:38:01Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

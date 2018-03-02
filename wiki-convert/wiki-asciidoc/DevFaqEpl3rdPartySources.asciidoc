@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqEpl3rdPartySources
+:description: Apache NetBeans wiki DevFaqEpl3rdPartySources
+:toc: left
+:toc-title:
+:syntax: true
 
 == Where to download sources of EPL third-party components?
 
@@ -158,4 +163,4 @@ that was last modified by NetBeans user Tstupka
 on 2016-03-31T09:43:15Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

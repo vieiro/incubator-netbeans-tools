@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqSourceTreeModuleDescriptions
+:description: Apache NetBeans wiki DevFaqSourceTreeModuleDescriptions
+:toc: left
+:toc-title:
+:syntax: true
 
 === There sure are a lot of modules in the source tree.  What are they for?
 
@@ -712,4 +717,4 @@ that was last modified by NetBeans user Geertjan
 on 2009-12-02T12:27:06Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

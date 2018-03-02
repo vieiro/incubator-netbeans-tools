@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqHowToReuseModules
+:description: Apache NetBeans wiki DevFaqHowToReuseModules
+:toc: left
+:toc-title:
+:syntax: true
 
 === I want to reuse some of my modules in several RCP applications. How to do it?
 
@@ -55,9 +60,9 @@ Once projects and clusters are added to Libraries and checked, they behave just 
 
 ==== I cannot use 6.7 or newer platform, what to do?
 
-You can actually use older platform as long as you configure it to use newer harness (either via `Tools -> NetBeans Platforms` in IDE or by specifying link:DevFaqNbPlatformAndHarnessMixAndMatch[harness.dir]) and you develop in new enough IDE.
+You can actually use older platform as long as you configure it to use newer harness (either via `Tools -> NetBeans Platforms` in IDE or by specifying link:DevFaqNbPlatformAndHarnessMixAndMatch.asciidoc[harness.dir]) and you develop in new enough IDE.
 
-If you cannot even use new harness and/or IDE, you have to use _suite chaining_, build your own platform and depend on it. See `harness/README` file for details. See also link:HowToReuseModules[HowToReuseModules].
+If you cannot even use new harness and/or IDE, you have to use _suite chaining_, build your own platform and depend on it. See `harness/README` file for details. See also link:HowToReuseModules.asciidoc[HowToReuseModules].
 
 === I want to use modules installed in my IDE in my RCP applications. How to do it?
 
@@ -67,7 +72,7 @@ Now install the plugins you are interested in (using the Update center or manual
 
 ==== See also
 
-* link:DevFaqGeneralWhereIsPlatformHowToBuild[Where is the Platform and how can I build it?] for more details on how to add a custom platform for your application so the project is stand alone.
+* link:DevFaqGeneralWhereIsPlatformHowToBuild.asciidoc[Where is the Platform and how can I build it?] for more details on how to add a custom platform for your application so the project is stand alone.
 
 === Using an Update Center for a Stand Alone Module
 
@@ -128,4 +133,4 @@ that was last modified by NetBeans user Markiewb
 on 2017-01-04T22:22:30Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

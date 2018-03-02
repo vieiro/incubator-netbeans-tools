@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqNodesDecorating
+:description: Apache NetBeans wiki DevFaqNodesDecorating
+:toc: left
+:toc-title:
+:syntax: true
 
 === Decorating an entire tree of Nodes
 
@@ -153,4 +158,4 @@ that was last modified by NetBeans user J.boesl
 on 2010-08-19T14:20:51Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqVersionNumber
+:description: Apache NetBeans wiki DevFaqVersionNumber
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I set the version number?
 
@@ -103,4 +108,4 @@ that was last modified by NetBeans user Javydreamercsw
 on 2017-02-01T14:34:50Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

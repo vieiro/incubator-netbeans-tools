@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqListenForOpenEvents
+:description: Apache NetBeans wiki DevFaqListenForOpenEvents
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I be notified when a file is opened?
 
@@ -90,4 +95,4 @@ that was last modified by NetBeans user Markiewb
 on 2013-02-03T16:11:47Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

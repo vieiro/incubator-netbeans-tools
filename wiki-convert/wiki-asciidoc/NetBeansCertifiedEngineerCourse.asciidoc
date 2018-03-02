@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki NetBeansCertifiedEngineerCourse
+:description: Apache NetBeans wiki NetBeansCertifiedEngineerCourse
+:toc: left
+:toc-title:
+:syntax: true
 
 == NetBeans Certified Engineer Course
 
@@ -29,14 +34,14 @@ link:http://edu.netbeans.org/courses/nbplatform-certified-training/[our main web
 
 === Exercises/Assignments
 
-* link:NetBeansCertifiedEngineerExercises[NetBeansCertifiedEngineerExercises]
+* link:NetBeansCertifiedEngineerExercises.asciidoc[NetBeansCertifiedEngineerExercises]
 * link:http://wiki.netbeans.org/wiki/view/NetBeansDeveloperFAQ/RCP60Tutorials[Link to Tutorials You Can Write]
-* link:Http://wiki.netbeans.org/wiki/view/Java_HintsFest[Link to Hints You Can Provide ]
+* link:Http://wiki.netbeans.org/wiki/view/Java_HintsFest.asciidoc[Link to Hints You Can Provide ]
 
 === Papers
 
-* link:Http://www.netbeans.org/books/rcp.html[Rich Client Programming ]
-* link:Http://platform.netbeans.org[NetBeans Platform ]
+* link:Http://www.netbeans.org/books/rcp.html.asciidoc[Rich Client Programming ]
+* link:Http://platform.netbeans.org.asciidoc[NetBeans Platform ]
 
 === Slides from the Training on the First Day
 
@@ -48,9 +53,9 @@ link:http://edu.netbeans.org/courses/nbplatform-certified-training/[our main web
 
 === Slides from the Training on the Second Day
 
-* link:NbpLoaders.odp[Presentation 1: NetBeans ~ OS/2 ] (link:http://wiki.netbeans.org/wiki/attach/NetBeansCertifiedEngineerCourse/nbp-loaders_NetBeansCertifiedEngineerCourse.pdf[ PDF Version])
+* link:NbpLoaders.odp.asciidoc[Presentation 1: NetBeans ~ OS/2 ] (link:http://wiki.netbeans.org/wiki/attach/NetBeansCertifiedEngineerCourse/nbp-loaders_NetBeansCertifiedEngineerCourse.pdf[ PDF Version])
 * link:http://wiki.netbeans.org/wiki/attach/NetBeansCertifiedEngineerCourse/window-system_NetBeansCertifiedEngineerCourse.odp[ Presentation 2: An Introduction to the Window System] (link:http://wiki.netbeans.org/wiki/attach/NetBeansCertifiedEngineerCourse/window-system_NetBeansCertifiedEngineerCourse.pdf[ PDF Version])
-* link:NbpContribute.odp[Presentation 3: Contributing to Open Source Projects ] (link:http://wiki.netbeans.org/wiki/attach/NetBeansCertifiedEngineerCourse/nbp-contribute_NetBeansCertifiedEngineerCourse.pdf[ PDF Version])
+* link:NbpContribute.odp.asciidoc[Presentation 3: Contributing to Open Source Projects ] (link:http://wiki.netbeans.org/wiki/attach/NetBeansCertifiedEngineerCourse/nbp-contribute_NetBeansCertifiedEngineerCourse.pdf[ PDF Version])
 * link:http://wiki.netbeans.org/wiki/attach/NetBeansCertifiedEngineerCourse/ideas-for-modules_NetBeansCertifiedEngineerCourse.odp[ Presentation 4: Ideas for Modules] (link:http://wiki.netbeans.org/wiki/attach/NetBeansCertifiedEngineerCourse/ideas-for-modules_NetBeansCertifiedEngineerCourse.pdf[ PDF Version])
 
 === Apache Migration Information
@@ -63,4 +68,4 @@ that was last modified by NetBeans user Geertjan
 on 2010-06-14T08:52:40Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

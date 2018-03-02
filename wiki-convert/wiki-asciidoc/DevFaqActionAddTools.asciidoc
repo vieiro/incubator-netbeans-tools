@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqActionAddTools
+:description: Apache NetBeans wiki DevFaqActionAddTools
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I add an action to the tools menu?
 
@@ -43,4 +48,4 @@ that was last modified by NetBeans user Markiewb
 on 2015-03-08T18:19:45Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqActionsAddAtRuntime
+:description: Apache NetBeans wiki DevFaqActionsAddAtRuntime
+:toc: left
+:toc-title:
+:syntax: true
 
 == How do I add an action (incl. shortcut) at runtime?
 
@@ -148,4 +153,4 @@ that was last modified by NetBeans user Markiewb
 on 2016-03-13T14:03:58Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

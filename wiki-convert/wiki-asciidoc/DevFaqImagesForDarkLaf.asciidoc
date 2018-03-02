@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqImagesForDarkLaf
+:description: Apache NetBeans wiki DevFaqImagesForDarkLaf
+:toc: left
+:toc-title:
+:syntax: true
 
 = How to provide non-inverted images for dark LookAndFeels like DarkMetal/Darcula?
 
@@ -128,4 +133,4 @@ that was last modified by NetBeans user Markiewb
 on 2016-12-19T22:06:17Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

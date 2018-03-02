@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqAddActionToMembersOrHierarchyView
+:description: Apache NetBeans wiki DevFaqAddActionToMembersOrHierarchyView
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I add an action to the context menu of the members or hierarchy view?
 
@@ -149,4 +154,4 @@ that was last modified by NetBeans user Markiewb
 on 2013-01-06T22:53:28Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

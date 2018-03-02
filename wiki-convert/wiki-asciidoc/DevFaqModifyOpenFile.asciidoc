@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqModifyOpenFile
+:description: Apache NetBeans wiki DevFaqModifyOpenFile
+:toc: left
+:toc-title:
+:syntax: true
 
 === Is it safe to programmatically modify a file which is open in the editor?
 
@@ -44,4 +49,4 @@ that was last modified by NetBeans user Vstejskal
 on 2010-06-16T13:28:10Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,16 +21,21 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqModulesLayerFile
+:description: Apache NetBeans wiki DevFaqModulesLayerFile
+:toc: left
+:toc-title:
+:syntax: true
 
 === What is a layer file, or "module layer"?
 
-Layer files are small XML files provided by modules, which define a virtual filesystem (link:DevFaqFileSystem[DevFaqFileSystem]).
-The layer file defines folders and files that will be merged into the system filesystem (link:DevFaqSystemFilesystem[DevFaqSystemFilesystem])
+Layer files are small XML files provided by modules, which define a virtual filesystem (link:DevFaqFileSystem.asciidoc[DevFaqFileSystem]).
+The layer file defines folders and files that will be merged into the system filesystem (link:DevFaqSystemFilesystem.asciidoc[DevFaqSystemFilesystem])
 that makes up the runtime configuration information NetBeans and its modules use.
 
 Layer files help to make it possible for modules to be dynamically installed.
-If you've read about `FileObject`s (link:DevFaqFileObject[DevFaqFileObject])
-and `FileSystem`s (link:DevFaqFileSystem[DevFaqFileSystem]),
+If you've read about `FileObject`s (link:DevFaqFileObject.asciidoc[DevFaqFileObject])
+and `FileSystem`s (link:DevFaqFileSystem.asciidoc[DevFaqFileSystem]),
 you know that you can listen for changes in folders and files in a filesystem.
 That's exactly what the components of NetBeans whose content is composed from folders in the system filesystem do.
 So if a module is added at runtime, the system filesystem fires changes;
@@ -64,4 +69,4 @@ that was last modified by NetBeans user Jglick
 on 2010-06-14T22:16:01Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

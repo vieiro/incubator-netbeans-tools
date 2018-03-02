@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqWindowsComponentHowTo
+:description: Apache NetBeans wiki DevFaqWindowsComponentHowTo
+:toc: left
+:toc-title:
+:syntax: true
 
 === I want to show my own component(s) in the main window - where do I start?
 
@@ -28,8 +33,8 @@ Use File -> New File wizard, Module Development category and Window Component it
 
 ==== But what is behind the scenes, created by wizard?
 
-* Subclass of link:DevFaqWindowsTopComponent[TopComponent] is created. Design it just as you would a JPanel.
-* Simple subclass of `javax.swing.AbstractAction` in created and link:DevFaqActionAddMenuBar[added to main menu]. It's implemented it to open your component like follows:
+* Subclass of link:DevFaqWindowsTopComponent.asciidoc[TopComponent] is created. Design it just as you would a JPanel.
+* Simple subclass of `javax.swing.AbstractAction` in created and link:DevFaqActionAddMenuBar.asciidoc[added to main menu]. It's implemented it to open your component like follows:
 [source,java]
 ----
 
@@ -44,7 +49,7 @@ public class MyAction extends AbstractAction {
 }
 ----
 
-* Declarative XML descriptions of component are created following link:DevFaqWindowsWstcrefAndFriends[declarative XML API] principles.
+* Declarative XML descriptions of component are created following link:DevFaqWindowsWstcrefAndFriends.asciidoc[declarative XML API] principles.
 
 TopComponents are part of the link:http://bits.netbeans.org/dev/javadoc/org-openide-windows/org/openide/windows/doc-files/api.html[Windows API].
 
@@ -58,4 +63,4 @@ that was last modified by NetBeans user Marciowb
 on 2011-07-28T10:00:41Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

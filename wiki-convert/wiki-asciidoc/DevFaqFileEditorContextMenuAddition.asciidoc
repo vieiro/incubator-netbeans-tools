@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqFileEditorContextMenuAddition
+:description: Apache NetBeans wiki DevFaqFileEditorContextMenuAddition
+:toc: left
+:toc-title:
+:syntax: true
 
 === Can I add a menu item to the context menu of the Java source editor?
 
@@ -32,7 +37,7 @@ In NetBeans 4.1 you just need to insert an action (e.g. `*.instance` ) into the 
 
 Applies to: all versions of NetBeans
 
-Related: link:DevFaqFileContextMenuAddition[DevFaqFileContextMenuAddition]
+Related: link:DevFaqFileContextMenuAddition.asciidoc[DevFaqFileContextMenuAddition]
 
 === Apache Migration Information
 
@@ -44,4 +49,4 @@ that was last modified by NetBeans user Vstejskal
 on 2010-06-16T13:36:58Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

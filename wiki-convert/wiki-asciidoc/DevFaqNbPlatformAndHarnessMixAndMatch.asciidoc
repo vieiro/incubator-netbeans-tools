@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqNbPlatformAndHarnessMixAndMatch
+:description: Apache NetBeans wiki DevFaqNbPlatformAndHarnessMixAndMatch
+:toc: left
+:toc-title:
+:syntax: true
 
 === I want to use one version of the Platform with another version of the build harness. Can I?
 
@@ -53,4 +58,4 @@ that was last modified by NetBeans user Jglick
 on 2010-06-14T20:15:10Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

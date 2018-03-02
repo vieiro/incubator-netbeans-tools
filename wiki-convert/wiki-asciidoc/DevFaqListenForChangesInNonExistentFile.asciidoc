@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqListenForChangesInNonExistentFile
+:description: Apache NetBeans wiki DevFaqListenForChangesInNonExistentFile
+:toc: left
+:toc-title:
+:syntax: true
 
 === I want to listen for changes in a file that may not exist or may be deleted and re-created
 
@@ -38,4 +43,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-24T20:01:10Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

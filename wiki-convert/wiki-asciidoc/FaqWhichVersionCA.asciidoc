@@ -21,12 +21,17 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki FaqWhichVersionCA
+:description: Apache NetBeans wiki FaqWhichVersionCA
+:toc: left
+:toc-title:
+:syntax: true
 
 === I already signed a recent version of the CA, do I need to sign the newest version?
 
 We encourage all contributors to sign the new Oracle Contributor Agreement 1.7.1 which contains the latest language updates. However signing it again is not absolutely required, if you already signed the previous version.
 
-link:FaqHowDoIFileACA[How do I file a Contributor Agreement?]
+link:FaqHowDoIFileACA.asciidoc[How do I file a Contributor Agreement?]
 
 === Apache Migration Information
 
@@ -38,4 +43,4 @@ that was last modified by NetBeans user Skygo
 on 2013-12-17T22:07:43Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki BrandingAboutDialog
+:description: Apache NetBeans wiki BrandingAboutDialog
+:toc: left
+:toc-title:
+:syntax: true
 
 === Branding About Dialog
 
@@ -53,4 +58,4 @@ that was last modified by NetBeans user Tomwheeler
 on 2011-05-20T14:52:03Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

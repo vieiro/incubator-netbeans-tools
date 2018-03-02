@@ -21,10 +21,15 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki BrandingUpdaterSplash
+:description: Apache NetBeans wiki BrandingUpdaterSplash
+:toc: left
+:toc-title:
+:syntax: true
 
 == Branding Updater Splash
 
-Contributed By; link:TonnyKohar[Tonny Kohar]
+Contributed By; link:TonnyKohar.asciidoc[Tonny Kohar]
 
 
 Adapted from: link:http://blogs.kiyut.com/tonny/2007/11/19/netbeans-platform-branding-updaterjar/[http://blogs.kiyut.com/tonny/2007/11/19/netbeans-platform-branding-updaterjar/]
@@ -89,4 +94,4 @@ that was last modified by NetBeans user Mithun gonsalvez
 on 2011-08-19T06:41:46Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

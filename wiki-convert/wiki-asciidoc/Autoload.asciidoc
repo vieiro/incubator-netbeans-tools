@@ -21,12 +21,17 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki Autoload
+:description: Apache NetBeans wiki Autoload
+:toc: left
+:toc-title:
+:syntax: true
 
-The link:autoload[autoload] in the link:NetBeans[NetBeans] module system world means that certain module is turned on when _needed_. In contrast to regular modules which require some manual action (user locating a module and activating it) to turn them on, the link:autoload[autoload] modules are opaque for users and managed solely by the infrastructure. As soon as there is some module needing (by dependency or require/needs token) an link:autoload[autoload] module, the infrastructure enables it.
+The link:autoload.asciidoc[autoload] in the link:NetBeans.asciidoc[NetBeans] module system world means that certain module is turned on when _needed_. In contrast to regular modules which require some manual action (user locating a module and activating it) to turn them on, the link:autoload.asciidoc[autoload] modules are opaque for users and managed solely by the infrastructure. As soon as there is some module needing (by dependency or require/needs token) an link:autoload.asciidoc[autoload] module, the infrastructure enables it.
 
-In the link:Netigso[OSGi] mode, the meaning of link:autoload[autoload] remains as close as the original meaning. The bundle JAR is registered to the underlaying link:OSGi[OSGi] framework, but it is not _started_ until there is some NetBeans module which would depend on the bundle. If there is no such link:NetBeans[NetBeans] module, the link:OSGi[OSGi] bundle remains in _installed_ state (or _resolved_?).
+In the link:Netigso.asciidoc[OSGi] mode, the meaning of link:autoload.asciidoc[autoload] remains as close as the original meaning. The bundle JAR is registered to the underlaying link:OSGi.asciidoc[OSGi] framework, but it is not _started_ until there is some NetBeans module which would depend on the bundle. If there is no such link:NetBeans.asciidoc[NetBeans] module, the link:OSGi.asciidoc[OSGi] bundle remains in _installed_ state (or _resolved_?).
 
-The link:autoload[autoload] mode is most suitable for link:OSGi[OSGi] bundles which shall be left in the full control of the link:OSGi[OSGi] container. For example there can be other link:OSGi[OSGi] bundles which may later _start_ such bundles. Such enablement is outside of control of the link:NetBeans[NetBeans] module system and is temporary (on subsequent launch of the system the module remains link:autoload[autoload]).
+The link:autoload.asciidoc[autoload] mode is most suitable for link:OSGi.asciidoc[OSGi] bundles which shall be left in the full control of the link:OSGi.asciidoc[OSGi] container. For example there can be other link:OSGi.asciidoc[OSGi] bundles which may later _start_ such bundles. Such enablement is outside of control of the link:NetBeans.asciidoc[NetBeans] module system and is temporary (on subsequent launch of the system the module remains link:autoload.asciidoc[autoload]).
 
 === Apache Migration Information
 
@@ -38,4 +43,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-16T09:32:24Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

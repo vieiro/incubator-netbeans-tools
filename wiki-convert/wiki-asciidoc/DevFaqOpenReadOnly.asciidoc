@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqOpenReadOnly
+:description: Apache NetBeans wiki DevFaqOpenReadOnly
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I open a file in the editor in read-only mode?
 
@@ -80,4 +85,4 @@ that was last modified by NetBeans user Vstejskal
 on 2010-06-16T13:28:46Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

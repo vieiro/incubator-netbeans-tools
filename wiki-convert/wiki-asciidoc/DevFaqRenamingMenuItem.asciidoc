@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqRenamingMenuItem
+:description: Apache NetBeans wiki DevFaqRenamingMenuItem
+:toc: left
+:toc-title:
+:syntax: true
 
 === Some module in the IDE etc. already has a menu item I can use. I just want to rename it. Can I?
 
@@ -50,4 +55,4 @@ that was last modified by NetBeans user Jglick
 on 2011-12-14T00:19:11Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

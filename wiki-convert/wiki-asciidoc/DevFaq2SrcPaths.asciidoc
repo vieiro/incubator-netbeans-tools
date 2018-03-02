@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaq2SrcPaths
+:description: Apache NetBeans wiki DevFaq2SrcPaths
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I have two source directories within one module?
 
@@ -47,7 +52,7 @@ If you define properties like a special classpath in `project.properties`,
 you can use the values in both `build.xml` and `project.xml` to minimize duplication.
 
 You can also create a plain Java SE project in a subdirectory of your module
-and bundle its JAR. link:DevFaqWrapperModules[DevFaqWrapperModules] describes a related technique.
+and bundle its JAR. link:DevFaqWrapperModules.asciidoc[DevFaqWrapperModules] describes a related technique.
 
 Read the `harness/README` file under your Netbeans installation directory
 for information about issues like this one.
@@ -67,4 +72,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T15:33:06Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

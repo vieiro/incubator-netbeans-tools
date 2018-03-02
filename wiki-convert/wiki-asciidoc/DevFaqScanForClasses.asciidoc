@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqScanForClasses
+:description: Apache NetBeans wiki DevFaqScanForClasses
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I scan a classpath to find all classes of a particular type?
 
@@ -74,4 +79,4 @@ that was last modified by NetBeans user Jlahoda
 on 2011-12-15T08:29:15Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

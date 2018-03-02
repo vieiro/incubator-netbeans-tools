@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqUseSounds
+:description: Apache NetBeans wiki DevFaqUseSounds
+:toc: left
+:toc-title:
+:syntax: true
 
 This is quite straight forward. This is code from a module in SodBeans but its so simple that it is easier just to copy and paste the code.
 
@@ -199,7 +204,7 @@ To use it just place the sound file in the appropriate folder and use:
 SoundPlayer.instance().play("<file name>");
 ----
 
-To make your application talk, see link:DevFaqMakeItTalk[DevFaqMakeItTalk]
+To make your application talk, see link:DevFaqMakeItTalk.asciidoc[DevFaqMakeItTalk]
 
 === Apache Migration Information
 
@@ -211,4 +216,4 @@ that was last modified by NetBeans user Javydreamercsw
 on 2011-09-19T21:46:28Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

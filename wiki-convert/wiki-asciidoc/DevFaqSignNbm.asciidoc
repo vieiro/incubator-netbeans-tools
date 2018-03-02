@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqSignNbm
+:description: Apache NetBeans wiki DevFaqSignNbm
+:toc: left
+:toc-title:
+:syntax: true
 
 1. link:#Can_I_sign_Ant_based_NBMs_I_create.3F[Can I sign Ant based NBMs I create?]
 1. link:#Isn.27t_there_an_easier_way.3F[Isn't there an easier way?]
@@ -250,4 +255,4 @@ that was last modified by NetBeans user Markiewb
 on 2017-06-10T19:35:58Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

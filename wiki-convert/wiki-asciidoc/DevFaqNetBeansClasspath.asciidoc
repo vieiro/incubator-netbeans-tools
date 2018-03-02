@@ -21,13 +21,18 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqNetBeansClasspath
+:description: Apache NetBeans wiki DevFaqNetBeansClasspath
+:toc: left
+:toc-title:
+:syntax: true
 
 === My module uses some libraries. I've tried setting CLASSPATH but it doesn't work. Help!
 
 Setting `$CLASSPATH` or `%CLASSPATH%` on the command line will not affect anything -
 NetBeans uses its own class loader system to find classes from modules.
 
-What you need is for your libraries to _be_ a module; see link:DevFaqWrapperModules[DevFaqWrapperModules].
+What you need is for your libraries to _be_ a module; see link:DevFaqWrapperModules.asciidoc[DevFaqWrapperModules].
 
 <hr/>
 
@@ -43,4 +48,4 @@ that was last modified by NetBeans user Rmichalsky
 on 2009-12-02T13:40:32Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

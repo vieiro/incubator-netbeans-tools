@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki TranslateNetbeansModule
+:description: Apache NetBeans wiki TranslateNetbeansModule
+:toc: left
+:toc-title:
+:syntax: true
 
 == Translate Your NetBeans Module
 
@@ -30,7 +35,7 @@ ABBREVIATIONS USED:
 * l10n = localization
 * t9n = translation
 
-link:{INSERTTableOfContentsWHERETitle=Summary}[{INSERT TableOfContents WHERE title=Summary}]
+link:{INSERTTableOfContentsWHERETitle=Summary}.asciidoc[{INSERT TableOfContents WHERE title=Summary}]
 
 === Why translate my module?
 
@@ -125,4 +130,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-05T17:04:49Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

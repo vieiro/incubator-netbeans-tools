@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqEditorHowToAddDiffView
+:description: Apache NetBeans wiki DevFaqEditorHowToAddDiffView
+:toc: left
+:toc-title:
+:syntax: true
 
 = How to use the diff view in my own application/plugin
 
@@ -240,4 +245,4 @@ that was last modified by NetBeans user Markiewb
 on 2013-01-24T23:28:03Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

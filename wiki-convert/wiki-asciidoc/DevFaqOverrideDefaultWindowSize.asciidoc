@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqOverrideDefaultWindowSize
+:description: Apache NetBeans wiki DevFaqOverrideDefaultWindowSize
+:toc: left
+:toc-title:
+:syntax: true
 
 == How to override the default size of an existing window?
 
@@ -40,4 +45,4 @@ that was last modified by NetBeans user Geertjan
 on 2010-09-14T06:50:23Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

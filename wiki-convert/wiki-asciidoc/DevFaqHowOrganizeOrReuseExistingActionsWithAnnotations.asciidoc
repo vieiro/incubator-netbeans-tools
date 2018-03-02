@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqHowOrganizeOrReuseExistingActionsWithAnnotations
+:description: Apache NetBeans wiki DevFaqHowOrganizeOrReuseExistingActionsWithAnnotations
+:toc: left
+:toc-title:
+:syntax: true
 
 How can we reuse and organise existing actions in our menus or pop menus? Usually you need to know the original location of the action you want to use and then refer to it as shadow in your layer.xml file. This requires you to create such as file what you want less and less.
 
@@ -61,4 +66,4 @@ that was last modified by NetBeans user Jmborer
 on 2014-01-09T14:05:20Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

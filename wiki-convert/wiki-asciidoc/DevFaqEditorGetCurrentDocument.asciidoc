@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqEditorGetCurrentDocument
+:description: Apache NetBeans wiki DevFaqEditorGetCurrentDocument
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I find the currently open document in the selected editor?
 
@@ -41,4 +46,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T15:40:29Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

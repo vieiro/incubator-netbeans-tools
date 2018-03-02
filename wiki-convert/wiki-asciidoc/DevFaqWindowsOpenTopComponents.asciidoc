@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqWindowsOpenTopComponents
+:description: Apache NetBeans wiki DevFaqWindowsOpenTopComponents
+:toc: left
+:toc-title:
+:syntax: true
 
 == Which TopComponents are open?
 
@@ -44,4 +49,4 @@ that was last modified by NetBeans user Skygo
 on 2013-12-17T22:38:32Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

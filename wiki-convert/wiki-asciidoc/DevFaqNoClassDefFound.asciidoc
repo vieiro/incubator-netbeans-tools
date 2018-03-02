@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqNoClassDefFound
+:description: Apache NetBeans wiki DevFaqNoClassDefFound
+:toc: left
+:toc-title:
+:syntax: true
 
 === My module uses some class from NetBeans' APIs. It compiles, but I get a NoClassDefFoundError at runtime. Why?
 
@@ -34,7 +39,7 @@ If the problem is #1, you need to declare a dependency on the module where the c
 
 Setting dependencies is easy - open the *Properties* for your project, and choose the *Libraries* page. (Or just get the context menu for the *Libraries* node under the project in the *Projects* window.)  Click *Add* and a small dialog opens - just type the name of a class you need to use, and it will filter the list to find the module that provides that class - so you don't have to memorize a huge list of mappings from classes to modules.
 
-If it's problem #2, then you are already declaring a dependency, but to get full access to all classes in a module, you need to declare an implementation dependency (link:DevFaqImplementationDependency[DevFaqImplementationDependency]).
+If it's problem #2, then you are already declaring a dependency, but to get full access to all classes in a module, you need to declare an implementation dependency (link:DevFaqImplementationDependency.asciidoc[DevFaqImplementationDependency]).
 Be sure you _really_ need to use the class you're trying to use, in this case - it will make your module hard to upgrade because generally it will need to be paired with the exact version of the other module's JAR that it was built with - if that module is upgraded, your module may end up being disabled.
 
 Also check if class you are trying to use from other module is mark as public to outside modules (right-click on module and select _Properties_, then _API Versioning_ and in _Public Packages_ check whether package of your class is ticked).
@@ -70,4 +75,4 @@ that was last modified by NetBeans user LiborJelinek
 on 2011-08-19T08:08:17Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

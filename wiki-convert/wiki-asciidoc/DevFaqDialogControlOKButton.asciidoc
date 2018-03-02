@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqDialogControlOKButton
+:description: Apache NetBeans wiki DevFaqDialogControlOKButton
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I control when the OK button is enabled?
 
@@ -120,4 +125,4 @@ that was last modified by NetBeans user Darrshan
 on 2010-06-15T05:06:37Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqHowToChangeSettingsFromAnExternalModules
+:description: Apache NetBeans wiki DevFaqHowToChangeSettingsFromAnExternalModules
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do you change the configuration of other modules?
 
@@ -48,4 +53,4 @@ that was last modified by NetBeans user Markiewb
 on 2016-07-01T18:57:31Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

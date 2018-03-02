@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqMIMEResolver
+:description: Apache NetBeans wiki DevFaqMIMEResolver
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I create declarative MIMEResolver and add new file type?
 
@@ -38,7 +43,7 @@ Description of declarative MIME resolve can be found in link:http://bits.netbean
 [source,java]
 ----
 
-  Related: link:DevFaqFileRecognition[DevFaqFileRecognition]
+  Related: link:DevFaqFileRecognition.asciidoc[DevFaqFileRecognition]
 ----
 
 === Apache Migration Information
@@ -51,4 +56,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T15:53:24Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

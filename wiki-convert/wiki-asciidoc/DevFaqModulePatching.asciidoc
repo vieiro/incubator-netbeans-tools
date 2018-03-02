@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqModulePatching
+:description: Apache NetBeans wiki DevFaqModulePatching
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I create a patch for a preexisting NetBeans module?
 
@@ -55,4 +60,4 @@ that was last modified by NetBeans user Jglick
 on 2010-06-14T20:13:42Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqAppLifecycleHooks
+:description: Apache NetBeans wiki DevFaqAppLifecycleHooks
+:toc: left
+:toc-title:
+:syntax: true
 
 ==== What are some of the hooks in the application's lifecycle I can plug into?
 
@@ -28,7 +33,7 @@ One major difference between developing a Platform application and a monolithic 
 
 Although a bit drastic for most cases, you can
 replace the main class used to start NetBeans
-(link:DevFaqPlatformAppAuthStrategies[DevFaqPlatformAppAuthStrategies])
+(link:DevFaqPlatformAppAuthStrategies.asciidoc[DevFaqPlatformAppAuthStrategies])
 with your own class and then delegate back to NetBeans' normal main class.
 This offers you a hook early in the startup sequence without having to modify the launchers or shell scripts.
 
@@ -104,4 +109,4 @@ that was last modified by NetBeans user Javydreamercsw
 on 2012-07-31T13:15:59Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

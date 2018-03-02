@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqOpenProjectProgramatically
+:description: Apache NetBeans wiki DevFaqOpenProjectProgramatically
+:toc: left
+:toc-title:
+:syntax: true
 
 Here's the link:http://wiki.netbeans.org/OpenProjectsProgramaticallyInNetBeansIDE[source] of this FAQ: 
 
@@ -51,4 +56,4 @@ that was last modified by NetBeans user Javydreamercsw
 on 2011-07-28T14:00:45Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

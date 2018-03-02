@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqExtendOptionsSearch
+:description: Apache NetBeans wiki DevFaqExtendOptionsSearch
+:toc: left
+:toc-title:
+:syntax: true
 
 = How can configure my options panel to be found by global quicksearch or options search?
 
@@ -81,4 +86,4 @@ that was last modified by NetBeans user Markiewb
 on 2015-03-04T10:19:38Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

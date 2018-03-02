@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqSuppressEditTTVColumns
+:description: Apache NetBeans wiki DevFaqSuppressEditTTVColumns
+:toc: left
+:toc-title:
+:syntax: true
 
 == How can I add support for a new language via ANTLR?
 
@@ -38,4 +43,4 @@ that was last modified by NetBeans user Beholder
 on 2013-02-11T08:38:54Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

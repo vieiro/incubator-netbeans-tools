@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqOpenFileAtLine
+:description: Apache NetBeans wiki DevFaqOpenFileAtLine
+:toc: left
+:toc-title:
+:syntax: true
 
 === How can I open a particular file at a particular line number and column?
 
@@ -101,4 +106,4 @@ that was last modified by NetBeans user Markiewb
 on 2016-08-28T10:23:11Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

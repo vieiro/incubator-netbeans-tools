@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqOutputWindowExternalProcess
+:description: Apache NetBeans wiki DevFaqOutputWindowExternalProcess
+:toc: left
+:toc-title:
+:syntax: true
 
 == How do I route the output from an external process to the output window?
 
@@ -68,7 +73,7 @@ Future<Integer> exitCode = exeService.run();
 (you can use the returned Future to wait for the process to exit and get its exit code - just don't do that in the Swing event thread).
 
 Applies to:  NetBeans 6.8 and up.
-link:DevFaqOutputWindowExternalProcessNb67[How to do this in NetBeans 6.7 and older]
+link:DevFaqOutputWindowExternalProcessNb67.asciidoc[How to do this in NetBeans 6.7 and older]
 
 == What about processes using the System.out/System.err?
 
@@ -122,4 +127,4 @@ that was last modified by NetBeans user Javydreamercsw
 on 2012-07-17T21:47:15Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

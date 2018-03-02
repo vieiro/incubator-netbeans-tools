@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqCheckableActionPreferenceOption
+:description: Apache NetBeans wiki DevFaqCheckableActionPreferenceOption
+:toc: left
+:toc-title:
+:syntax: true
 
 = How do I make a checkable action that represents a preference option?
 
@@ -58,4 +63,4 @@ that was last modified by NetBeans user Markiewb
 on 2013-05-03T21:46:57Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

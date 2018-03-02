@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqPropertySheetTabs
+:description: Apache NetBeans wiki DevFaqPropertySheetTabs
+:toc: left
+:toc-title:
+:syntax: true
 
 == How do I display different groups of properties on buttons in the property sheet the way Matisse does?
 
@@ -48,4 +53,4 @@ that was last modified by NetBeans user Admin
 on 2009-11-06T15:58:53Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

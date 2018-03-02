@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqNodesChildFactory
+:description: Apache NetBeans wiki DevFaqNodesChildFactory
+:toc: left
+:toc-title:
+:syntax: true
 
 === Computing Node Children Asynchronously
 
@@ -54,4 +59,4 @@ that was last modified by NetBeans user Jtulach
 on 2010-07-24T18:45:00Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

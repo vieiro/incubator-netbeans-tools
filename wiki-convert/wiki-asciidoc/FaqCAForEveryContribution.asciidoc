@@ -21,10 +21,15 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki FaqCAForEveryContribution
+:description: Apache NetBeans wiki FaqCAForEveryContribution
+:toc: left
+:toc-title:
+:syntax: true
 
 === Do I have to file a CA for every contribution?
 
-No, once you have a CA on file it will cover all your contributions to netbeans.org, and other projects owned or managed by Oracle, going forward. For more information, read link:FaqOtherSunCA[another FAQ].
+No, once you have a CA on file it will cover all your contributions to netbeans.org, and other projects owned or managed by Oracle, going forward. For more information, read link:FaqOtherSunCA.asciidoc[another FAQ].
 
 === Apache Migration Information
 
@@ -36,4 +41,4 @@ that was last modified by NetBeans user Skygo
 on 2013-12-16T13:22:45Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

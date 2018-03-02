@@ -99,9 +99,9 @@ public class CustomAsciiDocDocumentBuilder extends AsciiDocDocumentBuilder {
             CustomAsciiDocDocumentBuilder.this.emitContent("link:"); //$NON-NLS-1$
             String href = attributes.getHref();
             if (href.startsWith("/wiki/")) { // NOI18N
-                href = href.substring("/wiki/".length()); // NOI18N
+                href = href.substring("/wiki/".length()) + ".asciidoc"; // NOI18N
                 if (content.startsWith("/wiki/")) {
-                    content = content.substring("/wiki/".length());
+                    content = content.substring("/wiki/".length()) + ".asciidoc";
                 }
             }
 //            if (href.startsWith("http://wiki.netbeans.org/") ) { // NOI18N
@@ -145,9 +145,16 @@ public class CustomAsciiDocDocumentBuilder extends AsciiDocDocumentBuilder {
             CustomAsciiDocDocumentBuilder.this.emitContent("----\n");
         }
     }
+    
+    private int level_offset = 0;
 
     public CustomAsciiDocDocumentBuilder(Writer out) {
         super(out);
+    }
+    
+    public CustomAsciiDocDocumentBuilder(int levelOffset, Writer out) {
+        this(out);
+        level_offset = levelOffset;
     }
 
     private static final String[][] MARKUP_FIXES = {
@@ -167,6 +174,11 @@ public class CustomAsciiDocDocumentBuilder extends AsciiDocDocumentBuilder {
             }
         }
         super.emitContent(str);
+    }
+
+    @Override
+    protected Block computeHeading(int level, Attributes attributes) {        
+        return super.computeHeading(level + level_offset, attributes);
     }
 
     @Override

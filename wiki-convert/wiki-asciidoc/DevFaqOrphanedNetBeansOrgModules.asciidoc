@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqOrphanedNetBeansOrgModules
+:description: Apache NetBeans wiki DevFaqOrphanedNetBeansOrgModules
+:toc: left
+:toc-title:
+:syntax: true
 
 === Can I work on just one or two modules from the NetBeans source base by themselves?
 
@@ -91,4 +96,4 @@ that was last modified by NetBeans user Jglick
 on 2010-06-14T20:10:34Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

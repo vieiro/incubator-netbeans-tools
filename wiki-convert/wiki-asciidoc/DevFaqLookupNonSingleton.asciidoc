@@ -21,10 +21,15 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqLookupNonSingleton
+:description: Apache NetBeans wiki DevFaqLookupNonSingleton
+:toc: left
+:toc-title:
+:syntax: true
 
 === If there is more than one of a type in a Lookup, which instance will I get?
 
-As noted in link:DevFaqLookup[the overview of Lookup], a Lookup can contain more than one instance of a given class;  Lookup is often used for singletons, but not exclusively for singletons.  For example, in the link:http://www.netbeans.org/download/dev/javadoc/ProjectAPI/overview-summary.html[Projects API], there is a class called link:http://www.netbeans.org/download/dev/javadoc/ProjectAPI/org/netbeans/spi/project/ProjectFactory.html[ProjectFactory] that recognizes different types of user projects on disk;  each module that provides a project type registers another factory in the system.
+As noted in link:DevFaqLookup.asciidoc[the overview of Lookup], a Lookup can contain more than one instance of a given class;  Lookup is often used for singletons, but not exclusively for singletons.  For example, in the link:http://www.netbeans.org/download/dev/javadoc/ProjectAPI/overview-summary.html[Projects API], there is a class called link:http://www.netbeans.org/download/dev/javadoc/ProjectAPI/org/netbeans/spi/project/ProjectFactory.html[ProjectFactory] that recognizes different types of user projects on disk;  each module that provides a project type registers another factory in the system.
 
 So the inevitable question is, if there are two instances of X in a Lookup, and I call `lookup(X.class)`, which one do I get?
 
@@ -44,4 +49,4 @@ that was last modified by NetBeans user Tboudreau
 on 2010-02-19T00:39:45Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

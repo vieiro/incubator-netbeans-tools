@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqTweakRegistryByCodeDeduction
+:description: Apache NetBeans wiki DevFaqTweakRegistryByCodeDeduction
+:toc: left
+:toc-title:
+:syntax: true
 
 === How do I remove a menu item or toolbar button from an application's GUI?
 
@@ -101,4 +106,4 @@ that was last modified by NetBeans user Geertjan
 on 2012-01-23T21:45:24Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.

@@ -21,6 +21,11 @@
 :jbake-type: wiki
 :jbake-tags: wiki, devfaq, needsreview
 :jbake-status: published
+:keywords: Apache NetBeans wiki DevFaqJavaHelpForNodeProperties
+:description: Apache NetBeans wiki DevFaqJavaHelpForNodeProperties
+:toc: left
+:toc-title:
+:syntax: true
 
 == How Can I Hook Up JavaHelp to Property Sets or Individual Properties?
 
@@ -76,4 +81,4 @@ that was last modified by NetBeans user Jhavlin
 on 2011-12-13T16:35:20Z.
 
 
-*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-01-26, and needs to be reviewed.
+*NOTE:* This document was automatically converted to the AsciiDoc format on 2018-02-07, and needs to be reviewed.
