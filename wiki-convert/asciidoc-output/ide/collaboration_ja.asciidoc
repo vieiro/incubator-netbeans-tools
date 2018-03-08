@@ -30,11 +30,11 @@
 
 == チーム・コラボレーション
 
-link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../images_www/v7/3/features/ide-collaboration-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/ide-collaboration-full.png[image:ide-collaboration-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 問題トラックと継続的統合により、チームの他のメンバーと連携できます。
 
-    [overview-left]#link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../images_www/v7/3/features/ide-collaboration-tracker-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/ide-collaboration-full.png[image:ide-collaboration-tracker-cut.png[]]#
 
 === 問題トラック
 
@@ -42,7 +42,7 @@ link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../image
 
 バージョン管理システムと問題トラッカがユーザーにわかりやすく統合されているため、コード変更のコミットや関連付けられた問題のステータスの更新を一度に行うことができます。新しい問題の作成と既存の問題の編集が行えます。また、問題のソートおよびフィルタ、問合せの保存、パッチの作成、添付の追加などがすべてIDEから実行できます。
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:../../images_www/v7/3/features/ide-collaboration-hudson-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:ide-collaboration-hudson-cut.png[]]#
 
 === 継続的統合
 
@@ -61,4 +61,4 @@ link:http://wiki.netbeans.org/HudsonInNetBeans[NetBeans IDEでのHudson]
 * 最新の安定版リリースの主な機能のリストについては、link:../../community/releases/81/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-se.html[「一般的なJava開発の学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

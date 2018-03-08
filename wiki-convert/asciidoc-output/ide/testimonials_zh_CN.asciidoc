@@ -156,4 +156,4 @@
 祝贺为此发行版赢得 Jolt 大奖而付出努力的所有 NetBeans 开发人员和 NetBeans 团队。作为软件开发人员，我深知获此殊荣所需要付出的艰辛以及做出的努力和奉献。各位的工作都非常精彩！`
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

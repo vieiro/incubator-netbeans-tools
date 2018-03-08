@@ -28,7 +28,7 @@
 
 == NetBeans IDE UML Features
 
-link:../../images_www/v6/5/screenshots/uml.png[image:../../images_www/v6/5/screenshots/uml-cut.png[]] 
+link:../../images_www/v6/5/screenshots/uml.png[image:uml-cut.png[]] 
 link:../../images_www/v6/5/screenshots/uml.png[[font-11]#Click image for fullscreen preview#]
 
 *The UML plugin for the NetBeans IDE is available for version 6.7 and earlier releases.*
@@ -42,9 +42,9 @@ The link:http://www.visual-paradigm.com/tutorials/modelinginnetbeans.jsp[Visual 
 * Team collaboration capabilities
 * Code generation features for Java, C++, PHP and more
 
-image:../../images_www/v6/arrow-button.gif[] Learn more at link:http://www.visual-paradigm.com[visual-paradigm.com].
+image:arrow-button.gif[] Learn more at link:http://www.visual-paradigm.com[visual-paradigm.com].
 
- |image:../../images_www/v6/9/features/uml-visual-paradigm.png[] 
+ |image:uml-visual-paradigm.png[] 
 
 |=== JDeveloper
 
@@ -53,10 +53,10 @@ Looking for a full featured, free UML modeling environment? JDeveloper provides 
 * UML diagrams like Use Case, Class, Activity and Sequence Diagrams
 * Domain Specific Modelers like JSF Flow diagrams, EJB Diagrams, Database Modeler and Schema Editor.
 
-image:../../images_www/v6/arrow-button.gif[] Learn more at link:http://www.oracle.com/technology/products/jdev/htdocs/netbeans/uml.html[oracle.com].
+image:arrow-button.gif[] Learn more at link:http://www.oracle.com/technology/products/jdev/htdocs/netbeans/uml.html[oracle.com].
 
- |image:../../images_www/v6/9/features/uml-jdeveloper.png[]
+ |image:uml-jdeveloper.png[]
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

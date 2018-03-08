@@ -32,20 +32,20 @@
 
 测试应用程序时，IDE 将提供工具以供使用 PHPUnit，生成代码覆盖率报告，等等。
 
-[overview-right]#image:/images_www/v7/3/features/php/phpunit.png[]#
+[overview-right]#image:phpunit.png[]#
 
 === PHP 单元测试
 
 为文件或文件夹创建 link:http://www.phpunit.de/manual/current/en/[PHPUnit] 测试和 Selenium 测试用例，运行测试，并查看测试结果。您可以定义测试组以便有选择地对其运行单元测试。在 PHPUnit 属性中，您可以定义定制 XML 配置文件、提供命令行选项的引导文件或定制测试套件或项目特定的 PHPUnit 脚本。您可以使用 link:http://www.phpunit.de/manual/current/en/skeleton-generator.html[PHPUnit 框架生成器]让 IDE 生成框架代码。使用快捷键可以在测试与测试类之间快速导航。
 link:http://netbeans.org/kb/docs/php/phpunit.html[使用 PHPUnit 和 Selenium 进行测试]
 
-  [overview-left]#image:/images_www/v7/3/features/php/php-code-coverage.png[]#
+  [overview-left]#image:php-code-coverage.png[]#
 
 === 代码覆盖率
 
 为 PHP 文件生成代码覆盖率报告以查看测试用例覆盖代码的程度：覆盖的语句在编辑器中标记为绿色，测试期间未执行的语句标记为红色。评估基于可执行的语句数，包含空格和注释的行不影响结果。
 
-  [overview-right]#image:/images_www/v7/3/features/ide-collaboration-hudson-cut.png[]#
+  [overview-right]#image:ide-collaboration-hudson-cut.png[]#
 
 === 持续集成支持
 
@@ -58,4 +58,4 @@ NetBeans IDE 支持持续集成。持续集成是一种涉及版本控制和专�
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新稳定发行版中的特定功能的列表。
 * link:../../kb/trails/php.html[PHP 和 HTML5 学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

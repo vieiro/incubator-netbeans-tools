@@ -30,11 +30,11 @@
 
 == Bancos de Dados
 
-link:../../images_www/v7/3/features/ide-database-full.png[image:../../images_www/v7/3/features/ide-database-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/3/features/ide-database-full.png[image:ide-database-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 O NetBeans IDE oferece drivers para os servidores de banco de dados Java DB, MySQL, Oracle e PostgreSQL, tornando fácil a conexão com esses bancos de dados. Você também pode registrar qualquer outro driver JDBC no IDE, de modo que possa explorar qualquer banco de dados que ofereça um driver JDBC.
 
-    [overview-right]#image:../../images_www/v7/3/features/ide-database-explorer-cut.png[]#
+    [overview-right]#image:ide-database-explorer-cut.png[]#
 
 === Database Explorer
 
@@ -44,7 +44,7 @@ Você pode criar, modificar e deletar tabelas, colunas e índices em seu bancos 
 
 link:../../kb/docs/ide/oracle-db.html[Conectando o Oracle Database]
 link:../../kb/docs/ide/java-db.html[Conectando o JavaDB Database]
-link:../../kb/docs/ide/mysql.html[Conectando o MySQL Database]     [overview-left]#link:../../images_www/v7/3/features/ide-database-full.png[image:../../images_www/v7/3/features/ide-database-sql.png[]]#
+link:../../kb/docs/ide/mysql.html[Conectando o MySQL Database]     [overview-left]#link:../../images_www/v7/3/features/ide-database-full.png[image:ide-database-sql.png[]]#
 
 === Editor SQL
 
@@ -54,7 +54,7 @@ O editor tem funcionalidades avançadas, como recurso de autocompletar de códig
 
 O editor é personalizável e você pode estendê-lo com novas funcionalidades por meio de plug-ins.
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === Geração de Cliente Baseada em Assistente
 
@@ -71,4 +71,4 @@ Utilize as paletas personalizadas de componente JSF e HTML para arrastar e solta
 * link:../../community/releases/81/index.html[Página da Release NetBeans IDE 8.1] para obter uma lista de funcionalidades realçadas na última versão estável.
 * link:../../kb/trails/java-se.html[Trilha de Aprendizado em Desenvolvimento Geral de Java] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

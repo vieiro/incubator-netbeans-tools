@@ -30,11 +30,11 @@
 
 == Java
 
-link:../../images_www/v7/3/features/ide-management-main-full.png[image:../../images_www/v7/3/features/ide-management-main-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/ide-management-main-full.png[image:ide-management-main-cut.png[][font-11]#单击图像查看全屏预览#]
 
 NetBeans IDE 为 Java 开发者提供了创建专业的桌面、Mobile 和企业应用程序所需的全部工具。
 
-    [overview-left]#link:../../images_www/v7/3/features/java-editor-full.png[image:../../images_www/v7/3/features/java-editor-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/java-editor-full.png[image:java-editor-cut.png[]]#
 
 === 创建、编辑和重构
 
@@ -44,7 +44,7 @@ IDE 提供了可用于创建 Java EE、Java SE 和 Java ME 应用程序的向导
 
 link:editor.html[在 NetBeans IDE 中编辑和重构]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut2.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut2.png[]]#
 
 === 构建
 
@@ -56,7 +56,7 @@ IDE 包含 Maven 资源库浏览器以及用来分析 Maven 依赖关系的图�
 
 link:build-tools.html[NetBeans IDE 中的构建工具]
 
-     [overview-left]#link:../../images_www/v7/3/features/debugger.png[image:../../images_www/v7/3/features/debugger-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/debugger.png[image:debugger-cut.png[]]#
 
 === 调试和性能分析
 
@@ -64,7 +64,7 @@ link:build-tools.html[NetBeans IDE 中的构建工具]
 
 link:debugger.html[NetBeans IDE 中的调试器和分析器]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:../../images_www/v7/3/features/ide-testing-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:ide-testing-cut.png[]]#
 
 === 测试和代码分析
 
@@ -79,4 +79,4 @@ link:testing.html[NetBeans IDE 中的测试和代码分析]
 * link:/community/releases/74/index.html[NetBeans IDE 7.4 发行版页]，提供最新稳定发行版中的特定功能的列表。
 * link:../../kb/trails/java-se.html[常规 Java 开发学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

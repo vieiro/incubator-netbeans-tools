@@ -28,14 +28,14 @@
 
 == C 和 C++ 开发
 
-link:../../images_www/v7/screenshots/cnd.png[image:../../images_www/v7/screenshots/cnd-cut.png[]] 
+link:../../images_www/v7/screenshots/cnd.png[image:cnd-cut.png[]] 
 link:../../images_www/v7/1/screenshots/cnd.png[[font-11]#单击图像查看全屏预览#]
 
 使用 C、C++ 和 Fortran 为各种平台（包括 Windows、Linux、OS X 和 Solaris 操作系统）开发专业的本机应用程序。
 
-[overview-right]#image:../../images_www/v6/5/features/cpp-editor.png[]
+[overview-right]#image:cpp-editor.png[]
 
-image:../../images_www/v7/2/features/cpp-11.png[]#
+image:cpp-11.png[]#
 
 === C 和 C++ 项目
 
@@ -43,9 +43,9 @@ NetBeans IDE 包含支持 C 和 C++ 以及相应项目模板的项目类型。�
 
 现在，用户只需将二进制文件拖放至 IDE，即可从头开始轻松创建新的项目。项目系统会自动查找源文件，将其添加到项目中，配置代码帮助，甚至浏览项目依赖关系。现在，用户还可以更灵活地配置 "Run" 和 "Debug" 命令，从而运行和调试静态库和动态库。
 
-  [overview-left]#image:../../images_www/v6/features/cpp-debugger_200px.jpg[]
+  [overview-left]#image:cpp-debugger_200px.jpg[]
 
-image:../../images_www/screenshots/7.0/cnddebugger-eval-window.png[]#
+image:cnddebugger-eval-window.png[]#
 
 === GNU 调试器集成
 
@@ -55,7 +55,7 @@ C 和 C++ 编辑器完美地集成了多会话 GNU gdb 调试器。您可以设�
 
 通过使用 "Expression evaluation"（表达式求值）窗口，用户可以在当前程序上下文中对任何定制表达式进行求值。
 
-  [overview-right]#image:../../images_www/screenshots/7.0/cnd-template-annotations.png[]#
+  [overview-right]#image:cnd-template-annotations.png[]#
 
 === 代码帮助
 
@@ -148,4 +148,4 @@ NetBeans IDE for C++ 提供了许多专门用于使用 C++11 进行开发的功�
 * link:/community/releases/80/index.html[NetBeans IDE 8.1 发行版页]，提供最新稳定发行版中的特定功能的列表。
 * link:../../kb/trails/cnd.html[C/C++ 学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

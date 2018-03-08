@@ -30,11 +30,11 @@
 
 == Разработка приложений Java EE и веб-приложений
 
-link:../../images_www/v7/1/screenshots/web-app.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/1/screenshots/web-app.png[image:web-app-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 Создавайте основанные на стандартах веб-приложения и приложения уровня предприятия с возможностью доступа в различных клиентах, например веб-браузерах, мобильных устройствах и пр. Получите непревзойденные универсальные возможности в одном решении. Создавайте приложения на базе Java EE 7, Java EE 6 и Java EE 5 с поддержкой всех совместимых технологий Java EE всего в несколько действий, используя комплексную поддержку технологий разработки HTML5, JavaScript и CSS3, как указано на странице link:../html5/index.html[Поддержка разработки веб-приложений на HTML5].
 
-    [overview-right]#link:../../images_www/v7/3/features/ee-dev.png[image:../../images_www/v7/3/features/ee-dev-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ee-dev.png[image:ee-dev-cut.png[]]#
 
 === Разработка корпоративных приложений
 
@@ -42,7 +42,7 @@ IDE NetBeans обеспечивает поддержку новейших ста
 
 link:java-ee.html[Поддержка Java EE в NetBeans]
 
-     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:../../images_www/v7/3/features/http-monitor-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:http-monitor-cut.png[]]#
 
 === Развертывание, отладка, мониторинг и профилирование
 
@@ -50,7 +50,7 @@ link:java-ee.html[Поддержка Java EE в NetBeans]
 
 Кроме того, можно размещать точки останова в файлах Java или JSF и выполнять отладку или профилирование приложения при помощи средства профилирования NetBeans. Предусмотрен также монитор на стороне HTTP-сервера, который позволяет диагностировать ошибки потока данных из JSF и проблемы при выполнении сервлетов на веб-сервере.
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === Разработка веб-служб
 
@@ -60,7 +60,7 @@ IDE NetBeans поддерживает стандарты веб-служб из 
 
 link:web-services.html[Поддержка веб-сервисов в NetBeans]
 
-     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:../../images_www/v7/3/features/jsf-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:jsf-dev-cut.png[]]#
 
 === Разработка веб-приложений
 
@@ -85,21 +85,21 @@ link:../../kb/docs/web/framework-adding-support.html[Добавление под
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/spring-completion.png[]#
+|[overview-centre]#image:spring-completion.png[]#
 Выберите платформу Spring в мастере создания проектов и сразу же начните с работы со схемой приложения Spring Web MVC. Используйте в редакторе функции переработки программного кода (включая файлы настройки XML) и автозавершения кода.
 
 link:../../kb/docs/web/quickstart-webapps-spring.html[Введение в веб-модель MVC Spring]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/struts.png[]#
+[overview-centre]#image:struts.png[]#
 Выберите платформу Struts для создания гибких веб-приложений на основе стандартных технологий, таких как JSP-страницы, JavaBeans, комплекты ресурсов и XML. Применяйте автозавершение кода для тегов Struts и всплывающих окон документации Struts Javadoc в редакторе.
 
 link:../../kb/docs/web/quickstart-webapps-struts.html[Введение в веб-платформу Struts]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/hibernate-web-apps.png[]#
+[overview-centre]#image:hibernate-web-apps.png[]#
 Библиотеки Hibernate автоматически связываются с приложением при выборе платформы Hibernate в мастере создания проектов. Среда IDE предоставляет мастер для создания файла Hibernate реверсивного проектирования и настройки файлов XML и классов POJO.
 
 link:../../kb/docs/web/hibernate-webapp.html[Использование библиотеки Hibernate в веб-приложении]
@@ -112,4 +112,4 @@ link:../../kb/docs/web/hibernate-webapp.html[Использование библ
 * link:/community/releases/81/index.html[На странице сведений о версии IDE netbeans 8.1] приведен список выделенных функций в последней стабильной версии.
 * link:../../kb/trails/java-ee.html[Учебная карта по Java EE и Java Web] для учебных курсов по началу работы.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

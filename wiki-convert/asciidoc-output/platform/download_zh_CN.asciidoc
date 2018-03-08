@@ -31,22 +31,22 @@
 即可在 10 分钟内开发首个平台应用程序
 
 |===
-|image:/images_www/v6/bullet1.png[] |
+|image:bullet1.png[] |
 
 下载 NetBeans IDE（如果尚未安装）
 
-link:/downloads/[image:/images_www/v6/dl-nb-ide.gif[]]
+link:/downloads/[image:dl-nb-ide.gif[]]
 
 
  
 
-|image:/images_www/v6/bullet2.png[] |
+|image:bullet2.png[] |
 
 安装 IDE 或解压缩档案，提供 NetBeans 平台库。
 
  
 
-|image:/images_www/v6/bullet3.png[] |
+|image:bullet3.png[] |
 
 拥有 NetBeans IDE 后，只需将其启动，选择“文件”|“新建项目”，然后使用“NetBeans 平台应用程序”模板，即可开始创建首个 NetBeans 平台应用程序。
 
@@ -56,4 +56,4 @@ link:/downloads/[image:/images_www/v6/dl-nb-ide.gif[]]
 |===
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

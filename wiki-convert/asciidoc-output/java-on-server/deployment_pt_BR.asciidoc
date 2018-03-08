@@ -30,11 +30,11 @@
 
 == Implantação e Monitoramento da Aplicação
 
-link:../../images_www/v7/3/features/deploy-monitor.png[image:../../images_www/v7/3/features/deploy-monitor-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/3/features/deploy-monitor.png[image:deploy-monitor-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 O NetBeans IDE suporta várias plataformas de implantação com suporte inovador para a versão mais recente do Glassfish. Depois da implantação, você aproveita o suporte para monitorar, criar perfis e testar suas aplicações.
 
-    [overview-right]#link:../../images_www/v7/3/features/deploy-servers.png[image:../../images_www/v7/3/features/deploy-servers-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/deploy-servers.png[image:deploy-servers-cut.png[]]#
 
 === Implantação em Servidores
 
@@ -46,13 +46,13 @@ O IDE reimplanta instantaneamente qualquer aplicação Java EE em execução qua
 
 O link:http://plugins.netbeans.org/plugin/22254/jrebel-netbeans-plugin[plug-in JRebel] também está disponível, permitindo usar o JRebel para ver alterações feitas no código sem a necessidade de reimplantação.
 
-     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:../../images_www/v7/3/features/http-monitor-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:http-monitor-cut.png[]]#
 
 === Monitoramento de HTTP
 
 Além do suporte à link:../java/debugger.html[depuração e criação de perfil], o IDE oferece o Monitor de HTTP do Servidor para ajudar a diagnosticar problemas com fluxo de dados da página do JSP e execução de servlet no servidor Web. O Monitor do Servidor HTTP coleta dados sobre solicitações HTTP processadas pelo mecanismo do servlet. Para cada solicitação HTTP processada, o monitor registra dados sobre a solicitação recebida e os estados de dados mantidos no servidor. Você pode exibir dados, armazenar dados para futuras sessões e repetir e editar solicitações anteriores.
 
-     [overview-right]#link:../../images_www/v7/3/features/javaee-testing-maven.png[image:../../images_www/v7/3/features/javaee-testing-maven-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/javaee-testing-maven.png[image:javaee-testing-maven-cut.png[]]#
 
 === Testes de Aplicações Java EE
 
@@ -75,17 +75,17 @@ link:../../kb/docs/javaee/maven-entapp-testing.html[Testando uma Aplicação Jav
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/open-servlet-cut.png[]#
+|[overview-centre]#image:open-servlet-cut.png[]#
 Quando você executa um arquivo JSP, pode exibir a fonte do servlet convertida no Editor de Código-Fonte, que pode ajudá-lo a depurar problemas no arquivo JSP.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/http-replay-cut.png[]#
+[overview-centre]#image:http-replay-cut.png[]#
 No Monitor do Servidor HTTP, você pode salvar e repetir solicitações HTTP. Quando você repetir uma solicitação, a resposta aparecerá no Web browser. Você também pode editar uma solicitação para ajudá-lo a depurar problemas correspondentes a vários cenários para a solicitação.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/webapp-configuration-cut.png[]#
+[overview-centre]#image:webapp-configuration-cut.png[]#
 O IDE atualiza automaticamente seus descritores de implantação quando você codifica a aplicação Web. Você pode configurar manualmente seus descritores de implantação editando os arquivos do descritor com uma view de documento do XML associado.
 
  
@@ -96,4 +96,4 @@ O IDE atualiza automaticamente seus descritores de implantação quando você co
 * link:/community/releases/81/index.html[Página da Release NetBeans IDE 8.1] para obter uma lista de funcionalidades realçadas na última versão estável.
 * link:../../kb/trails/java-ee.html[Trilha de Aprendizagem do Java EE e Java Web] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

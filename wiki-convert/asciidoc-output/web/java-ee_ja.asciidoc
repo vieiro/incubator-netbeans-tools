@@ -30,11 +30,11 @@
 
 == Java Enterprise Editionのサポート
 
-link:../../images_www/v7/1/screenshots/web-app.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/1/screenshots/web-app.png[image:web-app-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 NetBeans IDEは、Java EEアプリケーション・フレームワークを利用するWebアプリケーションおよびサーバー側アプリケーションの開発に対し、優れたサポートを提供しています。IDEのサポートは、Java EEおよびGlassFishの各チームとの密接な協力のもとで、Java EE仕様との最大限の統合と、できるかぎり容易な使用方法を実現するために開発されました。したがって、Java EEの仕様やフレームワークを扱った経験がない場合に、Java EEプログラミングを短時間で学び、成果を上げるためには、NetBeans IDEを使用するのが最善の方法です。
 
-    [overview-right]#link:../../images_www/v7/3/features/java-ee-6-full.png[image:../../images_www/v7/3/features/java-ee-6-full-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/java-ee-6-full.png[image:java-ee-6-full-cut.png[]]#
 
 === Java Enterprise Edition 6のフル・サポート
 
@@ -45,7 +45,7 @@ IDEで提供されるサポートは、アプリケーションをすばやく�
 link:web-app.html[NetBeansでのWebアプリケーション開発サポート]
 link:../../kb/docs/javaee/javaee-gettingstarted.html[Java EE 6アプリケーションの概要]
 
-     [overview-left]#link:../../images_www/v7/3/features/ejb-dev.png[image:../../images_www/v7/3/features/ejb-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ejb-dev.png[image:ejb-dev-cut.png[]]#
 
 === EJB開発の簡素化
 
@@ -53,7 +53,7 @@ IDEは、Webアプリケーション・プロジェクト内でもEJB 3.1をサ�
 
 link:../../kb/docs/javaee/javaee-entapp-ejb.html[EJB 3.1を使用したエンタープライズ・アプリケーションの作成]
 
-     [overview-right]#link:../../images_www/v7/3/features/cdi-support.png[image:../../images_www/v7/3/features/cdi-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/cdi-support.png[image:cdi-support-cut.png[]]#
 
 === コンテキストと依存性の注入のサポート
 
@@ -80,7 +80,7 @@ link:../../kb/docs/javaee/cdi-intro.html[CDIおよびJSF 2.0の開始]
 
  |
 
-[overview-centre]#image:../../images_www/v7/1/features/javaee-serverdeploy.png[]#
+[overview-centre]#image:javaee-serverdeploy.png[]#
 IDEでは、任意の標準Java EE (Java Enterprise Edition)コンテナを使用でき、GlassFish Server Open Source Edition 3.1.2、WebLogic 12cおよび11g、Apache Tomcat 7.0および6.0、JBoss 6.1などでテスト済です。
 
  |
@@ -96,4 +96,4 @@ IDEは、プロジェクトへの変更が行われると、実行中の任意�
 * 最近の安定版リリースの機能の詳細は、link:http://wiki.netbeans.org/NewAndNoteworthyNB73[NetBeans IDE 7.3の新機能と注目すべき機能のページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-ee.html[「Java EEおよびJava Webの学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

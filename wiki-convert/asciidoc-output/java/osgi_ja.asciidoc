@@ -28,7 +28,7 @@
 
 == NetBeans OSGi相互運用性
 
-link:../../images_www/v7/1/screenshots/osgi.png[image:../../images_www/v7/1/screenshots/osgi-cut.png[]]
+link:../../images_www/v7/1/screenshots/osgi.png[image:osgi-cut.png[]]
 
 link:../../images_www/v7/screenshots/osgi.png[[font-11]#イメージをクリックして全画面表示#]
 
@@ -59,19 +59,19 @@ NetBeans IDEを使用すると、Maven原型から純粋なOSGiバンドルを�
 
 NetBeans IDEにバンドルされているApache Felix OSGi実行時コンテナで、OSGiバンドルを実行できるようになりました。「新規プロジェクト」>「サンプル」>「NetBeansモジュール」の下にある「Equinoxベース・プラットフォーム・アプリケーション」や、関連チュートリアルを活用すれば、Equinox実行時コンテナで動作するプラットフォーム・アプリケーションにOSGiバンドルを統合するのに役立ちます。
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/platform.html[OSGiおよびNetBeansのチュートリアル]
+image:arrow-button.gif[] link:../../kb/trails/platform.html[OSGiおよびNetBeansのチュートリアル]
 
-image:../../images_www/v6/arrow-button.gif[] link:http://wiki.netbeans.org/OSGiAndNetBeans[OSGiおよびNetBeansの概要]
+image:arrow-button.gif[] link:http://wiki.netbeans.org/OSGiAndNetBeans[OSGiおよびNetBeansの概要]
 
  |
 
-image:../../images_www/screenshots/6.9/maven-osgi.png[]
+image:maven-osgi.png[]
 
-image:../../images_www/v6/9/features/osgi-cluster.png[]
+image:osgi-cluster.png[]
 
-image:../../images_www/v6/9/features/osgi-project.png[]
+image:osgi-project.png[]
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

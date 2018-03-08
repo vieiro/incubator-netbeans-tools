@@ -30,11 +30,11 @@
 
 == Инструменты для сборки
 
-link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut.png[] [font-11]# Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut.png[] [font-11]# Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 Контролируйте процесс сборки там, где находится код, с помощью стандартных инструментов сборки, интегрированных в IDE.
 
-    [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut2.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut2.png[]]#
 
 === Maven
 
@@ -42,7 +42,7 @@ link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../im
 
 link:http://wiki.netbeans.org/MavenBestPractices[Maven в IDE NetBeans]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:../../images_www/v7/3/features/ide-buildtools-ant-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:ide-buildtools-ant-cut.png[]]#
 
 === Ant
 
@@ -50,7 +50,7 @@ link:http://wiki.netbeans.org/MavenBestPractices[Maven в IDE NetBeans]
 
 Вам не нужно обладать знаниями об Ant для работы с приложениями в среде IDE. Можно настроить все основные параметры компиляции и этапов выполнения проекта в диалоговом окне 'Свойства проекта', и IDE автоматически обновит сценарий проекта Ant. Если имеется опыт работы с Ant, можно настроить сценарий проекта Ant напрямую или написать собственный сценарий Ant для используемого проекта.
 
-link:https://netbeans.org/kb/articles/freeform-config.html[Усовершенствованная настройка проектов свободной формы]     [overview-left]#link:../../images_www/v7/3/features/groovy-gradle.png[image:../../images_www/v7/3/features/groovy-gradle-cut.png[]]#
+link:https://netbeans.org/kb/articles/freeform-config.html[Усовершенствованная настройка проектов свободной формы]     [overview-left]#link:../../images_www/v7/3/features/groovy-gradle.png[image:groovy-gradle-cut.png[]]#
 
 === Gradle
 
@@ -64,4 +64,4 @@ link:http://netbeans.dzone.com/articles/definitive-gradle-guide-for-netbeans[О�
 * link:/community/releases/81/index.html[На странице сведений о версии IDE netbeans 8.1] приведен список специальных функций в последней стабильной версии.
 * link:../../kb/trails/java-se.html[Учебная карта по общим сведениям о разработке на Java] для учебных курсов по началу работы.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

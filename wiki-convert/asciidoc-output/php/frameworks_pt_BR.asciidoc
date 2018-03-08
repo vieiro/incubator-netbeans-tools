@@ -32,7 +32,7 @@
 
 Suporte inovador para a maioria dos frameworks usados na Web, como Zend, Symfony, Doctrine, Smarty
 
-[overview-right]#image:/images_www/v7/3/features/php/frameworks.png[]#
+[overview-right]#image:frameworks.png[]#
 
 === Frameworks Web
 
@@ -44,7 +44,7 @@ O NetBeans IDE suporta os seguintes frameworks comuns da Web:
 
 Em geral, você pode criar novos projetos PHP com esses frameworks, executar comandos do framework, navegar do controlador (ação) para sua view, usar anotações do framework e autocompletar o código no editor, e personalizar suas configurações.
 
-  [overview-left]#image:/images_www/v7/3/features/php/php-generatedoc_small.png[]#
+  [overview-left]#image:php-generatedoc_small.png[]#
 
 === Documentando Código PHP com ApiGen
 
@@ -65,17 +65,17 @@ Em geral, você pode criar novos projetos PHP com esses frameworks, executar com
 
  
 
-|[overview-centre]#image:/images_www/v7/3/features/php/doctrine2-04.png[]#
+|[overview-centre]#image:doctrine2-04.png[]#
 O NetBeans IDE suporta o framework mais usado para ORM (Mapeamento Relacional de Objetos), link:http://www.doctrine-project.org[Framework Doctrine2] . Você pode executar facilmente todos os comandos do Doctrine2 diretamente do IDE, consulte link:http://netbeans.org/kb/docs/php/screencast-doctrine2.html[screencast] para obter mais informações.
 
  |
 
-[overview-centre]#image:/images_www/v7/3/features/php/php-composer_small.png[]#
+[overview-centre]#image:php-composer_small.png[]#
 O NetBeans IDE suporta o Composer. O Composer é uma ferramenta para gerenciamento de dependência no PHP. Ele permite declarar as bibliotecas dependentes de que seu projeto precisa e as instalará no projeto para você.
 
  |
 
-[overview-centre]#image:/images_www/v7/3/features/php/php-smarty_small.png[]#
+[overview-centre]#image:php-smarty_small.png[]#
 O Smarty oferece funcionalidades do editor NetBeans IDE padrão, como sintaxe em cores, modelos de código, recurso de autocompletar código incluindo documentação de tags, correspondência de tags em bloco, dicas de erro de análise e assim por diante. Consulte link:http://netbeans.org/kb/docs/php/screencast-smarty.html[screencast] para obter mais informações.
 
  
@@ -84,7 +84,7 @@ O Smarty oferece funcionalidades do editor NetBeans IDE padrão, como sintaxe em
 
  
 
-|[overview-centre]#image:/images_www/v7/3/features/php/php-twig_small.png[]#
+|[overview-centre]#image:php-twig_small.png[]#
 
  |
 
@@ -98,4 +98,4 @@ O IDE oferece um suporte para modelos de Twig (que são fortemente conectados co
 * link:/community/releases/81/index.html[Página de Release do NetBeans IDE 8.1] para obter uma lista de funcionalidades específicas da última versão estável.
 * link:../../kb/trails/php.html[Trilha de Aprendizado de PHP e HTML5] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

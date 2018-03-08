@@ -30,11 +30,11 @@
 
 == クライアント上のJava
 
-link:../../images_www/v7/3/features/client-main-full.png[image:../../images_www/v7/3/features/client-main-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/client-main-full.png[image:client-main-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 NetBeans IDEを使用すると、JavaFXおよびSwingを使用したJava SE用のJavaクライアントや、Java MEアプリケーションおよび組込みアプリケーションをすばやく効率的に開発できます。
 
-    [overview-right]#link:../../images_www/v7/3/features/client-javafx-full.png[image:../../images_www/v7/3/features/client-javafx-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-javafx-full.png[image:client-javafx-cut.png[]]#
 
 === JavaFX
 
@@ -44,7 +44,7 @@ IDEには、エディタ、デバッガおよびサンプル・プロジェク�
 
 link:javafx.html[NetBeans IDEでのJavaFX]
 
-     [overview-left]#link:../../images_www/v7/3/features/client-swing-full.png[image:../../images_www/v7/3/features/client-swing-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/client-swing-full.png[image:client-swing-cut.png[]]#
 
 === Swing
 
@@ -54,7 +54,7 @@ GUIビルダーを使用して、顧客の目の前でGUIのプロトタイプ�
 
 link:swing.html[NetBeans IDEでのSwing]
 
-     [overview-right]#link:../../images_www/v7/3/features/client-jme-full.png[image:../../images_www/v7/3/features/client-jme-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-jme-full.png[image:client-jme-cut.png[]]#
 
 === Java MEと組込み
 
@@ -69,4 +69,4 @@ link:java-me.html[NetBeans IDEでのJava MEおよび組込み]
 * 最新の安定版リリースの主な機能のリストについては、link:../../community/releases/81/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-se.html[「一般的なJava開発の学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

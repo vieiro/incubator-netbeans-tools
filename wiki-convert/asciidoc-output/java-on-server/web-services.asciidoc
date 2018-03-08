@@ -30,11 +30,11 @@
 
 == Web Services Development Support
 
-link:../../images_www/v7/screenshots/websvc.png[image:../../images_www/v7/screenshots/websvc-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/screenshots/websvc.png[image:websvc-cut.png[][font-11]#Click image for fullscreen preview#]
 
 NetBeans IDE supports Web services standards from Java EE 7, Java EE 6 and Java EE 5, including the JAX-WS 2.2, JAX-RS 2.0, and JAXB 2.2 web service standards. You can work with GlassFish Server Open Source Edition, Oracle Weblogic, Apache Tomcat, JBoss, and many more. The code completion functionality includes annotations that you can use in your web services.
 
-    [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === RESTful Web Services
 
@@ -46,7 +46,7 @@ You can also use facades for Java EE 5 RESTful web services. The IDE can generat
 
 link:../../kb/docs/websvc/rest.html[Getting Started with RESTful Web Services]
 
-     [overview-left]#link:../../images_www/v7/3/features/soap-designer.png[image:../../images_www/v7/3/features/soap-designer-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/soap-designer.png[image:soap-designer-cut.png[]]#
 
 === SOAP-based Web Services
 
@@ -58,7 +58,7 @@ Convert SOAP based web services to RESTful service resources by using the action
 
 link:../../kb/docs/websvc/jax-ws.html[Getting Started with JAX-WS Web Services]
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-client-gen.png[image:../../images_www/v7/3/features/rest-client-gen-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-client-gen.png[image:rest-client-gen-cut.png[]]#
 
 === Web Service Clients
 
@@ -83,19 +83,19 @@ link:../../kb/docs/websvc/client.html[Developing JAX-WS Web Service Clients]
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/web-services-manager-cut.png[]#
+|[overview-centre]#image:web-services-manager-cut.png[]#
 Use the Web Service Manager to access popular RESTful Web APIs provided by Google, Facebook, Yahoo, flickr, Amazon, Twitter and many more. You can also access SOAP-based web services, e.g. StrikeIron.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/wsit-secure-cut.png[]#
+[overview-centre]#image:wsit-secure-cut.png[]#
 Web Service Interoperability Technologies (WSIT) are directly available from the Web Services Designer. Use the link:http://metro.dev.java.net/[Metro 2.0] (JAX-WS 2.2) support in GlassFish to help you build interoperable, transactional, reliable, and secure web services.
 
 link:../../kb/docs/websvc/wsit.html[Advanced Web Services Interoperability]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ws-mobile-cut.png[]#
+[overview-centre]#image:ws-mobile-cut.png[]#
 Write applications that access web services directly from a JSR-172-enabled phone. Write code that uses the Wireless Connection Bridge to access web services and other server-side data on any device from MIDlets via servlets.
 
  
@@ -106,4 +106,4 @@ Write applications that access web services directly from a JSR-172-enabled phon
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of highlighted features in the latest stable release.
 * link:../../kb/trails/web.html[Web Services Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

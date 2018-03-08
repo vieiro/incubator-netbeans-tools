@@ -28,12 +28,12 @@
 
 == Swing GUI 构建器（以前称为 Project Matisse）
 
-link:../../images_www/v7/1/screenshots/gui-builder.png[image:../../images_www/v7/1/screenshots/gui-builder-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/1/screenshots/gui-builder.png[image:gui-builder-cut.png[][font-11]#单击图像查看全屏预览#]
 
 *创建具备自动调整间距和自动对齐的专业 GUI。*
 
 |===
-|=== 专业的 Swing GUI 构建 image:../../images_www/v6/features/improved_small.gif[]
+|=== 专业的 Swing GUI 构建 image:improved_small.gif[]
 
 要设计 Swing GUI，将 GUI 组件从组件面板拖动并定位到画布上。GUI 构建器自动维护间距调整和对齐。单击 JLabel、JButton、ButtonGroup、JTree、JTextField 和 ComboBox，并直接就地编辑它们的属性。您可以使用 GUI 构建器制作直接可供客户使用的 GUI 原型。
 link:../../kb/docs/java/gui-functionality.html[构建 GUI 应用程序简介]
@@ -44,9 +44,9 @@ link:../../kb/docs/java/gui-functionality.html[构建 GUI 应用程序简介]
 
   |
 
-image:../../images_www/v7/1/features/swing-gui-design.png[]
+image:swing-gui-design.png[]
 
-image:../../images_www/v7/1/features/swing-gui-options.png[]
+image:swing-gui-options.png[]
 
  
 
@@ -56,25 +56,25 @@ image:../../images_www/v7/1/features/swing-gui-options.png[]
 
   |
 
-image:../../images_www/v7/1/features/swing-gui-palette.png[]
+image:swing-gui-palette.png[]
 
  
 
-|=== 可视调试器 image:../../images_www/v6/features/improved_small.gif[]
+|=== 可视调试器 image:improved_small.gif[]
 
 无需检查源代码即可调试 Swing GUI 应用程序，并可从高级结构方面控制执行流。选择 "Take GUI Snapshot"（生成 GUI 快照）即可生成应用程序 GUI 的屏幕快照，该 GUI 是可视调试器功能的基础。
 link:../../kb/docs/java/debug-visual.html[使用可视调试器]
 
  |
 
-image:../../images_www/v7/1/features/swing-gui-snapshot.png[]
+image:swing-gui-snapshot.png[]
 
  
 |===
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/matisse.html[GUI 构建器学习资源]
+image:arrow-button.gif[] link:../../kb/trails/matisse.html[GUI 构建器学习资源]
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/platform.html[NetBeans 平台学习资源]
+image:arrow-button.gif[] link:../../kb/trails/platform.html[NetBeans 平台学习资源]
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

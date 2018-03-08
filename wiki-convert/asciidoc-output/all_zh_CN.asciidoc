@@ -471,4 +471,4 @@ link:http://wiki.netbeans.org/FaqPluginsInDevelopment[Beta 和 Dev 更新中心]
 
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

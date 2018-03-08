@@ -30,11 +30,11 @@
 
 == Colaboração em Equipe
 
-link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../images_www/v7/3/features/ide-collaboration-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/3/features/ide-collaboration-full.png[image:ide-collaboration-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 Trabalhe juntamente a outros membros de sua equipe por meio do rastreamento de problemas e da integração contínua.
 
-    [overview-left]#link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../images_www/v7/3/features/ide-collaboration-tracker-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/ide-collaboration-full.png[image:ide-collaboration-tracker-cut.png[]]#
 
 === Rastreamento de Problemas
 
@@ -42,7 +42,7 @@ Você pode configurar o NetBeans IDE para usar seu próprio repositório Jira ou
 
 A fácil integração entre os sistemas de controle de versão e rastreadores de problema permite confirmar alterações de código e atualizar o status do problema associado em uma etapa. Crie novos problemas e edite os existentes, ordene e filtre os problemas, salve as consultas, crie patches e adicione anexos — tudo usando o IDE.
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:../../images_www/v7/3/features/ide-collaboration-hudson-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:ide-collaboration-hudson-cut.png[]]#
 
 === Integração Contínua
 
@@ -61,4 +61,4 @@ link:http://wiki.netbeans.org/HudsonInNetBeans[Hudson no NetBeans IDE]
 * link:../../community/releases/81/index.html[Página da Release NetBeans IDE 8.1] para obter uma lista de funcionalidades realçadas na última versão estável.
 * link:../../kb/trails/java-se.html[Trilha de Aprendizado em Desenvolvimento Geral de Java] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

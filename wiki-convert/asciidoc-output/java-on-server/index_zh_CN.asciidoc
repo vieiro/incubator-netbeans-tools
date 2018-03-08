@@ -30,11 +30,11 @@
 
 == Java EE 和 Web 应用程序开发
 
-link:../../images_www/v7/1/screenshots/web-app.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/1/screenshots/web-app.png[image:web-app-cut.png[][font-11]#单击图像查看全屏预览#]
 
 编写可通过 Web 浏览器、移动设备等各种客户端访问的标准型 Web 和企业应用程序。获得无与伦比的便捷体验。只需单击几下，即可创建支持所有相关 Java EE 技术的基于 Java EE 7、Java EE 6 和 Java EE 5 的应用程序，同时利用 IDE 对 HTML5、JavaScript 和 CSS3 开发的综合支持，如 link:../html5/index.html[HTML5 Web 开发支持]页上所述。
 
-    [overview-right]#link:../../images_www/v7/3/features/ee-dev.png[image:../../images_www/v7/3/features/ee-dev-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ee-dev.png[image:ee-dev-cut.png[]]#
 
 === 企业应用程序开发
 
@@ -42,7 +42,7 @@ NetBeans IDE 提供对最新的 Java EE 7 规范的支持。开发 Web 页、Ser
 
 link:java-ee.html[NetBeans 中的 Java EE 支持]
 
-     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:../../images_www/v7/3/features/http-monitor-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:http-monitor-cut.png[]]#
 
 === 部署、调试、监视和性能分析
 
@@ -50,7 +50,7 @@ link:java-ee.html[NetBeans 中的 Java EE 支持]
 
 此外，还可以将断点放在 Java 或 JSF 文件中，然后调试应用程序，或使用 NetBeans 分析器对其进行分析。此外还提供了 HTTP 服务器端监视器，通过该监视器，您可以诊断来自 JSF 的数据流问题以及 Web 服务器上的 servlet 执行问题。
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === Web 服务开发
 
@@ -60,7 +60,7 @@ NetBeans IDE 支持较新的 Java EE 7 和 Java EE 6 规范以及较旧的 Java 
 
 link:web-services.html[NetBeans 中的 Web 服务支持]
 
-     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:../../images_www/v7/3/features/jsf-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:jsf-dev-cut.png[]]#
 
 === Web 应用程序开发
 
@@ -85,21 +85,21 @@ link:../../kb/docs/web/framework-adding-support.html[添加对 Web 框架的支�
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/spring-completion.png[]#
+|[overview-centre]#image:spring-completion.png[]#
 在 "New Project"（新建项目）向导中选择 "Spring" 框架，然后立即开始创建框架 Spring Web MVC 应用程序。在编辑器中利用重构（包括 XML 配置文件）和代码完成。
 
 link:../../kb/docs/web/quickstart-webapps-spring.html[Spring Web MVC 简介]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/struts.png[]#
+[overview-centre]#image:struts.png[]#
 选择 "Struts" 框架以创建基于标准技术（例如 JSP 页、JavaBean、资源包和 XML）的灵活 Web 应用程序。可以利用编辑器中的 Struts 标记代码完成和 Struts Javadoc 弹出式窗口。
 
 link:../../kb/docs/web/quickstart-webapps-struts.html[Struts Web 框架简介]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/hibernate-web-apps.png[]#
+[overview-centre]#image:hibernate-web-apps.png[]#
 在新建项目向导中选择 Hibernate 框架时，会自动将 Hibernate 库与应用程序捆绑在一起。IDE 提供了用于创建 Hibernate 逆向工程以及配置 XML 文件和 POJO 类的向导。
 
 link:../../kb/docs/web/hibernate-webapp.html[在 Web 应用程序中使用 Hibernate]
@@ -112,4 +112,4 @@ link:../../kb/docs/web/hibernate-webapp.html[在 Web 应用程序中使用 Hiber
 * link:/community/releases/80/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/java-ee.html[Java EE 和 Java Web 学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

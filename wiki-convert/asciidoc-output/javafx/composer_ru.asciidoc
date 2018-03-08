@@ -28,7 +28,7 @@
 
 == Компоновщик JavaFX
 
-link:../../images_www/v6/9/screenshots/javafx-composer.png[image:../../images_www/v6/9/screenshots/javafx-composer-cut.png[][font-11]#Щелкните изображение для просмотрa на полном экране#]
+link:../../images_www/v6/9/screenshots/javafx-composer.png[image:javafx-composer-cut.png[][font-11]#Щелкните изображение для просмотрa на полном экране#]
 
 *Визуальное средство компоновки для приложений JavaFX.*
 
@@ -43,7 +43,7 @@ link:../../images_www/v6/9/screenshots/javafx-composer.png[image:../../images_ww
 
  |
 
-image:../../images_www/screenshots/6.9/javafx-composer.png[]
+image:javafx-composer.png[]
 
  
 
@@ -60,28 +60,28 @@ image:../../images_www/screenshots/6.9/javafx-composer.png[]
 
  |
 
-image:../../images_www/v6/9/features/javafx-states.png[]
+image:javafx-states.png[]
 
-link:http://www.javafx.com/[image:../../images_www/v6/8/features/javafx-screens.png[]]
+link:http://www.javafx.com/[image:javafx-screens.png[]]
 
  
 
-|=== Встроенная функция взаимодействия с данными image:../../images_www/v6/features/new_small.gif[]
+|=== Встроенная функция взаимодействия с данными image:new_small.gif[]
 
 Если для приложения JavaFX требуется подключение к источникам данных, используйте шаблоны проектов для быстрого и удобного создания бизнес-приложения рабочей среды JavaFX или мобильного бизнес-приложения JavaFX. Используйте представление "Проектирование" для подключения интерфейса пользователя к источникам данных, например веб-службам RESTful, базам данных, локальным файловым системам или файлам данных.
 
 
-image:../../images_www/v6/arrow-button.gif[] link:https://netbeans.org/kb/trails/matisse.html[JavaFX и учебная карта по графическому интерфейсу Swing].
+image:arrow-button.gif[] link:https://netbeans.org/kb/trails/matisse.html[JavaFX и учебная карта по графическому интерфейсу Swing].
 
-image:../../images_www/v6/arrow-button.gif[] link:http://www.javafx.com/[javafx.com] с загрузками, демонстрационными роликами, разделами часто задаваемых вопросов и документацией.
+image:arrow-button.gif[] link:http://www.javafx.com/[javafx.com] с загрузками, демонстрационными роликами, разделами часто задаваемых вопросов и документацией.
 
  |
 
-image:../../images_www/v6/9/features/javafx-data.png[]
+image:javafx-data.png[]
 
  
 |===
 
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

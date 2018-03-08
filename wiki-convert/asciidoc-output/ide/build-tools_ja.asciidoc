@@ -30,11 +30,11 @@
 
 == ビルド・ツール
 
-link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 IDEに統合された標準的なビルド・ツールを使用して、コードのある場所でビルドを制御できます。
 
-    [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:../../images_www/v7/3/features/ide-collaboration-hudson-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:ide-collaboration-hudson-cut.png[]]#
 
 === Hudson
 
@@ -46,7 +46,7 @@ NetBeans IDEでは、Hudson継続サーバーと関連のHudsonジョブを作�
 
 link:http://wiki.netbeans.org/HudsonInNetBeans[NetBeans IDEでのHudson]
 
-     [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut2.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut2.png[]]#
 
 === Maven
 
@@ -58,7 +58,7 @@ IDEのMavenリポジトリ・ブラウザでは、ローカル・リポジトリ
 
 link:http://wiki.netbeans.org/MavenBestPractices[NetBeans IDEでのMaven]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:../../images_www/v7/3/features/ide-buildtools-ant-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:ide-buildtools-ant-cut.png[]]#
 
 === Ant
 
@@ -73,4 +73,4 @@ IDEでアプリケーションを操作するのに、Antに精通している�
 * 最新の安定版リリースの個別機能のリストについては、link:/community/releases/73/index.html[NetBeans IDE 7.3リリース・ページ]を参照してください。
 * 最近の安定版リリースの機能の詳細は、link:http://wiki.netbeans.org/NewAndNoteworthyNB73[NetBeans IDE 7.3の新機能と注目すべき機能のページ]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

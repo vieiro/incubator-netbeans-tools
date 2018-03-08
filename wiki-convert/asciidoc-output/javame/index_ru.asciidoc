@@ -28,7 +28,7 @@
 
 == Java ME (Micro Edition) и встроенные приложения
 
-link:../../images_www/v7/1/screenshots/gamebuilder.png[image:../../images_www/v7/1/screenshots/gamebuilder-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/1/screenshots/gamebuilder.png[image:gamebuilder-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 *Мы предоставляем возможности создания, тестирования, отладки и внедрения приложений, функционирующих на мобильных телефонах, карманных компьютерах, телеприставках, во встраиваемых системах – буквально на миллиардах устройств.*
 
@@ -51,9 +51,9 @@ _Visual Mobile Designer доступен в центре обновлений Ne
 
  |
 
-image:../../images_www/v6/5/features/mobile-designer.png[]
+image:mobile-designer.png[]
 
-image:../../images_www/v6/9/features/java-card.png[]
+image:java-card.png[]
 
  
 
@@ -67,7 +67,7 @@ image:../../images_www/v6/9/features/java-card.png[]
 
  |
 
-image:../../images_www/v7/1/features/mobile-svg-palette.png[]
+image:mobile-svg-palette.png[]
 
  
 
@@ -81,7 +81,7 @@ image:../../images_www/v7/1/features/mobile-svg-palette.png[]
 
  |
 
-image:../../images_www/v6/5/features/mobile-data-binding.png[]
+image:mobile-data-binding.png[]
 
  
 
@@ -91,7 +91,7 @@ image:../../images_www/v6/5/features/mobile-data-binding.png[]
 
  |
 
-image:../../images_www/v7/1/features/mobile-conf-mgr.png[]
+image:mobile-conf-mgr.png[]
 
  
 
@@ -105,7 +105,7 @@ image:../../images_www/v7/1/features/mobile-conf-mgr.png[]
 
  |
 
-image:../../images_www/v6/features/mobile-preprocessor.png[]
+image:mobile-preprocessor.png[]
 
  
 
@@ -115,9 +115,9 @@ image:../../images_www/v6/features/mobile-preprocessor.png[]
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/mobility.html[Учебная карта по мобильности]
+image:arrow-button.gif[] link:../../kb/trails/mobility.html[Учебная карта по мобильности]
 
- |link:http://www.ikivo.com/java/java.html[image:../../images_www/partners/ikivo_logo_small.jpg[]] Ikivo Animator: расширенное редактирование изображений SVG и анимации для IDE NetBeans. Для получения дополнительных сведений ознакомьтесь с link:http://www.ikivo.com/java/white_paper1.html[официальным описанием] и link:http://www.ikivo.com/java/netbeans_tutorial.html[учебным курсом]. 
+ |link:http://www.ikivo.com/java/java.html[image:ikivo_logo_small.jpg[]] Ikivo Animator: расширенное редактирование изображений SVG и анимации для IDE NetBeans. Для получения дополнительных сведений ознакомьтесь с link:http://www.ikivo.com/java/white_paper1.html[официальным описанием] и link:http://www.ikivo.com/java/netbeans_tutorial.html[учебным курсом]. 
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

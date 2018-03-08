@@ -30,11 +30,11 @@
 
 == 应用程序部署和监视
 
-link:../../images_www/v7/3/features/deploy-monitor.png[image:../../images_www/v7/3/features/deploy-monitor-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/deploy-monitor.png[image:deploy-monitor-cut.png[][font-11]#单击图像查看全屏预览#]
 
 NetBeans IDE 支持多个具有对最新 Glassfish 版本的现成支持的部署平台。部署后，您可以利用该支持来对应用程序进行监视、性能分析和测试。
 
-    [overview-right]#link:../../images_www/v7/3/features/deploy-servers.png[image:../../images_www/v7/3/features/deploy-servers-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/deploy-servers.png[image:deploy-servers-cut.png[]]#
 
 === 服务器上的部署
 
@@ -46,13 +46,13 @@ IDE 可以与任何标准 Java Enterprise Edition (Java EE) 容器一起使用�
 
 另外还提供 link:http://plugins.netbeans.org/plugin/22254/jrebel-netbeans-plugin[JRebel 插件]，通过该插件，您可以使用 JRebel 来查看对代码所做的更改，而无需重新部署。
 
-     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:../../images_www/v7/3/features/http-monitor-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:http-monitor-cut.png[]]#
 
 === HTTP 监视
 
 除了link:../java/debugger.html[调试和性能分析支持]之外，IDE 还提供 HTTP 服务器端监视器以帮助诊断来自 JSP 页的数据流问题以及 Web 服务器上的 servlet 执行问题。HTTP 服务器端监视器可收集有关 servlet 引擎所处理的 HTTP 请求的数据。对于每个处理的 HTTP 请求，该监视器会记录有关传入请求的数据以及服务器上维护的数据状态。您可以查看数据，存储数据以用于将来的会话，以及重新显示和编辑以前的请求。
 
-     [overview-right]#link:../../images_www/v7/3/features/javaee-testing-maven.png[image:../../images_www/v7/3/features/javaee-testing-maven-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/javaee-testing-maven.png[image:javaee-testing-maven-cut.png[]]#
 
 === Java EE 应用程序测试
 
@@ -75,17 +75,17 @@ link:../../kb/docs/javaee/maven-entapp-testing.html[测试基于 Maven 的 Java 
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/open-servlet-cut.png[]#
+|[overview-centre]#image:open-servlet-cut.png[]#
 执行 JSP 文件时，您可以在源代码编辑器中查看已转换的 servlet 源，该编辑器可帮助调试 JSP 文件中的问题。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/http-replay-cut.png[]#
+[overview-centre]#image:http-replay-cut.png[]#
 在 HTTP 服务器监视器中，您可以保存并重新显示 HTTP 请求。重新显示请求时，响应将显示在 Web 浏览器中。您还可以编辑请求以帮助调试与该请求的各种方案对应的调试问题。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/webapp-configuration-cut.png[]#
+[overview-centre]#image:webapp-configuration-cut.png[]#
 在您对 Web 应用程序进行编码时，IDE 会自动更新部署描述符。您可以手动配置部署描述符，使用关联 XML 的文档视图来编辑描述符文件。
 
  
@@ -96,4 +96,4 @@ link:../../kb/docs/javaee/maven-entapp-testing.html[测试基于 Maven 的 Java 
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/java-ee.html[Java EE 和 Java Web 学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

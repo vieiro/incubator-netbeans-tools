@@ -30,11 +30,11 @@
 
 == Java EE 和 Web 应用程序开发
 
-link:../../images_www/v7/1/screenshots/web-app-cut.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/1/screenshots/web-app-cut.png[image:web-app-cut.png[][font-11]#单击图像查看全屏预览#]
 
 编写可通过 Web 浏览器、移动设备等各种客户端访问的标准型 Web 和企业应用程序。获得无与伦比的便捷体验：只需单击几下，即可创建支持所有相关 Java EE 6 技术的 Java EE 6 应用程序。可以利用完善的语法突出显示、代码完成、弹出式文档和错误检查功能来处理 JSP、JSF、XML、JavaScript、CSS，甚至处理 PHP！
 
-    [overview-right]#link:../../images_www/v7/3/features/ee-dev.png[image:../../images_www/v7/3/features/ee-dev-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ee-dev.png[image:ee-dev-cut.png[]]#
 
 === 企业应用程序开发
 
@@ -42,7 +42,7 @@ NetBeans IDE 提供对 Java EE 6 的全面支持。开发 Web 页、Servlet、We
 
 link:java-ee.html[NetBeans 中的 Java EE 支持]
 
-     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:../../images_www/v7/3/features/jsf-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:jsf-dev-cut.png[]]#
 
 === Web 应用程序开发
 
@@ -50,7 +50,7 @@ link:java-ee.html[NetBeans 中的 Java EE 支持]
 
 link:web-app.html[NetBeans 中的 Web 应用程序开发支持]。
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === Web 服务开发
 
@@ -58,7 +58,7 @@ NetBeans IDE 同时支持 Java EE 6 和 Java EE 5 中的 Web 服务标准。您�
 
 link:web-services[NetBeans 中的 Web 服务支持]
 
-     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:../../images_www/v7/3/features/http-monitor-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:http-monitor-cut.png[]]#
 
 === 部署、调试、监视和性能分析
 
@@ -71,4 +71,4 @@ link:web-services[NetBeans 中的 Web 服务支持]
 * link:/community/releases/73/index.html[NetBeans IDE 7.3 发行版页]，提供最新稳定发行版中的特定功能的列表。
 * 在link:http://wiki.netbeans.org/NewAndNoteworthyNB73[“NetBeans IDE 7.3 新增功能和重要功能”页]上获取有关最新稳定发行版的功能的详细信息。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

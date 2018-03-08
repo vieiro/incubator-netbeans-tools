@@ -30,11 +30,11 @@
 
 == Webサービス開発のサポート
 
-link:../../images_www/v7/screenshots/websvc.png[image:../../images_www/v7/screenshots/websvc-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/screenshots/websvc.png[image:websvc-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 NetBeans IDEは、Java EE 7、Java EE 6およびJava EE 5のWebサービス標準(JAX-WS 2.2、JAX-RS 2.0、JAXB 2.2 Webサービス標準を含む)をサポートしています。GlassFish Server Open Source Edition、Oracle Weblogic、Apache Tomcat、JBoss、その他多くのサーバーを使用できます。このエディタのコード補完機能には、Webサービスで使用できる注釈も含まれます。
 
-    [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === RESTful Webサービス
 
@@ -46,7 +46,7 @@ Java EE 5 RESTful Webサービスには、ファサードを使用すること�
 
 link:../../kb/docs/websvc/rest.html[RESTful Webサービスについて]
 
-     [overview-left]#link:../../images_www/v7/3/features/soap-designer.png[image:../../images_www/v7/3/features/soap-designer-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/soap-designer.png[image:soap-designer-cut.png[]]#
 
 === SOAPベースのWebサービス
 
@@ -58,7 +58,7 @@ Webサービス・ノードで使用できるアクションを使用するこ�
 
 link:../../kb/docs/websvc/jax-ws.html[JAX-WS Webサービスについて]
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-client-gen.png[image:../../images_www/v7/3/features/rest-client-gen-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-client-gen.png[image:rest-client-gen-cut.png[]]#
 
 === Webサービス・クライアント
 
@@ -83,19 +83,19 @@ link:../../kb/docs/websvc/client.html[JAX-WS Webサービス・クライアン�
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/web-services-manager-cut.png[]#
+|[overview-centre]#image:web-services-manager-cut.png[]#
 Webサービス・マネージャを使用して、Google、Facebook、Yahoo、flickr、Amazon、Twitterなどから提供される、一般的なRESTful Web APIにアクセスできます。StrikeIronなどのSOAPベースのWebサービスにもアクセスできます。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/wsit-secure-cut.png[]#
+[overview-centre]#image:wsit-secure-cut.png[]#
 Web Service Interoperability Technologies (WSIT)は、Webサービス・デザイナから直接使用できます。GlassFishのlink:http://metro.dev.java.net/[Metro 2.0] (JAX-WS 2.2)サポートを使用して、相互運用が可能でトランザクションに対応した、信頼性とセキュリティに優れたWebサービスをビルドできます。
 
 link:../../kb/docs/websvc/wsit.html[高度なWebサービス相互運用性]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ws-mobile-cut.png[]#
+[overview-centre]#image:ws-mobile-cut.png[]#
 JSR-172対応の電話からWebサービスに直接アクセスするアプリケーションを作成できます。ワイヤレス接続ブリッジを使用して、MIDletからサーブレットを経由してWebサービスやデバイス上のその他のサーバー側データにアクセスするコードを作成できます。
 
  
@@ -106,4 +106,4 @@ JSR-172対応の電話からWebサービスに直接アクセスするアプリ�
 * 最新の安定版リリースの主な機能のリストについては、link:/community/releases/80/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/web.html[Webサービスの学習]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

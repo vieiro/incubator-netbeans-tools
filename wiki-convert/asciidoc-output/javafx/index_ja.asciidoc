@@ -28,12 +28,12 @@
 
 == JavaFX 2.1
 
-link:../../images_www/v7/1/screenshots/javafx2-main-big.png[image:../../images_www/v7/1/screenshots/javafx2-main.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/1/screenshots/javafx2-main-big.png[image:javafx2-main.png[][font-11]#イメージをクリックして全画面表示#]
 
 *JavaFX 2は、リッチ・クライアント・プラットフォームとしてのJavaの進化における次のステップです。これは、エンタープライズ・ビジネス・アプリケーションに、軽量の、ハードウェアで高速化されたJava UIプラットフォームを提供するように設計されています。JavaFX 2では、開発者は標準のJava開発ツールを使用して、JavaFXアプリケーションをすべてJavaプログラミング言語で作成できます。ネイティブなシステム機能にアクセスすることも、サーバー・ベースのミドルウェア・アプリケーションにシームレスに接続することもできます。WindowsおよびMacの場合、JavaFX 2.1はJava JDK 7 Update 4にバンドルされています。JavaFX 2.1はlink:http://www.oracle.com/technetwork/java/javafx/downloads/index.html[Oracle.com]から別途ダウンロードすることもできます。詳細は、link:../../kb/docs/java/nb_fx_screencast.html[NetBeans IDEでのJavaFXサポートのビデオ]を参照してください。*
 
 |===
-|=== JavaFXプロジェクト image:../../images_www/v6/features/new_small.gif[]
+|=== JavaFXプロジェクト image:new_small.gif[]
 
 IDEでJavaFXプロジェクトを作成できます。NetBeans IDEでは、次のタイプのJavaFXプロジェクトを作成できます。
 
@@ -43,7 +43,7 @@ IDEでJavaFXプロジェクトを作成できます。NetBeans IDEでは、次�
 * *SwingアプリケーションでのJavaFX。*NetBeans IDEによってJava SEアプリケーションの作成が簡素化され、ユーザーはJFXPanel Swingコンポーネントを使用してFXコンポーネントを埋め込むことができます。
  |
 
-image:../../images_www/v7/1/features/javafx2-projecttypes.png[]
+image:javafx2-projecttypes.png[]
 
  
 
@@ -58,7 +58,7 @@ JavaFXアプリケーションのビルドおよび実行は、標準のJavaア�
 * *ブラウザで。*IDEは、JNLPファイルをコールするHTMLページを使用して、アプリケーションをブラウザに埋め込みます。IDEでこのHTMLページを生成するか、ユーザー独自のWebページを使用できます。IDEからアプリケーションを実行した場合、IDEはローカル・ファイル・システム上のHTMLページを指すブラウザ・ページを開きます。
  |
 
-image:../../images_www/v7/1/features/javafx2-select-runas.png[]
+image:javafx2-select-runas.png[]
 
  
 
@@ -66,25 +66,25 @@ image:../../images_www/v7/1/features/javafx2-select-runas.png[]
 
 NetBeans IDEの強力なlink:../java/javase.html[Javaコード・エディタ]を利用して、JavaFXアプリケーションをコーディングできます。
 
- |image:../../images_www/v7/1/features/javafx2-ineditor.png[] 
+ |image:javafx2-ineditor.png[] 
 
 |=== JavaFXのデバッグ
 
 新しいGUIビジュアル・デバッガなど、NetBeans IDEのlink:../java/debugger.html[Javaデバッグ・ツール]を使用して、JavaFXアプリケーションをデバッグできます。
 
-image:../../images_www/v6/arrow-button.gif[] 詳細は、link:../../kb/docs/java/debug-visual.html[NetBeans IDEでのビジュアル・デバッガの使用]を参照してください。
+image:arrow-button.gif[] 詳細は、link:../../kb/docs/java/debug-visual.html[NetBeans IDEでのビジュアル・デバッガの使用]を参照してください。
 
- |image:../../images_www/v7/1/features/debug-take-snapshot.png[title="「デバッグ」メニューの「GUIスナップショットの取得」オプション"] 
+ |image:debug-take-snapshot.png[title="「デバッグ」メニューの「GUIスナップショットの取得」オプション"] 
 
 |=== サンプル・プロジェクト
 
 JavaFX 2.1とNetBeans IDEのサポートの機能を30を超えるJavaFX 2.1サンプル・プロジェクトで調べることができます。
 
- |image:../../images_www/v7/1/features/javafx2-sample-projects.png[] 
+ |image:javafx2-sample-projects.png[] 
 
-|image:../../images_www/v6/arrow-button.gif[] link:http://docs.oracle.com/javafx/index.html[JavaFXドキュメント・ホーム]: ダウンロード、デモ、FAQおよびチュートリアル。
+|image:arrow-button.gif[] link:http://docs.oracle.com/javafx/index.html[JavaFXドキュメント・ホーム]: ダウンロード、デモ、FAQおよびチュートリアル。
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

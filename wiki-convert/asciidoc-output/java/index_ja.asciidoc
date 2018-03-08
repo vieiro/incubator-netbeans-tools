@@ -30,11 +30,11 @@
 
 == Java
 
-link:../../images_www/v7/3/features/ide-management-main-full.png[image:../../images_www/v7/3/features/ide-management-main-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/ide-management-main-full.png[image:ide-management-main-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 NetBeans IDEには、Java開発者が本格的なデスクトップ・アプリケーション、モバイル・アプリケーション、およびエンタープライズ・アプリケーションを作成するために必要なツールがすべて用意されています。
 
-    [overview-left]#link:../../images_www/v7/3/features/java-editor-full.png[image:../../images_www/v7/3/features/java-editor-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/java-editor-full.png[image:java-editor-cut.png[]]#
 
 === 作成、編集およびリファクタリング
 
@@ -44,7 +44,7 @@ IDEには、Java EE、Java SEおよびJava MEの各アプリケーションを�
 
 link:editor.html[NetBeans IDEでの編集とリファクタリング]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut2.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut2.png[]]#
 
 === ビルド
 
@@ -56,7 +56,7 @@ IDEには、Mavenリポジトリ・ブラウザと、Mavenへの依存性を分�
 
 link:build-tools.html[NetBeans IDEのビルド・ツール]
 
-     [overview-left]#link:../../images_www/v7/3/features/debugger.png[image:../../images_www/v7/3/features/debugger-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/debugger.png[image:debugger-cut.png[]]#
 
 === デバッグとプロファイリング
 
@@ -64,7 +64,7 @@ link:build-tools.html[NetBeans IDEのビルド・ツール]
 
 link:debugger.html[NetBeans IDEのデバッガとプロファイラ]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:../../images_www/v7/3/features/ide-testing-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:ide-testing-cut.png[]]#
 
 === テストとコード分析
 
@@ -79,4 +79,4 @@ link:testing.html[NetBeans IDEでのテストとコード分析]
 * 最新の安定版リリースの個別機能のリストについては、link:/community/releases/74/index.html[NetBeans IDE 7.4リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-se.html[「一般的なJava開発の学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

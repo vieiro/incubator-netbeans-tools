@@ -32,19 +32,19 @@
 
 O editor NetBeans sensível a linguagem detecta erros enquanto você digita e o auxilia com a documentação e o recurso inteligente de autocompletar código, tudo isso com a velocidade e a simplicidade do seu editor de textos favorito.
 
-[overview-right]#image:/images_www/v7/3/features/php/php-54-traitcc_small.png[]#
+[overview-right]#image:php-54-traitcc_small.png[]#
 
 === Suporte a PHP 5.4
 
 O recurso autocompletar do PHP de IDE suporta estilos de array de PHP 5.4, como link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_array[cancelamento da referência de array] e link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_short[sintaxe curta de array]. O NetBeans IDE também reconhece link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_traits[Características] e link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_anonymous[variáveis de objeto anônimo] (também chamadas "instanciação fluente"). Finalmente, o NetBeans IDE para PHP inclui link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_minor[funcionalidades mínimas], como dicas de tipo chamáveis, notação binária de inteiros e chamada de `Classe::{expr}()`.
 
-  [overview-left]#image:/images_www/v7/3/features/php/php-code-completion_small.png[]#
+  [overview-left]#image:php-code-completion_small.png[]#
 
 === Autocompletar Código
 
 O editor oferece o recurso de autocompletar código automaticamente (para anotações mais comuns de PHPDoc também). Quando você digita, ele lista as possíveis conclusões: as opções mais óbvias e comuns são listadas no início, mas você sempre pode escolher dentre um conjunto completo de opções abaixo. Se uma pessoa completar um método com parâmetros, o IDE tentará computar e inserir a variável mais adequada, que foi declarada antes de o método ter sido preenchido.
 
-  [overview-right]#image:/images_www/v7/3/features/php/php-code-navigation_small.png[]#
+  [overview-right]#image:php-code-navigation_small.png[]#
 
 === Navegação de Código Fácil
 
@@ -65,17 +65,17 @@ Para navegar facilmente por projetos grandes, utilize a janela do navegador ou o
 
  
 
-|[overview-centre]#image:/images_www/v7/3/features/php/php-refactoring_small.png[]#
+|[overview-centre]#image:php-refactoring_small.png[]#
 O IDE oferece refatoração básica de renomeações de elementos (classes, interfaces, métodos, campos etc). Ele está conectado de perto com o suporte a Find Usages, que oferece uma forma de localizar um elemento selecionado em todo o projeto e exibir esses usos em uma IU.
 
  |
 
-[overview-centre]#image:/images_www/v7/3/features/php/php-hints_small.png[]#
+[overview-centre]#image:php-hints_small.png[]#
 O IDE oferece um conjunto de "Dicas" que ajudam a analisar o código e encontrar partes estranhas (variáveis não usadas, variáveis não inicializadas etc); a maioria delas sugere uma solução simples para corrigir o problema encontrado.
 
  |
 
-[overview-centre]#image:/images_www/v7/3/features/php/php-insert-code_small.png[]#
+[overview-centre]#image:php-insert-code_small.png[]#
 O editor pode gerar snippets comuns de códigos para você no PHP. É fornecida uma caixa de diálogo para que você tenha total controle sobre quais métodos e quais atributos de classe eles acessam. O IDE o ajuda a substituir métodos e gerar possibilitadores de acesso.
 
  
@@ -88,12 +88,12 @@ O editor pode gerar snippets comuns de códigos para você no PHP. É fornecida 
 
  
 
-|[overview-centre]#image:/images_www/v7/3/features/php/php-fix-uses.png[]#
+|[overview-centre]#image:php-fix-uses.png[]#
 Uma das ações mais avançadas do NetBeans IDE para PHP é a ação "Corrigir Usos...". Ela analisa seu código e tenta localizar usos de tipos (classes, interfaces) que não têm a instrução de uso correspondente (ele analisa PHPDocs também). Se algum conflito for exibido, a caixa de diálogo será exibida e o usuário poderá resolver o problema.
 
  |
 
-[overview-centre]#image:/images_www/v7/3/features/php/php-hierarchy-view_small.png[]#
+[overview-centre]#image:php-hierarchy-view_small.png[]#
 O IDE oferece uma maneira de mostrar para o usuário uma hierarquia de tipos (supertipos e subtipos) de um tipo necessário. Sua representação gráfica é exibida em uma janela separada ao lado de uma janela do navegador.
 
  
@@ -104,4 +104,4 @@ O IDE oferece uma maneira de mostrar para o usuário uma hierarquia de tipos (su
 * link:/community/releases/81/index.html[Página de Release do NetBeans IDE 8.1] para obter uma lista de funcionalidades específicas da última versão estável.
 * link:../../kb/trails/php.html[Trilha de Aprendizado de PHP e HTML5] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

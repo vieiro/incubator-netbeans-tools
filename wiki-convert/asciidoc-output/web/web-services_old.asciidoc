@@ -28,7 +28,7 @@
 
 == Web Service Development
 
-link:../../images_www/v7/screenshots/websvc.png[image:../../images_www/v7/screenshots/websvc-cut.png[]]
+link:../../images_www/v7/screenshots/websvc.png[image:websvc-cut.png[]]
 link:../../images_www/v6/8/screenshots/web-services.png[[font-11]# Click image for fullscreen preview#]
 
 *The NetBeans IDE assists you with web service interoperability, security, reliability and transactions.*
@@ -38,9 +38,9 @@ link:../../images_www/v6/8/screenshots/web-services.png[[font-11]# Click image f
 
 The NetBeans IDE supports Java EE 6 and Java EE 5, including the JAX-WS 2.2, JAX-RS 1.1, and JAXB 2.2 web service standards. You can work with GlassFish Server Open Source Edition, Oracle Weblogic, Apache Tomcat, JBoss, and many more. The code completion functionality includes annotations that you can use in your web services.
 
- |image:../../images_www/v5/product-pages/ide-glassfish.png[] 
+ |image:ide-glassfish.png[] 
 
-|=== RESTful Web Services image:../../images_www/v6/features/improved_small.gif[]
+|=== RESTful Web Services image:improved_small.gif[]
 
 The IDE assists you in creating link:http://jersey.dev.java.net/[JSR-311]-compliant (JAX-RS 1.1) RESTful web services from JPA entity classes and patterns, or even directly from a database. The code generated from JPA entities works on top of the Spring framework. RESTful web services are available to wrap entity beans and provide easy CRUD functionality.
 
@@ -53,7 +53,7 @@ link:../../kb/docs/websvc/rest.html[Getting Started with RESTful Web Services]
 
  |
 
-image:../../images_www/v7/1/features/ws-restful-ee5-71.png[]
+image:ws-restful-ee5-71.png[]
 
  
 
@@ -67,7 +67,7 @@ Convert SOAP based web services to RESTful service resources by using the action
 
  |
 
-image:../../images_www/v6/features/ws-google-maps_200px.png[]
+image:ws-google-maps_200px.png[]
 
  
 
@@ -77,7 +77,7 @@ Wsb Service Interoperability Technologies (WSIT) are directly available from the
 
  |
 
-image:../../images_www/v6/javanet.gif[]
+image:javanet.gif[]
 
  
 
@@ -93,13 +93,13 @@ Write applications that access web services directly from a JSR-172-enabled phon
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/web.html[Web Services Learning Trail]
+image:arrow-button.gif[] link:../../kb/trails/web.html[Web Services Learning Trail]
 
  |
 
-image:../../images_www/v6/features/ws-diagram.png[]
+image:ws-diagram.png[]
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

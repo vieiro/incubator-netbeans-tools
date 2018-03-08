@@ -28,7 +28,7 @@
 
 == Java ME (Micro Edition) &amp; Incorporado
 
-link:../../images_www/v7/1/screenshots/gamebuilder.png[image:../../images_www/v7/1/screenshots/gamebuilder-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/1/screenshots/gamebuilder.png[image:gamebuilder-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 *Crie, teste, depure e implante aplicações que serão executadas em telefones celulares, PDAs, decodificadores de sinais, sistemas incorporados - literalmente bilhões de dispositivos.*
 
@@ -51,9 +51,9 @@ _O Visual Mobile Designer está disponível no Centro de Atualização do NetBea
 
  |
 
-image:../../images_www/v6/5/features/mobile-designer.png[]
+image:mobile-designer.png[]
 
-image:../../images_www/v6/9/features/java-card.png[]
+image:java-card.png[]
 
  
 
@@ -67,7 +67,7 @@ Use o Composer SVG para criar e modificar componentes de IU baseados em SVG. O C
 
  |
 
-image:../../images_www/v7/1/features/mobile-svg-palette.png[]
+image:mobile-svg-palette.png[]
 
  
 
@@ -81,7 +81,7 @@ Desenvolva jogos para dispositivos móveis com um editor visual projetado para M
 
  |
 
-image:../../images_www/v6/5/features/mobile-data-binding.png[]
+image:mobile-data-binding.png[]
 
  
 
@@ -91,7 +91,7 @@ Resolva os problemas de fragmentação de dispositivo criando várias configura�
 
  |
 
-image:../../images_www/v7/1/features/mobile-conf-mgr.png[]
+image:mobile-conf-mgr.png[]
 
  
 
@@ -105,7 +105,7 @@ Aprimore o pacote Mobility conectando seus próprios componentes. É possível a
 
  |
 
-image:../../images_www/v6/features/mobile-preprocessor.png[]
+image:mobile-preprocessor.png[]
 
  
 
@@ -115,9 +115,9 @@ Ferramentas integradas do IDE para teste do JMUnit 1.1.0, assinatura de MIDlet, 
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/mobility.html[Trilha de Aprendizado do Mobility]
+image:arrow-button.gif[] link:../../kb/trails/mobility.html[Trilha de Aprendizado do Mobility]
 
- |link:http://www.ikivo.com/java/java.html[image:../../images_www/partners/ikivo_logo_small.jpg[]] Ikivo Animator: imagem SVG avançada para a edição e animação do NetBeans IDE. Saiba mais sobre este link:http://www.ikivo.com/java/white_paper1.html[artigo] e link:http://www.ikivo.com/java/netbeans_tutorial.html[tutorial]. 
+ |link:http://www.ikivo.com/java/java.html[image:ikivo_logo_small.jpg[]] Ikivo Animator: imagem SVG avançada para a edição e animação do NetBeans IDE. Saiba mais sobre este link:http://www.ikivo.com/java/white_paper1.html[artigo] e link:http://www.ikivo.com/java/netbeans_tutorial.html[tutorial]. 
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

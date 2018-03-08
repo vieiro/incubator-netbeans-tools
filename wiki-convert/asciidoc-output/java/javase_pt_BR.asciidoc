@@ -28,7 +28,7 @@
 
 == Java SE (Standard Edition)
 
-link:../../images_www/v7/screenshots/java-se.png[image:../../images_www/v7/screenshots/java-se-cut1.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/screenshots/java-se.png[image:java-se-cut1.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 *O NetBeans IDE fornece aos desenvolvedores de Java todas as ferramentas que eles precisam para criar aplicações Java SE profissionais. O NetBeans IDE suporta desenvolvimento para JDK 6 e JDK 7.*
 
@@ -67,12 +67,12 @@ Se você salvar as modificações em um método enquanto o depurador já estiver
 
  |
 
-image:../../images_www/screenshots/6.0/javaSE_logo_150px.png[]
+image:javaSE_logo_150px.png[]
 
-image:../../images_www/v6/9/features/annotation-processor.png[]
+image:annotation-processor.png[]
 
 
-image:../../images_www/v6/5/features/java-call-hierarchy.png[]
+image:java-call-hierarchy.png[]
 
  
 
@@ -82,7 +82,7 @@ JUnit 3 e 4 estão integrados no IDE. Você pode criar, executar e reexecutar ra
 
  |
 
-image:../../images_www/v6/9/features/unit-test.png[]
+image:unit-test.png[]
 
  
 
@@ -96,14 +96,14 @@ O NetBeans IDE armazena informações do projeto em formatos aberto, extensível
 
 O suporte do Java Bean faz com que a geração de propriedade do Bean e a edição do BeanInfo sejam mais simples. O GUI Builder do NetBeans auxilia você no desenvolvimento de Java Swing, do protótipo à interface de usuário gráfica final. O depurador integrado do NetBeans e a ajuda do Profiler do NetBeans ajudam você a escrever softwares resistentes para área de trabalho em Java.
 
- |image:../../images_www/screenshots/6.0/baseIDE_ant_powered_150px.png[] 
+ |image:baseIDE_ant_powered_150px.png[] 
 |===
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/java-se.html[Trilha de Aprendizado da Programação Java e IDE Básica]
+image:arrow-button.gif[] link:../../kb/trails/java-se.html[Trilha de Aprendizado da Programação Java e IDE Básica]
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/platform.html[Trilha do Aprendizado da Plataforma NetBeans]
+image:arrow-button.gif[] link:../../kb/trails/platform.html[Trilha do Aprendizado da Plataforma NetBeans]
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

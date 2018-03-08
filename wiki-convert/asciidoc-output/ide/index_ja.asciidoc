@@ -30,11 +30,11 @@
 
 == 基本IDE
 
-link:../../images_www/v7/3/features/ide-basic-full.png[image:../../images_www/v7/3/features/ide-basic-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/ide-basic-full.png[image:ide-basic-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 NetBeans IDEは、幅広いアプリケーション開発テクノロジを対象とするモジュール方式の開発者ツールです。基本IDEは、高度な複数言語エディタ、デバッガとプロファイラ、およびバージョン管理と開発者間のコラボレーションのためのツールを備えています。
 
-    [overview-right]#link:../../images_www/v7/3/features/ide-basic-templates-full.png[image:../../images_www/v7/3/features/ide-basic-templates-full-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ide-basic-templates-full.png[image:ide-basic-templates-full-cut.png[]]#
 
 === テンプレートとサンプル・アプリケーション
 
@@ -44,7 +44,7 @@ IDEには、Java SEアプリケーション、Java EEアプリケーション、
 
 link:../../kb/index.html[NetBeansテクノロジの学習]
 
-     [overview-left]#link:../../images_www/v7/3/features/ide-basic-services-full.png[image:../../images_www/v7/3/features/ide-basic-services-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ide-basic-services-full.png[image:ide-basic-services-cut.png[]]#
 
 === データベースおよびサービス
 
@@ -56,7 +56,7 @@ bugデータベース(Issuezilla、Bugzillaなど)に接続し、IDEのプロジ
 
 link:../../kb/trails/tools.html[外部ツールおよびサービスとの統合]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-basic-plugins.png[image:../../images_www/v7/3/features/ide-basic-plugins-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-basic-plugins.png[image:ide-basic-plugins-cut.png[]]#
 
 === プラグイン・マネージャ
 
@@ -83,17 +83,17 @@ link:http://plugins.netbeans.org/[NetBeansプラグイン・ポータル]
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-basic-quick-search.png[]#
+|[overview-centre]#image:ide-basic-quick-search.png[]#
 クイック検索は、JDKのすべてのJavaタイプ、IDEのアクション、ヘルプ・セット、オプション設定およびプロジェクト全体にわたって検索を実行できる中央の場所です。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-basic-actionitems-cut.png[]#
+[overview-centre]#image:ide-basic-actionitems-cut.png[]#
 「アクション項目」ウィンドウでは、コードが自動的にスキャンされ、TODOやFIXMEなどの語を含むコメント行、およびコンパイル・エラー、簡易修正、スタイル警告を含む行が一覧表示されます。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-basic-customize.png[]#
+[overview-centre]#image:ide-basic-customize.png[]#
 IDEのワークスペースは変更可能です。個々のワークフローに合せてツールバーのボタンをカスタマイズしたり、IDEアプリケーション・フレームのタブをドラッグして再配置したりできます。タブを切り離して、アプリケーション・フレーム外部や別のモニター上にドラッグすることができます。
 
  
@@ -104,4 +104,4 @@ IDEのワークスペースは変更可能です。個々のワークフロー�
 * 最新の安定版リリースの主な機能のリストについては、link:../../community/releases/80/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-se.html[「一般的なJava開発の学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

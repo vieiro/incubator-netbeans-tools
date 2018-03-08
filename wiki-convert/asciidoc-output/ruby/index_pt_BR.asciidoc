@@ -28,7 +28,7 @@
 
 == Ruby e Ruby on Rails
 
-link:../../images_www/v6/9/screenshots/ruby.png[image:../../images_www/v6/9/screenshots/ruby-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v6/9/screenshots/ruby.png[image:ruby-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 *OBSERVAÇÃO: A partir do NetBeans IDE 7.0, o suporte para Ruby e Ruby on Rails não está mais disponível na compilação padrão do NetBeans IDE. Consulte a página da link:http://wiki.netbeans.org/RubySupport[Wiki de Suporte do Ruby] para obter mais informações.*
 
@@ -39,7 +39,7 @@ O editor recua, completa e realça o código Ruby tanto sintática como semantic
 
  |
 
-image:../../images_www/v6/7/features/ruby-editor.png[]
+image:ruby-editor.png[]
 
  
 
@@ -62,13 +62,13 @@ Etapa única ou execução usando o código Ruby e arquivos ERB. Defina pontos d
 
  |
 
-image:../../images_www/v6/7/features/ruby-test.png[]
+image:ruby-test.png[]
 
-image:../../images_www/v6/7/features/ruby-files.png[]
+image:ruby-files.png[]
 
-image:../../images_www/v6/7/features/ruby-rails.png[]
+image:ruby-rails.png[]
 
-image:../../images_www/v6/7/features/ruby-debugger.png[]
+image:ruby-debugger.png[]
 
  
 
@@ -80,12 +80,12 @@ Se instalar o gem do empacotador, é possível executar ações do Empacotador d
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:http://wiki.netbeans.org/wiki/view/Ruby[O Ruby Wiki]
+image:arrow-button.gif[] link:http://wiki.netbeans.org/wiki/view/Ruby[O Ruby Wiki]
 
-image:../../images_www/v6/arrow-button.gif[] link:http://wiki.netbeans.org/RubySupport[Wiki de Suporte do Ruby]
+image:arrow-button.gif[] link:http://wiki.netbeans.org/RubySupport[Wiki de Suporte do Ruby]
 
 
- |image:../../images_www/v6/features/ruby-gems.png[] 
+ |image:ruby-gems.png[] 
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

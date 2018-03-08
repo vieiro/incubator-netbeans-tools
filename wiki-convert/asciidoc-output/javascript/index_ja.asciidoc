@@ -28,7 +28,7 @@
 
 == HTML、JavaScript、およびCSSを使用した開発
 
-link:../../images_www/v7/screenshots/html.png[image:../../images_www/v7/screenshots/html-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/screenshots/html.png[image:html-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 *Web開発に最適なツール。*
 
@@ -37,11 +37,11 @@ link:../../images_www/v7/screenshots/html.png[image:../../images_www/v7/screensh
 
 HTML 5、JavaScript 1.7、およびE4X用の意味解釈の強調表示(埋込みXMLオブジェクト)を含む、HTML、CSS、およびJavaScriptでの構文の完全強調表示、コード補完、ドキュメントのポップアップ、およびエラー確認を利用できます。IDEはvalidator.nuサービスを介してHTMLを検証します。エディタでは、JavaScriptファイル内のHTMLコードおよびHTMLファイル内のJavaScriptコードが認識されます。エディタでは、XHTML、PHP、およびJSPファイル内のHTMLとJavaScriptも認識されます。
 
-==== HTML image:../../images_www/v6/features/improved_small.gif[]
+==== HTML image:improved_small.gif[]
 
 IDEでエディタを使用すると、新しいヒントを使用して、簡単にコードをタグで囲んだり、囲んでいるタグを除去することができます。インライン・スタイルをスタイル・ブロックまたは.cssファイルに移すこともできます。
 
-==== CSS image:../../images_www/v6/features/improved_small.gif[]
+==== CSS image:improved_small.gif[]
 
 NetBeans IDEは、CSS 3をサポートしています。リファクタリング、意味解釈の強調表示、出現箇所のマークなどの機能がCSS3コードに適応するようになりました。CSSコード補完が拡張されて、html要素、CSS3プロパティとその値、新しい擬似クラスと擬似要素、および名前空間接頭辞を補完するようになりました。ベンダー固有のプロパティ(ダッシュ接頭辞プロパティ)もコード補完に追加されました。ナビゲータ・ウィンドウでは、cssクラス、ID、要素、名前空間、およびルールが個別の要素セットに表示されるようになりました。
 
@@ -63,19 +63,19 @@ NetBeans JavaScriptとCSSのエディタは、Ajaxの開発に最適です。Net
 NetBeans JavaScriptエディタには、jQuery、Script.aculo.us、Prototypeなどの一般的なToolkitに対するコード補完と統合されたドキュメントが用意されています。使用するJavaScript Toolkitをダウンロードし、そのファイルをプロジェクトにコピーすると、エディタが自動的にそれらを認識します。
 
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/web.html[Webアプリケーションの学習]
+image:arrow-button.gif[] link:../../kb/trails/web.html[Webアプリケーションの学習]
 
  |
 
-image:../../images_www/v6/8/features/javascript-browser-options.png[]
+image:javascript-browser-options.png[]
 
-image:../../images_www/v6/8/features/http-monitor.png[]
+image:http-monitor.png[]
 
-image:../../images_www/v6/8/features/ajax.png[]
+image:ajax.png[]
 
-image:../../images_www/v6/5/features/javascript-editor.png[]
+image:javascript-editor.png[]
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

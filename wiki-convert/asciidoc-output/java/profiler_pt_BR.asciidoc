@@ -28,7 +28,7 @@
 
 == Profiler
 
-link:../../images_www/v7/1/screenshots/profiler.png[image:../../images_www/v7/1/screenshots/profiler-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/1/screenshots/profiler.png[image:profiler-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 *O profiler do NetBeans proporciona assistência especializada para otimizar a velocidade e o uso de memória de sua aplicação e facilita a construção de aplicações Java SE, JavaFX e Java EE confiáveis e dimensionáveis.*
 
@@ -43,7 +43,7 @@ Selecione entre várias das tarefas comuns de criação de perfil, tais como cri
 
 Use o HeapWalker para avaliar o conteúdo do heap Java e para identificar referências desnecessárias que causam vazamentos de memória. É possível explorar classes e instâncias de classes no heap, campos de cada instância ou classe e referências a cada instância. Utilize consultas OQL compatíveis com jHat para analisar o conteúdo de um heapdump: obtenha benefícios do realce básico de sintaxe e da funcionalidade autocompletar código para OQL.
 
- |image:../../images_www/v6/features/profiler-heapwalker_p150.png[] 
+ |image:profiler-heapwalker_p150.png[] 
 
 |=== Pontos de Determinação de Perfil
 
@@ -51,7 +51,7 @@ Coloque os pontos de criação de perfil em seu código-fonte para controlar mai
 
 Utilize os pontos de criação de perfil para disparar automaticamente as ações quando certas condições são atendidas, tal como a execução de uma linha de código, tempo decorrido ou memória utilizada. Os pontos de criação de perfil podem disparar os dumps de heap, a redefinição de resultados coletados, a execução de um script gerador de carga e a criação de um snapshot dos resultados.
 
- |image:../../images_www/screenshots/6.0/javaSE_profiler_profiling_points2_150px.png[] 
+ |image:javaSE_profiler_profiling_points2_150px.png[] 
 
 |=== Identificando os Gargalos da CPU
 
@@ -63,7 +63,7 @@ Crie um perfil de todo a aplicação ou de um subconjunto sob uma carga de traba
 
 Identifique os objetos com vazamento de acordo com seus padrões especiais de alocações e coleções de lixo ou com a ausência destes. A criação de perfil da execução do objeto rastreia os eventos de criação do objeto e de coleções de lixo. Inspecione o número, a idade, os caminhos de alocação e outras características de objetos que estão atualmente na memória e compare os snapshots da memória.
 
- |image:../../images_www/screenshots/6.0/javaSE_profiler_drilldown_150px.png[] 
+ |image:javaSE_profiler_drilldown_150px.png[] 
 
 |=== Monitorando o Status dos Threads
 
@@ -77,12 +77,12 @@ Crie o perfil de uma aplicação que esteja sendo executada em um sistema difere
 
 Anexe o profiler em qualquer aplicação Java, inclusive em aplicações que não sejam iniciadas pelo IDE. Se a aplicação Java e o IDE estiverem sendo executadas com o JDK 6, é possível anexar o profiler dinamicamente, o que permite a criação de perfil de uma aplicação que já esteja sendo executada.
 
- |image:../../images_www/v6/features/profiler-threads.png[] 
+ |image:profiler-threads.png[] 
 |===
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/java-se.html[Trilha de Aprendizado do Java SE e IDE de Base]
+image:arrow-button.gif[] link:../../kb/trails/java-se.html[Trilha de Aprendizado do Java SE e IDE de Base]
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

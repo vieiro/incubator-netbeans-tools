@@ -28,7 +28,7 @@
 
 == 使用 HTML、JavaScript 和 CSS 开发
 
-link:../../images_www/v7/screenshots/html.png[image:../../images_www/v7/screenshots/html-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/screenshots/html.png[image:html-cut.png[][font-11]#单击图像查看全屏预览#]
 
 *最佳的 Web 开发工具。*
 
@@ -37,11 +37,11 @@ link:../../images_www/v7/screenshots/html.png[image:../../images_www/v7/screensh
 
 可以利用完善的语法突出显示、代码完成、弹出式文档和错误检查功能来处理 HTML、CSS 和 JavaScript 代码，包括 HTML 5、JavaScript 1.7 和 E4X（嵌入的 XML 对象）的语义突出显示。IDE 可通过 validator.nu 服务对 HTML 进行验证。编辑器可识别 JavaScript 文件中的 HTML 代码，也可识别 HTML 文件中的 JavaScript 代码。编辑器还可识别 XHTML、PHP 和 JSP 文件中的 HTML 和 JavaScript 代码。
 
-==== HTML image:../../images_www/v6/features/improved_small.gif[]
+==== HTML image:improved_small.gif[]
 
 您可以在 IDE 中使用编辑器快速将代码包含在标记中，也可以使用新的提示删除包含标记。此外，还可以删除样式块或 .css 文件的内联样式。
 
-==== CSS image:../../images_www/v6/features/improved_small.gif[]
+==== CSS image:improved_small.gif[]
 
 NetBeans IDE 支持 CSS 3。重构、语义突出显示、标记实例和其他功能已根据 CSS3 代码进行了改编。CSS 代码完成已扩展到完整的 HTML 元素、CSS3 属性及其值、新的伪类和伪元素以及名称空间前缀。特定于供应商的属性（短划线前缀属性）也已添加到代码完成中。"Navigator"（导航器）窗口现将 CSS 类、ID、元素、名称空间和规则显示在单独的元素集中。
 
@@ -63,19 +63,19 @@ NetBeans JavaScript 和 CSS 编辑器是 Ajax 开发的理想之选。NetBeans I
 NetBeans JavaScript 编辑器为常用工具包提供了代码完成和集成文档，例如，jQuery、Script.aculo.us 和 Prototype 等。请下载您喜爱的 JavaScript 工具包并将其文件复制到项目中，编辑器将自动识别它们。
 
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/web.html[Web 应用程序学习资源]
+image:arrow-button.gif[] link:../../kb/trails/web.html[Web 应用程序学习资源]
 
  |
 
-image:../../images_www/v6/8/features/javascript-browser-options.png[]
+image:javascript-browser-options.png[]
 
-image:../../images_www/v6/8/features/http-monitor.png[]
+image:http-monitor.png[]
 
-image:../../images_www/v6/8/features/ajax.png[]
+image:ajax.png[]
 
-image:../../images_www/v6/5/features/javascript-editor.png[]
+image:javascript-editor.png[]
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

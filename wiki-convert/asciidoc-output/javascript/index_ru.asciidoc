@@ -28,7 +28,7 @@
 
 == Разработка с помощью HTML, JavaScript и CSS
 
-link:../../images_www/v7/screenshots/html.png[image:../../images_www/v7/screenshots/html-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/screenshots/html.png[image:html-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 *Лучшие средства веб-разработки.*
 
@@ -37,11 +37,11 @@ link:../../images_www/v7/screenshots/html.png[image:../../images_www/v7/screensh
 
 Используйте преимущества таких функций, как подсветка синтаксиса, автозавершение кода, всплывающая документация и проверка ошибок для HTML, CSS и JavaScript, включая HTML 5, JavaScript 1.7 и семантическое выделение для E4X (внедрённые объекты XML). В среде IDE проверка HTML выполняется с помощью службы validator.nu. Редактор распознает код HTML в файлах JavaScript и код JavaScript в файлах HTML files. Редактор также распознает HTML и JavaScript файлах XHTML, PHP и JSP.
 
-==== HTML image:../../images_www/v6/features/improved_small.gif[]
+==== HTML image:improved_small.gif[]
 
 Можно использовать редактор в среде IDE для быстрого окружения кода тегами или удаления окружающего тега с помощью нескольких подсказок. Можно переместить встроенные стили в блок стилей или файл .css.
 
-==== CSS image:../../images_www/v6/features/improved_small.gif[]
+==== CSS image:improved_small.gif[]
 
 IDE NetBeans поддерживает CSS 3. Реорганизация, семантическое выделение, пометка вхождений и другие функции адаптированы к коду CSS3. Автозавершение кода CSS теперь включает в себя автозавершение элементов html, свойств CSS3 и их значений, новых псевдоклассов и псевдоэлементов, а также префиксов пространства имен. Свойства, зависящие от производителя (свойства префикса-дефиса), также добавлены в автозавершение кода. В окне навигатора теперь отображаются классы css, идентификаторы, элементы, пространства имен и правила в виде отдельных наборов элементов.
 
@@ -63,19 +63,19 @@ link:../../kb/docs/web/js-toolkits-jquery.html[Использование jQuery
 Редактор JavaScript среды NetBeans имеет функцию автозавершения кода и встроенную документацию для популярных инструментариев, в частности jQuery, Script.aculo.us, Prototype и др. Загрузите свой любимый инструментарий JavaScript, скопируйте его файлы в свой проект, и редактор распознает их автоматически.
 
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/web.html[Учебная карта по веб-приложениям]
+image:arrow-button.gif[] link:../../kb/trails/web.html[Учебная карта по веб-приложениям]
 
  |
 
-image:../../images_www/v6/8/features/javascript-browser-options.png[]
+image:javascript-browser-options.png[]
 
-image:../../images_www/v6/8/features/http-monitor.png[]
+image:http-monitor.png[]
 
-image:../../images_www/v6/8/features/ajax.png[]
+image:ajax.png[]
 
-image:../../images_www/v6/5/features/javascript-editor.png[]
+image:javascript-editor.png[]
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

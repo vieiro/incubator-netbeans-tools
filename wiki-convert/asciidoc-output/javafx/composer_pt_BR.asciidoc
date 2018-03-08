@@ -28,7 +28,7 @@
 
 == JavaFX Composer
 
-link:../../images_www/v6/9/screenshots/javafx-composer.png[image:../../images_www/v6/9/screenshots/javafx-composer-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v6/9/screenshots/javafx-composer.png[image:javafx-composer-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 *A ferramenta de layout visual para aplicações JavaFX.*
 
@@ -45,7 +45,7 @@ O JavaFX Composer é uma ferramenta de layout visual para aplicações JavaFX, a
 
  |
 
-image:../../images_www/screenshots/6.9/javafx-composer.png[]
+image:javafx-composer.png[]
 
  
 
@@ -66,28 +66,28 @@ O Composer JavaFX facilita o desenvolvimento de aplicações com várias telas, 
 
  |
 
-image:../../images_www/v6/9/features/javafx-states.png[]
+image:javafx-states.png[]
 
-link:http://www.javafx.com/[image:../../images_www/v6/8/features/javafx-screens.png[]]
+link:http://www.javafx.com/[image:javafx-screens.png[]]
 
  
 
-|=== Conectividade de Dados Embutida image:../../images_www/v6/features/new_small.gif[]
+|=== Conectividade de Dados Embutida image:new_small.gif[]
 
 Se a aplicação JavaFX requer uma conexão com fontes de dados, utilize os modelos de projeto para criar facilmente uma aplicação de Área de Trabalho Corporativa JavaFX ou uma Aplicação Corporativa Móvel JavaFX. Utilize a View do Design para conectar a interface do usuário às fontes de dados, tais como os serviços de rede RESTful, bancos de dados, sistema de arquivos locais ou arquivos de dados.
 
 
-image:../../images_www/v6/arrow-button.gif[] link:https://netbeans.org/kb/trails/matisse.html[Trilha de Aprendizado de JavaFX e de GUI de Swing].
+image:arrow-button.gif[] link:https://netbeans.org/kb/trails/matisse.html[Trilha de Aprendizado de JavaFX e de GUI de Swing].
 
-image:../../images_www/v6/arrow-button.gif[] link:http://www.javafx.com/[javafx.com] com downloads, demonstrações, FAQs e documentação.
+image:arrow-button.gif[] link:http://www.javafx.com/[javafx.com] com downloads, demonstrações, FAQs e documentação.
 
  |
 
-image:../../images_www/v6/9/features/javafx-data.png[]
+image:javafx-data.png[]
 
  
 |===
 
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

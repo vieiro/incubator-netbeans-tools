@@ -28,7 +28,7 @@
 
 == NetBeans IDE UML機能
 
-link:../../images_www/v6/5/screenshots/uml.png[image:../../images_www/v6/5/screenshots/uml-cut.png[]]
+link:../../images_www/v6/5/screenshots/uml.png[image:uml-cut.png[]]
 link:../../images_www/v6/5/screenshots/uml.png[[font-11]#イメージをクリックして全画面表示#]
 
 *NetBeans IDEのUMLプラグインは、バージョン6.7以前のリリースで使用できます。*
@@ -42,9 +42,9 @@ Visual Paradigmによるlink:http://www.visual-paradigm.com/product/sde/nb/[SDE 
 * チームのコラボレーション機能
 * Java、C++、PHPなどのコード生成
 
-image:../../images_www/v6/arrow-button.gif[] 詳細は、link:http://www.visual-paradigm.com/product/sde/nb/[visual-paradigm.com]を参照してください。
+image:arrow-button.gif[] 詳細は、link:http://www.visual-paradigm.com/product/sde/nb/[visual-paradigm.com]を参照してください。
 
- |image:../../images_www/v6/9/features/uml-visual-paradigm.png[] 
+ |image:uml-visual-paradigm.png[] 
 
 |=== JDeveloper
 
@@ -53,10 +53,10 @@ image:../../images_www/v6/arrow-button.gif[] 詳細は、link:http://www.visual
 * ユース・ケース図、クラス図、アクティビティ図、およびシーケンス図などのUML図
 * JSFフロー図、EJB図、データベース・モデラー、およびスキーマ・エディタなどのドメイン固有モデラー
 
-image:../../images_www/v6/arrow-button.gif[] 詳細は、link:http://www.oracle.com/technology/products/jdev/htdocs/netbeans/uml.html[oracle.com]を参照してください。
+image:arrow-button.gif[] 詳細は、link:http://www.oracle.com/technology/products/jdev/htdocs/netbeans/uml.html[oracle.com]を参照してください。
 
- |image:../../images_www/v6/9/features/uml-jdeveloper.png[]
+ |image:uml-jdeveloper.png[]
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

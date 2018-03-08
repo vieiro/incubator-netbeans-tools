@@ -30,11 +30,11 @@
 
 == Groovy
 
-link:../../images_www/v7/3/features/groovy-full.png[image:../../images_www/v7/3/features/groovy-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/3/features/groovy-full.png[image:groovy-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 IDE NetBeans предоставляет инструменты для разработчиков на Groovy и Grails с интеграцией в проекты Java EE и Java SE.
 
-    [overview-right]#link:../../images_www/v7/3/features/groovy-editor-full.png[image:../../images_www/v7/3/features/groovy-editor-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/groovy-editor-full.png[image:groovy-editor-cut.png[]]#
 
 === Редактор Groovy
 
@@ -42,7 +42,7 @@ IDE NetBeans предоставляет инструменты для разра
 
 Groovy хорошо интегрируется с Java в любом проекте Java EE и Java SE. Можно вызвать классы Groovy из кода Java и классов Java из кода Groovy.
 
-link:../../kb/docs/java/groovy-quickstart.html[Введение в Groovy]     [overview-left]#link:../../images_www/v7/3/features/groovy-grails-full.png[image:../../images_www/v7/3/features/groovy-grails-cut.png[]]#
+link:../../kb/docs/java/groovy-quickstart.html[Введение в Groovy]     [overview-left]#link:../../images_www/v7/3/features/groovy-grails-full.png[image:groovy-grails-cut.png[]]#
 
 === Grails
 
@@ -50,7 +50,7 @@ link:../../kb/docs/java/groovy-quickstart.html[Введение в Groovy]     
 
 В IDE также поддерживается открытие существующих проектов Grails без добавления метаданных.
 
-link:../../kb/docs/web/grails-quickstart.html[Введение в платформу Grails]     [overview-right]#link:../../images_www/v7/3/features/groovy-gradle.png[image:../../images_www/v7/3/features/groovy-gradle-cut.png[]]#
+link:../../kb/docs/web/grails-quickstart.html[Введение в платформу Grails]     [overview-right]#link:../../images_www/v7/3/features/groovy-gradle.png[image:groovy-gradle-cut.png[]]#
 
 === Griffon и Gradle
 
@@ -66,4 +66,4 @@ link:http://plugins.netbeans.org/plugin/44510/gradle-support[Подключае�
 * link:../../community/releases/81/index.html[На странице редакции IDE netbeans 8.1] приведен список выделенных функций в последней стабильной версии.
 * link:../../kb/trails/java-se.html[Учебная карта по общим сведениям о разработке на Java] для учебных курсов по началу работы.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

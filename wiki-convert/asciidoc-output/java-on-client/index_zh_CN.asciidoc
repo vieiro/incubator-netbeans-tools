@@ -30,11 +30,11 @@
 
 == 客户端上的 Java
 
-link:../../images_www/v7/3/features/client-main-full.png[image:../../images_www/v7/3/features/client-main-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/client-main-full.png[image:client-main-cut.png[][font-11]#单击图像查看全屏预览#]
 
 NetBeans IDE 可帮助您快速有效地使用 JavaFX 和 Swing 为 Java SE 以及 Java ME 和嵌入式应用程序开发 Java 客户端。
 
-    [overview-right]#link:../../images_www/v7/3/features/client-javafx-full.png[image:../../images_www/v7/3/features/client-javafx-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-javafx-full.png[image:client-javafx-cut.png[]]#
 
 === JavaFX
 
@@ -44,7 +44,7 @@ IDE 提供了 JavaFX 项目以及与 JavaFX 场景构建器的集成，还提供
 
 link:javafx.html[NetBeans IDE 中的 JavaFX]
 
-     [overview-left]#link:../../images_www/v7/3/features/client-swing-full.png[image:../../images_www/v7/3/features/client-swing-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/client-swing-full.png[image:client-swing-cut.png[]]#
 
 === Swing
 
@@ -54,7 +54,7 @@ link:javafx.html[NetBeans IDE 中的 JavaFX]
 
 link:swing.html[NetBeans IDE 中的 Swing]
 
-     [overview-right]#link:../../images_www/v7/3/features/client-jme-full.png[image:../../images_www/v7/3/features/client-jme-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-jme-full.png[image:client-jme-cut.png[]]#
 
 === Java ME 和嵌入式应用程序
 
@@ -69,4 +69,4 @@ link:java-me.html[NetBeans IDE 中的 Java ME 和嵌入式应用程序]
 * link:../../community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/java-se.html[常规 Java 开发学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

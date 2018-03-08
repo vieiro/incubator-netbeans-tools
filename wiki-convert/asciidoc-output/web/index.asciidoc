@@ -30,11 +30,11 @@
 
 == Java EE and Web Application Development
 
-link:../../images_www/v7/1/screenshots/web-app-cut.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/1/screenshots/web-app-cut.png[image:web-app-cut.png[][font-11]#Click image for fullscreen preview#]
 
 Write standards-based web and enterprise applications that can be accessed from a wide range of clients such as web browsers, mobile devices and more. Get unmatched out-of-the-box experience: With a few clicks, create Java EE 6 apps with support for all relevant Java EE 6 technologies. Take advantage of full syntax highlighting, code completion, pop-up documentation, and error checking for JSP, JSF, XML, JavaScript, CSS and even PHP!
 
-    [overview-right]#link:../../images_www/v7/3/features/ee-dev.png[image:../../images_www/v7/3/features/ee-dev-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ee-dev.png[image:ee-dev-cut.png[]]#
 
 === Enterprise Application Development
 
@@ -42,7 +42,7 @@ The NetBeans IDE provides full support for Java EE 6. Develop components includi
 
 link:java-ee.html[Java EE support in NetBeans]
 
-     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:../../images_www/v7/3/features/jsf-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:jsf-dev-cut.png[]]#
 
 === Web Application Development
 
@@ -50,7 +50,7 @@ NetBeans IDE make it easy to create Java EE based Web application projects with 
 
 link:web-app.html[Web application development support in NetBeans].
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === Web Services Development
 
@@ -58,7 +58,7 @@ NetBeans IDE supports Web services standards from both Java EE 6 and Java EE 5. 
 
 link:web-services[Web Services support in NetBeans]
 
-     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:../../images_www/v7/3/features/http-monitor-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:http-monitor-cut.png[]]#
 
 === Deploy, Debug, Monitor and Profile
 
@@ -71,4 +71,4 @@ You can deploy your applications to GlassFish, WebLogic, Tomcat or JBoss server.
 * link:/community/releases/73/index.html[NetBeans IDE 7.3 Release Page] for a list of specific features in the latest stable release.
 * Get more details about features of the latest stable release on the link:http://wiki.netbeans.org/NewAndNoteworthyNB73[NetBeans IDE 7.3 New and Noteworthy page].
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

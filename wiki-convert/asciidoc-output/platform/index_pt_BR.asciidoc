@@ -28,7 +28,7 @@
 
 == A Plataforma NetBeans
 
-image:../../images_www/v6/features/platform_450px.jpg[]
+image:platform_450px.jpg[]
 
 *Construindo uma aplicação de área de trabalho usando a Plataforma NetBeans pode economizar anos de tempo do desenvolvedor.*
 
@@ -41,4 +41,4 @@ A Plataforma NetBeans fornece todos eles por padrão. Não é mais preciso que v
 A Plataforma NetBeans fornece uma arquitetura da aplicação confiável e flexível. Sua aplicação não se parece com um IDE. Ela pode economizar anos de tempo de desenvolvimento. A Plataforma NetBeans fornece uma arquitetura gratuita já testada. Uma arquitetura que encoraja práticas de desenvolvimento sustentáveis. Como a arquitetura da Plataforma NetBeans é modular, é fácil criar aplicações que sejam robustas e que possam ser estendidas.
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

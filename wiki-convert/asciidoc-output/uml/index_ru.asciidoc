@@ -28,7 +28,7 @@
 
 == Функции UML в IDE NetBeans
 
-link:../../images_www/v6/5/screenshots/uml.png[image:../../images_www/v6/5/screenshots/uml-cut.png[]] 
+link:../../images_www/v6/5/screenshots/uml.png[image:uml-cut.png[]] 
 link:../../images_www/v6/5/screenshots/uml.png[[font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 *Подключаемый модуль UML для IDE NetBeans доступен для версии 6.7 и более ранних версий.*
@@ -42,9 +42,9 @@ link:http://www.visual-paradigm.com/product/sde/nb/[SDE для NetBeans] от Vi
 * возможности совместной работы;
 * создание кода для Java, C++, PHP и пр.
 
-image:../../images_www/v6/arrow-button.gif[] Получите дополнительные сведения на сайте link:http://www.visual-paradigm.com/product/sde/nb/[visual-paradigm.com].
+image:arrow-button.gif[] Получите дополнительные сведения на сайте link:http://www.visual-paradigm.com/product/sde/nb/[visual-paradigm.com].
 
- |image:../../images_www/v6/9/features/uml-visual-paradigm.png[] 
+ |image:uml-visual-paradigm.png[] 
 
 |=== JDeveloper
 
@@ -53,10 +53,10 @@ image:../../images_www/v6/arrow-button.gif[] Получите дополнит�
 * схемы UML, аналогичные схемам вариантов использования, классов, действий и последовательностей;
 * средства моделирования для конкретной области, например блок-схема JSF, схемы EJB, средство моделирования баз данных и редактор схем.
 
-image:../../images_www/v6/arrow-button.gif[] Получите дополнительные сведения на сайте link:http://www.oracle.com/technology/products/jdev/htdocs/netbeans/uml.html[oracle.com].
+image:arrow-button.gif[] Получите дополнительные сведения на сайте link:http://www.oracle.com/technology/products/jdev/htdocs/netbeans/uml.html[oracle.com].
 
- |image:../../images_www/v6/9/features/uml-jdeveloper.png[]
+ |image:uml-jdeveloper.png[]
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

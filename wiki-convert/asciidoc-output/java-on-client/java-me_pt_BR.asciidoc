@@ -30,11 +30,11 @@
 
 == Java ME e Incorporados
 
-link:../../images_www/v7/1/screenshots/gamebuilder.png[image:../../images_www/v7/1/screenshots/gamebuilder-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/1/screenshots/gamebuilder.png[image:gamebuilder-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 Crie, teste, depure e implante aplicações que serão executadas no Raspberry Pi, em celulares, PDAs, decodificadores de sinais e em outros sistemas móveis e incorporados.
 
-    [overview-right]#link:../../images_www/v7/3/features/client-jme-pi-full.png[image:../../images_www/v7/3/features/client-jme-pi-full.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-jme-pi-full.png[image:client-jme-pi-full.png[]]#
 
 === Java SE Embedded
 
@@ -46,7 +46,7 @@ Por exemplo, o IDE oferece uma integração completa de ponta a ponta com o Rasp
 
 link:../../kb/index.html[Trilhas de Aprendizado da Tecnologia NetBeans]
 
-     [overview-left]#link:../../images_www/v7/3/features/client-jme-jdk8-full.png[image:../../images_www/v7/3/features/client-jme-jdk8-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/client-jme-jdk8-full.png[image:client-jme-jdk8-cut.png[]]#
 
 === Java ME Embedded
 
@@ -54,7 +54,7 @@ O Java ME Embedded é um subconjunto da plataforma Java SE que foi reduzido para
 
 O IDE suporta o uso do Java ME 8 CLDC Platform Emulator, oferece ferramentas intuitivas e editores para Java 8 no Java ME, além de permitir que você facilmente personalize pacotes opcionais na plataforma Java ME Embedded.
 
-     [overview-right]#link:../../images_www/v7/3/features/client-jme-full.png[image:../../images_www/v7/3/features/client-jme-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-jme-full.png[image:client-jme-cut.png[]]#
 
 === Telefones, Dispositivos Portáteis, Cartão Java e Decodificadores de Sinal
 
@@ -64,7 +64,7 @@ O IDE é fornecido com o Java ME SDK mais recente que oferece suporte a desenvol
 
 link:../../kb/index.html[Trilhas de Aprendizado da Tecnologia NetBeans]
 
-     [overview-left]#link:../../images_www/v7/3/features/client-jme-card-full.png[image:../../images_www/v7/3/features/client-jme-card-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/client-jme-card-full.png[image:client-jme-card-cut.png[]]#
 
 === Cartão Java
 
@@ -72,7 +72,7 @@ A Plataforma do Cartão Java é uma JVM que executa cartões inteligentes. Essa 
 
 O IDE suporta projetos de Cartão Java, implantação do applet do Cartão Java e uma console do dispositivo do Cartão Java.
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-basic-plugins.png[image:../../images_www/v7/3/features/ide-basic-plugins-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-basic-plugins.png[image:ide-basic-plugins-cut.png[]]#
 
 === Visual Mobile Designer
 
@@ -87,4 +87,4 @@ Desenvolva interfaces de usuário rapidamente no Visual Mobile Designer. Compone
 * link:../../community/releases/81/index.html[Página da Release NetBeans IDE 8.1] para obter uma lista de funcionalidades realçadas na última versão estável.
 * link:../../kb/trails/java-se.html[Trilha de Aprendizado em Desenvolvimento Geral de Java] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

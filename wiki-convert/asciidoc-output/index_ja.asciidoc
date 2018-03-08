@@ -32,7 +32,7 @@
 
 NetBeans IDEでは、Javaのデスクトップ・アプリケーション、モバイル・アプリケーションおよびWebアプリケーションだけでなく、HTML、JavaScriptおよびCSSを使用したHTML5アプリケーションもすばやく簡単に開発できます。IDEには、PHPやC/C++の開発者向けの優れたツール群も用意されています。これは無償のオープン・ソースで、世界中のユーザーや開発者からなる大規模なコミュニティが形成されています。
 
-   [overview-right]#link:/images_www/v7/design/overview/java_technologies.png[image:/images_www/v7/design/overview/image_java_technologies.png[]]#
+   [overview-right]#link:/images_www/v7/design/overview/java_technologies.png[image:image_java_technologies.png[]]#
 
 === 最新のJavaテクノロジに対する最高のサポート
 
@@ -40,7 +40,7 @@ NetBeans IDEは、最新のJavaテクノロジと最新のJava仕様拡張機能
 
 絶えず改良が加えられているJavaエディタ、多くの充実した機能、幅広いツール、テンプレートおよびサンプルを備えたNetBeans IDEは、すぐに利用可能な最先端テクノロジにより開発のスタンダードを確立しています。
 
-   [overview-left]#link:/images_www/v7/design/overview/code_editing.png[image:/images_www/v7/design/overview/image_code_editing.png[]]#
+   [overview-left]#link:/images_www/v7/design/overview/code_editing.png[image:image_code_editing.png[]]#
 
 === 迅速かつスマートなコード編集
 
@@ -50,7 +50,7 @@ IDEは単なるテキスト・エディタではありません。NetBeansエデ
 
 link:./ide/editor.html[その他の情報]
 
-   [overview-right]#link:/images_www/v7/design/overview/project_management.png[image:/images_www/v7/design/overview/image_project_management.png[]]#
+   [overview-right]#link:/images_www/v7/design/overview/project_management.png[image:image_project_management.png[]]#
 
 === 簡単かつ効率的なプロジェクト管理
 
@@ -61,7 +61,7 @@ link:./ide/editor.html[その他の情報]
 link:./ide/project-management.html[プロジェクト管理の詳細]
 link:./ide/versioning.html[バージョン管理の詳細]
 
-   [overview-left]#link:/images_www/v7/design/overview/ui_development.png[image:/images_www/v7/design/overview/image_ui_development.png[]]#
+   [overview-left]#link:/images_www/v7/design/overview/ui_development.png[image:image_ui_development.png[]]#
 
 === ユーザー・インタフェースの高速開発
 
@@ -74,7 +74,7 @@ link:./html5/index.html[HTML5の詳細]
 link:./java-on-client/swing.html[Swing GUIビルダーの詳細]
 link:./java-on-client/java-me.html[Java MEの詳細]
 
-   [overview-right]#link:/images_www/v7/design/overview/bugfree_code.png[image:/images_www/v7/design/overview/image_bugfree_code.png[]]#
+   [overview-right]#link:/images_www/v7/design/overview/bugfree_code.png[image:image_bugfree_code.png[]]#
 
 === Bugのないコードの記述
 
@@ -119,4 +119,4 @@ link:http://plugins.netbeans.org/[NetBeansプラグイン・ポータルにア�
 * 最新の安定版リリースの主な機能のリストについては、link:/community/releases/81/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 最新の安定版リリースの機能の完全なリストについては、link:http://wiki.netbeans.org/NewAndNoteworthyNB80[NetBeans IDE 8.1の新機能と注目すべき機能のページ]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

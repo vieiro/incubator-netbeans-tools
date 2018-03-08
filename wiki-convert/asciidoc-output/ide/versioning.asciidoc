@@ -30,11 +30,11 @@
 
 == Versioning
 
-link:../../images_www/v7/3/features/versioning-base-full.png[image:../../images_www/v7/3/features/versioning-base-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/3/features/versioning-base-full.png[image:versioning-base-cut.png[][font-11]#Click image for fullscreen preview#]
 
 NetBeans IDE lets you work easily and intuitively with a range of popular versioning systems
 
-  [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-version-full.png[image:../../images_www/v7/3/features/ide-collaboration-version-cut.png[]]#
+  [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-version-full.png[image:ide-collaboration-version-cut.png[]]#
 
 === Version Control Tools
 
@@ -61,17 +61,17 @@ link:../../kb/docs/ide/clearcase.html[Using ClearCase Support in NetBeans IDE] 
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/versioning-git.png[]#
+|[overview-centre]#image:versioning-git.png[]#
 Since Git is a distributed revision control system, you typically begin by using the IDE to clone an external repository to work with. Use the IDE to push your changes back to the original repository or to export your changes and send them to the owner.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/versioning-mercurial.png[]#
+[overview-centre]#image:versioning-mercurial.png[]#
 The IDE's Mercurial support lets you clone repositories and to manage changes to version-controlled files as you work. In the IDE, you can call Mercurial commands on both files and directories in the Projects, Files, and Favorites windows. Also see link:http://netbeans.org/kb/docs/ide/mercurial-queues.html[Mercurial Queues Guide].
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/versioning-subversion.png[]#
+[overview-centre]#image:versioning-subversion.png[]#
 The IDE's Subversion support lets you to manage the evolution of changes in version-controlled files by displaying status information directly in the IDE's various windows (e.g. Projects, Files, Favorites, Versioning) so that you can call Subversion commands as you work.
 
  
@@ -82,4 +82,4 @@ The IDE's Subversion support lets you to manage the evolution of changes in vers
 * link:../../community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of highlighted features in the latest stable release.
 * link:../../kb/trails/java-se.html[General Java Development Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

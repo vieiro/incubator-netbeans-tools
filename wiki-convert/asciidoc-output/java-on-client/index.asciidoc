@@ -30,11 +30,11 @@
 
 == Java on the Client
 
-link:../../images_www/v7/3/features/client-main-full.png[image:../../images_www/v7/3/features/client-main-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/3/features/client-main-full.png[image:client-main-cut.png[][font-11]#Click image for fullscreen preview#]
 
 NetBeans IDE helps you quickly and efficiently develop Java clients, for Java SE, using JavaFX and Swing, as well as Java ME and embedded applications.
 
-    [overview-right]#link:../../images_www/v7/3/features/client-javafx-full.png[image:../../images_www/v7/3/features/client-javafx-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-javafx-full.png[image:client-javafx-cut.png[]]#
 
 === JavaFX
 
@@ -44,7 +44,7 @@ The IDE provides JavaFX projects and integration with JavaFX Scene Builder, toge
 
 link:javafx.html[JavaFX in NetBeans IDE]
 
-     [overview-left]#link:../../images_www/v7/3/features/client-swing-full.png[image:../../images_www/v7/3/features/client-swing-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/client-swing-full.png[image:client-swing-cut.png[]]#
 
 === Swing
 
@@ -54,7 +54,7 @@ You can use the GUI builder to prototype GUIs right in front of customers.
 
 link:swing.html[Swing in NetBeans IDE]
 
-     [overview-right]#link:../../images_www/v7/3/features/client-jme-full.png[image:../../images_www/v7/3/features/client-jme-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-jme-full.png[image:client-jme-cut.png[]]#
 
 === Java ME and Embedded
 
@@ -69,4 +69,4 @@ link:java-me.html[Java ME and Embedded in NetBeans IDE]
 * link:../../community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of highlighted features in the latest stable release.
 * link:../../kb/trails/java-se.html[General Java Development Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

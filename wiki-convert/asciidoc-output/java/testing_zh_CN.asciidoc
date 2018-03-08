@@ -30,11 +30,11 @@
 
 == 测试和代码分析
 
-link:../../images_www/v7/3/features/ide-findbugs-full.png[image:../../images_www/v7/3/features/ide-analysis-main-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/ide-findbugs-full.png[image:ide-analysis-main-cut.png[][font-11]#单击图像查看全屏预览#]
 
 测试应用程序时，IDE 将提供工具以供使用 JUnit 和 TestNG 以及代码分析器，特别是 FindBugs。
 
-    [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:../../images_www/v7/3/features/ide-testing-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:ide-testing-cut.png[]]#
 
 === 测试
 
@@ -45,7 +45,7 @@ link:../../images_www/v7/3/features/ide-findbugs-full.png[image:../../images_www
 "Test Results"（测试结果）窗口将显示所运行测试的结果。
 
 link:../../kb/docs/java/junit-intro.html[在 NetBeans IDE 中编写 JUnit 测试]
-link:../../kb/docs/java/testng-screencast.html[在 NetBeans IDE 中使用 TestNG 的视频]     [overview-left]#link:../../images_www/v7/3/features/ide-findbugs-full.png[image:../../images_www/v7/3/features/ide-findbugs-cut.png[]]#
+link:../../kb/docs/java/testng-screencast.html[在 NetBeans IDE 中使用 TestNG 的视频]     [overview-left]#link:../../images_www/v7/3/features/ide-findbugs-full.png[image:ide-findbugs-cut.png[]]#
 
 === 代码分析
 
@@ -62,4 +62,4 @@ link:../../kb/docs/java/code-inspect.html[NetBeans IDE Java 编辑器中的静�
 * link:/community/releases/8.1/index.html[NetBeans IDE 8.1 发行版页]，提供最新稳定发行版中的特定功能的列表。
 * link:../../kb/trails/java-se.html[常规 Java 开发学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

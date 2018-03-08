@@ -28,7 +28,7 @@
 
 == Funcionalidades da UML do NetBeans IDE
 
-link:../../images_www/v6/5/screenshots/uml.png[image:../../images_www/v6/5/screenshots/uml-cut.png[]] 
+link:../../images_www/v6/5/screenshots/uml.png[image:uml-cut.png[]] 
 link:../../images_www/v6/5/screenshots/uml.png[[font-11]#Clique na imagem para exibição em tela inteira#]
 
 *O plug-in UML para o NetBeans IDE está disponível para a versão 6.7 e releases anteriores.*
@@ -42,9 +42,9 @@ O link:http://www.visual-paradigm.com/product/sde/nb/[SDE para NetBeans] do Para
 * Recursos de colaboração da Equipe
 * Geração de código para Java, C++, PHP e mais
 
-image:../../images_www/v6/arrow-button.gif[] Saiba mais em link:http://www.visual-paradigm.com/product/sde/nb/[visual-paradigm.com].
+image:arrow-button.gif[] Saiba mais em link:http://www.visual-paradigm.com/product/sde/nb/[visual-paradigm.com].
 
- |image:../../images_www/v6/9/features/uml-visual-paradigm.png[] 
+ |image:uml-visual-paradigm.png[] 
 
 |=== JDeveloper
 
@@ -53,10 +53,10 @@ Procurando por um ambiente de modelagem livre UML com todas as funcionalidades? 
 * Diagramas UML como Diagramas de Caso de Uso, Classe, Atividade e Sequência
 * Modeladores de Domínio Específicos como diagramas JSF Flow, Diagramas EJB, Modelador de Banco de Dados e Editor de Esquema.
 
-image:../../images_www/v6/arrow-button.gif[] Saiba mais em link:http://www.oracle.com/technology/products/jdev/htdocs/netbeans/uml.html[oracle.com].
+image:arrow-button.gif[] Saiba mais em link:http://www.oracle.com/technology/products/jdev/htdocs/netbeans/uml.html[oracle.com].
 
- |image:../../images_www/v6/9/features/uml-jdeveloper.png[]
+ |image:uml-jdeveloper.png[]
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -30,11 +30,11 @@
 
 == HTML5 Web 开发支持
 
-link:../../images_www/v7/3/features/html5-dev.png[image:../../images_www/v7/3/features/html5-dev-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/html5-dev.png[image:html5-dev-cut.png[][font-11]#单击图像查看全屏预览#]
 
 从 NetBeans IDE 7.3 开始，引入了支持和增强利用 HTML5 系列技术的客户端 Web 应用程序开发体验的新功能。您可以使用这些功能快速直观地创建功能丰富的 Web 应用程序，这些应用程序支持同时面向桌面平台和 Mobile 平台的响应式 Web 设计模式。此外，您还可以在 link:../java-on-server/index.html[Java EE] 和 link:../php/index.html[PHP] 应用程序中使用 HTML5 技术。
 
-    [overview-right]#link:../../images_www/v7/3/features/html5-app.png[image:../../images_www/v7/3/features/html5-app-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/html5-app.png[image:html5-app-cut.png[]]#
 
 === 加速的 HTML5 开发支持
 
@@ -46,7 +46,7 @@ link:../../images_www/v7/3/features/html5-dev.png[image:../../images_www/v7/3/fe
 
 link:../../kb/docs/webclient/html5-gettingstarted.html[HTML5 开发入门]
 
-     [overview-left]#link:../../images_www/v7/3/features/html5-preview.png[image:../../images_www/v7/3/features/html5-preview-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/html5-preview.png[image:html5-preview-cut.png[]]#
 
 === Web 页的实时预览
 
@@ -56,7 +56,7 @@ link:../../kb/docs/webclient/html5-gettingstarted.html[HTML5 开发入门]
 
 *注：*移动设备上也支持 Web 页的实时 Web 预览，即，不仅在 Chrome 和内部嵌入式 WebKit 浏览器上支持，还在 Android 上的 Chrome 和 iOS 上的 Mobile Safari 上支持。
 
-     [overview-right]#link:../../images_www/v7/3/features/html5-layout.png[image:../../images_www/v7/3/features/html5-layout-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/html5-layout.png[image:html5-layout-cut.png[]]#
 
 === 响应式 Web 设计功能
 
@@ -64,7 +64,7 @@ NetBeans IDE 支持使用响应式 Web 设计体系结构，方法是：让您�
 
 除了增强浏览器功能之外，IDE 的 CSS 样式编辑器还识别浏览器当前正在显示的媒体查询并自动将对 CSS 的编辑放入该媒体查询中。
 
-     [overview-left]#link:../../images_www/v7/3/features/javascript-editing.png[image:../../images_www/v7/3/features/javascript-editing-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/javascript-editing.png[image:javascript-editing-cut.png[]]#
 
 === 增强的 JavaScript 支持
 
@@ -74,7 +74,7 @@ NetBeans IDE 支持使用响应式 Web 设计体系结构，方法是：让您�
 
 您现在还可以在 "Options"（选项）对话框中控制 JavaScript 语言自身的格式设置选项。
 
-     [overview-right]#link:../../images_www/v7/3/features/html5-css-rules.png[image:../../images_www/v7/3/features/html5-css-rules-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/html5-css-rules.png[image:html5-css-rules-cut.png[]]#
 
 === CSS 编辑和样式支持
 
@@ -88,7 +88,7 @@ link:../../kb/docs/webclient/html5-editing-css.html[在 HTML5 应用程序中使
 
 *注：*移动设备上也提供 CSS 编辑和样式支持，即，不仅在 Chrome 和内部嵌入式 WebKit 浏览器上支持，还在 Android 上的 Chrome 和 iOS 上的 Mobile Safari 上支持。
 
-     [overview-left]#link:../../images_www/v7/3/features/html5-device.png[image:../../images_www/v7/3/features/html5-device.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/html5-device.png[image:html5-device.png[]]#
 
 === 移动设备支持和 Cordova 开发
 
@@ -113,21 +113,21 @@ link:../../kb/docs/webclient/html5-editing-css.html[在 HTML5 应用程序中使
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/html5-debug-cut.png[]#
+|[overview-centre]#image:html5-debug-cut.png[]#
 可使用 Chrome 浏览器、内部嵌入式 WebKit 浏览器、Android 上的 Chrome 浏览器和 iOS 上的 Mobile Safari 浏览器调试 JavaScript 代码。
 
 link:../../kb/docs/webclient/html5-js-support.html[调试和测试 JavaScript]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/html5-rest-client-cut.png[]#
+[overview-centre]#image:html5-rest-client-cut.png[]#
 通过为 REST 风格的 Web 服务创建 JavaScript 客户端，轻松访问企业数据。
 
 通过使用 REST 风格的 JavaScript 客户端向导，快速为位于 NetBeans 项目（包含 Web 服务）中的 REST 风格的 Web 服务生成 JavaScript 客户端。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/html5-css-doc-cut.png[]#
+[overview-centre]#image:html5-css-doc-cut.png[]#
 确保您的应用程序可在多个浏览器中运行。
 
 借助代码完成中可用的内联文档，IDE 会向您通知特定代码结构的浏览器支持信息。
@@ -140,4 +140,4 @@ link:../../kb/docs/webclient/html5-js-support.html[调试和测试 JavaScript]
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/php.html[PHP 和 HTML5 学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -156,4 +156,4 @@ Eclipse. Я попробовал NetBeans 6.0 и 6.1, но по неизвест
 Поздравляю всех разработчиков NetBeans и команду NetBeans с этим выпуском и с наградой Jolt. Как разработчик программного обеспечения я отлично понимаю, какая работа была проделана, какие были приложены усилия и сколько потребовалось стремления, чтобы сделать это. Отлично сработано!`
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

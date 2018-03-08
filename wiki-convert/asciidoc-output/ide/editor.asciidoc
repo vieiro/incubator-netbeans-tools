@@ -30,11 +30,11 @@
 
 == Editing and Refactoring
 
-link:../../images_www/v7/3/features/ide-editor-full.png[image:../../images_www/v7/3/features/ide-editor-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/3/features/ide-editor-full.png[image:ide-editor-cut.png[][font-11]#Click image for fullscreen preview#]
 
 The language-aware NetBeans editor detects errors while you type and assists you with documentation popups and smart code completion—all with the speed and simplicity of your favorite text editor.
 
-    [overview-right]#link:../../images_www/v7/3/features/ide-editor-templates-full.png[image:../../images_www/v7/3/features/ide-editor-templates-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ide-editor-templates-full.png[image:ide-editor-templates-cut.png[]]#
 
 === Editors and File Templates
 
@@ -61,17 +61,17 @@ link:../../kb/index.html[NetBeans Technology Learning Trails]
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-editor-findbugs.png[]#
+|[overview-centre]#image:ide-editor-findbugs.png[]#
 The cost of buggy code increases the longer it remains unfixed. The IDE gives you static code analysis tools, in particular, integration with the popular open source Java FindBugs tool.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-parsing.png[]#
+[overview-centre]#image:ide-editor-parsing.png[]#
 The IDE parses the source code live while you type. The editor marks errors, highlights occurrences, shows compiler hints, quick fixes, warnings, and language documentation.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-refactoring.png[]#
+[overview-centre]#image:ide-editor-refactoring.png[]#
 The IDE's refactoring tools allow you to restructure code without breaking it. The Inspect &amp; Transform tool enables you to run powerful inspections across your codebase, while automatically fixing your code.
 
  
@@ -88,17 +88,17 @@ The IDE's refactoring tools allow you to restructure code without breaking it. T
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-editor-completion.png[]#
+|[overview-centre]#image:ide-editor-completion.png[]#
 The editor provides automatic code completion in several languages, including Java, C/C++, PHP, Groovy, XML, HTML, CSS, and JavaScript.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-navigate.png[]#
+[overview-centre]#image:ide-editor-navigate.png[]#
 Navigate to any file, type, or symbol using standard text, camel case format, or wild cards, and do case sensitive searches throughout your codebase.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-codegenerator.png[]#
+[overview-centre]#image:ide-editor-codegenerator.png[]#
 The editor can generate common code snippets for you within the editor. You can define code templates for common pieces of code and add record macros as you type.
 
  
@@ -115,17 +115,17 @@ The editor can generate common code snippets for you within the editor. You can 
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-editor-hints.png[]#
+|[overview-centre]#image:ide-editor-hints.png[]#
 The IDE performs source code analysis and offers an extensive set of hints to quickly fix or enhance your code.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-hierarchy.png[]#
+[overview-centre]#image:ide-editor-hierarchy.png[]#
 Inspect the members and supertype or subtype hierarchies of any file in the Navigator window and Hierarchy window, which provide filters to control the level of detail displayed.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-customizations.png[]#
+[overview-centre]#image:ide-editor-customizations.png[]#
 The behavior and display of the languages in the editor can be customized, including its code completion, documentation view, keyboard shortcuts, fonts, and colors.
 
  
@@ -136,4 +136,4 @@ The behavior and display of the languages in the editor can be customized, inclu
 * link:/community/releases/73/index.html[NetBeans IDE 7.3 Release Page] for a list of specific features in the latest stable release.
 * Get more details about features of the latest stable release on the link:http://wiki.netbeans.org/NewAndNoteworthyNB73[NetBeans IDE 7.3 New and Noteworthy page].
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

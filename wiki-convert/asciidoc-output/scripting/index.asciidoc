@@ -28,7 +28,7 @@
 
 == NetBeans IDE Dynamic Languages
 
-link:../../images_www/v7/1/screenshots/dynamic-languages-big.png[image:../../images_www/v7/1/screenshots/dynamic-languages.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/1/screenshots/dynamic-languages-big.png[image:dynamic-languages.png[][font-11]#Click image for fullscreen preview#]
 
 *The NetBeans IDE is not only your best choice for Java development, but you also get integrated support for dynamic languages — all in one powerful tool.*
 
@@ -39,17 +39,17 @@ NetBeans PHP IDE provides a fast integrated development environment for creating
 
 See link:../php/index.html[PHP Development].
 
- |image:../../images_www/v7/features/php-codecompletion.png[] 
+ |image:php-codecompletion.png[] 
 
 |=== HTML, JavaScript, and CSS
 
 The NetBeans IDE offers full editor support for HTML, JavaScript, and CSS. Take advantage of full syntax highlighting, code completion, pop-up documentation, and error checking for HTML, CSS and JavaScript, including HTML 5, JavaScript 1.7 and semantic highlighting for E4X (embedded XML objects). The Editor recognizes HTML code in JavaScript files and JavaScript code in HTML files. The Editor also recognizes HTML and JavaScript in XHTML, PHP and JSP files.
 
-==== HTML image:../../images_www/v6/features/improved_small.gif[]
+==== HTML image:improved_small.gif[]
 
 You can use the editor in the IDE to quickly surround code with a tag or remove a surrounding tag by using new hints. You can remove inline styles to a style block or .css file.
 
-==== CSS image:../../images_www/v6/features/improved_small.gif[]
+==== CSS image:improved_small.gif[]
 
 NetBeans IDE supports for CSS 3. Refactoring, semantic highlighting, mark occurrences and other features have been adapted to CSS3 code. CSS code completion has been expanded to complete html elements, CSS3 properties and their values, new pseudo classes and pseudo elements, and namespace prefixes. Vendor-specific properties (dash prefix properties) have also been added to code completion. The Navigator window now shows css classes, ids, elements, namespaces and rules in separate element sets.
 
@@ -64,11 +64,11 @@ link:../../kb/docs/web/js-toolkits-jquery.html[Using jQuery to Enhance the Appea
 
  
 
-image:../../images_www/v7/1/features/html-surround-tag-hints.png[]
+image:html-surround-tag-hints.png[]
 
-image:../../images_www/v7/1/features/css-cc.png[]
+image:css-cc.png[]
 
-image:../../images_www/v6/8/features/javascript-browser-options.png[]
+image:javascript-browser-options.png[]
 
  
 
@@ -83,10 +83,10 @@ The NetBeans IDE directly supports Groovy, a dynamic scripting language for the 
 
 
 |===
-|image:../../images_www/v6/arrow-button.gif[] link:../php/index.html[PHP]
-A fast and light-weight PHP IDE. |image:../../images_www/v6/arrow-button.gif[]link:../groovy/index.html[Groovy]
-Integrate Groovy with Java SE and use the Grails web framework. |image:../../images_www/v6/arrow-button.gif[]link:../javascript/index.html[JavaScript]
+|image:arrow-button.gif[] link:../php/index.html[PHP]
+A fast and light-weight PHP IDE. |image:arrow-button.gif[]link:../groovy/index.html[Groovy]
+Integrate Groovy with Java SE and use the Grails web framework. |image:arrow-button.gif[]link:../javascript/index.html[JavaScript]
 Create JavaScript-enhanced web pages. 
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

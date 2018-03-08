@@ -28,7 +28,7 @@
 
 == Profiler
 
-link:../../images_www/v7/1/screenshots/profiler.png[image:../../images_www/v7/1/screenshots/profiler-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/1/screenshots/profiler.png[image:profiler-cut.png[][font-11]#Click image for fullscreen preview#]
 
 *The NetBeans profiler provides expert assistance for optimizing your application's speed and memory usage, and makes it easier to build reliable and scalable Java SE, JavaFX and Java EE applications.*
 
@@ -43,7 +43,7 @@ You precisely control the amount of overhead the profiler imposes, and therefore
 
 Use the Heap Walker to evaluate the Java heap contents and to identify unnecessary references that cause memory leaks. You can browse classes and instances of classes on the heap, fields of each instance or class, and references to each instance. Use jHat compatible OQL queries to analyze the contents of a heapdump: Benefit from basic syntax highlighting and code completion for OQL.
 
- |image:../../images_www/v6/features/profiler-heapwalker_p150.png[] 
+ |image:profiler-heapwalker_p150.png[] 
 
 |=== Profiling Points
 
@@ -51,7 +51,7 @@ Place profiling points in your source code to more precisely control the collect
 
 You use profiling points to automatically trigger actions when certain conditions are met, such as execution of a line of code, time elapsed, or memory used. Profiling points can trigger heap dumps, the reseting of results collected, the running of a load generator script, and the taking of a results snapshot.
 
- |image:../../images_www/screenshots/6.0/javaSE_profiler_profiling_points2_150px.png[] 
+ |image:javaSE_profiler_profiling_points2_150px.png[] 
 
 |=== Identifying CPU Bottlenecks
 
@@ -63,7 +63,7 @@ Profile an entire application, or a subset, under a realistic workload. You can 
 
 Pinpoint leaking objects based on their special pattern of allocations and garbage collections, or lack thereof. Object liveness profiling tracks both object creation and garbage collection events. Watch the number, age, allocation paths, and other characteristics of objects currently in memory and compare memory snapshots.
 
- |image:../../images_www/screenshots/6.0/javaSE_profiler_drilldown_150px.png[] 
+ |image:javaSE_profiler_drilldown_150px.png[] 
 
 |=== Monitoring Threads Status
 
@@ -77,12 +77,12 @@ Profile an application that is running on a different system than your NetBeans 
 
 Attach the profiler to any Java application, even applications that are not started by the IDE. If the Java application and the IDE are both run with JDK 6, you can even attach the profiler dynamically, allowing you to do profiling of an application that is already running.
 
- |image:../../images_www/v6/features/profiler-threads.png[] 
+ |image:profiler-threads.png[] 
 |===
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/java-se.html[Java SE And Base IDE Learning Trail]
+image:arrow-button.gif[] link:../../kb/trails/java-se.html[Java SE And Base IDE Learning Trail]
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

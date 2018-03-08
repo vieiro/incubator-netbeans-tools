@@ -30,11 +30,11 @@
 
 == Ferramentas de Compilação
 
-link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut.png[] [font-11]# Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut.png[] [font-11]# Clique na imagem para exibição em tela inteira#]
 
 Assuma o controle de sua compilação onde seu código estiver, com ferramentas padrão de compilação integradas ao IDE.
 
-    [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:../../images_www/v7/3/features/ide-collaboration-hudson-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:ide-collaboration-hudson-cut.png[]]#
 
 === Hudson
 
@@ -46,7 +46,7 @@ Para descobrir o motivo da falha do job, clique com o botão direito do mouse em
 
 link:http://wiki.netbeans.org/HudsonInNetBeans[Hudson no NetBeans IDE]
 
-     [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut2.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut2.png[]]#
 
 === Maven
 
@@ -58,7 +58,7 @@ O browser do Repositório Maven do IDE permite que você navegue no conteúdo do
 
 link:http://wiki.netbeans.org/MavenBestPractices[Maven no NetBeans IDE]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:../../images_www/v7/3/features/ide-buildtools-ant-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:ide-buildtools-ant-cut.png[]]#
 
 === Ant
 
@@ -73,4 +73,4 @@ Não é necessário conhecer bem o Ant para trabalhar com aplicações IDE. É p
 * link:/community/releases/73/index.html[Página de Release do NetBeans IDE 7.3] para obter uma lista de funcionalidades específicas da última versão estável.
 * Obtenha mais detalhes sobre funcionalidades da última release mais estável na link:http://wiki.netbeans.org/NewAndNoteworthyNB73[página Novidades e Destaques do NetBeans IDE 7.3].
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

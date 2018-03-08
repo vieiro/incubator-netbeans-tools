@@ -32,7 +32,7 @@
 
 对最常用的 Web 框架（例如 Zend、Symfony、Doctrine、Smarty）的现成支持
 
-[overview-right]#image:/images_www/v7/3/features/php/frameworks.png[]#
+[overview-right]#image:frameworks.png[]#
 
 === Web 框架
 
@@ -44,7 +44,7 @@ NetBeans IDE 支持以下常用 Web 框架：
 
 通常，您可以使用这些框架来创建新 PHP 项目，运行框架命令，从控制器（操作）导航到其视图，在编辑器中使用框架标注和代码完成，以及定制其设置。
 
-  [overview-left]#image:/images_www/v7/3/features/php/php-generatedoc_small.png[]#
+  [overview-left]#image:php-generatedoc_small.png[]#
 
 === 使用 ApiGen 生成 PHP 代码文档
 
@@ -65,17 +65,17 @@ NetBeans IDE 支持以下常用 Web 框架：
 
  
 
-|[overview-centre]#image:/images_www/v7/3/features/php/doctrine2-04.png[]#
+|[overview-centre]#image:doctrine2-04.png[]#
 NetBeans IDE 支持 ORM（对象关系映射）最常用的框架 link:http://www.doctrine-project.org[Doctrine2 框架]。您可以轻松地从 IDE 运行所有 Doctrine2 命令；有关详细信息，请观看link:http://netbeans.org/kb/docs/php/screencast-doctrine2.html[截屏视频]。
 
  |
 
-[overview-centre]#image:/images_www/v7/3/features/php/php-composer_small.png[]#
+[overview-centre]#image:php-composer_small.png[]#
 NetBeans IDE 支持编写器 - 编写器是用于 PHP 中的依赖关系管理的工具。它允许您声明项目所需的相关库，并且会将这些库安装在项目中。
 
  |
 
-[overview-centre]#image:/images_www/v7/3/features/php/php-smarty_small.png[]#
+[overview-centre]#image:php-smarty_small.png[]#
 Smarty 支持提供了标准 NetBeans IDE 编辑器的功能，即语法突出显示、代码模板、代码完成（包括标记文档、块标记匹配、解析器的错误提示等）。有关详细信息，请观看link:http://netbeans.org/kb/docs/php/screencast-smarty.html[截屏视频]。
 
  
@@ -84,7 +84,7 @@ Smarty 支持提供了标准 NetBeans IDE 编辑器的功能，即语法突出�
 
  
 
-|[overview-centre]#image:/images_www/v7/3/features/php/php-twig_small.png[]#
+|[overview-centre]#image:php-twig_small.png[]#
 
  |
 
@@ -98,4 +98,4 @@ IDE 提供对 Twig 模板（与 Symfony 框架紧密连接）的支持。它提�
 * link:/community/releases/80/index.html[NetBeans IDE 8.1 发行版页]，提供最新稳定发行版中的特定功能的列表。
 * link:../../kb/trails/php.html[PHP 和 HTML5 学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

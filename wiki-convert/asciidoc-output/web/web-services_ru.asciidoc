@@ -30,11 +30,11 @@
 
 == Поддержка разработки веб-служб
 
-link:../../images_www/v7/screenshots/websvc.png[image:../../images_www/v7/screenshots/websvc-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/screenshots/websvc.png[image:websvc-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 IDE NetBeans поддерживает стандарты веб-служб для Java EE 6 и Java EE 5, включая стандарты веб-служб JAX-WS 2.2, JAX-RS 1.1 и JAXB 2.2. Допускается использование GlassFish Server Open Source Edition, Oracle Weblogic, Apache Tomcat, JBoss и др. В функциональные возможности дополнения кода входят аннотации, пригодные для веб-служб.
 
-    [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === Веб-службы RESTful
 
@@ -46,7 +46,7 @@ IDE помогает в создании (JAX-RS 1.1) веб-служб RESTful 
 
 link:../../kb/docs/websvc/rest.html[Начало работы с веб-службами RESTful]
 
-     [overview-left]#link:../../images_www/v7/3/features/soap-designer.png[image:../../images_www/v7/3/features/soap-designer-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/soap-designer.png[image:soap-designer-cut.png[]]#
 
 === Веб-службы на основе SOAP
 
@@ -58,7 +58,7 @@ link:../../kb/docs/websvc/rest.html[Начало работы с веб-служ
 
 link:../../kb/docs/websvc/jax-ws.html[Начало работы с веб-службами JAX-WS]
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-client-gen.png[image:../../images_www/v7/3/features/rest-client-gen-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-client-gen.png[image:rest-client-gen-cut.png[]]#
 
 === Клиенты веб-служб
 
@@ -83,19 +83,19 @@ link:../../kb/docs/websvc/client.html[Разработка клиентов ве
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/web-services-manager-cut.png[]#
+|[overview-centre]#image:web-services-manager-cut.png[]#
 Используйте диспетчер веб-служб для доступа к популярным веб-интерфейсам API RESTful, предоставляемых компаниями Google, Facebook, Yahoo, flickr, Amazon, Twitter и многими другими. Возможен также доступ к веб-службам на основе SOAP, например StrikeIron.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/wsit-secure-cut.png[]#
+[overview-centre]#image:wsit-secure-cut.png[]#
 Технологии совместимости веб-служб (WSIT) доступны непосредственно из конструктора веб-служб. Используйте поддержку link:http://metro.dev.java.net/[Metro 2.0](JAX-WS 2.2) в GlassFish для создания совместимых, транзакционных, надежных и безопасных веб-служб.
 
 link:../../kb/docs/websvc/wsit.html[Расширенная совместимость веб-служб]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ws-mobile-cut.png[]#
+[overview-centre]#image:ws-mobile-cut.png[]#
 Имеется возможность создания приложений для непосредственного доступа к веб-службам с любого телефона, обеспечивающего поддержку JSR-172. Напишите код, использующий мост беспроводного подключения для получения доступа через сервлеты к веб-службам и другим серверным данным с любого устройства из мидлетов с помощью сервлетов.
 
  
@@ -107,4 +107,4 @@ link:../../kb/docs/websvc/wsit.html[Расширенная совместимо�
 * Более подробно о функциях последней стабильной версии см. на странице link:http://wiki.netbeans.org/NewAndNoteworthyNB73[Новые замечательные возможности IDE NetBeans 7.3].
 * link:../../kb/trails/web.html[Учебная карта по веб-службам] для учебных курсов по началу работы.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

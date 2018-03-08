@@ -28,11 +28,11 @@
 
 == PHP開発
 
-image:../../images_www/v7/3/features/php/php-ide_top.png[]
+image:php-ide_top.png[]
 
 link:../html5/index.html[HTML5 Web開発のサポート]・ページの説明のような、HTML5、JavaScriptおよびCSS3開発のための完全サポートを使用した、専用のPHPコーディング環境およびWeb標準との完全統合。
 
-[overview-right]#image:/images_www/v7/3/features/php/php-code-completion_small.png[]#
+[overview-right]#image:php-code-completion_small.png[]#
 
 === 強力なPHPソース・コード・エディタ
 
@@ -40,13 +40,13 @@ NetBeans PHPエディタは、コード・テンプレートとコード生成�
 
 構文的および意味的なコード強調表示、ドキュメントのポップアップ、コードのフォーマットと折りたたみ、出現箇所と終了ポイントのマーク、高度なTry/Catchコード補完、スマート・メソッド・パラメータ事前入力および四角形選択を活用できます。
 
-  [overview-left]#image:/images_www/v7/3/features/php/php-54-traitcc_small.png[]#
+  [overview-left]#image:php-54-traitcc_small.png[]#
 
 === PHP 5.4のサポート
 
 PHP向けのNetBeans IDE 7.3は、PHP 5.4を使用した開発に固有な多数の機能を備えています。PHP 5.4プロジェクトは、PHP 5.4のlink:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_built[組込みWebサーバー]で実行するように設定できます。IDEのPHPコード補完では、PHP 5.4の配列スタイル(link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_array[配列の参照解除]やlink:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_short[配列の短縮構文]など)をサポートしています。NetBeans IDEでは、link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_traits[トレイト]およびlink:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_anonymous[匿名オブジェクト変数](「流動的なインスタンス化」とも呼ばれる)も認識されます。最後に、PHP向けのNetBeans IDE 7.3には、コール可能ヒント、整数のバイナリ表記、`Class::{expr}()`呼出しなどのlink:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_minor[マイナー機能]があります。
 
-  [overview-right]#image:/images_www/v7/3/features/php/frameworks.png[]#
+  [overview-right]#image:frameworks.png[]#
 
 === Webフレームワーク
 
@@ -58,7 +58,7 @@ NetBeans IDEは、広く普及している次のWebフレームワークをサ�
 
 これらのフレームワークでの新しいPHPプロジェクトの作成、フレームワーク・コマンドの実行、コントローラ(アクション)からビューへの移動、エディタでのフレームワーク注釈とコード補完の使用、設定のカスタマイズが可能です。
 
-  [overview-left]#image:/images_www/v7/3/features/ide-collaboration-hudson-cut.png[]#
+  [overview-left]#image:ide-collaboration-hudson-cut.png[]#
 
 === 継続的統合のサポート
 
@@ -68,7 +68,7 @@ PHP向けのNetBeans IDEでは、継続的統合がサポートされていま�
 
 link:https://netbeans.org/kb/docs/php/screencast-continuous-builds.html[継続的ビルド・サーバー上のPHPに対するサポート]
 
-  [overview-right]#image:/images_www/v7/3/features/php/php-project.png[]#
+  [overview-right]#image:php-project.png[]#
 
 === PHPプロジェクト
 
@@ -76,7 +76,7 @@ NetBeansプロジェクトには、様々なスクリプト言語とマークア
 
 プロジェクト・プロパティで各ディレクトリを除外することで、コードにフォーカスし、コードのスキャンを高速化できます。NetBeans IDEでは反復開発が完全にサポートされているので、PHPプロジェクトのテストは、Web開発者によく知られている従来のパターンに従います。
 
-  [overview-left]#image:/images_www/v7/3/features/php/php-debugger.png[]#
+  [overview-left]#image:php-debugger.png[]#
 
 === デバッガ
 
@@ -91,4 +91,4 @@ PHP向けのNetBeans IDEには、コマンド行のデバッグも用意され�
 * 最新の安定版リリースの個別機能のリストについては、link:/community/releases/81/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/php.html[PHPおよびHTML5の学習]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

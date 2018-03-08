@@ -31,4 +31,4 @@
 数秒で自動的にリダイレクトされます。そうでない場合はlink:/features/python/index.html[このリンクをたどる]ことができます。
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -28,7 +28,7 @@
 
 == JavaFX Composer
 
-link:../../images_www/v6/9/screenshots/javafx-composer.png[image:../../images_www/v6/9/screenshots/javafx-composer-cut.png[][font-11]#Click image for full screen preview#]
+link:../../images_www/v6/9/screenshots/javafx-composer.png[image:javafx-composer-cut.png[][font-11]#Click image for full screen preview#]
 
 *The visual layout tool for JavaFX applications.*
 
@@ -45,7 +45,7 @@ The JavaFX Composer is a visual layout tool for JavaFX applications, like the Ne
 
  |
 
-image:../../images_www/screenshots/6.9/javafx-composer.png[]
+image:javafx-composer.png[]
 
  
 
@@ -66,28 +66,28 @@ The JavaFX Composer makes it easy to develop applications with multiple screens,
 
  |
 
-image:../../images_www/v6/9/features/javafx-states.png[]
+image:javafx-states.png[]
 
-link:http://www.javafx.com/[image:../../images_www/v6/8/features/javafx-screens.png[]]
+link:http://www.javafx.com/[image:javafx-screens.png[]]
 
  
 
-|=== Built-in Data Connectivity image:../../images_www/v6/features/new_small.gif[]
+|=== Built-in Data Connectivity image:new_small.gif[]
 
 If your JavaFX application requires connecting to data sources, use the project templates to easily create a JavaFX Business Desktop Application or a JavaFX Mobile Business Application. Use the Design View to connect the user interface to data sources, such as RESTful web services, databases, local filesystem, or data files.
 
 
-image:../../images_www/v6/arrow-button.gif[] link:https://netbeans.org/kb/trails/matisse.html[JavaFX and Swing GUI Learning Trail].
+image:arrow-button.gif[] link:https://netbeans.org/kb/trails/matisse.html[JavaFX and Swing GUI Learning Trail].
 
-image:../../images_www/v6/arrow-button.gif[] link:http://www.javafx.com/[javafx.com] with downloads, demos, FAQs and documentation.
+image:arrow-button.gif[] link:http://www.javafx.com/[javafx.com] with downloads, demos, FAQs and documentation.
 
  |
 
-image:../../images_www/v6/9/features/javafx-data.png[]
+image:javafx-data.png[]
 
  
 |===
 
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -30,11 +30,11 @@
 
 == Build Tools
 
-link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut.png[] [font-11]# Click image for fullscreen preview#]
+link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut.png[] [font-11]# Click image for fullscreen preview#]
 
 Take control of your build right where your code is—with standard build tools integrated into the IDE.
 
-    [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut2.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut2.png[]]#
 
 === Maven
 
@@ -42,7 +42,7 @@ NetBeans IDE supports the Maven build system to help you manage project dependen
 
 link:http://wiki.netbeans.org/MavenBestPractices[Maven in NetBeans IDE]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:../../images_www/v7/3/features/ide-buildtools-ant-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:ide-buildtools-ant-cut.png[]]#
 
 === Ant
 
@@ -50,7 +50,7 @@ The default NetBeans IDE project system is built directly on top of the Ant buil
 
 You do not need to be familiar with Ant to work with applications in the IDE. You can set all the basic compilation and runtime options in your project's Project Properties dialog box and the IDE automatically updates the project's Ant script. If you know how to work with Ant, you can customize a project's Ant script directly or write your own Ant script for your project.
 
-link:https://netbeans.org/kb/articles/freeform-config.html[Advanced Free-Form Project Configuration]     [overview-left]#link:../../images_www/v7/3/features/groovy-gradle.png[image:../../images_www/v7/3/features/groovy-gradle-cut.png[]]#
+link:https://netbeans.org/kb/articles/freeform-config.html[Advanced Free-Form Project Configuration]     [overview-left]#link:../../images_www/v7/3/features/groovy-gradle.png[image:groovy-gradle-cut.png[]]#
 
 === Gradle
 
@@ -64,4 +64,4 @@ link:http://netbeans.dzone.com/articles/definitive-gradle-guide-for-netbeans[The
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of specific features in the latest stable release.
 * link:../../kb/trails/java-se.html[General Java Development Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

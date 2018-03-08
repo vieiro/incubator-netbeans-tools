@@ -28,7 +28,7 @@
 
 == NetBeansプラットフォーム
 
-image:../../images_www/v6/features/platform_450px.jpg[]
+image:platform_450px.jpg[]
 
 *NetBeansプラットフォームの上にデスクトップ・アプリケーションをビルドすると、数年におよぶ開発時間の節約も可能です。*
 
@@ -41,4 +41,4 @@ NetBeansプラットフォームでは、これらのすべてをすぐに使用
 NetBeansプラットフォームは、信頼性の高い柔軟なアプリケーション・アーキテクチャを提供します。アプリケーションはIDEなどに注意する必要はありません。開発時間を何年も節約できます。NetBeansプラットフォームは、何年もかけて検証されたアーキテクチャを無償で提供します。持続可能な開発作業を促進するアーキテクチャ。NetBeansプラットフォームのアーキテクチャはモジュール式なので、堅牢で拡張可能なアーキテクチャを簡単に作成できます。
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

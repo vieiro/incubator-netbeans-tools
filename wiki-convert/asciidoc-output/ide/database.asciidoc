@@ -30,11 +30,11 @@
 
 == Databases
 
-link:../../images_www/v7/3/features/ide-database-full.png[image:../../images_www/v7/3/features/ide-database-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/3/features/ide-database-full.png[image:ide-database-cut.png[][font-11]#Click image for fullscreen preview#]
 
 NetBeans IDE provides drivers for the Java DB, MySQL, Oracle, and PostgreSQL database servers so that you can connect to these databases very easily. You can also register any other JDBC driver with the IDE, so that you can explore any database that provides a JDBC driver.
 
-    [overview-right]#image:../../images_www/v7/3/features/ide-database-explorer-cut.png[]#
+    [overview-right]#image:ide-database-explorer-cut.png[]#
 
 === Database Explorer
 
@@ -44,7 +44,7 @@ You can create, modify, and delete tables, columns, and indices in your database
 
 link:../../kb/docs/ide/oracle-db.html[Connecting to Oracle Database]
 link:../../kb/docs/ide/java-db.html[Connecting to JavaDB Database]
-link:../../kb/docs/ide/mysql.html[Connecting to MySQL Database]     [overview-left]#link:../../images_www/v7/3/features/ide-database-full.png[image:../../images_www/v7/3/features/ide-database-sql.png[]]#
+link:../../kb/docs/ide/mysql.html[Connecting to MySQL Database]     [overview-left]#link:../../images_www/v7/3/features/ide-database-full.png[image:ide-database-sql.png[]]#
 
 === SQL Editor
 
@@ -54,7 +54,7 @@ The editor is richly featured with code completion and syntax coloring to help y
 
 The editor is customizable and you can extend it with new features via plugins.
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === Wizard Based Client Generation
 
@@ -71,4 +71,4 @@ Use the customizable HTML and JSF component palettes to drag and drop HTML and J
 * link:../../community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of highlighted features in the latest stable release.
 * link:../../kb/trails/java-se.html[General Java Development Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

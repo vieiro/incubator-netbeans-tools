@@ -30,11 +30,11 @@
 
 == Gerenciamento de Projetos
 
-link:../../images_www/v7/3/features/ide-management-main-full.png[image:../../images_www/v7/3/features/ide-management-main-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/3/features/ide-management-main-full.png[image:ide-management-main-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 O NetBeans IDE oferece diversas views de dados, de várias janelas do projeto a views de arquivo e hierarquia, permitindo o drill-down dos dados de forma rápida e fácil.
 
-    [overview-right]#image:../../images_www/v7/3/features/ide-management-project-cut.png[]#
+    [overview-right]#image:ide-management-project-cut.png[]#
 
 === Views do Projeto
 
@@ -42,7 +42,7 @@ A janela Projetos é o ponto de entrada principal para os códigos-fonte do proj
 
 Além da janela Projetos, o IDE oferece a janela Arquivos, em que você pode ver todos os arquivos pertencentes a um projeto, e a janela Favoritos, onde é possível adicionar pastas e arquivos para busca no IDE.
 
-     [overview-left]#link:../../images_www/v7/3/features/ide-management-file-cut.png[image:../../images_www/v7/3/features/ide-management-file-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ide-management-file-cut.png[image:ide-management-file-cut.png[]]#
 
 === Views do Arquivo
 
@@ -50,7 +50,7 @@ A janela Navegador oferece uma view compacta do arquivo selecionado atualmente e
 
 Por exemplo, para arquivos Java, a janela Navegador mostra uma lista de construtores, métodos e campos, enquanto para arquivos HTML e CSS ele mostra a estrutura lógica do documento selecionado.
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-management-hierarchy-cut.png[image:../../images_www/v7/3/features/ide-management-hierarchy-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-management-hierarchy-cut.png[image:ide-management-hierarchy-cut.png[]]#
 
 === Views da Hierarquia
 
@@ -65,4 +65,4 @@ A janela Hierarquia se integra com as janelas Navegador e Javadoc, de forma que 
 * link:../../community/releases/81/index.html[Página da Release NetBeans IDE 8.1] para obter uma lista de funcionalidades realçadas na última versão estável.
 * link:../../kb/trails/java-se.html[Trilha de Aprendizado em Desenvolvimento Geral de Java] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

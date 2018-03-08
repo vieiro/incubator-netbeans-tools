@@ -30,11 +30,11 @@
 
 == Java Enterprise Edition 支持
 
-link:../../images_www/v7/1/screenshots/web-app.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/1/screenshots/web-app.png[image:web-app-cut.png[][font-11]#单击图像查看全屏预览#]
 
 NetBeans IDE 充分支持开发利用 Java EE 平台的 Web 和服务器端应用程序。IDE 支持的开发是在与 Java EE 和 GlassFish 团队的密切合作下完成的，以实现最紧密集成，并使您可以最简便的方式使用 Java EE 规范。因此，如果您不太熟悉 Java EE 规范和框架，则使用 NetBeans IDE 是您快速学习 Java EE 编程并使用它高效工作的最佳途径。
 
-    [overview-right]#link:../../images_www/v7/3/features/java-ee-7-full.png[image:../../images_www/v7/3/features/java-ee-7-full-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/java-ee-7-full.png[image:java-ee-7-full-cut.png[]]#
 
 === 支持 Java Enterprise Edition 7
 
@@ -44,7 +44,7 @@ IDE 中提供的支持范围为：可用于快速创建应用程序的向导，�
 
 link:../../kb/trails/java-ee.html[Java EE 和 Java Web 学习资源]
 
-     [overview-left]#link:../../images_www/v7/3/features/ejb-dev.png[image:../../images_www/v7/3/features/ejb-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ejb-dev.png[image:ejb-dev-cut.png[]]#
 
 === 简化的 EJB 开发
 
@@ -52,7 +52,7 @@ IDE 支持最新的 EJB 3.2 规范，包括在 Web 应用程序项目中。EJB �
 
 link:../../kb/docs/javaee/javaee-entapp-ejb.html[使用 EJB 3.1 创建企业应用程序]
 
-     [overview-right]#link:../../images_www/v7/3/features/jsf-dev.png[image:../../images_www/v7/3/features/jsf-dev-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/jsf-dev.png[image:jsf-dev-cut.png[]]#
 
 === JSF 开发
 
@@ -62,7 +62,7 @@ IDE 还支持各种 JSF 组件库（*PrimeFaces、RichFaces、ICEfaces*），可
 
 link:../../kb/docs/web/jsf20-intro.html[JavaServer Faces 简介]
 
-     [overview-left]#link:../../images_www/v7/3/features/jpa-dev.png[image:../../images_www/v7/3/features/jpa-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/jpa-dev.png[image:jpa-dev-cut.png[]]#
 
 === JPA 支持
 
@@ -85,19 +85,19 @@ IDE 现在具有独立的 JPQL 编辑器，在该编辑器中，您可以直接�
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/template-wizard-cut.png[]#
+|[overview-centre]#image:template-wizard-cut.png[]#
 IDE 提供了一个用于创建 Facelets 模板的Facelets 模板向导，和一个用于创建依赖于模板的文件的 Facelets 模板客户端向导。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/jsp-dev-cut.png[]#
+[overview-centre]#image:jsp-dev-cut.png[]#
 在 JavaServer Pages (JSP) 文件中，编辑器可通过代码完成、超文本导航、错误检查和调试功能为您提供帮助。您可以从组件面板拖放代码片段。支持创建和使用定制标记库。
 
 link:../../kb/docs/web/quickstart-webapps.html[使用 JSP 开发 Web 应用程序简介]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ee-7-web-profile-cut.png[]#
+[overview-centre]#image:ee-7-web-profile-cut.png[]#
 link:http://www.oracle.com/technetwork/java/javaee/tech/index.html[Java EE Web 配置文件]定义了可用于构建 Web 应用程序的规范子集。NetBeans 提供对使用 Web 配置文件创建应用程序的现成支持。
 
  
@@ -114,19 +114,19 @@ link:http://www.oracle.com/technetwork/java/javaee/tech/index.html[Java EE Web �
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/jsf-crud-gen-cut.png[]#
+|[overview-centre]#image:jsf-crud-gen-cut.png[]#
 可以使用 JSF CRUD 应用程序生成器（创建/读取/更新/删除）创建功能完善的 JSF 页，以处理数据库中的数据。新建文件向导可以通过现有实体生成可定制的 CRUD JSF 页。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/cdi-support-cut.png[]#
+[overview-centre]#image:cdi-support-cut.png[]#
 使用新建项目向导或新建文件向导创建可以进行上下文和依赖关系注入 (CDI) 的文件。提供编辑器支持，例如右键单击任意注入点访问 "Go To Injectables"（转至可注入元素）和 "Inspect Injectables"（检查可注入元素）菜单操作。
 
 link:../../kb/docs/javaee/cdi-intro.html[CDI 和 JSF 2.0 入门指南]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/jpa-jpql-cut.png[]#
+[overview-centre]#image:jpa-jpql-cut.png[]#
 使用独立 JPQL 编辑器，您可以直接从 IDE 运行查询，而不用运行 JPA 应用程序以测试查询。JPQL 编辑器支持 JPQL 关键字的代码完成功能。对于受管实体，它可以向您提供 JPQL 查询的 SQL 表示形式（如果使用了 EclipseLink 或 Hibernate 提供器）。它还可以提示 JPQL 查询所出现的问题。
 
  
@@ -139,7 +139,7 @@ link:../../kb/docs/javaee/cdi-intro.html[CDI 和 JSF 2.0 入门指南]
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/websocket-endpoint-cut.png[]#
+|[overview-centre]#image:websocket-endpoint-cut.png[]#
 IDE 支持创建 Web 应用程序，该应用程序使用用于 WebSocket 的 Java API (JSR 356)，从而支持浏览器客户端与应用程序服务器之间的双向通信。
 
 link:../../kb/docs/javaee/maven-websocketapi.html[使用 WebSocket API]
@@ -152,4 +152,4 @@ link:../../kb/docs/javaee/maven-websocketapi.html[使用 WebSocket API]
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/java-ee.html[Java EE 和 Java Web 学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

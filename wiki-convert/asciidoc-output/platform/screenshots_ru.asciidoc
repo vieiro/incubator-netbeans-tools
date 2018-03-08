@@ -29,4 +29,4 @@
 страница перенесена – link:http://platform.netbeans.org/screenshots.html[перейдите по этой ссылке]!
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

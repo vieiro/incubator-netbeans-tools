@@ -30,11 +30,11 @@
 
 == JavaFX
 
-link:../../images_www/v7/3/features/client-javafx-main-full.png[image:../../images_www/v7/3/features/client-javafx-main-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/client-javafx-main-full.png[image:client-javafx-main-cut.png[][font-11]#单击图像查看全屏预览#]
 
 JavaFX 是 Java 作为富客户端平台演变的下一阶段。它旨在为企业业务应用程序提供小型硬件加速 Java UI 平台。有了 JavaFX，开发者就可以通过标准 Java 开发工具完全使用 Java 编程语言创建 JavaFX 应用程序。您可以访问本机系统功能，或者无缝连接到基于服务器的中间件应用程序。
 
-    [overview-right]#link:../../images_www/v7/3/features/client-javafx-scene-full.png[image:../../images_www/v7/3/features/client-javafx-scene-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-javafx-scene-full.png[image:client-javafx-scene-cut.png[]]#
 
 === 模板和 GUI 编辑
 
@@ -43,13 +43,13 @@ NetBeans IDE 以项目模板形式向您提供框架 JavaFX 应用程序。此�
 通过 "NetBeans Options"（NetBeans 选项）窗口，您可以注册场景构建器，以使 FXML 文件自动在其中打开。
 
 link:http://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm[JavaFX 入门指南]
-link:http://www.youtube.com/watch?v=EGEONliKWDk[使用 NetBeans IDE 的场景构建器]     [overview-left]#link:../../images_www/v7/3/features/client-javafx-fxml-full.png[image:../../images_www/v7/3/features/client-javafx-fxml-cut.png[]]#
+link:http://www.youtube.com/watch?v=EGEONliKWDk[使用 NetBeans IDE 的场景构建器]     [overview-left]#link:../../images_www/v7/3/features/client-javafx-fxml-full.png[image:client-javafx-fxml-cut.png[]]#
 
 === FXML 编辑器
 
 IDE 提供的 XML 编辑器支持 FXML，FXML 是用于在 JavaFX 应用程序中定义用户界面的基于 XML 的声明标记语言。
 
-     [overview-right]#link:../../images_www/v7/3/features/client-javafx-deploy-full.png[image:../../images_www/v7/3/features/client-javafx-deploy-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-javafx-deploy-full.png[image:client-javafx-deploy-cut.png[]]#
 
 === 部署工具
 
@@ -57,7 +57,7 @@ IDE 提供的 XML 编辑器支持 FXML，FXML 是用于在 JavaFX 应用程序�
 
 在 IDE 中，您可以将 JavaFX 项目配置为通过 Java Web Start 或在浏览器中作为独立应用程序运行。
 
-     [overview-left]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:../../images_www/v7/3/features/client-swing-visual-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:client-swing-visual-cut.png[]]#
 
 === 可视调试器
 
@@ -74,4 +74,4 @@ link:../../kb/docs/java/debug-visual.html[使用 NetBeans IDE 中的可视调试
 * link:../../community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/java-se.html[常规 Java 开发学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

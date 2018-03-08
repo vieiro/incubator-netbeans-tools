@@ -30,11 +30,11 @@
 
 == テストとコード分析
 
-link:../../images_www/v7/3/features/ide-findbugs-full.png[image:../../images_www/v7/3/features/ide-analysis-main-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/ide-findbugs-full.png[image:ide-analysis-main-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 アプリケーションのテスト用に、IDEにはJUnitおよびTestNGを使用するためのツールとコード・アナライザ(特にFindBugs)が用意されています。
 
-    [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:../../images_www/v7/3/features/ide-testing-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:ide-testing-cut.png[]]#
 
 === テスト
 
@@ -45,7 +45,7 @@ Javaクラスのテストを作成したら、それらを個別に、または�
 実行したテストの結果は、「テスト結果」ウィンドウに表示されます。
 
 link:../../kb/docs/java/junit-intro.html[NetBeans IDEでのJUnitテストの記述]
-link:../../kb/docs/java/testng-screencast.html[NetBeans IDEでのTestNGの使用方法のビデオ]     [overview-left]#link:../../images_www/v7/3/features/ide-findbugs-full.png[image:../../images_www/v7/3/features/ide-findbugs-cut.png[]]#
+link:../../kb/docs/java/testng-screencast.html[NetBeans IDEでのTestNGの使用方法のビデオ]     [overview-left]#link:../../images_www/v7/3/features/ide-findbugs-full.png[image:ide-findbugs-cut.png[]]#
 
 === コード分析
 
@@ -62,4 +62,4 @@ link:../../kb/docs/java/code-inspect.html[NetBeans IDE Javaエディタでの静
 * 最新の安定版リリースの個別機能のリストについては、link:/community/releases/8.1/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-se.html[「一般的なJava開発の学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

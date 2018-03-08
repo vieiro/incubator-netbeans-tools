@@ -28,7 +28,7 @@
 
 == NetBeans OSGi 互操作性
 
-link:../../images_www/v7/1/screenshots/osgi.png[image:../../images_www/v7/1/screenshots/osgi-cut.png[]]
+link:../../images_www/v7/1/screenshots/osgi.png[image:osgi-cut.png[]]
 
 link:../../images_www/v7/screenshots/osgi.png[[font-11]#单击图像查看全屏预览#]
 
@@ -53,19 +53,19 @@ OSGi 框架是一个用于创建模块应用程序的模块和服务注册系统
 
 现在，可以在与 NetBeans IDE 捆绑在一起的 Apache Felix OSGi 运行时容器中运行 OSGi 包。"New Project"（新建项目）> "Samples"（样例）> "NetBeans Modules"（NetBeans 模块）下的基于 Equinox 的平台应用程序和相关教程将有助于您将 OSGi 包集成到 Equinox 运行时容器支持的平台应用程序中。
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/platform.html[OSGi 和 NetBeans 教程]
+image:arrow-button.gif[] link:../../kb/trails/platform.html[OSGi 和 NetBeans 教程]
 
-image:../../images_www/v6/arrow-button.gif[] link:http://wiki.netbeans.org/OSGiAndNetBeans[OSGi 和 NetBeans 概述]
+image:arrow-button.gif[] link:http://wiki.netbeans.org/OSGiAndNetBeans[OSGi 和 NetBeans 概述]
 
  |
 
-image:../../images_www/screenshots/6.9/maven-osgi.png[]
+image:maven-osgi.png[]
 
-image:../../images_www/v6/9/features/osgi-cluster.png[]
+image:osgi-cluster.png[]
 
-image:../../images_www/v6/9/features/osgi-project.png[]
+image:osgi-project.png[]
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

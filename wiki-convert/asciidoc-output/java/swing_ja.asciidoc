@@ -28,12 +28,12 @@
 
 == Swing GUIビルダー(旧称Project Matisse)
 
-link:../../images_www/v7/1/screenshots/gui-builder.png[image:../../images_www/v7/1/screenshots/gui-builder-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/1/screenshots/gui-builder.png[image:gui-builder-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 *間隔や位置揃えの自動調整により、高度なGUIを作成できます。*
 
 |===
-|=== プロフェッショナルなSwing GUIのビルドimage:../../images_www/v6/features/improved_small.gif[]
+|=== プロフェッショナルなSwing GUIのビルドimage:improved_small.gif[]
 
 GUIコンポーネントをパレットからドラッグし、キャンバスに配置して、Swing GUIをデザインできます。間隔や位置揃えはGUIビルダーによって自動的に調整されます。JLabels、JButtons、ButtonGroups、JTrees、JTextFields、ComboBoxesをクリックし、その場でそれぞれのプロパティを編集できます。GUIビルダーを使用して、顧客の目の前でGUIのプロトタイプを作成できます。
 link:../../kb/docs/java/gui-functionality.html[GUIビルドの概要]
@@ -44,9 +44,9 @@ GUIコードを完全修飾名または単純クラス名のどちらで生成�
 
   |
 
-image:../../images_www/v7/1/features/swing-gui-design.png[]
+image:swing-gui-design.png[]
 
-image:../../images_www/v7/1/features/swing-gui-options.png[]
+image:swing-gui-options.png[]
 
  
 
@@ -56,25 +56,25 @@ image:../../images_www/v7/1/features/swing-gui-options.png[]
 
   |
 
-image:../../images_www/v7/1/features/swing-gui-palette.png[]
+image:swing-gui-palette.png[]
 
  
 
-|=== ビジュアル・デバッガimage:../../images_www/v6/features/improved_small.gif[]
+|=== ビジュアル・デバッガimage:improved_small.gif[]
 
 ソース・コードを見ずにSwing GUIアプリケーションをデバッグし、高レベルの構造に関して実行フローを制御できます。「GUIスナップショットを作成」を選択すると、ビジュアル・デバッガの機能の基礎として機能する、アプリケーションGUIのスクリーンショットを作成できます。
 link:../../kb/docs/java/debug-visual.html[ビジュアル・デバッガの使用]
 
  |
 
-image:../../images_www/v7/1/features/swing-gui-snapshot.png[]
+image:swing-gui-snapshot.png[]
 
  
 |===
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/matisse.html[GUIビルダーの学習]
+image:arrow-button.gif[] link:../../kb/trails/matisse.html[GUIビルダーの学習]
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/platform.html[NetBeansプラットフォームの学習]
+image:arrow-button.gif[] link:../../kb/trails/platform.html[NetBeansプラットフォームの学習]
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -30,11 +30,11 @@
 
 == Java ME 和嵌入式应用程序
 
-link:../../images_www/v7/1/screenshots/gamebuilder.png[image:../../images_www/v7/1/screenshots/gamebuilder-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/1/screenshots/gamebuilder.png[image:gamebuilder-cut.png[][font-11]#单击图像查看全屏预览#]
 
 创建、测试、调试和部署将在 Raspberry Pi、移动电话、PDA、机顶盒以及其他 Mobile 和嵌入式系统上运行的应用程序。
 
-    [overview-right]#link:../../images_www/v7/3/features/client-jme-pi-full.png[image:../../images_www/v7/3/features/client-jme-pi-full.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-jme-pi-full.png[image:client-jme-pi-full.png[]]#
 
 === Java SE 嵌入式
 
@@ -46,7 +46,7 @@ NetBeans IDE 提供了对远程嵌入式平台的完整开发支持，包括直�
 
 link:../../kb/index.html[NetBeans 技术学习资源]
 
-     [overview-left]#link:../../images_www/v7/3/features/client-jme-jdk8-full.png[image:../../images_www/v7/3/features/client-jme-jdk8-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/client-jme-jdk8-full.png[image:client-jme-jdk8-cut.png[]]#
 
 === Java ME 嵌入式
 
@@ -54,7 +54,7 @@ Java ME 嵌入式是 Java SE 平台的子集，已缩减为适合资源约束的
 
 IDE 支持使用 Java ME 8 CLDC 平台仿真器，为 Java ME 上的 Java 8 提供直观的工具和编辑器，并且让您可以方便地在 Java ME 嵌入式平台中定制可选包。
 
-     [overview-right]#link:../../images_www/v7/3/features/client-jme-full.png[image:../../images_www/v7/3/features/client-jme-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-jme-full.png[image:client-jme-cut.png[]]#
 
 === 电话、手持设备、Java Card 和机顶盒
 
@@ -64,7 +64,7 @@ IDE 与 Java ME SDK 捆绑在一起，后者支持 CLDC 和 CDC 开发。可以�
 
 link:../../kb/index.html[NetBeans 技术学习资源]
 
-     [overview-left]#link:../../images_www/v7/3/features/client-jme-card-full.png[image:../../images_www/v7/3/features/client-jme-card-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/client-jme-card-full.png[image:client-jme-card-cut.png[]]#
 
 === Java Card
 
@@ -72,7 +72,7 @@ Java Card 平台是在智能卡上运行的 JVM。此平台支持常用的 Java 
 
 IDE 支持 Java Card 项目、Java Card 小应用程序部署和 Java Card 设备控制台。
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-basic-plugins.png[image:../../images_www/v7/3/features/ide-basic-plugins-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-basic-plugins.png[image:ide-basic-plugins-cut.png[]]#
 
 === 可视 Mobile 设计器
 
@@ -87,4 +87,4 @@ IDE 支持 Java Card 项目、Java Card 小应用程序部署和 Java Card 设�
 * link:../../community/releases/80/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/java-se.html[常规 Java 开发学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -30,11 +30,11 @@
 
 == Team Collaboration
 
-link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../images_www/v7/3/features/ide-collaboration-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/3/features/ide-collaboration-full.png[image:ide-collaboration-cut.png[][font-11]#Click image for fullscreen preview#]
 
 Work together with others on your team, via issue tracking and continuous integration.
 
-    [overview-left]#link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../images_www/v7/3/features/ide-collaboration-tracker-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/ide-collaboration-full.png[image:ide-collaboration-tracker-cut.png[]]#
 
 === Issue Tracking
 
@@ -42,7 +42,7 @@ You can configure NetBeans IDE to use your own Jira or BugZilla repository.
 
 The user-friendly integration between version control systems and issue trackers allows you to commit code changes and update the associated issue status in one step. Create new issues and edit existing issues; sort and filter issues and save queries; create patches and add attachments—all from the IDE.
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:../../images_www/v7/3/features/ide-collaboration-hudson-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:ide-collaboration-hudson-cut.png[]]#
 
 === Continuous Integration
 
@@ -61,4 +61,4 @@ link:http://wiki.netbeans.org/HudsonInNetBeans[Hudson in NetBeans IDE]
 * link:../../community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of highlighted features in the latest stable release.
 * link:../../kb/trails/java-se.html[General Java Development Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

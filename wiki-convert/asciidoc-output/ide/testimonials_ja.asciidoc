@@ -156,4 +156,4 @@ GroovyとGrailsのサポートの取得に常に問題が発生していまし�
 すべてのNetBeans開発者とNetBeansチームに、このリリースおよびJolt賞受賞についてお祝いを申し上げます。ここまで到達するにはどれほど大変な作業、努力、献身が必要であったか、ソフトウェア開発者としてよくわかっています。皆さん、本当によく成し遂げました。`
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

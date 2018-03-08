@@ -28,7 +28,7 @@
 
 == プロファイラ
 
-link:../../images_www/v7/1/screenshots/profiler.png[image:../../images_www/v7/1/screenshots/profiler-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/1/screenshots/profiler.png[image:profiler-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 *NetBeansプロファイラでは、アプリケーションの処理速度とメモリー使用状況を最適化するためのエキスパート向け支援を提供しています。また、信頼性とスケーラビリティに優れたJava SE、JavaFX、およびJava EEの各アプリケーションを簡単にビルドできます。*
 
@@ -43,7 +43,7 @@ CPUまたはメモリーの標準的なプロファイリングや単純なモ�
 
 ヒープ・ウォーカを使用してJavaのヒープの内容を評価し、メモリー・リークの原因となる不要な参照を特定できます。ヒープ上にあるクラスやクラスのインスタンス、各インスタンスまたはクラスのフィールド、および各インスタンスへの参照を確認できます。jHatとの互換性があるOQL問合せを使用して、ヒープ・ダンプの内容を分析できます。このとき、OQLの基本的な構文強調表示とコード補完を使用できます。
 
- |image:../../images_www/v6/features/profiler-heapwalker_p150.png[] 
+ |image:profiler-heapwalker_p150.png[] 
 
 |=== プロファイリング・ポイント
 
@@ -51,7 +51,7 @@ CPUまたはメモリーの標準的なプロファイリングや単純なモ�
 
 プロファイリング・ポイントを使用して、特定のコード行の実行、経過時間、使用メモリーなど、特定の条件を満たしたときに処理を自動的にトリガーできます。プロファイリング・ポイントでは、ヒープ・ダンプ、収集された結果のリセット、負荷ジェネレータ・スクリプトの実行、結果スナップショットの作成などをトリガーできます。
 
- |image:../../images_www/screenshots/6.0/javaSE_profiler_profiling_points2_150px.png[] 
+ |image:javaSE_profiler_profiling_points2_150px.png[] 
 
 |=== CPUボトルネックの識別
 
@@ -63,7 +63,7 @@ NetBeansプロファイラは、特定のメソッドのみについて報告す
 
 リークしているオブジェクトを、メモリー割当ておよびガベージ・コレクションの特殊なパターン、またはその有無に基づいて特定できます。オブジェクト・ライブのプロファイリングでは、オブジェクト作成イベントとガベージ・コレクション・イベントの両方がトラックされます。現在メモリー内にあるオブジェクトの数、年齢、割当てパス、およびその他の特性をウォッチし、またメモリー・スナップショットを比較できます。
 
- |image:../../images_www/screenshots/6.0/javaSE_profiler_drilldown_150px.png[] 
+ |image:javaSE_profiler_drilldown_150px.png[] 
 
 |=== スレッド・ステータスのモニタリング
 
@@ -77,12 +77,12 @@ NetBeans IDEとは異なるシステムで実行しているアプリケーシ�
 
 プロファイラを任意のJavaアプリケーションにアタッチします。これには、IDEから起動されないアプリケーションも含まれます。JavaアプリケーションとIDEの両方がJDK 6を使用して実行されている場合は、プロファイラを動的にアタッチして、すでに実行中のアプリケーションをプロファイリングすることもできます。
 
- |image:../../images_www/v6/features/profiler-threads.png[] 
+ |image:profiler-threads.png[] 
 |===
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/java-se.html[Java SEと基本IDEの学習]
+image:arrow-button.gif[] link:../../kb/trails/java-se.html[Java SEと基本IDEの学習]
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

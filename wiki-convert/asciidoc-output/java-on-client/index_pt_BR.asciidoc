@@ -30,11 +30,11 @@
 
 == Java no Cliente
 
-link:../../images_www/v7/3/features/client-main-full.png[image:../../images_www/v7/3/features/client-main-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/3/features/client-main-full.png[image:client-main-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 O NetBeans IDE ajuda você a desenvolver clientes Java de forma rápida e eficiente, para Java SE, usando JavaFX e Swing, assim como Java ME e aplicações incorporadas.
 
-    [overview-right]#link:../../images_www/v7/3/features/client-javafx-full.png[image:../../images_www/v7/3/features/client-javafx-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-javafx-full.png[image:client-javafx-cut.png[]]#
 
 === JavaFX
 
@@ -44,7 +44,7 @@ O IDE oferece projetos JavaFX e integração com JavaFX Scene Builder, juntament
 
 link:javafx.html[JavaFX no NetBeans IDE]
 
-     [overview-left]#link:../../images_www/v7/3/features/client-swing-full.png[image:../../images_www/v7/3/features/client-swing-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/client-swing-full.png[image:client-swing-cut.png[]]#
 
 === Swing
 
@@ -54,7 +54,7 @@ Crie GUIs Swing arrastando e posicionando os componentes de GUI de uma paleta em
 
 link:swing.html[Swing no NetBeans IDE]
 
-     [overview-right]#link:../../images_www/v7/3/features/client-jme-full.png[image:../../images_www/v7/3/features/client-jme-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-jme-full.png[image:client-jme-cut.png[]]#
 
 === Java ME e Incorporados
 
@@ -69,4 +69,4 @@ link:java-me.html[Java ME e Incorporados no NetBeans IDE]
 * link:../../community/releases/81/index.html[Página da Release NetBeans IDE 8.1] para obter uma lista de funcionalidades realçadas na última versão estável.
 * link:../../kb/trails/java-se.html[Trilha de Aprendizado em Desenvolvimento Geral de Java] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

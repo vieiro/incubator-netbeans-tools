@@ -28,7 +28,7 @@
 
 == Java SE (Standard Edition)
 
-link:../../images_www/v7/screenshots/java-se.png[image:../../images_www/v7/screenshots/java-se-cut1.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/screenshots/java-se.png[image:java-se-cut1.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 *IDE NetBeans обеспечивает для разработчиков Java все средства, необходимые для создания профессиональных приложений Java SE. В IDE NetBeans поддерживается разработка для JDK 6 и JDK 7.*
 
@@ -65,12 +65,12 @@ Java SE – это платформа программирования для р
 
  |
 
-image:../../images_www/screenshots/6.0/javaSE_logo_150px.png[]
+image:javaSE_logo_150px.png[]
 
-image:../../images_www/v6/9/features/annotation-processor.png[]
+image:annotation-processor.png[]
 
 
-image:../../images_www/v6/5/features/java-call-hierarchy.png[]
+image:java-call-hierarchy.png[]
 
  
 
@@ -80,7 +80,7 @@ image:../../images_www/v6/5/features/java-call-hierarchy.png[]
 
  |
 
-image:../../images_www/v6/9/features/unit-test.png[]
+image:unit-test.png[]
 
  
 
@@ -94,14 +94,14 @@ image:../../images_www/v6/9/features/unit-test.png[]
 
 Поддержка Java Beans значительно упрощает создание свойств сериализуемых компонентов и редактирование BeanInfo. Средство GUI Builder в среде NetBeans обеспечивает широкие возможности для разработки приложений Java Swing – от прототипа до готового к использованию графического пользовательского интерфейса. Тесная интеграция отладчика NetBeans и профилировщика NetBeans способствуют созданию надежного программного обеспечения Java для рабочей среды.
 
- |image:../../images_www/screenshots/6.0/baseIDE_ant_powered_150px.png[] 
+ |image:baseIDE_ant_powered_150px.png[] 
 |===
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/java-se.html[Учебная карта по основам среды IDE и программирования на языке Java]
+image:arrow-button.gif[] link:../../kb/trails/java-se.html[Учебная карта по основам среды IDE и программирования на языке Java]
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/platform.html[Учебная карта по платформе NetBeans]
+image:arrow-button.gif[] link:../../kb/trails/platform.html[Учебная карта по платформе NetBeans]
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

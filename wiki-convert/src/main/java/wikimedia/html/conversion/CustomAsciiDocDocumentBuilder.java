@@ -18,9 +18,15 @@
  */
 package wikimedia.html.conversion;
 
+import com.google.common.io.Files;
+import java.io.File;
 import java.io.IOException;
 import java.io.StringWriter;
 import java.io.Writer;
+import java.util.logging.Level;
+import java.util.logging.Logger;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import org.eclipse.mylyn.wikitext.asciidoc.internal.AsciiDocDocumentBuilder;
 import org.eclipse.mylyn.wikitext.parser.Attributes;
 import org.eclipse.mylyn.wikitext.parser.LinkAttributes;
@@ -147,6 +153,8 @@ public class CustomAsciiDocDocumentBuilder extends AsciiDocDocumentBuilder {
     }
     
     private int level_offset = 0;
+    private File imagesRootDirectory;
+    private File outputDirectory;
 
     public CustomAsciiDocDocumentBuilder(Writer out) {
         super(out);
@@ -155,6 +163,17 @@ public class CustomAsciiDocDocumentBuilder extends AsciiDocDocumentBuilder {
     public CustomAsciiDocDocumentBuilder(int levelOffset, Writer out) {
         this(out);
         level_offset = levelOffset;
+    }
+    
+    void setOutputDirectory(File outputDirectory) {
+        this.outputDirectory = outputDirectory;
+    }
+    public File getImagesRootDirectory() {
+        return imagesRootDirectory;
+    }
+
+    public void setImagesRootDirectory(File imagesRootDirectory) {
+        this.imagesRootDirectory = imagesRootDirectory;
     }
 
     private static final String[][] MARKUP_FIXES = {
@@ -179,6 +198,38 @@ public class CustomAsciiDocDocumentBuilder extends AsciiDocDocumentBuilder {
     @Override
     protected Block computeHeading(int level, Attributes attributes) {        
         return super.computeHeading(level + level_offset, attributes);
+    }
+
+    @Override
+    public void imageLink(Attributes linkAttributes, Attributes imageAttributes, String href, String imageUrl) {
+        System.err.println("IMAGE HREF" + href + " URL " + imageUrl + " attributes " + imageAttributes + " LINK ATTRS " + linkAttributes);
+        super.imageLink(linkAttributes, imageAttributes, href, imageUrl); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    private static Pattern CLEANUP_LEADING_BARS_AND_DOTS = Pattern.compile("^[\\./]+");
+
+    @Override
+    public void image(Attributes attributes, String url) {
+        
+        Matcher m = CLEANUP_LEADING_BARS_AND_DOTS.matcher(url);
+        String url_cleaned = m.replaceAll("");
+        
+        if (imagesRootDirectory != null && outputDirectory != null) {
+            File image = new File(imagesRootDirectory, url_cleaned);
+            if (image.exists()) {
+                File destinationImage = new File(outputDirectory, image.getName());
+                try {
+                    Files.copy(image, destinationImage);
+                } catch (IOException ex) {
+                    Logger.getLogger(CustomAsciiDocDocumentBuilder.class.getName()).log(Level.SEVERE, null, ex);
+                }
+                url_cleaned = image.getName();
+            }
+        }
+        
+        System.err.println("IMAGE TITLE " + attributes.getTitle() + " CLASS " + attributes.getCssClass() + " STYLE " + attributes.getCssStyle() + " URL " + url_cleaned);
+        
+        super.image(attributes, url_cleaned); //To change body of generated methods, choose Tools | Templates.
     }
 
     @Override

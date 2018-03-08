@@ -28,7 +28,7 @@
 
 == Java ME (Micro Edition) 和嵌入式
 
-link:../../images_www/v7/1/screenshots/gamebuilder.png[image:../../images_www/v7/1/screenshots/gamebuilder-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/1/screenshots/gamebuilder.png[image:gamebuilder-cut.png[][font-11]#单击图像查看全屏预览#]
 
 *创建、测试、调试和部署在移动电话、PDA、机顶盒以及嵌入式系统（严格地说有数十亿种设备）上运行的应用程序。*
 
@@ -51,9 +51,9 @@ _可视 Mobile 设计器在 NetBeans 更新中心中提供。要在 IDE 中运�
 
  |
 
-image:../../images_www/v6/5/features/mobile-designer.png[]
+image:mobile-designer.png[]
 
-image:../../images_www/v6/9/features/java-card.png[]
+image:java-card.png[]
 
  
 
@@ -67,7 +67,7 @@ image:../../images_www/v6/9/features/java-card.png[]
 
  |
 
-image:../../images_www/v7/1/features/mobile-svg-palette.png[]
+image:mobile-svg-palette.png[]
 
  
 
@@ -81,7 +81,7 @@ image:../../images_www/v7/1/features/mobile-svg-palette.png[]
 
  |
 
-image:../../images_www/v6/5/features/mobile-data-binding.png[]
+image:mobile-data-binding.png[]
 
  
 
@@ -91,7 +91,7 @@ image:../../images_www/v6/5/features/mobile-data-binding.png[]
 
  |
 
-image:../../images_www/v7/1/features/mobile-conf-mgr.png[]
+image:mobile-conf-mgr.png[]
 
  
 
@@ -105,7 +105,7 @@ image:../../images_www/v7/1/features/mobile-conf-mgr.png[]
 
  |
 
-image:../../images_www/v6/features/mobile-preprocessor.png[]
+image:mobile-preprocessor.png[]
 
  
 
@@ -115,9 +115,9 @@ IDE 集成了支持以下功能的工具：JMUnit 1.1.0 测试、MIDlet 签名�
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/mobility.html[Mobility 学习资源]
+image:arrow-button.gif[] link:../../kb/trails/mobility.html[Mobility 学习资源]
 
- |link:http://www.ikivo.com/java/java.html[image:../../images_www/partners/ikivo_logo_small.jpg[]] Ikivo Animator：NetBeans IDE 的高级 SVG 图像和动画编辑功能。通过此link:http://www.ikivo.com/java/white_paper1.html[白皮书]和link:http://www.ikivo.com/java/netbeans_tutorial.html[教程]可以了解更多信息。 
+ |link:http://www.ikivo.com/java/java.html[image:ikivo_logo_small.jpg[]] Ikivo Animator：NetBeans IDE 的高级 SVG 图像和动画编辑功能。通过此link:http://www.ikivo.com/java/white_paper1.html[白皮书]和link:http://www.ikivo.com/java/netbeans_tutorial.html[教程]可以了解更多信息。 
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -28,7 +28,7 @@
 
 == Web Application Frameworks
 
-link:../../images_www/v7/screenshots/web-app2.png[image:../../images_www/v7/screenshots/web-app2-cut1.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/screenshots/web-app2.png[image:web-app2-cut1.png[][font-11]#Click image for fullscreen preview#]
 
 *Rapidly build web applications using* *JavaServer Faces (JSF),*  *JavaServer Pages (JSP),* *Java Web Start (JNLP),**link:../javascript/index.html[JavaScript], Ajax, CSS, and Applets.*
 
@@ -52,9 +52,9 @@ You can use either JSP or Facelets (XHTML) for the front end of your JSF-enabled
 You can learn how to use our JavaServer Faces (JSF) support link:java-ee.html[here].
 link:../../kb/docs/web/jsf20-intro.html[Introduction to JavaServer Faces 2.0]
 
-  |image:../../images_www/v6/features/webapp-css-editor.png[]
+  |image:webapp-css-editor.png[]
 
-image:../../images_www/v7/features/web-jsf-config.png[]
+image:web-jsf-config.png[]
  
 
 |=== Facelets Templates
@@ -63,7 +63,7 @@ Use Facelets to build and render the JSF component tree for application views. I
 
 The IDE provides a Facelets Template wizard for creating Facelets templates, and a Facelets Template Client wizard for creating files that rely on a template.
 
- |image:../../images_www/v7/features/web-facelets-template.png[] 
+ |image:web-facelets-template.png[] 
 
 |=== Database and Data Binding Tools
 
@@ -73,7 +73,7 @@ The Database Explorer works with JavaDB (Derby), MySQL, Oracle database, and Pos
 
  |
 
-image:../../images_www/v7/1/features/javaee-databases.png[]
+image:javaee-databases.png[]
 
  
 
@@ -86,7 +86,7 @@ link:../../kb/docs/web/hibernate-webapp.html[Using Hibernate in a Web Applicatio
 
  |
 
-image:../../images_www/v6/5/features/hibernate-web-apps.png[]
+image:hibernate-web-apps.png[]
 
  
 
@@ -97,7 +97,7 @@ link:../../kb/docs/web/quickstart-webapps-spring.html[Introduction to Spring Web
 
  |
 
-image:../../images_www/v6/features/spring-completion-thumb3.png[]
+image:spring-completion-thumb3.png[]
 
  
 
@@ -108,13 +108,13 @@ Select the Struts 1.3.10 web framework to create flexible web applications based
 Create Struts ActionForm Bean and Action class files, and ctrl-click for hypertext navigation between the struts-config.xml file and the corresponding ActionForm bean class. Use the context menu to easily add Forward, Action, and Exclude entries.
 link:../../kb/docs/web/quickstart-webapps-struts.html[Introduction to the Struts Web Framework]
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/java-ee.html[Java EE and Web Application Learning Trail]
+image:arrow-button.gif[] link:../../kb/trails/java-ee.html[Java EE and Web Application Learning Trail]
 
  |
 
-image:../../images_www/v6/8/features/struts.png[]
+image:struts.png[]
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

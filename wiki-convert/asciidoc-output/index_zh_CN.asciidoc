@@ -32,7 +32,7 @@
 
 NetBeans IDE 使您能够轻松快速地开发 Java 桌面、Mobile 和 Web 应用程序以及使用 HTML、JavaScript 和 CSS 的 HTML5 应用程序。IDE 还为 PHP 和 C/C++ 开发者提供一组强大的工具。它是免费和开源的，有一个由世界各地的用户和开发者组成的大社区。
 
-   [overview-right]#link:/images_www/v7/design/overview/java_technologies.png[image:/images_www/v7/design/overview/image_java_technologies.png[]]#
+   [overview-right]#link:/images_www/v7/design/overview/java_technologies.png[image:image_java_technologies.png[]]#
 
 === 对最新 Java 技术的最佳支持
 
@@ -40,7 +40,7 @@ NetBeans IDE 使您能够轻松快速地开发 Java 桌面、Mobile 和 Web 应�
 
 NetBeans IDE 不断改进 Java 编辑器并提供许多丰富的功能以及各种各样的工具、模板和样例，从而设置了使用现成尖端技术进行开发的标准。
 
-   [overview-left]#link:/images_www/v7/design/overview/code_editing.png[image:/images_www/v7/design/overview/image_code_editing.png[]]#
+   [overview-left]#link:/images_www/v7/design/overview/code_editing.png[image:image_code_editing.png[]]#
 
 === 快速智能的代码编辑
 
@@ -50,7 +50,7 @@ IDE 不只是一个文本编辑器。NetBeans 编辑器可以缩进行，匹配�
 
 link:./ide/editor.html[详细信息]
 
-   [overview-right]#link:/images_www/v7/design/overview/project_management.png[image:/images_www/v7/design/overview/image_project_management.png[]]#
+   [overview-right]#link:/images_www/v7/design/overview/project_management.png[image:image_project_management.png[]]#
 
 === 轻松有效的项目管理
 
@@ -61,7 +61,7 @@ link:./ide/editor.html[详细信息]
 link:./ide/project-management.html[有关项目管理的详细信息]
 link:./ide/versioning.html[有关版本控制的详细信息]
 
-   [overview-left]#link:/images_www/v7/design/overview/ui_development.png[image:/images_www/v7/design/overview/image_ui_development.png[]]#
+   [overview-left]#link:/images_www/v7/design/overview/ui_development.png[image:image_ui_development.png[]]#
 
 === 快速用户界面开发
 
@@ -74,7 +74,7 @@ link:./html5/index.html[有关 HTML5 的详细信息]
 link:./java-on-client/swing.html[有关 Swing GUI 构建器的详细信息]
 link:./java-on-client/java-me.html[有关 JavaME 的详细信息]
 
-   [overview-right]#link:/images_www/v7/design/overview/bugfree_code.png[image:/images_www/v7/design/overview/image_bugfree_code.png[]]#
+   [overview-right]#link:/images_www/v7/design/overview/bugfree_code.png[image:image_bugfree_code.png[]]#
 
 === 编写无错误代码
 
@@ -119,4 +119,4 @@ link:http://plugins.netbeans.org/[访问 NetBeans 插件门户]
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:http://wiki.netbeans.org/NewAndNoteworthyNB80[“NetBeans IDE 8.1 新增功能和重要功能”页]，提供最新稳定发行版中的功能的完整列表。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

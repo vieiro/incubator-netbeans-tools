@@ -30,11 +30,11 @@
 
 == JavaFX
 
-link:../../images_www/v7/3/features/client-javafx-main-full.png[image:../../images_www/v7/3/features/client-javafx-main-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/3/features/client-javafx-main-full.png[image:client-javafx-main-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 JavaFX является следующим шагом в развитии Java как платформы "толстых" клиентов. Эта технология обеспечивает упрощенную платформу пользовательского интерфейса Java с аппаратным ускорением для бизнес-приложений уровня предприятия. JavaFX позволяет разработчикам создавать приложения JavaFX полностью на языке программирования Java с использованием стандартных инструментов разработки Java. Вы сможете получить доступ к встроенным возможностям системы или легко подключиться к серверным приложениям промежуточного ПО.
 
-    [overview-right]#link:../../images_www/v7/3/features/client-javafx-scene-full.png[image:../../images_www/v7/3/features/client-javafx-scene-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-javafx-scene-full.png[image:client-javafx-scene-cut.png[]]#
 
 === Редактирование шаблонов и графического интерфейса пользователя
 
@@ -43,13 +43,13 @@ IDE NetBeans предоставляет доступ к схемам прило�
 Через окно параметров NetBeans пользователи смогут зарегистрировать Scene Builder, благодаря чему файлы FXML будут автоматически открываться в нем.
 
 link:http://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm[Начало работы с JavaFX]
-link:http://www.youtube.com/watch?v=EGEONliKWDk[Компоновщик сцен в среде NetBeans IDE]     [overview-left]#link:../../images_www/v7/3/features/client-javafx-fxml-full.png[image:../../images_www/v7/3/features/client-javafx-fxml-cut.png[]]#
+link:http://www.youtube.com/watch?v=EGEONliKWDk[Компоновщик сцен в среде NetBeans IDE]     [overview-left]#link:../../images_www/v7/3/features/client-javafx-fxml-full.png[image:client-javafx-fxml-cut.png[]]#
 
 === Редактор FXML
 
 IDE предоставляет редактор XML с поддержкой FXML - декларативного языка разметки на основе XML для определения пользовательских интерфейсов в приложениях JavaFX.
 
-     [overview-right]#link:../../images_www/v7/3/features/client-javafx-deploy-full.png[image:../../images_www/v7/3/features/client-javafx-deploy-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-javafx-deploy-full.png[image:client-javafx-deploy-cut.png[]]#
 
 === Средства развертывания
 
@@ -57,7 +57,7 @@ IDE предоставляет редактор XML с поддержкой FXML
 
 В IDE можно настроить проект JavaFX, чтобы он работал как самостоятельное приложение, с помощью Java Web Start или в браузере.
 
-     [overview-left]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:../../images_www/v7/3/features/client-swing-visual-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:client-swing-visual-cut.png[]]#
 
 === Визуальный отладчик
 
@@ -74,4 +74,4 @@ link:../../kb/docs/java/debug-visual.html[Использование визуа�
 * link:../../community/releases/81/index.html[На странице сведений о версии IDE netbeans 8.1] приведен список выделенных функций в последней стабильной версии.
 * link:../../kb/trails/java-se.html[Учебная карта по общим сведениям о разработке на Java] для учебных курсов по началу работы.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

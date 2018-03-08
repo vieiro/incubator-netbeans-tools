@@ -28,11 +28,11 @@
 
 == PHP 开发
 
-image:../../images_www/v7/3/features/php/php-ide_top.png[]
+image:php-ide_top.png[]
 
 一个专用的 PHP 编码环境，与 Web 标准完全集成，且完全支持 HTML5、JavaScript 和 CSS3 开发，如 link:../html5/index.html[HTML5 Web 开发支持]页上所述。
 
-[overview-right]#image:/images_www/v7/3/features/php/php-code-completion_small.png[]#
+[overview-right]#image:php-code-completion_small.png[]#
 
 === 功能强大的 PHP 源代码编辑器
 
@@ -40,13 +40,13 @@ NetBeans PHP 编辑器提供了代码模板和代码生成工具（例如“gett
 
 可以利用语法和语义代码突出显示、弹出式文档、代码格式设置和折叠、实例和退出点标记、智能型 try/catch 代码完成、智能方法参数预填充，以及矩形选择内容。
 
-  [overview-left]#image:/images_www/v7/3/features/php/php-54-traitcc_small.png[]#
+  [overview-left]#image:php-54-traitcc_small.png[]#
 
 === PHP 5.4 支持
 
 适用于 PHP 7.3 的 NetBeans IDE 提供了许多专门用于使用 PHP 5.4 进行开发的功能。可以设置 PHP 5.4 项目以便在 PHP 5.4 的link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_built[内置 Web 服务器]上运行。IDE 的 PHP 代码完成功能支持 PHP 5.4 数组样式，例如，link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_array[数组解除引用]和link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_short[简要数组语法]。NetBeans IDE 还可识别link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_traits[特性]和link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_anonymous[匿名对象变量]（也称为“变数实例化”）。最后，适用于 PHP 7.3 的 NetBeans IDE 可提供可调用的类型提示、整数的二进制表示法以及 `Class::{expr}()` 调用等link:https://blogs.oracle.com/netbeansphp/entry/php_5_4_support_minor[次要功能]。
 
-  [overview-right]#image:/images_www/v7/3/features/php/frameworks.png[]#
+  [overview-right]#image:frameworks.png[]#
 
 === Web 框架
 
@@ -58,7 +58,7 @@ NetBeans IDE 支持以下常用 Web 框架：
 
 使用这些框架创建新 PHP 项目，运行框架命令，从控制器（操作）导航到视图，在编辑器中使用框架标注和代码完成，以及定制设置。
 
-  [overview-left]#image:/images_www/v7/3/features/ide-collaboration-hudson-cut.png[]#
+  [overview-left]#image:ide-collaboration-hudson-cut.png[]#
 
 === 持续集成支持
 
@@ -68,7 +68,7 @@ NetBeans IDE 支持以下常用 Web 框架：
 
 link:https://netbeans.org/kb/docs/php/screencast-continuous-builds.html[持续构建服务器上的 PHP 支持]
 
-  [overview-right]#image:/images_www/v7/3/features/php/php-project.png[]#
+  [overview-right]#image:php-project.png[]#
 
 === PHP 项目
 
@@ -76,7 +76,7 @@ NetBeans 项目组提供了一个针对 PHP Web 站点开发而量身定做的 I
 
 通过排除项目属性中的个别目录，将重点放在代码上并加快代码扫描速度。NetBeans IDE 完全支持重复开发，因此，PHP 项目测试与 Web 开发者所熟知的传统方式完全一致。
 
-  [overview-left]#image:/images_www/v7/3/features/php/php-debugger.png[]#
+  [overview-left]#image:php-debugger.png[]#
 
 === 调试器
 
@@ -91,4 +91,4 @@ NetBeans 项目组提供了一个针对 PHP Web 站点开发而量身定做的 I
 * link:/community/releases/80/index.html[NetBeans IDE 8.1 发行版页]，提供最新稳定发行版中的特定功能的列表。
 * link:../../kb/trails/php.html[PHP 和 HTML5 学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

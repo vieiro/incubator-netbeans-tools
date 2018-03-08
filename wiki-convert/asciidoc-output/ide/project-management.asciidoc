@@ -30,11 +30,11 @@
 
 == Project Management
 
-link:../../images_www/v7/3/features/ide-management-main-full.png[image:../../images_www/v7/3/features/ide-management-main-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/3/features/ide-management-main-full.png[image:ide-management-main-cut.png[][font-11]#Click image for fullscreen preview#]
 
 NetBeans IDE provides a variety of views on your data, from multiple project windows to file and hierarchy views, letting you drill down into your data quickly and easily.
 
-    [overview-right]#image:../../images_www/v7/3/features/ide-management-project-cut.png[]#
+    [overview-right]#image:ide-management-project-cut.png[]#
 
 === Project Views
 
@@ -42,7 +42,7 @@ The Projects window is the main entry point to your project sources. It shows a 
 
 In addition to the Projects window, the IDE provides the Files window, so that you can see all the files that belong to a project, and the Favorites window, where you can add folders and files so that they can be browsed within the IDE.
 
-     [overview-left]#link:../../images_www/v7/3/features/ide-management-file-cut.png[image:../../images_www/v7/3/features/ide-management-file-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ide-management-file-cut.png[image:ide-management-file-cut.png[]]#
 
 === File Views
 
@@ -50,7 +50,7 @@ The Navigator window provides a compact view of the currently selected file and 
 
 For example, for Java files, the Navigator window shows a list of constructors, methods, and fields, while for HTML and CSS files it shows the logical structure of the selected document.
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-management-hierarchy-cut.png[image:../../images_www/v7/3/features/ide-management-hierarchy-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-management-hierarchy-cut.png[image:ide-management-hierarchy-cut.png[]]#
 
 === Hierarchy Views
 
@@ -65,4 +65,4 @@ The Hierarchy window integrates with the Navigator window and the Javadoc window
 * link:../../community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of highlighted features in the latest stable release.
 * link:../../kb/trails/java-se.html[General Java Development Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -30,11 +30,11 @@
 
 == 編集とリファクタリング
 
-link:../../images_www/v7/3/features/ide-editor-full.png[image:../../images_www/v7/3/features/ide-editor-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/ide-editor-full.png[image:ide-editor-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 言語を認識するNetBeansエディタは、入力時のエラーを検出し、ドキュメントのポップアップとスマート・コード補完でユーザーを支援します。また、好みの軽量なテキスト・エディタの処理速度とシンプルさも兼ね備えています。
 
-    [overview-left]#link:../../images_www/v7/3/features/ide-editor-java8-full.png[image:../../images_www/v7/3/features/ide-editor-java8-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/ide-editor-java8-full.png[image:ide-editor-java8-cut.png[]]#
 
 === Java 8言語ツール
 
@@ -44,7 +44,7 @@ NetBeans IDEは、Java 8用の公式のIDEです。Netbeans IDEのコード・�
 
 link:https://www.youtube.com/watch?v=N8HsVgUDCn8[JDK 8へのスマート移行]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-editor-templates-full.png[image:../../images_www/v7/3/features/ide-editor-templates-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-editor-templates-full.png[image:ide-editor-templates-cut.png[]]#
 
 === エディタとファイル・テンプレート
 
@@ -71,17 +71,17 @@ link:../../kb/index.html[NetBeansテクノロジの学習]
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-editor-findbugs.png[]#
+|[overview-centre]#image:ide-editor-findbugs.png[]#
 bugのあるコードを修正せずにおく期間が長くなればなるほど、そのコストは増大します。IDEには静的コード分析ツール、特に、広く普及しているオープン・ソースのJava FindBugsツールとの統合機能が用意されています。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-parsing.png[]#
+[overview-centre]#image:ide-editor-parsing.png[]#
 IDEでは、入力時に、ソース・コードがリアル・タイムで解析されます。エディタでは、エラーがマークされ、発生箇所が強調表示されるとともに、コンパイラのヒント、簡易修正、警告および言語ドキュメントが表示されます。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-refactoring.png[]#
+[overview-centre]#image:ide-editor-refactoring.png[]#
 IDEのリファクタリング・ツールにより、コードを壊すことなく再構築できます。「検査と変換」ツールを使用すると、コードを自動的に修正しながら、コードベース全体にわたって強力な検査を実行できます。
 
  
@@ -98,17 +98,17 @@ IDEのリファクタリング・ツールにより、コードを壊すこと�
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-editor-completion.png[]#
+|[overview-centre]#image:ide-editor-completion.png[]#
 エディタには、Java、C/C++、PHP、Groovy、XML、HTML、CSS、JavaScriptなど、複数の言語の自動コード補完機能が用意されています。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-navigate.png[]#
+[overview-centre]#image:ide-editor-navigate.png[]#
 標準的なテキスト、キャメル・ケース形式またはワイルド・カードを使用して任意のファイル、型またはシンボルに移動できます。また、コードベース全体にわたって大文字小文字を区別した検索を実行できます。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-codegenerator.png[]#
+[overview-centre]#image:ide-editor-codegenerator.png[]#
 エディタ内で共通のコード・スニペットを自動的に生成できます。共通のコード用にコード・テンプレートを定義したり、入力しながら記録マクロを追加することができます。
 
  
@@ -125,17 +125,17 @@ IDEのリファクタリング・ツールにより、コードを壊すこと�
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-editor-hints.png[]#
+|[overview-centre]#image:ide-editor-hints.png[]#
 IDEでは、ソース・コード分析が実行され、コードの修正や改良がすばやく行えるように広範なヒントが提供されます。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-hierarchy.png[]#
+[overview-centre]#image:ide-editor-hierarchy.png[]#
 「ナビゲータ」ウィンドウおよび「階層」ウィンドウで任意のファイルのメンバーやスーパータイプまたはサブタイプの階層を検査できます。これらのウィンドウには、表示する詳細レベルを制御するためのフィルタが用意されています。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-customizations.png[]#
+[overview-centre]#image:ide-editor-customizations.png[]#
 エディタでの言語の動作と表示(コード補完、ドキュメント表示、キーボード・ショートカット、フォント、色など)をカスタマイズできます。
 
  
@@ -146,4 +146,4 @@ IDEでは、ソース・コード分析が実行され、コードの修正や�
 * 最新の安定版リリースの個別機能のリストについては、link:/community/releases/81/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-se.html[「一般的なJava開発の学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -28,7 +28,7 @@
 
 == 分析器
 
-link:../../images_www/v7/1/screenshots/profiler.png[image:../../images_www/v7/1/screenshots/profiler-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/1/screenshots/profiler.png[image:profiler-cut.png[][font-11]#单击图像查看全屏预览#]
 
 *Netbeans 分析器为优化应用程序的运行速度和内存使用提供了专家级的帮助，从而便于您构建可靠且可伸缩的 Java SE、JavaFX 和 Java EE 应用程序。*
 
@@ -43,7 +43,7 @@ link:../../images_www/v7/1/screenshots/profiler.png[image:../../images_www/v7/1/
 
 使用堆查看器评估 Java 堆内容和识别导致内存泄漏的多余引用。可以浏览堆栈上的类和实例、每个实例或类的字段以及每个实例的引用。可以使用与 jHat 兼容的 OQL 查询分析堆转储的内容：利用 OQL 的基本语法突出显示和代码完成功能。
 
- |image:../../images_www/v6/features/profiler-heapwalker_p150.png[] 
+ |image:profiler-heapwalker_p150.png[] 
 
 |=== 性能分析点
 
@@ -51,7 +51,7 @@ link:../../images_www/v7/1/screenshots/profiler.png[image:../../images_www/v7/1/
 
 当满足一定条件时，性能分析点可以自动触发行为，如执行一行代码、占用的时间和使用的内存。性能分析点能触发堆转储、重置收集的结果、运行加载的生成器脚本以及生成结果快照。
 
- |image:../../images_www/screenshots/6.0/javaSE_profiler_profiling_points2_150px.png[] 
+ |image:javaSE_profiler_profiling_points2_150px.png[] 
 
 |=== 识别 CPU 瓶颈
 
@@ -63,7 +63,7 @@ link:../../images_www/v7/1/screenshots/profiler.png[image:../../images_www/v7/1/
 
 根据对象的具体分配和垃圾回收模式，明确泄漏对象或者缺乏的对象。对象实时性能分析追踪对象创建和垃圾回收事件。监视当前内存中对象的编号、年龄、分配路径以及其他特征，并比较内存快照。
 
- |image:../../images_www/screenshots/6.0/javaSE_profiler_drilldown_150px.png[] 
+ |image:javaSE_profiler_drilldown_150px.png[] 
 
 |=== 监控线程状态
 
@@ -77,12 +77,12 @@ link:../../images_www/v7/1/screenshots/profiler.png[image:../../images_www/v7/1/
 
 将分析器连接到任何 Java 应用程序上，包括那些不是由 IDE 启动的应用程序。如果 Java 应用程序和 IDE 都和 JDK 6 一起运行，甚至可以实现动态地连接分析器，允许您对已运行的应用程序进行性能分析。
 
- |image:../../images_www/v6/features/profiler-threads.png[] 
+ |image:profiler-threads.png[] 
 |===
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/java-se.html[Java SE 和基本 IDE 学习资源]
+image:arrow-button.gif[] link:../../kb/trails/java-se.html[Java SE 和基本 IDE 学习资源]
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

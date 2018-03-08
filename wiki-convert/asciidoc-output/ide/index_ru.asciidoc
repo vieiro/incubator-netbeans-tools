@@ -30,11 +30,11 @@
 
 == Базовая среда IDE
 
-link:../../images_www/v7/3/features/ide-basic-full.png[image:../../images_www/v7/3/features/ide-basic-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/3/features/ide-basic-full.png[image:ide-basic-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 IDE NetBeans представляет собой модульный инструмент разработчика для широкого спектра технологий разработки приложений. База IDE включает в себя современный многоязыковой редактор, отладчик и профилировщик, а также средства управления версиями и сотрудничества разработчиков.
 
-    [overview-right]#link:../../images_www/v7/3/features/ide-basic-templates-full.png[image:../../images_www/v7/3/features/ide-basic-templates-full-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ide-basic-templates-full.png[image:ide-basic-templates-full-cut.png[]]#
 
 === Шаблоны и демонстрационные приложения
 
@@ -44,7 +44,7 @@ IDE предоставляет шаблоны проектов и примеры
 
 link:../../kb/index.html[Карты обучения технологии NetBeans]
 
-     [overview-left]#link:../../images_www/v7/3/features/ide-basic-services-full.png[image:../../images_www/v7/3/features/ide-basic-services-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ide-basic-services-full.png[image:ide-basic-services-cut.png[]]#
 
 === Базы данных и службы
 
@@ -56,7 +56,7 @@ link:../../kb/index.html[Карты обучения технологии NetBea
 
 link:../../kb/trails/tools.html[Интеграция с внешними средствами и службами]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-basic-plugins.png[image:../../images_www/v7/3/features/ide-basic-plugins-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-basic-plugins.png[image:ide-basic-plugins-cut.png[]]#
 
 === Диспетчер подключаемых модулей
 
@@ -83,17 +83,17 @@ link:http://plugins.netbeans.org/[Портал подключаемых моду
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-basic-quick-search.png[]#
+|[overview-centre]#image:ide-basic-quick-search.png[]#
 Быстрый поиск представляет собой централизованное местоположение, где можно выполнять поиск по всем типам Java в JDK, действиям в IDE, наборам справочных систем, настройкам параметров и проектам.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-basic-actionitems-cut.png[]#
+[overview-centre]#image:ide-basic-actionitems-cut.png[]#
 В окне 'Элементы действий' автоматически сканируется код и отображаются строки с комментариями, содержащими такие слова, как "TODO" или "FIXME", а также строки с ошибками компиляции, быстрыми исправлениями и предупреждения о стилях.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-basic-customize.png[]#
+[overview-centre]#image:ide-basic-customize.png[]#
 Рабочее пространство IDE может быть изменено. Можно настроить кнопки на панели инструментов, перетаскивать и перемещать вкладки во фрейме приложения IDE в соответствии с требованиями к отдельным рабочим процессам. Можно открепить вкладки и перетащить их за пределы фрейма приложения, даже на другой монитор.
 
  
@@ -104,4 +104,4 @@ link:http://plugins.netbeans.org/[Портал подключаемых моду
 * link:../../community/releases/81/index.html[На странице сведений о версии IDE netbeans 8.1] приведен список выделенных функций в последней стабильной версии.
 * link:../../kb/trails/java-se.html[Учебная карта по общим сведениям о разработке на Java] для учебных курсов по началу работы.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

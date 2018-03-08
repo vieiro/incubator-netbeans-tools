@@ -32,7 +32,7 @@
 
 O NetBeans IDE permite o desenvolvimento rápido e fácil de aplicações desktop Java, móveis e Web e também aplicações HTML5 com HTML, JavaScript e CSS. O IDE também fornece um grande conjunto de ferramentas para desenvolvedores de PHP e C/C++. Ela é gratuita e tem código-fonte aberto, além de uma grande comunidade de usuários e desenvolvedores em todo o mundo.
 
-   [overview-right]#link:/images_www/v7/design/overview/java_technologies.png[image:/images_www/v7/design/overview/image_java_technologies.png[]]#
+   [overview-right]#link:/images_www/v7/design/overview/java_technologies.png[image:image_java_technologies.png[]]#
 
 === Melhor suporte para Tecnologias Java Mais Recentes
 
@@ -40,7 +40,7 @@ O NetBeans IDE oferece suporte abrangente e de primeira classe para as tecnologi
 
 Com seu Editor Java em constante aprimoramento, muitas funcionalidades avançadas e uma extensa linha de ferramentas, modelos e exemplos, o NetBeans IDE define o padrão de desenvolvimento com suas tecnologias inovadoras.
 
-   [overview-left]#link:/images_www/v7/design/overview/code_editing.png[image:/images_www/v7/design/overview/image_code_editing.png[]]#
+   [overview-left]#link:/images_www/v7/design/overview/code_editing.png[image:image_code_editing.png[]]#
 
 === Edição de Códigos Rápida &amp; Inteligente
 
@@ -50,7 +50,7 @@ O editor suporta várias linguagens, incluindo Java, C/C++, XML, HTML, PHP, Groo
 
 link:./ide/editor.html[Mais informações]
 
-   [overview-right]#link:/images_www/v7/design/overview/project_management.png[image:/images_www/v7/design/overview/image_project_management.png[]]#
+   [overview-right]#link:/images_www/v7/design/overview/project_management.png[image:image_project_management.png[]]#
 
 === Gerenciamento de Projetos Fácil &amp; Eficiente
 
@@ -61,7 +61,7 @@ Quando novos desenvolvedores entrarem no seu projeto, eles poderão compreender 
 link:./ide/project-management.html[Mais informações sobre Gerenciamento de Projetos]
 link:./ide/versioning.html[Mais informações sobre Controle de Versão]
 
-   [overview-left]#link:/images_www/v7/design/overview/ui_development.png[image:/images_www/v7/design/overview/image_ui_development.png[]]#
+   [overview-left]#link:/images_www/v7/design/overview/ui_development.png[image:image_ui_development.png[]]#
 
 === Rápido Desenvolvimento da Interface do Usuário
 
@@ -74,7 +74,7 @@ link:./html5/index.html[Mais informações sobre HTML5]
 link:./java-on-client/swing.html[Mais informações sobre Swing GUI Builder]
 link:./java-on-client/java-me.html[Mais informações sobre JavaME]
 
-   [overview-right]#link:/images_www/v7/design/overview/bugfree_code.png[image:/images_www/v7/design/overview/image_bugfree_code.png[]]#
+   [overview-right]#link:/images_www/v7/design/overview/bugfree_code.png[image:image_bugfree_code.png[]]#
 
 === Escreva Códigos sem Erros
 
@@ -119,4 +119,4 @@ link:http://plugins.netbeans.org/[Visite o Portal de Plug-ins do NetBeans]
 * link:/community/releases/81/index.html[Página da Release NetBeans IDE 8.1] para obter uma lista de funcionalidades realçadas na última versão estável.
 * link:http://wiki.netbeans.org/NewAndNoteworthyNB80[Nova e incrível página do NetBeans IDE 8.1] para obter uma lista de funcionalidades da versão estável mais recente.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

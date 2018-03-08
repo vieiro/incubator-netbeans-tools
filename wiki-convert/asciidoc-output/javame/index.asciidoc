@@ -28,7 +28,7 @@
 
 == Java ME (Micro Edition) &amp; Embedded
 
-link:../../images_www/v7/1/screenshots/gamebuilder.png[image:../../images_www/v7/1/screenshots/gamebuilder-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/1/screenshots/gamebuilder.png[image:gamebuilder-cut.png[][font-11]#Click image for fullscreen preview#]
 
 *Create, test, debug and deploy applications that will run on mobile phones, PDAs, set-top boxes, embedded systems — literally billions of devices.*
 
@@ -51,9 +51,9 @@ _The Visual Mobile Designer is available in the NetBeans Update Center. To run t
 
  |
 
-image:../../images_www/v6/5/features/mobile-designer.png[]
+image:mobile-designer.png[]
 
-image:../../images_www/v6/9/features/java-card.png[]
+image:java-card.png[]
 
  
 
@@ -67,7 +67,7 @@ Use the SVG Composer to create and modify SVG-based UI components. The SVG Compo
 
  |
 
-image:../../images_www/v7/1/features/mobile-svg-palette.png[]
+image:mobile-svg-palette.png[]
 
  
 
@@ -81,7 +81,7 @@ Develop mobile games with a visual editor designed for the MIDP 2.0 Game API. Th
 
  |
 
-image:../../images_www/v6/5/features/mobile-data-binding.png[]
+image:mobile-data-binding.png[]
 
  
 
@@ -91,7 +91,7 @@ Resolve device fragmentation problems by creating multiple device configurations
 
  |
 
-image:../../images_www/v7/1/features/mobile-conf-mgr.png[]
+image:mobile-conf-mgr.png[]
 
  
 
@@ -105,7 +105,7 @@ Enhance the Mobility pack by plugging-in your own components. You can add new pl
 
  |
 
-image:../../images_www/v6/features/mobile-preprocessor.png[]
+image:mobile-preprocessor.png[]
 
  
 
@@ -115,9 +115,9 @@ The IDE integrates tools for JMUnit 1.1.0 testing, MIDlet signing, certificate m
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/mobility.html[Mobility Learning Trail]
+image:arrow-button.gif[] link:../../kb/trails/mobility.html[Mobility Learning Trail]
 
- |link:http://www.ikivo.com/java/java.html[image:../../images_www/partners/ikivo_logo_small.jpg[]] Ikivo Animator: Advanced SVG image and animation editing for the NetBeans IDE. Learn more from this link:http://www.ikivo.com/java/white_paper1.html[white paper] and link:http://www.ikivo.com/java/netbeans_tutorial.html[tutorial]. 
+ |link:http://www.ikivo.com/java/java.html[image:ikivo_logo_small.jpg[]] Ikivo Animator: Advanced SVG image and animation editing for the NetBeans IDE. Learn more from this link:http://www.ikivo.com/java/white_paper1.html[white paper] and link:http://www.ikivo.com/java/netbeans_tutorial.html[tutorial]. 
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

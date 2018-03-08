@@ -30,11 +30,11 @@
 
 == Swing
 
-link:../../images_www/v7/3/features/client-swing-main-full.png[image:../../images_www/v7/3/features/client-swing-main-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/3/features/client-swing-main-full.png[image:client-swing-main-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 Crie GUIs de aparência profissional com espaçamento e alinhamento automáticos.
 
-    [overview-right]#link:../../images_www/v7/3/features/client-swing-full.png[image:../../images_www/v7/3/features/client-swing-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-swing-full.png[image:client-swing-cut.png[]]#
 
 === GUI Builder
 
@@ -44,7 +44,7 @@ Crie GUIs Swing arrastando e posicionando os componentes de GUI de uma paleta em
 
 link:../../kb/docs/java/gui-functionality.html[Introdução à Criação de GUI]
 link:../../kb/trails/matisse.html[Trilha de Aprendizado de Aplicações de GUI do Java]
-link:../../kb/docs/java/gui-builder-screencast.html[Criando uma GUI do Swing no NetBeans IDE]     [overview-left]#link:../../images_www/v7/3/features/client-swing-palette-full.png[image:../../images_www/v7/3/features/client-swing-palette-cut.png[]]#
+link:../../kb/docs/java/gui-builder-screencast.html[Criando uma GUI do Swing no NetBeans IDE]     [overview-left]#link:../../images_www/v7/3/features/client-swing-palette-full.png[image:client-swing-palette-cut.png[]]#
 
 === Paleta do Componente
 
@@ -52,7 +52,7 @@ A Paleta de Componentes extensível vem com componentes Swing e AWT pré-instala
 
 Utilize o Navegador para exibir a árvore e as propriedades de um componente.
 
-     [overview-right]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:../../images_www/v7/3/features/client-swing-visual-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:client-swing-visual-cut.png[]]#
 
 === Depurador Visual
 
@@ -62,7 +62,7 @@ Selecione "Obter Tela da GUI" para criar uma tela da GUI da aplicação que serv
 
 link:../../kb/docs/java/debug-visual.html[Usando o Depurador Visual no NetBeans IDE]
 
-     [overview-left]#link:../../images_www/v7/3/features/platform-screens.png[image:../../images_www/v7/3/features/platform-screens.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/platform-screens.png[image:platform-screens.png[]]#
 
 === Plataforma NetBeans
 
@@ -79,4 +79,4 @@ link:https://netbeans.org/features/platform/all-docs.html[Trilha do Aprendizado 
 * link:../../community/releases/81/index.html[Página da Release NetBeans IDE 8.1] para obter uma lista de funcionalidades realçadas na última versão estável.
 * link:../../kb/trails/java-se.html[Trilha de Aprendizado em Desenvolvimento Geral de Java] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

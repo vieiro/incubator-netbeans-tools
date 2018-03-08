@@ -30,11 +30,11 @@
 
 == データベース
 
-link:../../images_www/v7/3/features/ide-database-full.png[image:../../images_www/v7/3/features/ide-database-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/ide-database-full.png[image:ide-database-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 NetBeans IDEには、Java DB、MySQL、Oracle、PostgreSQLの各データベース・サーバー用のドライバが用意されているため、ユーザーはこれらのデータベースにきわめて簡単に接続できます。その他のJDBCドライバをIDEに登録することもできるため、JDBCドライバを備えたあらゆるデータベースを試すことができます。
 
-    [overview-right]#image:../../images_www/v7/3/features/ide-database-explorer-cut.png[]#
+    [overview-right]#image:ide-database-explorer-cut.png[]#
 
 === データベース・エクスプローラ
 
@@ -44,7 +44,7 @@ NetBeans IDEには、Java DB、MySQL、Oracle、PostgreSQLの各データベー�
 
 link:../../kb/docs/ide/oracle-db.html[Oracleデータベースへの接続]
 link:../../kb/docs/ide/java-db.html[JavaDBデータベースへの接続]
-link:../../kb/docs/ide/mysql.html[MySQLデータベースへの接続]     [overview-left]#link:../../images_www/v7/3/features/ide-database-full.png[image:../../images_www/v7/3/features/ide-database-sql.png[]]#
+link:../../kb/docs/ide/mysql.html[MySQLデータベースへの接続]     [overview-left]#link:../../images_www/v7/3/features/ide-database-full.png[image:ide-database-sql.png[]]#
 
 === SQLエディタ
 
@@ -54,7 +54,7 @@ SQLエディタは、データベースのデータの表示および変更を�
 
 このエディタはカスタマイズが可能なので、プラグインによる新しい機能で拡張できます。
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === ウィザード・ベースのクライアント生成
 
@@ -71,4 +71,4 @@ JSF CRUD (作成、読取り、更新、削除)アプリケーション・ジェ
 * 最新の安定版リリースの主な機能のリストについては、link:../../community/releases/80/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-se.html[「一般的なJava開発の学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

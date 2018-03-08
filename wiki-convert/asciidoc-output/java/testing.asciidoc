@@ -30,11 +30,11 @@
 
 == Testing and Code Analysis
 
-link:../../images_www/v7/3/features/ide-findbugs-full.png[image:../../images_www/v7/3/features/ide-analysis-main-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/3/features/ide-findbugs-full.png[image:ide-analysis-main-cut.png[][font-11]#Click image for fullscreen preview#]
 
 When you are testing your application, the IDE provides tools for using JUnit and TestNG, as well as code analyzers, in particular FindBugs.
 
-    [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:../../images_www/v7/3/features/ide-testing-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:ide-testing-cut.png[]]#
 
 === Testing
 
@@ -45,7 +45,7 @@ Once you have created tests for your Java classes, you can run them individually
 The Test Results window shows the results of the tests you run.
 
 link:../../kb/docs/java/junit-intro.html[Writing JUnit Tests in NetBeans IDE]
-link:../../kb/docs/java/testng-screencast.html[Video of Using TestNG in NetBeans IDE]     [overview-left]#link:../../images_www/v7/3/features/ide-findbugs-full.png[image:../../images_www/v7/3/features/ide-findbugs-cut.png[]]#
+link:../../kb/docs/java/testng-screencast.html[Video of Using TestNG in NetBeans IDE]     [overview-left]#link:../../images_www/v7/3/features/ide-findbugs-full.png[image:ide-findbugs-cut.png[]]#
 
 === Code Analysis
 
@@ -62,4 +62,4 @@ link:../../kb/docs/java/code-inspect.html[Static Code Analysis in the NetBeans I
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of specific features in the latest stable release.
 * link:../../kb/trails/java-se.html[General Java Development Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -30,11 +30,11 @@
 
 == Groovy
 
-link:../../images_www/v7/3/features/groovy-full.png[image:../../images_www/v7/3/features/groovy-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/groovy-full.png[image:groovy-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 NetBeans IDEは、Java EEおよびJava SEプロジェクトへの統合機能を備えた、GroovyおよびGrails開発者向けのツールを提供します。
 
-    [overview-right]#link:../../images_www/v7/3/features/groovy-editor-full.png[image:../../images_www/v7/3/features/groovy-editor-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/groovy-editor-full.png[image:groovy-editor-cut.png[]]#
 
 === Groovyエディタ
 
@@ -42,7 +42,7 @@ Groovyエディタでは、構文の強調表示とコード折りたたみが�
 
 Groovyは、Java EEおよびJava SEのどのようなプロジェクトでもJavaと緊密に統合されます。JavaコードからGroovyクラスをコールすることも、GroovyコードからJavaクラスをコールすることもできます。
 
-link:../../kb/docs/java/groovy-quickstart.html[Groovyの概要]     [overview-left]#link:../../images_www/v7/3/features/groovy-grails-full.png[image:../../images_www/v7/3/features/groovy-grails-cut.png[]]#
+link:../../kb/docs/java/groovy-quickstart.html[Groovyの概要]     [overview-left]#link:../../images_www/v7/3/features/groovy-grails-full.png[image:groovy-grails-cut.png[]]#
 
 === Grails
 
@@ -50,7 +50,7 @@ Web層に関して、IDEはGrailsフレームワークをサポートしてい�
 
 IDEでは、メタデータを追加せずに既存のGrailsプロジェクトを開くこともできます。
 
-link:../../kb/docs/web/grails-quickstart.html[Grailsフレームワーク入門]     [overview-right]#link:../../images_www/v7/3/features/groovy-gradle.png[image:../../images_www/v7/3/features/groovy-gradle-cut.png[]]#
+link:../../kb/docs/web/grails-quickstart.html[Grailsフレームワーク入門]     [overview-right]#link:../../images_www/v7/3/features/groovy-gradle.png[image:groovy-gradle-cut.png[]]#
 
 === GriffonとGradle
 
@@ -66,4 +66,4 @@ link:http://plugins.netbeans.org/plugin/44510/gradle-support[Gradleプラグイ�
 * 最新の安定版リリースの主な機能のリストについては、link:../../community/releases/81/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-se.html[「一般的なJava開発の学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -28,14 +28,14 @@
 
 == C and C++ Development
 
-link:../../images_www/v7/screenshots/cnd.png[image:../../images_www/v7/screenshots/cnd-cut.png[]] 
+link:../../images_www/v7/screenshots/cnd.png[image:cnd-cut.png[]] 
 link:../../images_www/v7/1/screenshots/cnd.png[[font-11]# Click image for fullscreen preview#]
 
 Develop professional native applications in C, C++, and Fortran for a variety of platforms including Windows, Linux, OS X, and the Solaris operating system.
 
-[overview-right]#image:../../images_www/v6/5/features/cpp-editor.png[]
+[overview-right]#image:cpp-editor.png[]
 
-image:../../images_www/v7/2/features/cpp-11.png[]#
+image:cpp-11.png[]#
 
 === C and C++ Projects
 
@@ -43,9 +43,9 @@ NetBeans IDE includes project types for C and C++ and appropriate project templa
 
 Users can now easily create new projects from scratch by simply dragging-and-dropping a binary file to IDE. The project system automatically finds the source files, adds them to the project, configures code assistance and even explores project dependencies. Users also now have more flexibility in configuring the "Run" and "Debug" command and thus can run and debug static and dynamic libraries.
 
-  [overview-left]#image:../../images_www/v6/features/cpp-debugger_200px.jpg[]
+  [overview-left]#image:cpp-debugger_200px.jpg[]
 
-image:../../images_www/screenshots/7.0/cnddebugger-eval-window.png[]#
+image:cnddebugger-eval-window.png[]#
 
 === GNU Debugger Integration
 
@@ -55,7 +55,7 @@ Added support for Pretty Printing allows users to analyze variables with STL typ
 
 The "Expression evaluation" window enables users to evaluate any custom expression in the current program context.
 
-  [overview-right]#image:../../images_www/screenshots/7.0/cnd-template-annotations.png[]#
+  [overview-right]#image:cnd-template-annotations.png[]#
 
 === Code Assistance
 
@@ -148,4 +148,4 @@ The Usages window shows where a class (structure), function, variable, macro, #i
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of specific features in the latest stable release.
 * link:../../kb/trails/cnd.html[C/C++ Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

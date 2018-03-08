@@ -28,7 +28,7 @@
 
 == Ruby и Ruby on Rails
 
-link:../../images_www/v6/9/screenshots/ruby.png[image:../../images_www/v6/9/screenshots/ruby-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v6/9/screenshots/ruby.png[image:ruby-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 *Примечание. Начиная с IDE NetBeans 7.0 поддержка Ruby и Ruby on Rails более недоступна в стандартной сборке IDE NetBeans. Дополнительные сведения можно найти на link:http://wiki.netbeans.org/RubySupport[вики-странице о поддержке Ruby].*
 
@@ -39,7 +39,7 @@ link:../../images_www/v6/9/screenshots/ruby.png[image:../../images_www/v6/9/scre
 
  |
 
-image:../../images_www/v6/7/features/ruby-editor.png[]
+image:ruby-editor.png[]
 
  
 
@@ -62,13 +62,13 @@ image:../../images_www/v6/7/features/ruby-editor.png[]
 
  |
 
-image:../../images_www/v6/7/features/ruby-test.png[]
+image:ruby-test.png[]
 
-image:../../images_www/v6/7/features/ruby-files.png[]
+image:ruby-files.png[]
 
-image:../../images_www/v6/7/features/ruby-rails.png[]
+image:ruby-rails.png[]
 
-image:../../images_www/v6/7/features/ruby-debugger.png[]
+image:ruby-debugger.png[]
 
  
 
@@ -80,12 +80,12 @@ image:../../images_www/v6/7/features/ruby-debugger.png[]
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:http://wiki.netbeans.org/wiki/view/Ruby[Wiki по Ruby]
+image:arrow-button.gif[] link:http://wiki.netbeans.org/wiki/view/Ruby[Wiki по Ruby]
 
-image:../../images_www/v6/arrow-button.gif[] link:http://wiki.netbeans.org/RubySupport[Wiki по поддержке Ruby]
+image:arrow-button.gif[] link:http://wiki.netbeans.org/RubySupport[Wiki по поддержке Ruby]
 
 
- |image:../../images_www/v6/features/ruby-gems.png[] 
+ |image:ruby-gems.png[] 
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

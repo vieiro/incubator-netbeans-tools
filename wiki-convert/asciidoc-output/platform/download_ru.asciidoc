@@ -31,22 +31,22 @@
 и создайте свое первое приложение для платформы менее чем за 10 минут
 
 |===
-|image:/images_www/v6/bullet1.png[] |
+|image:bullet1.png[] |
 
 Если IDE NetBeans еще не загружено, загрузите его
 
-link:/downloads/[image:/images_www/v6/dl-nb-ide.gif[]]
+link:/downloads/[image:dl-nb-ide.gif[]]
 
 
  
 
-|image:/images_www/v6/bullet2.png[] |
+|image:bullet2.png[] |
 
 Установите среду IDE или распакуйте архив с библиотеками платформы NetBeans.
 
  
 
-|image:/images_www/v6/bullet3.png[] |
+|image:bullet3.png[] |
 
 После получения IDE NetBeans просто запустите его, выберите 'Файл' | 'Создать проект', а затем используйте шаблон "Приложение платформы NetBeans" для начала создания первого приложения NetBeans.
 
@@ -56,4 +56,4 @@ link:/downloads/[image:/images_www/v6/dl-nb-ide.gif[]]
 |===
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

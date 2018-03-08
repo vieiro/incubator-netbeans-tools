@@ -32,20 +32,20 @@
 
 Quando você estiver testando sua aplicação, o IDE oferecerá ferramentas para usar o PHPUnit, gerar relatório de cobertura de código e assim por diante.
 
-[overview-right]#image:/images_www/v7/3/features/php/phpunit.png[]#
+[overview-right]#image:phpunit.png[]#
 
 === Teste da Unidade de PHP
 
 Crie testes link:http://www.phpunit.de/manual/current/en/[PHPUnit] e casos de teste Selenium para arquivos ou pastas, execute testes e exiba os resultados dos testes. Você pode definir grupos de teste para executar seletivamente teste da unidade. Nas propriedades do PHPUnit, você pode definir um arquivo de configuração XML personalizado, um arquivo bootstrap para opções da linha de comando, um conjunto de teste personalizado ou script de PHPUnit específico do projeto. Você pode permitir ao IDE gerar o código de estrutura usando o link:http://www.phpunit.de/manual/current/en/skeleton-generator.html[Gerador de Estrutura do PHPUnit]. Use um atalho do teclado para navegar rapidamente entre o teste e a classe testada.
 link:http://netbeans.org/kb/docs/php/phpunit.html[Testando com PHPUnit e Selenium]
 
-  [overview-left]#image:/images_www/v7/3/features/php/php-code-coverage.png[]#
+  [overview-left]#image:php-code-coverage.png[]#
 
 === Cobertura de Código
 
 Gere um relatório de Cobertura de Código para arquivos PHP para ver até que ponto os casos de teste abrangem o código: as instruções de cobertura são marcadas em verde no editor, as instruções que não foram executadas durante o teste são marcadas em vermelho. A avaliação se baseia na quantidade de instruções executáveis, as linhas com espaços em branco e os comentários não interferem no resultado.
 
-  [overview-right]#image:/images_www/v7/3/features/ide-collaboration-hudson-cut.png[]#
+  [overview-right]#image:ide-collaboration-hudson-cut.png[]#
 
 === Suporte de Integração Contínua
 
@@ -58,4 +58,4 @@ O NetBeans IDE suporta integração contínua. Integração contínua é uma pr�
 * link:/community/releases/81/index.html[Página de Release do NetBeans IDE 8.1] para obter uma lista de funcionalidades específicas da última versão estável.
 * link:../../kb/trails/php.html[Trilha de Aprendizado de PHP e HTML5] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

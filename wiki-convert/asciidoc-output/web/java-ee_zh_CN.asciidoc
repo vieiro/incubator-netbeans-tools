@@ -30,11 +30,11 @@
 
 == Java Enterprise Edition 支持
 
-link:../../images_www/v7/1/screenshots/web-app.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/1/screenshots/web-app.png[image:web-app-cut.png[][font-11]#单击图像查看全屏预览#]
 
 NetBeans IDE 很好地支持开发利用 Java EE 应用程序框架的 Web 和服务器端应用程序。IDE 支持的开发是在与 Java EE 和 GlassFish 团队的密切合作下完成的，以实现最紧密集成，并使您可以最简便的方式使用 Java EE 规范。因此，如果您不太熟悉 Java EE 规范和框架，则使用 NetBeans IDE 是您快速学习 Java EE 编程并使用它高效工作的最佳途径。
 
-    [overview-right]#link:../../images_www/v7/3/features/java-ee-6-full.png[image:../../images_www/v7/3/features/java-ee-6-full-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/java-ee-6-full.png[image:java-ee-6-full-cut.png[]]#
 
 === 全面支持 Java Enterprise Edition 6
 
@@ -45,7 +45,7 @@ IDE 中提供的支持范围为：可用于快速创建应用程序的向导，�
 link:web-app.html[NetBeans 中的 Web 应用程序开发支持]
 link:../../kb/docs/javaee/javaee-gettingstarted.html[Java EE 6 应用程序入门指南]
 
-     [overview-left]#link:../../images_www/v7/3/features/ejb-dev.png[image:../../images_www/v7/3/features/ejb-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ejb-dev.png[image:ejb-dev-cut.png[]]#
 
 === 简化的 EJB 开发
 
@@ -53,7 +53,7 @@ IDE 支持 EJB 3.1，包括在 Web 应用程序项目中。EJB 项目文件向�
 
 link:../../kb/docs/javaee/javaee-entapp-ejb.html[使用 EJB 3.1 创建企业应用程序]
 
-     [overview-right]#link:../../images_www/v7/3/features/cdi-support.png[image:../../images_www/v7/3/features/cdi-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/cdi-support.png[image:cdi-support-cut.png[]]#
 
 === 上下文和依赖关系注入支持
 
@@ -80,7 +80,7 @@ link:../../kb/docs/javaee/cdi-intro.html[CDI 和 JSF 2.0 入门指南]
 
  |
 
-[overview-centre]#image:../../images_www/v7/1/features/javaee-serverdeploy.png[]#
+[overview-centre]#image:javaee-serverdeploy.png[]#
 IDE 可以与任何标准 Java Enterprise Edition (Java EE) 容器一起使用，并且已使用 GlassFish Server Open Source Edition 3.1.2、WebLogic 12c 和 11g、Apache Tomcat 7.0 和 6.0、JBoss 6.1 等进行了测试。
 
  |
@@ -96,4 +96,4 @@ IDE 可以与任何标准 Java Enterprise Edition (Java EE) 容器一起使用�
 * 在link:http://wiki.netbeans.org/NewAndNoteworthyNB73[“NetBeans IDE 7.3 新增功能和重要功能”页]上获取有关最新稳定发行版的功能的详细信息。
 * link:../../kb/trails/java-ee.html[Java EE 和 Java Web 学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

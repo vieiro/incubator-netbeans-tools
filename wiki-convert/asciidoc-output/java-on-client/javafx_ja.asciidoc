@@ -30,11 +30,11 @@
 
 == JavaFX
 
-link:../../images_www/v7/3/features/client-javafx-main-full.png[image:../../images_www/v7/3/features/client-javafx-main-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/client-javafx-main-full.png[image:client-javafx-main-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 JavaFXは、リッチ・クライアント・プラットフォームとしてのJavaの進化における次のステップです。これは、エンタープライズ・ビジネス・アプリケーションに、軽量の、ハードウェアで高速化されたJava UIプラットフォームを提供するように設計されています。JavaFXでは、開発者は標準のJava開発ツールを使用して、JavaFXアプリケーションをすべてJavaプログラミング言語で作成できます。ネイティブなシステム機能にアクセスすることも、サーバー・ベースのミドルウェア・アプリケーションにシームレスに接続することもできます。
 
-    [overview-right]#link:../../images_www/v7/3/features/client-javafx-scene-full.png[image:../../images_www/v7/3/features/client-javafx-scene-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-javafx-scene-full.png[image:client-javafx-scene-cut.png[]]#
 
 === テンプレートとGUI編集
 
@@ -43,13 +43,13 @@ NetBeans IDEは、プロジェクト・テンプレートの形式でスケル�
 NetBeansの「オプション」ウィンドウでScene Builderを登録し、FXMLファイルがScene Builderで自動的に開くようにすることができます。
 
 link:http://docs.oracle.com/javafx/2/get_started/jfxpub-get_started.htm[JavaFXの概要]
-link:http://www.youtube.com/watch?v=EGEONliKWDk[Scene BuilderとNetBeans IDEの組合せ]     [overview-left]#link:../../images_www/v7/3/features/client-javafx-fxml-full.png[image:../../images_www/v7/3/features/client-javafx-fxml-cut.png[]]#
+link:http://www.youtube.com/watch?v=EGEONliKWDk[Scene BuilderとNetBeans IDEの組合せ]     [overview-left]#link:../../images_www/v7/3/features/client-javafx-fxml-full.png[image:client-javafx-fxml-cut.png[]]#
 
 === FXMLエディタ
 
 IDEは、FXMLをサポートするXMLエディタを備えています。FXMLとは、JavaFXアプリケーションのユーザー・インタフェースを定義するためのXMLベースの宣言型マークアップ言語です。
 
-     [overview-right]#link:../../images_www/v7/3/features/client-javafx-deploy-full.png[image:../../images_www/v7/3/features/client-javafx-deploy-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-javafx-deploy-full.png[image:client-javafx-deploy-cut.png[]]#
 
 === デプロイメント・ツール
 
@@ -57,7 +57,7 @@ IDEは、FXMLをサポートするXMLエディタを備えています。FXMLと
 
 IDEでは、JavaFXプロジェクトがJava Web Start経由で、またはブラウザでスタンドアロン・アプリケーションとして動作するように構成できます。
 
-     [overview-left]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:../../images_www/v7/3/features/client-swing-visual-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:client-swing-visual-cut.png[]]#
 
 === ビジュアル・デバッガ
 
@@ -74,4 +74,4 @@ link:../../kb/docs/java/debug-visual.html[NetBeans IDEでのビジュアル・�
 * 最新の安定版リリースの主な機能のリストについては、link:../../community/releases/81/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-se.html[「一般的なJava開発の学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

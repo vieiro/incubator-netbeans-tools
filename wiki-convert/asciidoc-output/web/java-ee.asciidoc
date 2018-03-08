@@ -30,11 +30,11 @@
 
 == Java Enterprise Edition Support
 
-link:../../images_www/v7/1/screenshots/web-app.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/1/screenshots/web-app.png[image:web-app-cut.png[][font-11]#Click image for fullscreen preview#]
 
 NetBeans IDE delivers excellent support for developing Web and server side applications that utilize the Java EE application framework. The IDE support has been developed in close cooperation with the Java EE and GlassFish teams to provide the tightest integration and easiest possible use of the Java EE specification. Concequently, if you are new to the Java EE specification and framework, using NetBeans IDE is the best way to quickly learn and become productive in Java EE programming.
 
-    [overview-right]#link:../../images_www/v7/3/features/java-ee-6-full.png[image:../../images_www/v7/3/features/java-ee-6-full-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/java-ee-6-full.png[image:java-ee-6-full-cut.png[]]#
 
 === Full Support for Java Enterprise Edition 6
 
@@ -45,7 +45,7 @@ The support provided in the IDE ranges from wizards that can be used to quickly 
 link:web-app.html[Web application development support in NetBeans]
 link:../../kb/docs/javaee/javaee-gettingstarted.html[Getting Started with Java EE 6 Applications]
 
-     [overview-left]#link:../../images_www/v7/3/features/ejb-dev.png[image:../../images_www/v7/3/features/ejb-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ejb-dev.png[image:ejb-dev-cut.png[]]#
 
 === Simplified EJB Development
 
@@ -53,7 +53,7 @@ The IDE supports EJB 3.1, including in web application projects. The EJB project
 
 link:../../kb/docs/javaee/javaee-entapp-ejb.html[Creating an Enterprise Application with EJB 3.1]
 
-     [overview-right]#link:../../images_www/v7/3/features/cdi-support.png[image:../../images_www/v7/3/features/cdi-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/cdi-support.png[image:cdi-support-cut.png[]]#
 
 === Context and Dependency Injection Support
 
@@ -80,7 +80,7 @@ link:../../kb/docs/javaee/cdi-intro.html[Getting started with CDI and JSF 2.0]
 
  |
 
-[overview-centre]#image:../../images_www/v7/1/features/javaee-serverdeploy.png[]#
+[overview-centre]#image:javaee-serverdeploy.png[]#
 The IDE works with any standard Java Enterprise Edition (Java EE) container, and was tested with GlassFish Server Open Source Edition 3.1.2, WebLogic 12c and 11g, Apache Tomcat 7.0 and 6.0, JBoss 6.1, and others.
 
  |
@@ -96,4 +96,4 @@ The IDE instantly redeploys any running Java EE application when a change is mad
 * Get more details about features of the latest stable release on the link:http://wiki.netbeans.org/NewAndNoteworthyNB73[NetBeans IDE 7.3 New and Noteworthy page].
 * link:../../kb/trails/java-ee.html[Java EE and Java Web Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

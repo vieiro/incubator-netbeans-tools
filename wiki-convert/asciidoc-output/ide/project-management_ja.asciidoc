@@ -30,11 +30,11 @@
 
 == プロジェクト管理
 
-link:../../images_www/v7/3/features/ide-management-main-full.png[image:../../images_www/v7/3/features/ide-management-main-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/ide-management-main-full.png[image:ide-management-main-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 NetBeans IDEには、複数のプロジェクト・ウィンドウからファイル・ビューや階層ビューにいたるまで、様々なデータ・ビューが用意されており、データのドリルダウンをすばやく簡単に実行できます。
 
-    [overview-right]#image:../../images_www/v7/3/features/ide-management-project-cut.png[]#
+    [overview-right]#image:ide-management-project-cut.png[]#
 
 === プロジェクト・ビュー
 
@@ -42,7 +42,7 @@ NetBeans IDEには、複数のプロジェクト・ウィンドウからファ�
 
 「プロジェクト」ウィンドウに加えて、IDEにはプロジェクトに属するすべてのファイルを確認できる「ファイル」ウィンドウと、IDE内で参照できるようにフォルダやファイルを追加することのできる「お気に入り」ウィンドウが用意されています。
 
-     [overview-left]#link:../../images_www/v7/3/features/ide-management-file-cut.png[image:../../images_www/v7/3/features/ide-management-file-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ide-management-file-cut.png[image:ide-management-file-cut.png[]]#
 
 === ファイル・ビュー
 
@@ -50,7 +50,7 @@ NetBeans IDEには、複数のプロジェクト・ウィンドウからファ�
 
 たとえば、Javaファイルの場合、「ナビゲータ」ウィンドウにはコンストラクタ、メソッドおよびフィールドのリストが表示され、HTMLおよびCSSファイルの場合は選択したドキュメントの論理構造が表示されます。
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-management-hierarchy-cut.png[image:../../images_www/v7/3/features/ide-management-hierarchy-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-management-hierarchy-cut.png[image:ide-management-hierarchy-cut.png[]]#
 
 === 階層ビュー
 
@@ -65,4 +65,4 @@ NetBeans IDEには、複数のプロジェクト・ウィンドウからファ�
 * 最新の安定版リリースの主な機能のリストについては、link:../../community/releases/81/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-se.html[「一般的なJava開発の学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

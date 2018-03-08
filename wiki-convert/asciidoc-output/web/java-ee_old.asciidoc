@@ -28,7 +28,7 @@
 
 == Java EE (Enterprise Edition)
 
-link:../../images_www/v7/1/screenshots/web-app.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/1/screenshots/web-app.png[image:web-app-cut.png[][font-11]#Click image for fullscreen preview#]
 
 *Develop portable, robust, scalable and secure server-side Java applications. Java Enterprise applications are deployed to servers and can be accessed through a web browser.*
 
@@ -38,16 +38,16 @@ link:../../images_www/v7/1/screenshots/web-app.png[image:../../images_www/v7/1/s
 The NetBeans IDE provides complete support for the latest Java EE 6 standards, including JSF 2.1 (Facelets), Java Persistence 2.0 and Contexts and Dependency Injection 1.0, as well as the Java EE 5, and J2EE 1.4 platforms. Use NetBeans IDE for development with the Java Persistence API, servlets, JavaServer Pages (JSP), Enterprise JavaBeans (EJB 3.1), link:web-services.html[web services] and other Java EE technologies.
 link:../../kb/docs/javaee/javaee-gettingstarted.html[Getting Started with Java EE 6 Applications]
 
-=== Contexts and Dependency Injection (JSR 299) image:../../images_www/v6/features/improved_small.gif[]
+=== Contexts and Dependency Injection (JSR 299) image:improved_small.gif[]
 
 Use the New Project wizard or new File wizard to create files that are ready for Contexts and Dependency Injection (CDI). CDI allows Java EE components such as servlets, enterprise beans, and JavaBeans to exist within the lifecycle of an application with well-defined scopes. Right-click any injection point to trigger Go To Injectables and Inspect Injectables menu actions.
 link:../../kb/docs/javaee/cdi-intro.html[Getting Started with Contexts and Dependency Injection and JSF 2.0]
 
  |
 
-image:../../images_www/v6/features/javaee-projects_200px.png[]
+image:javaee-projects_200px.png[]
 
-image:../../images_www/v7/1/features/javaee-cdi.png[]
+image:javaee-cdi.png[]
 
  
 
@@ -85,19 +85,19 @@ In JavaServer Pages (JSP) files, the editor assists you with code completion, hy
 
 The IDE instantly redeploys any running Java EE application when a change is made to the project. Deploy on Save is available for web, EJB and EAR applications, and supported for GlassFish 3.x, WebLogic and Tomcat (directory-based deployment is prerequisite).
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/java-ee.html[Java EE and Java Web Learning Trail]
+image:arrow-button.gif[] link:../../kb/trails/java-ee.html[Java EE and Java Web Learning Trail]
 
  |
 
-image:../../images_www/v7/1/features/javaee-serverdeploy.png[]
+image:javaee-serverdeploy.png[]
 
 
-image:../../images_www/v7/1/features/javaee-jsfcode.png[]
+image:javaee-jsfcode.png[]
 
 
-image:../../images_www/v6/1/features/persistence-jsf.jpg[]
+image:persistence-jsf.jpg[]
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

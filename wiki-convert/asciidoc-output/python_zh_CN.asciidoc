@@ -31,4 +31,4 @@
 您将在几秒钟内自动重定向，或者，您也可以link:/features/python/index.html[访问此链接]。
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

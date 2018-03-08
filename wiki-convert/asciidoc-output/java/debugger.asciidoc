@@ -30,11 +30,11 @@
 
 == Debugger and Profiler
 
-link:../../images_www/v7/1/screenshots/debugger.png[image:../../images_www/v7/1/screenshots/debugger-cut.png[][font-11]# Click image for fullscreen preview#]
+link:../../images_www/v7/1/screenshots/debugger.png[image:debugger-cut.png[][font-11]# Click image for fullscreen preview#]
 
 To identify and solve problems in your applications, such as deadlocks and memory leaks, NetBeans IDE provides a feature rich debugger and profiler.
 
-    [overview-left]#link:../../images_www/v7/3/features/debugger.png[image:../../images_www/v7/3/features/debugger-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/debugger.png[image:debugger-cut.png[]]#
 
 === Debugger
 
@@ -43,7 +43,7 @@ The NetBeans Debugger lets you place breakpoints in your source code, add field 
 The IDE includes a visual debugger to let you take GUI snapshots and visually explore the GUI of JavaFX and Swing applications. It lets you view component properties, the hierarchy of components in the container, and locate the source code of components. You can use the visual debugger to easily add listeners to GUI actions without requiring you to search through the source code.
 
 link:../../kb/docs/java/debug-multithreaded.html[Debugging Multi-threaded Applications in NetBeans IDE]
-link:../../kb/docs/java/debug-visual.html[Using the Visual Debugger in NetBeans IDE]     [overview-right]#link:../../images_www/v7/3/features/profiler.png[image:../../images_www/v7/3/features/profiler-cut.png[]]#
+link:../../kb/docs/java/debug-visual.html[Using the Visual Debugger in NetBeans IDE]     [overview-right]#link:../../images_www/v7/3/features/profiler.png[image:profiler-cut.png[]]#
 
 === Profiler
 
@@ -66,17 +66,17 @@ link:../../kb/docs/java/profiler-intro.html[Introduction to Profiling Java Appli
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/debugger-thread-cut.png[]#
+|[overview-centre]#image:debugger-thread-cut.png[]#
 To switch threads, use the Current Thread Chooser or access the threads navigation directly from the editor margin. You can check the state of the current session's threads and inspect the call stack and locale variables of the current thread.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/debugger-heap-cut.png[]#
+[overview-centre]#image:debugger-heap-cut.png[]#
 Use the Heap Walker to evaluate the Java heap contents and to identify unnecessary references that cause memory leaks. You can browse classes and instances of classes on the heap, fields of each instance or class, and references to each instance.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/debugger-generational-cut.png[]#
+[overview-centre]#image:debugger-generational-cut.png[]#
 Generational counts allow you to identify objects that are surviving all attempts to collect them. This information can be used to find long lived and leaking objects.
 
 link:../../kb/articles/nb-profiler-uncoveringleaks_pt1.html[Uncovering Memory Leaks Using NetBeans Profiler]
@@ -89,4 +89,4 @@ link:../../kb/articles/nb-profiler-uncoveringleaks_pt1.html[Uncovering Memory Le
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of specific features in the latest stable release.
 * link:../../kb/trails/java-se.html[General Java Development Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

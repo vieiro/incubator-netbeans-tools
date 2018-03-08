@@ -30,11 +30,11 @@
 
 == Web 服务开发支持
 
-link:../../images_www/v7/screenshots/websvc.png[image:../../images_www/v7/screenshots/websvc-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/screenshots/websvc.png[image:websvc-cut.png[][font-11]#单击图像查看全屏预览#]
 
 NetBeans IDE 支持 Java EE 7、Java EE 6 和 Java EE 5 中的 Web 服务标准，包括 JAX-WS 2.2、JAX-RS 2.0 和 JAXB 2.2 Web 服务标准。可以使用 GlassFish Server Open Source Edition、Oracle Weblogic、Apache Tomcat、JBoss 等。代码完成功能包括可在 Web 服务中使用的标注。
 
-    [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === REST 风格的 Web 服务
 
@@ -46,7 +46,7 @@ IDE 可以帮助您通过 JPA 实体类和模式创建 (JAX-RS 2.0) REST 风格�
 
 link:../../kb/docs/websvc/rest.html[REST 风格的 Web 服务入门指南]
 
-     [overview-left]#link:../../images_www/v7/3/features/soap-designer.png[image:../../images_www/v7/3/features/soap-designer-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/soap-designer.png[image:soap-designer-cut.png[]]#
 
 === 基于 SOAP 的 Web 服务
 
@@ -58,7 +58,7 @@ IDE 提供了一些工具以使用 Web 服务标注（link:http://jcp.org/en/jsr
 
 link:../../kb/docs/websvc/jax-ws.html[JAX-WS Web 服务入门指南]
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-client-gen.png[image:../../images_www/v7/3/features/rest-client-gen-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-client-gen.png[image:rest-client-gen-cut.png[]]#
 
 === Web 服务客户端
 
@@ -83,19 +83,19 @@ link:../../kb/docs/websvc/client.html[开发 JAX-WS Web 服务客户端]
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/web-services-manager-cut.png[]#
+|[overview-centre]#image:web-services-manager-cut.png[]#
 使用 Web 服务管理器可以访问由 Google、Facebook、Yahoo、flickr、Amazon、Twitter 等提供的常用 REST 风格的 Web API。您也可以访问基于 SOAP 的 Web 服务，如 StrikeIron。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/wsit-secure-cut.png[]#
+[overview-centre]#image:wsit-secure-cut.png[]#
 Web 服务设计器中直接提供了 Web 服务互操作性技术 (WSIT)。使用 GlassFish 中的 link:http://metro.dev.java.net/[Metro 2.0] (JAX-WS 2.2) 支持可帮助您构建可交互且安全可靠的事务性 Web 服务。
 
 link:../../kb/docs/websvc/wsit.html[高级 Web 服务互操作性]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ws-mobile-cut.png[]#
+[overview-centre]#image:ws-mobile-cut.png[]#
 可以编写能够从支持 JSR-172 的电话直接访问 Web 服务的应用程序。您可以编写代码，以使用 Wireless Connection Bridge 通过 Servlet 从 MIDlet 访问任何设备上的 Web 服务和其他服务器端数据。
 
  
@@ -106,4 +106,4 @@ link:../../kb/docs/websvc/wsit.html[高级 Web 服务互操作性]
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/web.html[Web 服务学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

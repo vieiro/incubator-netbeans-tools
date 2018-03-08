@@ -30,11 +30,11 @@
 
 == Editando e Refatorando
 
-link:../../images_www/v7/3/features/ide-editor-full.png[image:../../images_www/v7/3/features/ide-editor-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/3/features/ide-editor-full.png[image:ide-editor-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 O editor sensível a idiomas do NetBeans detecta erros enquanto você digita e ajuda com pop-ups de documentação e com o recurso inteligente de autocompletar código - tudo com a velocidade e simplicidade de seu editor de texto favorito.
 
-    [overview-left]#link:../../images_www/v7/3/features/ide-editor-java8-full.png[image:../../images_www/v7/3/features/ide-editor-java8-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/ide-editor-java8-full.png[image:ide-editor-java8-cut.png[]]#
 
 === Ferramentas de Linguagem do Java 8
 
@@ -44,7 +44,7 @@ Analisadores e conversores de batch são fornecidos para pesquisa com diversas a
 
 link:https://www.youtube.com/watch?v=N8HsVgUDCn8[Migração Inteligente para JDK 8]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-editor-templates-full.png[image:../../images_www/v7/3/features/ide-editor-templates-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-editor-templates-full.png[image:ide-editor-templates-cut.png[]]#
 
 === Editores e Modelos de Arquivo
 
@@ -71,17 +71,17 @@ link:../../kb/index.html[Trilhas de Aprendizado da Tecnologia NetBeans]
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-editor-findbugs.png[]#
+|[overview-centre]#image:ide-editor-findbugs.png[]#
 Quanto mais um código com bug ficar sem correção, mais seu custo aumentará. O IDE oferece ferramentas de análise estática de código, especificamente integração com o código-fonte aberto comum da ferramenta Java FindBugs.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-parsing.png[]#
+[overview-centre]#image:ide-editor-parsing.png[]#
 O IDE faz parsing do o código-fonte ao vivo enquanto você digita. O editor marca erros, realça ocorrências, mostra dicas do compilador, correções rápidas, advertências e documentação sobre linguagem.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-refactoring.png[]#
+[overview-centre]#image:ide-editor-refactoring.png[]#
 As ações de refatoração do IDE permitem que você reestruture o código sem interrompê-lo. A ferramenta Inspecionar e Transformar permite executar inspeções avançadas na base de códigos, corrigindo o código automaticamente.
 
  
@@ -98,17 +98,17 @@ As ações de refatoração do IDE permitem que você reestruture o código sem 
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-editor-completion.png[]#
+|[overview-centre]#image:ide-editor-completion.png[]#
 O editor oferece o recurso autocompletar código automático em várias linguagens, incluindo Java, C/C++, PHP, Groovy, XML, HTML, CSS e JavaScript.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-navigate.png[]#
+[overview-centre]#image:ide-editor-navigate.png[]#
 Navegue até qualquer arquivo, tipo ou símbolo usando texto padrão, formato de letras minúsculas concatenadas ou curingas e faça pesquisas diferenciando letras maiúsculas de minúsculas na sua base de códigos.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-codegenerator.png[]#
+[overview-centre]#image:ide-editor-codegenerator.png[]#
 O editor pode gerar snippets comuns de código dentro do editor. É possível definir modelos de código para partes comuns do código e adicionar macros de registro conforme você digita.
 
  
@@ -125,17 +125,17 @@ O editor pode gerar snippets comuns de código dentro do editor. É possível de
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-editor-hints.png[]#
+|[overview-centre]#image:ide-editor-hints.png[]#
 O IDE executa a análise de código-fonte e oferece um conjunto extensivo de dicas para corrigir ou aprimorar rapidamente o código.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-hierarchy.png[]#
+[overview-centre]#image:ide-editor-hierarchy.png[]#
 Verifique os membros e hierarquias de supertipo e subtipo de qualquer arquivo nas janelas Navegador e Hierarquia, que oferece filtros para controlar o nível de detalhes exibido.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-customizations.png[]#
+[overview-centre]#image:ide-editor-customizations.png[]#
 O comportamento e exibição das linguagens no editor pode ser personalizado, incluindo o recurso de autocompletar código, view da documentação, atalhos do teclado, fontes e cores.
 
  
@@ -146,4 +146,4 @@ O comportamento e exibição das linguagens no editor pode ser personalizado, in
 * link:/community/releases/81/index.html[Página de Release do NetBeans IDE 8.1] para obter uma lista de funcionalidades específicas da última versão estável.
 * link:../../kb/trails/java-se.html[Trilha de Aprendizado em Desenvolvimento Geral de Java] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

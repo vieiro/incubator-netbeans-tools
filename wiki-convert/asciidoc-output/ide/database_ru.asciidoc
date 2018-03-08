@@ -30,11 +30,11 @@
 
 == Базы данных
 
-link:../../images_www/v7/3/features/ide-database-full.png[image:../../images_www/v7/3/features/ide-database-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/3/features/ide-database-full.png[image:ide-database-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 IDE NetBeans обеспечивает драйверы для серверов баз данных Java DB, MySQL, Oracle и PostgreSQL, что позволяет легко подключаться к этим базам данных. Также можно зарегистрировать любой драйвер JDBC с IDE, что позволяет исследовать любую базу данных, которая предоставляет драйвер JDBC.
 
-    [overview-right]#image:../../images_www/v7/3/features/ide-database-explorer-cut.png[]#
+    [overview-right]#image:ide-database-explorer-cut.png[]#
 
 === Database Explorer
 
@@ -44,7 +44,7 @@ Database Explorer позволяет подключаться к базам да
 
 link:../../kb/docs/ide/oracle-db.html[Подключение к базе данных Oracle]
 link:../../kb/docs/ide/java-db.html[Подключение к базе данных JavaDB]
-link:../../kb/docs/ide/mysql.html[Подключение к базе данных MySQL]     [overview-left]#link:../../images_www/v7/3/features/ide-database-full.png[image:../../images_www/v7/3/features/ide-database-sql.png[]]#
+link:../../kb/docs/ide/mysql.html[Подключение к базе данных MySQL]     [overview-left]#link:../../images_www/v7/3/features/ide-database-full.png[image:ide-database-sql.png[]]#
 
 === Редактор SQL
 
@@ -54,7 +54,7 @@ SQL Editor позволяет просматривать и изменять д�
 
 Редактор поддерживает настройку, и вы можете расширить его возможности новыми функциями с помощью подключаемых модулей.
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === Создание клиентов на основе мастеров
 
@@ -71,4 +71,4 @@ SQL Editor позволяет просматривать и изменять д�
 * link:../../community/releases/81/index.html[На странице сведений о версии IDE netbeans 8.1] приведен список выделенных функций в последней стабильной версии.
 * link:../../kb/trails/java-se.html[Учебная карта по общим сведениям о разработке на Java] для учебных курсов по началу работы.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -28,12 +28,12 @@
 
 == JavaFX 2.1
 
-link:../../images_www/v7/1/screenshots/javafx2-main-big.png[image:../../images_www/v7/1/screenshots/javafx2-main.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/1/screenshots/javafx2-main-big.png[image:javafx2-main.png[][font-11]#单击图像查看全屏预览#]
 
 *JavaFX 2 是 Java 作为富客户端平台演变的下一阶段。它旨在为企业业务应用程序提供小型硬件加速 Java UI 平台。有了 JavaFX 2，开发者就可以通过标准 Java 开发工具完全使用 Java 编程语言创建 JavaFX 应用程序。他们甚至可以访问本机系统功能，或者无缝连接到基于服务器的中间件应用程序。对于 Windows 和 Mac，JavaFX 2.1 捆绑在 Java JDK 7 update 4 中。也可以从 link:http://www.oracle.com/technetwork/java/javafx/downloads/index.html[Oracle.com] 单独下载 JavaFX 2.1。有关详细信息，请参见 link:../../kb/docs/java/nb_fx_screencast.html[NetBeans IDE 中的 JavaFX 支持视频]。*
 
 |===
-|=== JavaFX 项目 image:../../images_www/v6/features/new_small.gif[]
+|=== JavaFX 项目 image:new_small.gif[]
 
 在 IDE 中创建 JavaFX 项目。通过 NetBeans IDE，可以创建以下类型的 JavaFX 项目：
 
@@ -43,7 +43,7 @@ link:../../images_www/v7/1/screenshots/javafx2-main-big.png[image:../../images_w
 * *JavaFX in Swing 应用程序* NetBeans IDE 简化了 Java SE 应用程序的创建过程，这些应用程序允许使用 JFXPanel Swing 组件嵌入 FX 组件。
  |
 
-image:../../images_www/v7/1/features/javafx2-projecttypes.png[]
+image:javafx2-projecttypes.png[]
 
  
 
@@ -56,7 +56,7 @@ image:../../images_www/v7/1/features/javafx2-projecttypes.png[]
 * *在浏览器中*。IDE 使用调用 JNLP 文件的 HTML 页在浏览器中嵌入应用程序。可以让 IDE 生成 HTML 页，也可以使用您自己的 Web 页。如果从 IDE 中运行应用程序，则 IDE 将在本地文件系统上打开指向 HTML 页的浏览器页。
  |
 
-image:../../images_www/v7/1/features/javafx2-select-runas.png[]
+image:javafx2-select-runas.png[]
 
  
 
@@ -64,25 +64,25 @@ image:../../images_www/v7/1/features/javafx2-select-runas.png[]
 
 利用 NetBeans IDE 的强大 link:../java/javase.html[Java 代码编辑器]对您的 JavaFX 应用程序进行编码。
 
- |image:../../images_www/v7/1/features/javafx2-ineditor.png[] 
+ |image:javafx2-ineditor.png[] 
 
 |=== 调试 JavaFX
 
 使用 NetBeans IDE 的 link:../java/debugger.html[Java 调试工具]（包括新的 GUI 可视调试器）调试 JavaFX 应用程序。
 
-image:../../images_www/v6/arrow-button.gif[] 有关详细信息，请参见link:../../kb/docs/java/debug-visual.html[在 NetBeans IDE 中使用可视调试器]。
+image:arrow-button.gif[] 有关详细信息，请参见link:../../kb/docs/java/debug-visual.html[在 NetBeans IDE 中使用可视调试器]。
 
- |image:../../images_www/v7/1/features/debug-take-snapshot.png[title=""Debug"（调试）菜单中的 "Take GUI Snapshot"（生成 GUI 快照）选项"] 
+ |image:debug-take-snapshot.png[title=""Debug"（调试）菜单中的 "Take GUI Snapshot"（生成 GUI 快照）选项"] 
 
 |=== 样例项目
 
 通过 30 多个 JavaFX 2.1 样例项目了解 JavaFX 2.1 的功能以及 NetBeans IDE 的支持。
 
- |image:../../images_www/v7/1/features/javafx2-sample-projects.png[] 
+ |image:javafx2-sample-projects.png[] 
 
-|image:../../images_www/v6/arrow-button.gif[] link:http://docs.oracle.com/javafx/index.html[JavaFX 文档主页]：下载、演示、常见问题解答和教程。
+|image:arrow-button.gif[] link:http://docs.oracle.com/javafx/index.html[JavaFX 文档主页]：下载、演示、常见问题解答和教程。
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

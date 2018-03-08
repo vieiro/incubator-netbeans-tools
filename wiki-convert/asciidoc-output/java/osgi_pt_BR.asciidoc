@@ -28,7 +28,7 @@
 
 == Interoperabilidade NetBeans OSGi
 
-link:../../images_www/v7/1/screenshots/osgi.png[image:../../images_www/v7/1/screenshots/osgi-cut.png[]]
+link:../../images_www/v7/1/screenshots/osgi.png[image:osgi-cut.png[]]
 
 link:../../images_www/v7/screenshots/osgi.png[[font-11]#Clique na imagem para exibição em tela inteira#]
 
@@ -57,19 +57,19 @@ Utilize o submenu OSGi em qualquer menu de contexto de projeto da aplicação da
 
 É possível executar os pacotes OSGi no contêiner de runtime do Apache Felix OSGi, que é agrupado com o NetBeans IDE. A Aplicação da Plataforma com base no Equinox em Novo Projeto > Amostra > Módulos NetBeans e tutoriais relacionados irão ajudar você a integrar os grupos OSGi em uma aplicação de plataforma alimentado pelo contêiner de runtime Equinox.
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/platform.html[Tutoriais de OSGi e NetBeans]
+image:arrow-button.gif[] link:../../kb/trails/platform.html[Tutoriais de OSGi e NetBeans]
 
-image:../../images_www/v6/arrow-button.gif[] link:http://wiki.netbeans.org/OSGiAndNetBeans[Visão Geral de OSGi e NetBeans]
+image:arrow-button.gif[] link:http://wiki.netbeans.org/OSGiAndNetBeans[Visão Geral de OSGi e NetBeans]
 
  |
 
-image:../../images_www/screenshots/6.9/maven-osgi.png[]
+image:maven-osgi.png[]
 
-image:../../images_www/v6/9/features/osgi-cluster.png[]
+image:osgi-cluster.png[]
 
-image:../../images_www/v6/9/features/osgi-project.png[]
+image:osgi-project.png[]
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

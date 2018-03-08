@@ -30,11 +30,11 @@
 
 == 数据库
 
-link:../../images_www/v7/3/features/ide-database-full.png[image:../../images_www/v7/3/features/ide-database-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/ide-database-full.png[image:ide-database-cut.png[][font-11]#单击图像查看全屏预览#]
 
 NetBeans IDE 为 Java DB、MySQL、Oracle 和 PostgreSQL 数据库服务器提供驱动程序，以便您可以非常轻松地连接到这些数据库。您还可以在 IDE 中注册任何其他 JDBC 驱动程序，这样您就可以浏览任何提供 JDBC 驱动程序的数据库。
 
-    [overview-right]#image:../../images_www/v7/3/features/ide-database-explorer-cut.png[]#
+    [overview-right]#image:ide-database-explorer-cut.png[]#
 
 === 数据库资源管理器
 
@@ -44,7 +44,7 @@ NetBeans IDE 为 Java DB、MySQL、Oracle 和 PostgreSQL 数据库服务器提�
 
 link:../../kb/docs/ide/oracle-db.html[连接到 Oracle 数据库]
 link:../../kb/docs/ide/java-db.html[连接到 JavaDB 数据库]
-link:../../kb/docs/ide/mysql.html[连接到 MySQL 数据库]     [overview-left]#link:../../images_www/v7/3/features/ide-database-full.png[image:../../images_www/v7/3/features/ide-database-sql.png[]]#
+link:../../kb/docs/ide/mysql.html[连接到 MySQL 数据库]     [overview-left]#link:../../images_www/v7/3/features/ide-database-full.png[image:ide-database-sql.png[]]#
 
 === SQL 编辑器
 
@@ -54,7 +54,7 @@ SQL 编辑器可帮助您查看和更改数据库中的数据。您可以在 SQL
 
 该编辑器可定制，您也可以通过插件使用新功能扩展它。
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === 基于向导的客户端生成
 
@@ -71,4 +71,4 @@ SQL 编辑器可帮助您查看和更改数据库中的数据。您可以在 SQL
 * link:../../community/releases/80/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/java-se.html[常规 Java 开发学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

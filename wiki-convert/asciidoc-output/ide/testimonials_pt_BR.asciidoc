@@ -156,4 +156,4 @@ Estou usando o NetBeans há apenas dois meses, e esta é minha primeira experiê
 Parabéns a todos os desenvolvedores NetBeans e à equipe NetBeans por esta release, e por vencer o Jolt Award. Como desenvolvedor de softwares, eu sei bem o trabalho duro, o esforço e a dedicação necessária para chegar a este ponto. Parabéns a todos!`
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -28,7 +28,7 @@
 
 == Java SE (Standard Edition)
 
-link:../../images_www/v7/screenshots/java-se.png[image:../../images_www/v7/screenshots/java-se-cut1.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/screenshots/java-se.png[image:java-se-cut1.png[][font-11]#Click image for fullscreen preview#]
 
 *The NetBeans IDE provides Java developers with all the tools they need to create professional Java SE applications. The NetBeans IDE supports development for JDK 6 and JDK 7.*
 
@@ -67,12 +67,12 @@ If you save changes to a method while the debugger is already running the runnin
 
  |
 
-image:../../images_www/screenshots/6.0/javaSE_logo_150px.png[]
+image:javaSE_logo_150px.png[]
 
-image:../../images_www/v6/9/features/annotation-processor.png[]
+image:annotation-processor.png[]
 
 
-image:../../images_www/v6/5/features/java-call-hierarchy.png[]
+image:java-call-hierarchy.png[]
 
  
 
@@ -82,7 +82,7 @@ JUnit 3 and 4 are integrated into the IDE. You can quickly create, run and re-ru
 
  |
 
-image:../../images_www/v6/9/features/unit-test.png[]
+image:unit-test.png[]
 
  
 
@@ -96,14 +96,14 @@ The NetBeans IDE stores your project information in open, extendible, non-propri
 
 The Java Bean support makes Bean property generation and BeanInfo editing easier. The NetBeans GUI Builder assists you with Java Swing development, from the prototype to the final graphical user interface. The well-integrated NetBeans debugger and the NetBeans profiler help you to write rock-solid Java desktop software.
 
- |image:../../images_www/screenshots/6.0/baseIDE_ant_powered_150px.png[] 
+ |image:baseIDE_ant_powered_150px.png[] 
 |===
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/java-se.html[Basic IDE and Java Programming Learning Trail]
+image:arrow-button.gif[] link:../../kb/trails/java-se.html[Basic IDE and Java Programming Learning Trail]
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/platform.html[NetBeans Platform Learning Trail]
+image:arrow-button.gif[] link:../../kb/trails/platform.html[NetBeans Platform Learning Trail]
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

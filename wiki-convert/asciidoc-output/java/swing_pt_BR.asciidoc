@@ -28,12 +28,12 @@
 
 == GUI Builder Swing (anteriormente Projeto Matisse)
 
-link:../../images_www/v7/1/screenshots/gui-builder.png[image:../../images_www/v7/1/screenshots/gui-builder-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/1/screenshots/gui-builder.png[image:gui-builder-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 *Crie GUIs de aparência profissional com espaçamento e alinhamento automáticos.*
 
 |===
-|=== Construção de GUIs Swing Profissionalimage:../../images_www/v6/features/improved_small.gif[]
+|=== Construção de GUIs Swing Profissionalimage:improved_small.gif[]
 
 Crie GUIs Swing arrastando e posicionando os componentes de GUI de uma paleta em uma tela. O GUI Builder se encarrega automaticamente do espaçamento e do alinhamento corretos. Clique em JLabels, JButtons, ButtonGroups, JTrees, JTextFields, ComboBoxes e edite as propriedades diretamente no local. É possível utilizar até o GUI Builder para fazer o protótipo de GUIs diante dos clientes.
 link:../../kb/docs/java/gui-functionality.html[Introdução à Construção de GUIs]
@@ -44,9 +44,9 @@ Você pode decidir se o código GUI deve ser gerado com nomes de classe totalmen
 
   |
 
-image:../../images_www/v7/1/features/swing-gui-design.png[]
+image:swing-gui-design.png[]
 
-image:../../images_www/v7/1/features/swing-gui-options.png[]
+image:swing-gui-options.png[]
 
  
 
@@ -56,25 +56,25 @@ A Paleta de Componentes extensível vem com componentes Swing e AWT pré-instala
 
   |
 
-image:../../images_www/v7/1/features/swing-gui-palette.png[]
+image:swing-gui-palette.png[]
 
  
 
-|=== Depurador Visualimage:../../images_www/v6/features/improved_small.gif[]
+|=== Depurador Visualimage:improved_small.gif[]
 
 Depure uma aplicação do GUI Swing sem olhar no código-fonte e controlar o fluxo de execução em termos de estruturas e alto nível. Selecione Obter Tela da GUI para criar uma tela da GUI da aplicação que serve de base para a funcionalidade do Depurador Visual.
 link:../../kb/docs/java/debug-visual.html[Usando o Depurador Visual de Erros]
 
  |
 
-image:../../images_www/v7/1/features/swing-gui-snapshot.png[]
+image:swing-gui-snapshot.png[]
 
  
 |===
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/matisse.html[Trilha de Aprendizado do GUI Builder]
+image:arrow-button.gif[] link:../../kb/trails/matisse.html[Trilha de Aprendizado do GUI Builder]
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/platform.html[Trilha do Aprendizado da Plataforma NetBeans]
+image:arrow-button.gif[] link:../../kb/trails/platform.html[Trilha do Aprendizado da Plataforma NetBeans]
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

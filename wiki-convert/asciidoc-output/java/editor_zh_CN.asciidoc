@@ -30,11 +30,11 @@
 
 == 编辑和重构
 
-link:../../images_www/v7/3/features/ide-editor-full.png[image:../../images_www/v7/3/features/ide-editor-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/ide-editor-full.png[image:ide-editor-cut.png[][font-11]#单击图像查看全屏预览#]
 
 可识别语言的 NetBeans 编辑器会在您键入内容时检测错误，并通过文档弹出式窗口和智能代码完成功能来为您提供帮助 - 所有这些功能使用起来既快捷、又简便，它将不愧为您的首选小型文本编辑器。
 
-    [overview-left]#link:../../images_www/v7/3/features/ide-editor-java8-full.png[image:../../images_www/v7/3/features/ide-editor-java8-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/ide-editor-java8-full.png[image:ide-editor-java8-cut.png[]]#
 
 === Java 8 语言工具
 
@@ -44,7 +44,7 @@ NetBeans IDE 是适用于 Java 8 的正式 IDE。使用它的编辑器、代码�
 
 link:https://www.youtube.com/watch?v=N8HsVgUDCn8[智能迁移至 JDK 8]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-editor-templates-full.png[image:../../images_www/v7/3/features/ide-editor-templates-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-editor-templates-full.png[image:ide-editor-templates-cut.png[]]#
 
 === 编辑器和文件模板
 
@@ -71,17 +71,17 @@ link:../../kb/index.html[NetBeans 技术学习资源]
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-editor-findbugs.png[]#
+|[overview-centre]#image:ide-editor-findbugs.png[]#
 错误代码的成本随着未修复时间的变长而增加。IDE 向您提供静态代码分析工具，特别是与常用开源 Java FindBugs 工具的集成。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-parsing.png[]#
+[overview-centre]#image:ide-editor-parsing.png[]#
 IDE 能够实况分析输入的源代码。该编辑器可标记错误，突出显示实例，显示编译器提示、快速修复、警告和语言文档。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-refactoring.png[]#
+[overview-centre]#image:ide-editor-refactoring.png[]#
 IDE 重构工具允许您在不破坏代码的前提下对其重构。通过 "Inspect &amp; Transform"（检查并转换）工具，可以对整个代码库运行强大的检查，同时自动修复代码。
 
  
@@ -98,17 +98,17 @@ IDE 重构工具允许您在不破坏代码的前提下对其重构。通过 "In
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-editor-completion.png[]#
+|[overview-centre]#image:ide-editor-completion.png[]#
 该编辑器支持多种语言的自动代码完成，包括 Java、C/C++、PHP、Groovy、XML、HTML、CSS 和 JavaScript。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-navigate.png[]#
+[overview-centre]#image:ide-editor-navigate.png[]#
 使用标准文本、驼峰匹配格式或通配符导航至任何文件、类型或符号，并在整个代码库中执行区分大小写的搜索。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-codegenerator.png[]#
+[overview-centre]#image:ide-editor-codegenerator.png[]#
 使用该编辑器时，可以在编辑器中自动生成常用代码片段。您可以为常用代码片段定义代码模板并添加键入的记录宏。
 
  
@@ -125,17 +125,17 @@ IDE 重构工具允许您在不破坏代码的前提下对其重构。通过 "In
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/ide-editor-hints.png[]#
+|[overview-centre]#image:ide-editor-hints.png[]#
 IDE 可执行源代码分析，并提供大量提示以供快速修复代码或改进代码。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-hierarchy.png[]#
+[overview-centre]#image:ide-editor-hierarchy.png[]#
 在 "Navigator"（导航器）窗口和 "Hierarchy"（分层结构）窗口中检查任何文件的成员和超类型或子类型分层结构，这些窗口提供了过滤器以控制显示的详细级别。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ide-editor-customizations.png[]#
+[overview-centre]#image:ide-editor-customizations.png[]#
 可以定制编辑器中语言的行为和显示，包括其代码完成、文档视图、快捷键、字体和颜色。
 
  
@@ -146,4 +146,4 @@ IDE 可执行源代码分析，并提供大量提示以供快速修复代码或�
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新稳定发行版中的特定功能的列表。
 * link:../../kb/trails/java-se.html[常规 Java 开发学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

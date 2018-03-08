@@ -28,7 +28,7 @@
 
 == JavaFX 编写器
 
-link:../../images_www/v6/9/screenshots/javafx-composer.png[image:../../images_www/v6/9/screenshots/javafx-composer-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v6/9/screenshots/javafx-composer.png[image:javafx-composer-cut.png[][font-11]#单击图像查看全屏预览#]
 
 *用于 JavaFX 应用程序的可视布局工具。*
 
@@ -43,7 +43,7 @@ JavaFX 编写器是一个用于 JavaFX 应用程序的可视布局工具，就�
 
  |
 
-image:../../images_www/screenshots/6.9/javafx-composer.png[]
+image:javafx-composer.png[]
 
  
 
@@ -60,28 +60,28 @@ image:../../images_www/screenshots/6.9/javafx-composer.png[]
 
  |
 
-image:../../images_www/v6/9/features/javafx-states.png[]
+image:javafx-states.png[]
 
-link:http://www.javafx.com/[image:../../images_www/v6/8/features/javafx-screens.png[]]
+link:http://www.javafx.com/[image:javafx-screens.png[]]
 
  
 
-|=== 内置数据连接 image:../../images_www/v6/features/new_small.gif[]
+|=== 内置数据连接 image:new_small.gif[]
 
 如果 JavaFX 应用程序需要连接到数据源，请使用项目模板来轻松创建 JavaFX 业务桌面应用程序或 JavaFX Mobile 业务应用程序。使用 "Design"（设计）视图可将用户界面连接到数据源，如 REST 风格的 Web 服务、数据库、本地文件系统或数据文件。
 
 
-image:../../images_www/v6/arrow-button.gif[] link:https://netbeans.org/kb/trails/matisse.html[JavaFX 和 Swing GUI 学习资源]。
+image:arrow-button.gif[] link:https://netbeans.org/kb/trails/matisse.html[JavaFX 和 Swing GUI 学习资源]。
 
-image:../../images_www/v6/arrow-button.gif[] 包含下载、演示、常见问题解答和文档的 link:http://www.javafx.com/[javafx.com]。
+image:arrow-button.gif[] 包含下载、演示、常见问题解答和文档的 link:http://www.javafx.com/[javafx.com]。
 
  |
 
-image:../../images_www/v6/9/features/javafx-data.png[]
+image:javafx-data.png[]
 
  
 |===
 
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

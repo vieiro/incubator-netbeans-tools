@@ -28,7 +28,7 @@
 
 == NetBeans IDE 动态语言
 
-link:../../images_www/v7/1/screenshots/dynamic-languages-big.png[image:../../images_www/v7/1/screenshots/dynamic-languages.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/1/screenshots/dynamic-languages-big.png[image:dynamic-languages.png[][font-11]#单击图像查看全屏预览#]
 
 *NetBeans IDE 是 Java 开发的最佳选择，而且允许用户获得动态语言的集成支持，这些功能全部包含在一个强大的工具中。*
 
@@ -39,17 +39,17 @@ NetBeans PHP IDE 提供了一个快速集成开发环境，只需下载一个小
 
 请参见 link:../php/index.html[PHP 开发]。
 
- |image:../../images_www/v7/features/php-codecompletion.png[] 
+ |image:php-codecompletion.png[] 
 
 |=== HTML、JavaScript 和 CSS
 
 NetBeans IDE 为 HTML、JavaScript 和 CSS 提供了全面的编辑器支持。可以利用完善的语法突出显示、代码完成、弹出式文档和错误检查功能来处理 HTML、CSS 和 JavaScript 代码，包括 HTML 5、JavaScript 1.7 和 E4X（嵌入的 XML 对象）的语义突出显示。编辑器可识别 JavaScript 文件中的 HTML 代码，也可识别 HTML 文件中的 JavaScript 代码。编辑器还可识别 XHTML、PHP 和 JSP 文件中的 HTML 和 JavaScript 代码。
 
-==== HTML image:../../images_www/v6/features/improved_small.gif[]
+==== HTML image:improved_small.gif[]
 
 您可以在 IDE 中使用编辑器快速将代码包含在标记中，也可以使用新的提示删除包含标记。可以删除样式块或 .css 文件的内联样式。
 
-==== CSS image:../../images_www/v6/features/improved_small.gif[]
+==== CSS image:improved_small.gif[]
 
 NetBeans IDE 支持 CSS 3。重构、语义突出显示、标记实例和其他功能已根据 CSS3 代码进行了改编。CSS 代码完成已扩展到完整的 HTML 元素、CSS3 属性及其值、新的伪类和伪元素以及名称空间前缀。特定于供应商的属性（短划线前缀属性）也已添加到代码完成中。"Navigator"（导航器）窗口现将 CSS 类、ID、元素、名称空间和规则显示在单独的元素集中。
 
@@ -64,11 +64,11 @@ link:../../kb/docs/web/js-toolkits-jquery.html[使用 jQuery 改善 Web 页的�
 
  
 
-image:../../images_www/v7/1/features/html-surround-tag-hints.png[]
+image:html-surround-tag-hints.png[]
 
-image:../../images_www/v7/1/features/css-cc.png[]
+image:css-cc.png[]
 
-image:../../images_www/v6/8/features/javascript-browser-options.png[]
+image:javascript-browser-options.png[]
 
  
 
@@ -83,10 +83,10 @@ NetBeans IDE 直接支持 Groovy（用于 Java 平台的动态脚本语言）和
 
 
 |===
-|image:../../images_www/v6/arrow-button.gif[] link:../php/index.html[PHP]
-快速的小型 PHP IDE。 |image:../../images_www/v6/arrow-button.gif[] link:../groovy/index.html[Groovy]
-将 Groovy 与 Java SE 集成，并使用 Grails Web 框架。 |image:../../images_www/v6/arrow-button.gif[] link:../javascript/index.html[JavaScript]
+|image:arrow-button.gif[] link:../php/index.html[PHP]
+快速的小型 PHP IDE。 |image:arrow-button.gif[] link:../groovy/index.html[Groovy]
+将 Groovy 与 Java SE 集成，并使用 Grails Web 框架。 |image:arrow-button.gif[] link:../javascript/index.html[JavaScript]
 创建增强 JavaScript 的 Web 页。 
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

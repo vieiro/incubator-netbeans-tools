@@ -30,11 +30,11 @@
 
 == HTML5 Web Development Support
 
-link:../../images_www/v7/3/features/html5-dev.png[image:../../images_www/v7/3/features/html5-dev-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/3/features/html5-dev.png[image:html5-dev-cut.png[][font-11]#Click image for fullscreen preview#]
 
 Starting with NetBeans IDE 7.3, new features to support and enhance the development experience with client side Web applications that utilize the HTML5 family of technologies have been introduced. You can use this to rapidly and intuitively create rich Web applications that support the responsive web design paradigm targeting desktop and mobile platforms simultaneously. In addition, you can use HTML5 technologies within link:../java-on-server/index.html[Java EE] and link:../php/index.html[PHP] applications.
 
-    [overview-left]#link:../../images_www/v7/3/features/nodejs-app.png[image:../../images_www/v7/3/features/nodejs-app-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/nodejs-app.png[image:nodejs-app-cut.png[]]#
 
 === Node.js Development Support
 
@@ -44,7 +44,7 @@ Alternatively, you can use the built-in integration with Express to create front
 
 The IDE recognizes Node.js code and provides coding assistance and highlighting.
 
-     [overview-right]#link:../../images_www/v7/3/features/html5-app.png[image:../../images_www/v7/3/features/html5-app-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/html5-app.png[image:html5-app-cut.png[]]#
 
 === Accelerated HTML5 Development Support
 
@@ -56,7 +56,7 @@ Once set up, the live preview of Web pages, editor support, debugging capabiliti
 
 link:../../kb/docs/webclient/html5-gettingstarted.html[Getting started with HTML5 Development]
 
-     [overview-left]#link:../../images_www/v7/3/features/html5-preview.png[image:../../images_www/v7/3/features/html5-preview-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/html5-preview.png[image:html5-preview-cut.png[]]#
 
 === Live Preview of Web Pages
 
@@ -66,7 +66,7 @@ Through the use of the remote WebKit API's, you continue to have complete visibi
 
 *Note:* Live web preview of web pages is also available on mobile devices, that is, not only on Chrome and the internal Embedded WebKit Browser, but also on Chrome on Android and on Mobile Safari on iOS.
 
-     [overview-right]#link:../../images_www/v7/3/features/html5-layout.png[image:../../images_www/v7/3/features/html5-layout-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/html5-layout.png[image:html5-layout-cut.png[]]#
 
 === Responsive Web Design Capability
 
@@ -74,7 +74,7 @@ NetBeans IDE supports the use of Responsive Web Design architectures by letting 
 
 In addition to enhancing browser capabilities, the IDE's CSS Style editor is also aware of the media query that the browser is currently displaying and will place edits to the CSS into that media query automatically.
 
-     [overview-left]#link:../../images_www/v7/3/features/javascript-editing.png[image:../../images_www/v7/3/features/javascript-editing-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/javascript-editing.png[image:javascript-editing-cut.png[]]#
 
 === Enhanced JavaScript Support
 
@@ -84,7 +84,7 @@ The following JavaScript frameworks are supported: jQuery, JSON, Knockout, Ext J
 
 You can also now control the formatting options for the JavaScript language itself, in the Options dialog box.
 
-     [overview-right]#link:../../images_www/v7/3/features/html5-css-rules.png[image:../../images_www/v7/3/features/html5-css-rules-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/html5-css-rules.png[image:html5-css-rules-cut.png[]]#
 
 === CSS Editing and Styling Support
 
@@ -98,7 +98,7 @@ link:../../kb/docs/webclient/html5-editing-css.html[Working with CSS in HTML5 ap
 
 *Note:* CSS editing and styling support is also available on mobile devices, that is, not only on Chrome and the internal Embedded WebKit Browser, but also on Chrome on Android and on Mobile Safari on iOS.
 
-     [overview-left]#link:../../images_www/v7/3/features/html5-device.png[image:../../images_www/v7/3/features/html5-device.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/html5-device.png[image:html5-device.png[]]#
 
 === Mobile Device Support and Cordova Development
 
@@ -123,21 +123,21 @@ The IDE lets you visually edit CSS files and debug JavaScript in the Chrome brow
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/html5-debug-cut.png[]#
+|[overview-centre]#image:html5-debug-cut.png[]#
 You can debug JavaScript code with the Chrome browser, the internal Embedded WebKit Browser, the Chrome browser on Android, and the Mobile Safari browser on iOS.
 
 link:../../kb/docs/webclient/html5-js-support.html[Debugging and Testing JavaScript]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/html5-rest-client-cut.png[]#
+[overview-centre]#image:html5-rest-client-cut.png[]#
 Easily access your enterprise data by creating JavaScript clients for RESTful Web services.
 
 Using the RESTful JavaScript client wizard, quickly generate a JavaScript client for a RESTful Web service located in a NetBeans project containing the Web service.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/html5-css-doc-cut.png[]#
+[overview-centre]#image:html5-css-doc-cut.png[]#
 Ensure that your application works across multiple browsers.
 
 With the inline documentation available via code completion, the IDE informs you about browser support for particular code constructs.
@@ -150,4 +150,4 @@ With the inline documentation available via code completion, the IDE informs you
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of highlighted features in the latest stable release.
 * link:../../kb/trails/php.html[PHP and HTML5 Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

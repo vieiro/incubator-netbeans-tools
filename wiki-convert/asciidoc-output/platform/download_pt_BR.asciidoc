@@ -31,22 +31,22 @@
 e desenvolva sua primeira aplicação da Plataforma em menos de 10 minutos
 
 |===
-|image:/images_www/v6/bullet1.png[] |
+|image:bullet1.png[] |
 
 Faça o download do NetBeans IDE, caso já não o tenha feito
 
-link:/downloads/[image:/images_www/v6/dl-nb-ide.gif[]]
+link:/downloads/[image:dl-nb-ide.gif[]]
 
 
  
 
-|image:/images_www/v6/bullet2.png[] |
+|image:bullet2.png[] |
 
 Instale o IDE ou descompacte o arquivo compactado que fornece as bibliotecas da Plataforma NetBeans.
 
  
 
-|image:/images_www/v6/bullet3.png[] |
+|image:bullet3.png[] |
 
 Após obter o NetBeans IDE, basta iniciá-lo, escolher Arquivo | Novo projeto e, a seguir, usar o modelo "Aplicação da Plataforma NetBeans" para começar a criar sua primeira Plataforma NetBeans.
 
@@ -56,4 +56,4 @@ Para trabalhar com uma aplicação simples, use o link:http://platform.netbeans.
 |===
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

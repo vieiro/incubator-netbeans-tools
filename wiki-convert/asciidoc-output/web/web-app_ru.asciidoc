@@ -30,17 +30,17 @@
 
 == Разработка с использованием платформы веб-приложений
 
-link:../../images_www/v7/screenshots/web-app2.png[image:../../images_www/v7/screenshots/web-app2-cut1.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/screenshots/web-app2.png[image:web-app2-cut1.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 NetBeans IDE поддерживает различные платформы веб-приложений, включая все спецификации для разработки веб-приложений, предоставляемые в комплекте со спецификацией Java EE. Кроме того, можно настроить среду IDE для работы с дополнительными платформами на ваш выбор.
 
-    [overview-right]#link:../../images_www/v7/3/features/ee-6-web-profile.png[image:../../images_www/v7/3/features/ee-6-web-profile-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ee-6-web-profile.png[image:ee-6-web-profile-cut.png[]]#
 
 === Поддержка веб-профилей Java EE 6
 
 link:http://www.oracle.com/technetwork/java/javaee/downloads/javaee6-standards-jsp-141130.html[Веб-профиль Java EE 6] определяет подмножество спецификаций, которые могут быть использованы для создания веб-приложений. Помимо поддержки полной версии Java EE, среда NetBeans обеспечивает готовую поддержку веб-профиля, включая поддержку JSF, JSP и сервлетов.
 
-     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:../../images_www/v7/3/features/jsf-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:jsf-dev-cut.png[]]#
 
 === Разработка JSF
 
@@ -50,7 +50,7 @@ IDE также поддерживает различные компоненты 
 
 link:../../kb/docs/web/jsf20-intro.html[Введение в JavaServer Faces]
 
-     [overview-right]#link:../../images_www/v7/3/features/jsf-crud-gen.png[image:../../images_www/v7/3/features/jsf-crud-gen-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/jsf-crud-gen.png[image:jsf-crud-gen-cut.png[]]#
 
 === Создание клиентов на основе мастеров
 
@@ -73,19 +73,19 @@ link:../../kb/docs/web/jsf20-intro.html[Введение в JavaServer Faces]
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/template-wizard-cut.png[]#
+|[overview-centre]#image:template-wizard-cut.png[]#
 Среда IDE предоставляет мастер шаблонов Facelets для создания шаблонов Facelets, а также мастер клиента шаблонов Facelets для создания файлов на основе шаблона.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/jsp-dev-cut.png[]#
+[overview-centre]#image:jsp-dev-cut.png[]#
 В файлах JavaServer Pages (JSP) редактор предоставляет вам такие вспомогательные функции, как автозавершение кода, гипертекстовый переход, проверку ошибок и отладку. Поддерживается перетаскивание фрагментов кода из палитры. Предусмотрена поддержка создания и использования библиотек пользовательских тегов.
 
 link:../../kb/docs/web/quickstart-webapps.html[Введение в разработку веб-приложений с JSP]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/hibernate-web-apps.png[]#
+[overview-centre]#image:hibernate-web-apps.png[]#
 Библиотеки Hibernate автоматически связываются с приложением при выборе платформы Hibernate в мастере создания проектов. Среда IDE предоставляет мастер для создания файла Hibernate реверсивного проектирования и настройки файлов XML и классов POJO.
 
 link:../../kb/docs/web/hibernate-webapp.html[Использование библиотеки Hibernate в веб-приложении]
@@ -104,21 +104,21 @@ link:../../kb/docs/web/hibernate-webapp.html[Использование библ
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/spring-completion.png[]#
+|[overview-centre]#image:spring-completion.png[]#
 Выберите платформу Spring в мастере создания проектов и сразу же начните с работы со схемой приложения Spring Web MVC. Используйте в редакторе функции переработки программного кода (включая файлы настройки XML) и автозавершения кода.
 
 link:../../kb/docs/web/quickstart-webapps-spring.html[Введение в Spring Web MVC]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/struts.png[]#
+[overview-centre]#image:struts.png[]#
 Выберите платформу Struts для создания гибких веб-приложений на основе стандартных технологий, таких как JSP-страницы, JavaBeans, комплекты ресурсов и XML. Применяйте автозавершение кода для тегов Struts и всплывающих окон документации Struts Javadoc в редакторе.
 
 link:../../kb/docs/web/quickstart-webapps-struts.html[Введение в веб-платформу Grails]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/plugin-portal-uc.png[]#
+[overview-centre]#image:plugin-portal-uc.png[]#
 Вы можете установить дополнительные подключаемые модули для поддержки других платформ, загрузив их из Центра обновлений IDE.
 
 Например, можно установить подключаемый модуль *Wicket* для поддержки платформы Wicket.
@@ -136,4 +136,4 @@ link:../../kb/docs/web/framework-adding-support.html[Добавление под
 * Более подробно о функциях последней стабильной версии см. на странице link:http://wiki.netbeans.org/NewAndNoteworthyNB73[Новые замечательные возможности IDE NetBeans 7.3].
 * link:../../kb/trails/java-ee.html[Учебная карта по Java EE и Java Web] для учебных курсов по началу работы.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

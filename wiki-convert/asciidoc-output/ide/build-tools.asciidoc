@@ -30,11 +30,11 @@
 
 == Build Tools
 
-link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut.png[] [font-11]# Click image for fullscreen preview#]
+link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut.png[] [font-11]# Click image for fullscreen preview#]
 
 Take control of your build right where your code is—with standard build tools integrated into the IDE.
 
-    [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:../../images_www/v7/3/features/ide-collaboration-hudson-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:ide-collaboration-hudson-cut.png[]]#
 
 === Hudson
 
@@ -46,7 +46,7 @@ To find out why a job failed, right-click a build node and inspect stack traces 
 
 link:http://wiki.netbeans.org/HudsonInNetBeans[Hudson in NetBeans IDE]
 
-     [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut2.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut2.png[]]#
 
 === Maven
 
@@ -58,7 +58,7 @@ The IDE's Maven Repository browser lets you browse the content of your local rep
 
 link:http://wiki.netbeans.org/MavenBestPractices[Maven in NetBeans IDE]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:../../images_www/v7/3/features/ide-buildtools-ant-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:ide-buildtools-ant-cut.png[]]#
 
 === Ant
 
@@ -73,4 +73,4 @@ You do not need to be familiar with Ant to work with applications in the IDE. Yo
 * link:/community/releases/73/index.html[NetBeans IDE 7.3 Release Page] for a list of specific features in the latest stable release.
 * Get more details about features of the latest stable release on the link:http://wiki.netbeans.org/NewAndNoteworthyNB73[NetBeans IDE 7.3 New and Noteworthy page].
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -30,11 +30,11 @@
 
 == 项目管理
 
-link:../../images_www/v7/3/features/ide-management-main-full.png[image:../../images_www/v7/3/features/ide-management-main-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/ide-management-main-full.png[image:ide-management-main-cut.png[][font-11]#单击图像查看全屏预览#]
 
 NetBeans IDE 提供了各种数据视图（从多个项目窗口到文件和分层视图），让您可以轻松快速地向下浏览数据。
 
-    [overview-right]#image:../../images_www/v7/3/features/ide-management-project-cut.png[]#
+    [overview-right]#image:ide-management-project-cut.png[]#
 
 === 项目视图
 
@@ -42,7 +42,7 @@ NetBeans IDE 提供了各种数据视图（从多个项目窗口到文件和分�
 
 除了 "Projects"（项目）窗口之外，IDE 还提供了 "Files"（文件）窗口（以便您可以查看属于某个项目的所有文件）和 "Favorites"（收藏夹）窗口（您可以在该窗口中添加文件夹和文件以使其可在 IDE 内进行浏览）。
 
-     [overview-left]#link:../../images_www/v7/3/features/ide-management-file-cut.png[image:../../images_www/v7/3/features/ide-management-file-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ide-management-file-cut.png[image:ide-management-file-cut.png[]]#
 
 === 文件视图
 
@@ -50,7 +50,7 @@ NetBeans IDE 提供了各种数据视图（从多个项目窗口到文件和分�
 
 例如，对于 Java 文件，"Navigator"（导航器）窗口显示构造函数、方法和字段的列表，而对于 HTML 和 CSS 文件，则显示所选文档的逻辑结构。
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-management-hierarchy-cut.png[image:../../images_www/v7/3/features/ide-management-hierarchy-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-management-hierarchy-cut.png[image:ide-management-hierarchy-cut.png[]]#
 
 === 分层结构视图
 
@@ -65,4 +65,4 @@ NetBeans IDE 提供了各种数据视图（从多个项目窗口到文件和分�
 * link:../../community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/java-se.html[常规 Java 开发学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

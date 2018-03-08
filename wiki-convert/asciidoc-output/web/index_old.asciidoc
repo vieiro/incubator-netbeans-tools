@@ -28,7 +28,7 @@
 
 == Java EE and Java Web Applications
 
-link:../../images_www/v7/1/screenshots/web-app-cut.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/1/screenshots/web-app-cut.png[image:web-app-cut.png[][font-11]#Click image for fullscreen preview#]
 
 *Write standards-based web and enterprise applications that can be accessed from a wide range of clients such as web browsers, mobile devices and more. Get unmatched out-of-the-box experience: With a few clicks, create Java EE 6 apps with support for all relevant Java EE 6 technologies.*
 
@@ -50,10 +50,10 @@ Take advantage of full syntax highlighting, code completion, pop-up documentatio
 
 
 |===
-|image:../../images_www/v6/arrow-button.gif[] link:java-ee.html[Java EE]
-Use Java Persistence, Enterprise JavaBeans, Java Server Faces, Contexts and Dependency Injection and other Java EE technologies. |image:../../images_www/v6/arrow-button.gif[] link:web-app.html[Web Frameworks]
-Rapidly build standards-based web applications using Spring, Struts, and Hibernate frameworks. |image:../../images_www/v6/arrow-button.gif[] link:web-services.html[Web Services]
+|image:arrow-button.gif[] link:java-ee.html[Java EE]
+Use Java Persistence, Enterprise JavaBeans, Java Server Faces, Contexts and Dependency Injection and other Java EE technologies. |image:arrow-button.gif[] link:web-app.html[Web Frameworks]
+Rapidly build standards-based web applications using Spring, Struts, and Hibernate frameworks. |image:arrow-button.gif[] link:web-services.html[Web Services]
 Tools that assist you with JAX-WS, RESTful web services, secure and interoperable web services. 
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

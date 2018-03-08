@@ -28,24 +28,24 @@
 
 == Testing and Code Analysis
 
-image:../../images_www/v7/3/features/php/testing-top.png[]
+image:testing-top.png[]
 
 When you are testing your application, the IDE provides tools for using PHPUnit, generates report of code coverage and more.
 
-[overview-right]#image:/images_www/v7/3/features/php/phpunit.png[]#
+[overview-right]#image:phpunit.png[]#
 
 === PHP Unit Testing
 
 Create link:http://www.phpunit.de/manual/current/en/[PHPUnit] tests and Selenium test cases for files or folders, run tests, and view test results. You can define test groups to selectively run unit test upon. In the PHPUnit properties you can define a custom XML configuration file, a bootstrap file for command line options, or a custom test suite, or project-specific PHPUnit script. You can let the IDE generate skeleton code for you using link:http://www.phpunit.de/manual/current/en/skeleton-generator.html[PHPUnit Skeleton Generator]. Use a keyboard shortcut to navigate quickly between test and tested class.
 link:http://netbeans.org/kb/docs/php/phpunit.html[Testing with PHPUnit and Selenium]
 
-  [overview-left]#image:/images_www/v7/3/features/php/php-code-coverage.png[]#
+  [overview-left]#image:php-code-coverage.png[]#
 
 === Code Coverage
 
 Generate a Code Coverage report for PHP files to see how well your test cases cover your code: Covered statements are marked green in the editor, statements that haven't been executed during the test are marked red. The evaluation is based on the number of executable statements, lines with white space and comments do not distort the result.
 
-  [overview-right]#image:/images_www/v7/3/features/ide-collaboration-hudson-cut.png[]#
+  [overview-right]#image:ide-collaboration-hudson-cut.png[]#
 
 === Continuous Integration Support
 
@@ -58,4 +58,4 @@ NetBeans IDE supports continuous integration. Continuous integration is a softwa
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of specific features in the latest stable release.
 * link:../../kb/trails/php.html[PHP and HTML5 Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

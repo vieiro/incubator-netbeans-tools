@@ -30,11 +30,11 @@
 
 == Swing
 
-link:../../images_www/v7/3/features/client-swing-main-full.png[image:../../images_www/v7/3/features/client-swing-main-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/3/features/client-swing-main-full.png[image:client-swing-main-cut.png[][font-11]#Click image for fullscreen preview#]
 
 Create professional-looking Swing GUIs with automatic spacing and alignment.
 
-    [overview-right]#link:../../images_www/v7/3/features/client-swing-full.png[image:../../images_www/v7/3/features/client-swing-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-swing-full.png[image:client-swing-cut.png[]]#
 
 === GUI Builder
 
@@ -44,7 +44,7 @@ You can use the GUI builder to prototype GUIs right in front of customers.
 
 link:../../kb/docs/java/gui-functionality.html[Introduction to GUI Building]
 link:../../kb/trails/matisse.html[Java GUI Applications Learning Trail]
-link:../../kb/docs/java/gui-builder-screencast.html[Designing a Swing GUI in NetBeans IDE]     [overview-left]#link:../../images_www/v7/3/features/client-swing-palette-full.png[image:../../images_www/v7/3/features/client-swing-palette-cut.png[]]#
+link:../../kb/docs/java/gui-builder-screencast.html[Designing a Swing GUI in NetBeans IDE]     [overview-left]#link:../../images_www/v7/3/features/client-swing-palette-full.png[image:client-swing-palette-cut.png[]]#
 
 === Component Palette
 
@@ -52,7 +52,7 @@ The extensible Component Palette comes with pre-installed Swing and AWT componen
 
 Use the Navigator to view a component's tree and properties.
 
-     [overview-right]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:../../images_www/v7/3/features/client-swing-visual-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:client-swing-visual-cut.png[]]#
 
 === Visual Debugger
 
@@ -62,7 +62,7 @@ Choose "Take GUI Snapshot" to make a screenshot of the application GUI that serv
 
 link:../../kb/docs/java/debug-visual.html[Using the Visual Debugger in NetBeans IDE]
 
-     [overview-left]#link:../../images_www/v7/3/features/platform-screens.png[image:../../images_www/v7/3/features/platform-screens.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/platform-screens.png[image:platform-screens.png[]]#
 
 === NetBeans Platform
 
@@ -79,4 +79,4 @@ link:https://netbeans.org/features/platform/all-docs.html[NetBeans Platform Lear
 * link:../../community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of highlighted features in the latest stable release.
 * link:../../kb/trails/java-se.html[General Java Development Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -28,7 +28,7 @@
 
 == The NetBeans Platform
 
-image:../../images_www/v6/features/platform_450px.jpg[]
+image:platform_450px.jpg[]
 
 *Developing a desktop application on top of the NetBeans Platform can save years of developer time.*
 
@@ -41,4 +41,4 @@ The NetBeans Platform provides all of these out of the box. You don't need to ma
 The NetBeans Platform provides a reliable and flexible application architecture. Your application does not have to look anything like an IDE. It can save you years of development time. The NetBeans Platform gives you a time-tested architecture for free. An architecture that encourages sustainable development practices. Because the NetBeans Platform architecture is modular, it's easy to create applications that are robust and extensible.
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

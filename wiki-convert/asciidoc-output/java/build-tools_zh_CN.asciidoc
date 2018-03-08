@@ -30,11 +30,11 @@
 
 == 构建工具
 
-link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut.png[] [font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut.png[] [font-11]#单击图像查看全屏预览#]
 
 使用集成到 IDE 的标准构建工具在代码所在的位置控制构建。
 
-    [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut2.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut2.png[]]#
 
 === Maven
 
@@ -42,7 +42,7 @@ NetBeans IDE 支持 Maven 构建系统，可帮助您管理项目的依赖关系
 
 link:http://wiki.netbeans.org/MavenBestPractices[NetBeans IDE 中的 Maven]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:../../images_www/v7/3/features/ide-buildtools-ant-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:ide-buildtools-ant-cut.png[]]#
 
 === Ant
 
@@ -50,7 +50,7 @@ link:http://wiki.netbeans.org/MavenBestPractices[NetBeans IDE 中的 Maven]
 
 您无需熟悉 Ant 即可在 IDE 中使用应用程序。您可以在项目的 "Project Properties"（项目属性）对话框中设置所有基本的编译和运行时选项，IDE 会自动更新项目的 Ant 脚本。如果您知道如何使用 Ant，则可以直接定制项目的 Ant 脚本，或者为项目编写您自己的 Ant 脚本。
 
-link:https://netbeans.org/kb/articles/freeform-config.html[自由格式项目的高级配置]     [overview-left]#link:../../images_www/v7/3/features/groovy-gradle.png[image:../../images_www/v7/3/features/groovy-gradle-cut.png[]]#
+link:https://netbeans.org/kb/articles/freeform-config.html[自由格式项目的高级配置]     [overview-left]#link:../../images_www/v7/3/features/groovy-gradle.png[image:groovy-gradle-cut.png[]]#
 
 === Gradle
 
@@ -64,4 +64,4 @@ link:http://netbeans.dzone.com/articles/definitive-gradle-guide-for-netbeans[Net
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新稳定发行版中的特定功能的列表。
 * link:../../kb/trails/java-se.html[常规 Java 开发学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

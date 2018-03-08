@@ -28,7 +28,7 @@
 
 == NetBeans 平台
 
-image:../../images_www/v6/features/platform_450px.jpg[]
+image:platform_450px.jpg[]
 
 *使用 NetBeans 平台构建桌面应用程序可以为开发者节省大量时间。*
 
@@ -41,4 +41,4 @@ NetBeans 平台以现成可用的方式提供了所有这些功能。您再也�
 NetBeans 平台提供了一个灵活可靠的应用程序体系结构。您的应用程序没必要与 IDE 完全一样。它可以帮助您节省数年的开发时间。NetBeans 平台为您免费提供了一个经过时间考验的体系结构。这是一个支持可持续开发实践的体系结构。因为 NetBeans 平台体系结构是模块化的，所以很容易创建功能强大的可扩展应用程序。
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

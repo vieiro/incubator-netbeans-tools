@@ -30,11 +30,11 @@
 
 == Depurador e Criador de Perfil
 
-link:../../images_www/v7/1/screenshots/debugger.png[image:../../images_www/v7/1/screenshots/debugger-cut.png[][font-11]# Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/1/screenshots/debugger.png[image:debugger-cut.png[][font-11]# Clique na imagem para exibição em tela inteira#]
 
 Para identificar e resolver problemas nas suas aplicações, como deadlocks e vazamento de memória, o NetBeans oferece um depurador e um criador de perfil com diversas funcionalidades.
 
-    [overview-left]#link:../../images_www/v7/3/features/debugger.png[image:../../images_www/v7/3/features/debugger-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/debugger.png[image:debugger-cut.png[]]#
 
 === Depurador
 
@@ -43,7 +43,7 @@ O NetBeans Debugger permite a você inserir pontos de interrupção no seu códi
 O IDE inclui um depurador visual que permite obter telas da GUI e explorar visualmente a GUI das aplicações em JavaFX e Swing. Ele permite exibir propriedades do componente, a hierarquia dos componentes no contêiner e localizar o código-fonte dos componentes. Você pode usar o depurador visual para adicionar com facilidade listeners para ações da GUI sem precisar pesquisar em todo o código-fonte.
 
 link:../../kb/docs/java/debug-multithreaded.html[Depurando Aplicações com Vários Segmentos no NetBeans IDE]
-link:../../kb/docs/java/debug-visual.html[Usando o Visual Debugger no NetBeans IDE]     [overview-right]#link:../../images_www/v7/3/features/profiler.png[image:../../images_www/v7/3/features/profiler-cut.png[]]#
+link:../../kb/docs/java/debug-visual.html[Usando o Visual Debugger no NetBeans IDE]     [overview-right]#link:../../images_www/v7/3/features/profiler.png[image:profiler-cut.png[]]#
 
 === Criador de Perfil
 
@@ -66,17 +66,17 @@ link:../../kb/docs/java/profiler-intro.html[Introdução às Aplicações Java d
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/debugger-thread-cut.png[]#
+|[overview-centre]#image:debugger-thread-cut.png[]#
 Para alternar threads, use o Seletor de encadeamento atual ou acesse a navegação de threads diretamente na margem do editor. É possível verificar o estado dos threads atuais da sessão e verificar a pilha de chamadas e variáveis das configurações regionais do thread atual.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/debugger-heap-cut.png[]#
+[overview-centre]#image:debugger-heap-cut.png[]#
 Use o HeapWalker para avaliar o conteúdo do heap Java e para identificar referências desnecessárias que causam vazamentos de memória. É possível explorar classes e instâncias de classes no heap, campos de cada instância ou classe e referências a cada instância.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/debugger-generational-cut.png[]#
+[overview-centre]#image:debugger-generational-cut.png[]#
 As contagens de geração permitem identificar objetos que estão sobrevivendo a todas as tentativas de coletá-los. Essas informações podem ser usadas para localizar objetos antigos e com vazamento.
 
 link:../../kb/articles/nb-profiler-uncoveringleaks_pt1.html[Revelando Vazamentos de Memória com o NetBeans Profiler]
@@ -89,4 +89,4 @@ link:../../kb/articles/nb-profiler-uncoveringleaks_pt1.html[Revelando Vazamentos
 * link:/community/releases/81/index.html[Página de Release do NetBeans IDE 8.1] para obter uma lista de funcionalidades específicas da última versão estável.
 * link:../../kb/trails/java-se.html[Trilha de Aprendizado em Desenvolvimento Geral de Java] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

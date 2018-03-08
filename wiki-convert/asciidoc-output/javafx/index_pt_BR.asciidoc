@@ -28,12 +28,12 @@
 
 == JavaFX 2.1
 
-link:../../images_www/v7/1/screenshots/javafx2-main-big.png[image:../../images_www/v7/1/screenshots/javafx2-main.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/1/screenshots/javafx2-main-big.png[image:javafx2-main.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 *O JavaFX 2 é a próxima etapa na evolução do Java como uma plataforma cliente avançada. Ele foi projetado para fornecer uma plataforma Java de IU leve e rápida para aplicações de negócios. Com o JavaFX 2, os desenvolvedores podem criar aplicações JavaFX completamente na linguagem de programação Java usando ferramentas padrão de desenvolvimento Java. Eles podem até mesmo acessar as capacidades nativas do sistema ou se conectar de forma transparente a um servidor com base em aplicações middleware. JavaFX 2.1 é empacotado no Java JDK 7 atualização 4, para Windows e Mac. Você também pode fazer download do JavaFX 2.1 separadamente do link:http://www.oracle.com/technetwork/java/javafx/downloads/index.html[Oracle.com]. Consulte o link:../../kb/docs/java/nb_fx_screencast.html[Vídeo do Suporte JavaFX no NetBeans IDE] para obter detalhes.*
 
 |===
-|=== Projetos JavaFX image:../../images_www/v6/features/new_small.gif[]
+|=== Projetos JavaFX image:new_small.gif[]
 
 Criar projetos JavaFX no IDE. O NetBeans IDE permite a criação dos seguintes tipos de projeto JavaFX:
 
@@ -43,7 +43,7 @@ Criar projetos JavaFX no IDE. O NetBeans IDE permite a criação dos seguintes t
 * *O JavaFX na Aplicação Swing* O NetBeans IDE simplifica a criação de aplicações Java SE que permitem incorporar componentes FX usando o componente JFXPanel Swing.
  |
 
-image:../../images_www/v7/1/features/javafx2-projecttypes.png[]
+image:javafx2-projecttypes.png[]
 
  
 
@@ -58,7 +58,7 @@ Construa e execute uma aplicação JavaFX da mesma forma que se cria e executa u
 * *No Browser.* O IDE incorpora a aplicação em um browser, usando uma página HTML que chama um arquivo JNLP. O IDE pode gerar a página HTML ou você pode usar usa própria página web. Se você executar a aplicação no IDE, o IDE abrirá uma página no browser que apontará para a página HTML no seu sistema de arquivos local.
  |
 
-image:../../images_www/v7/1/features/javafx2-select-runas.png[]
+image:javafx2-select-runas.png[]
 
  
 
@@ -66,25 +66,25 @@ image:../../images_www/v7/1/features/javafx2-select-runas.png[]
 
 Aproveito o link:../java/javase.html[editor de código Java] avançado para codificar sua aplicação JavaFX.
 
- |image:../../images_www/v7/1/features/javafx2-ineditor.png[] 
+ |image:javafx2-ineditor.png[] 
 
 |=== Depuração de JavaFX
 
 Use as link:../java/debugger.html[ferramentas de depuração Java], incluindo o novo Depurador Visual de GUI, para depurar sua aplicação JavaFX.
 
-image:../../images_www/v6/arrow-button.gif[] Consulte link:../../kb/docs/java/debug-visual.html[Usando o Depurador Visual no NetBeans IDE] para obter mais informações.
+image:arrow-button.gif[] Consulte link:../../kb/docs/java/debug-visual.html[Usando o Depurador Visual no NetBeans IDE] para obter mais informações.
 
- |image:../../images_www/v7/1/features/debug-take-snapshot.png[title="Opção Obter Snapshot de GUI do menu Depurar"] 
+ |image:debug-take-snapshot.png[title="Opção Obter Snapshot de GUI do menu Depurar"] 
 
 |=== Projetos de Amostra
 
 Explore as funcionalidades do JavaFX 2.1 e do suporte do NetBeans IDE em mais de 30 exemplos de projetos JavaFX 2.1.
 
- |image:../../images_www/v7/1/features/javafx2-sample-projects.png[] 
+ |image:javafx2-sample-projects.png[] 
 
-|image:../../images_www/v6/arrow-button.gif[] link:http://docs.oracle.com/javafx/index.html[Home da Documentação JavaFX]: Downloads, demonstrações, FAQs e tutoriais.
+|image:arrow-button.gif[] link:http://docs.oracle.com/javafx/index.html[Home da Documentação JavaFX]: Downloads, demonstrações, FAQs e tutoriais.
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

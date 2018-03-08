@@ -30,11 +30,11 @@
 
 == Groovy
 
-link:../../images_www/v7/3/features/groovy-full.png[image:../../images_www/v7/3/features/groovy-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/groovy-full.png[image:groovy-cut.png[][font-11]#单击图像查看全屏预览#]
 
 NetBeans IDE 通过与 Java EE 和 Java SE 项目的集成，为 Groovy 和 Grails 开发者提供各种工具。
 
-    [overview-right]#link:../../images_www/v7/3/features/groovy-editor-full.png[image:../../images_www/v7/3/features/groovy-editor-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/groovy-editor-full.png[image:groovy-editor-cut.png[]]#
 
 === Groovy 编辑器
 
@@ -42,7 +42,7 @@ Groovy 编辑器支持语法突出显示和代码折叠功能。代码完成可�
 
 Groovy 能够很好地与任何 Java EE 和 Java SE 项目中的 Java 集成。可以从 Java 代码调用 Groovy 类，以及从 Groovy 代码调用 Java 类。
 
-link:../../kb/docs/java/groovy-quickstart.html[Groovy 简介]     [overview-left]#link:../../images_www/v7/3/features/groovy-grails-full.png[image:../../images_www/v7/3/features/groovy-grails-cut.png[]]#
+link:../../kb/docs/java/groovy-quickstart.html[Groovy 简介]     [overview-left]#link:../../images_www/v7/3/features/groovy-grails-full.png[image:groovy-grails-cut.png[]]#
 
 === Grails
 
@@ -50,7 +50,7 @@ link:../../kb/docs/java/groovy-quickstart.html[Groovy 简介]     [overview-lef
 
 IDE 还可以在不添加任何元数据的情况下打开现有 Grails 项目。
 
-link:../../kb/docs/web/grails-quickstart.html[Grails 框架简介]     [overview-right]#link:../../images_www/v7/3/features/groovy-gradle.png[image:../../images_www/v7/3/features/groovy-gradle-cut.png[]]#
+link:../../kb/docs/web/grails-quickstart.html[Grails 框架简介]     [overview-right]#link:../../images_www/v7/3/features/groovy-gradle.png[image:groovy-gradle-cut.png[]]#
 
 === Griffon 和 Gradle
 
@@ -66,4 +66,4 @@ link:http://plugins.netbeans.org/plugin/44510/gradle-support[Gradle 插件] 
 * link:../../community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/java-se.html[常规 Java 开发学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -30,11 +30,11 @@
 
 == Desenvolvimento de Aplicação Java EE e Web
 
-link:../../images_www/v7/1/screenshots/web-app.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/1/screenshots/web-app.png[image:web-app-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 Escreva aplicações com base em padrões e aplicações corporativas que possam ser acessados de uma ampla faixa de clientes, como browsers, dispositivos móveis e mais. Obtenha uma experiência sem igual. Com apenas alguns cliques, crie aplicações Java EE 7, Java EE 6 e Java EE 5 com suporte para todas as tecnologias Java EE, aproveitando o suporte abrangente do IDE para desenvolvimento de HTML5, JavaScript e CSS3, conforme descrito na página link:../html5/index.html[Suporte ao Desenvolvimento Web HTML5].
 
-    [overview-right]#link:../../images_www/v7/3/features/ee-dev.png[image:../../images_www/v7/3/features/ee-dev-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ee-dev.png[image:ee-dev-cut.png[]]#
 
 === Desenvolvimento de Aplicações Corporativas
 
@@ -42,7 +42,7 @@ O NetBeans IDE fornece suporte para a especificação de Java EE 7 mais recente.
 
 link:java-ee.html[Suporte a Java EE no NetBeans IDE]
 
-     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:../../images_www/v7/3/features/http-monitor-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:http-monitor-cut.png[]]#
 
 === Implantar, Depurar, Monitorar e Criar Perfil
 
@@ -50,7 +50,7 @@ Você pode implantar suas aplicações no GlassFish, WebLogic, Tomcat ou servido
 
 Você também pode colocar pontos de interrupção em seus arquivos Java ou JSF e depurar sua aplicação ou criar seu perfil usando o profiler do NetBeans. O Monitor de Servidor HTTP também permite diagnosticar problemas com fluxo de dados do JSF e execução de servlet no servidor Web.
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === Desenvolvimento de Web Services
 
@@ -60,7 +60,7 @@ Você pode criar e consumir Web services usando funcionalidades como geração d
 
 link:web-services.html[Suporte a Web Services no NetBeans]
 
-     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:../../images_www/v7/3/features/jsf-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:jsf-dev-cut.png[]]#
 
 === Desenvolvimento de Aplicações Web
 
@@ -85,21 +85,21 @@ link:../../kb/docs/web/framework-adding-support.html[Adicionando Suporte a um Fr
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/spring-completion.png[]#
+|[overview-centre]#image:spring-completion.png[]#
 Selecione o framework do Spring no assistente de Novo Projeto e comece imediatamente com uma estrutura da aplicação Spring Web MVC. Aproveite a refatoração (incluindo arquivos de configuração XML) e o recurso de autocompletar código no editor.
 
 link:../../kb/docs/web/quickstart-webapps-spring.html[Introdução ao Spring Web MVC]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/struts.png[]#
+[overview-centre]#image:struts.png[]#
 Selecione o framework do Struts para criar aplicações Web flexíveis com base em tecnologias padrão, como páginas JSP, JavaBeans, pacotes de recursos e XML. Obtenha benefícios do recurso autocompletar código para tags Struts e dos pop-ups de Javadoc do Struts no editor.
 
 link:../../kb/docs/web/quickstart-webapps-struts.html[Introdução ao Framework Web do Struts]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/hibernate-web-apps.png[]#
+[overview-centre]#image:hibernate-web-apps.png[]#
 As bibliotecas de Hibernate são automaticamente empacotadas com a sua aplicação quando você seleciona o framework de Hibernate no assistente de Novo Projeto. O IDE fornece assistentes para criar engenharia reversa de Hibernate e configuração de arquivos XML e classes POJO.
 
 link:../../kb/docs/web/hibernate-webapp.html[Utilizando Hibernate em uma Aplicação Web]
@@ -112,4 +112,4 @@ link:../../kb/docs/web/hibernate-webapp.html[Utilizando Hibernate em uma Aplica�
 * link:/community/releases/81/index.html[Página da Release NetBeans IDE 8.1] para obter uma lista de funcionalidades realçadas na última versão estável.
 * link:../../kb/trails/java-ee.html[Trilha de Aprendizagem do Java EE e Java Web] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

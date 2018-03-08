@@ -28,7 +28,7 @@
 
 == Ruby and Ruby on Rails
 
-link:../../images_www/v6/9/screenshots/ruby.png[image:../../images_www/v6/9/screenshots/ruby-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v6/9/screenshots/ruby.png[image:ruby-cut.png[][font-11]#Click image for fullscreen preview#]
 
 *NOTE: As of NetBeans IDE 7.0, support for Ruby and Ruby on Rails is no longer available in the standard NetBeans IDE build. Please see the link:http://wiki.netbeans.org/RubySupport[Ruby Support Wiki page] for more information.*
 
@@ -39,7 +39,7 @@ The editor indents, completes, and highlights your Ruby code syntactically as we
 
  |
 
-image:../../images_www/v6/7/features/ruby-editor.png[]
+image:ruby-editor.png[]
 
  
 
@@ -62,13 +62,13 @@ Single-step or run through Ruby code and ERB files. Set breakpoints, look at loc
 
  |
 
-image:../../images_www/v6/7/features/ruby-test.png[]
+image:ruby-test.png[]
 
-image:../../images_www/v6/7/features/ruby-files.png[]
+image:ruby-files.png[]
 
-image:../../images_www/v6/7/features/ruby-rails.png[]
+image:ruby-rails.png[]
 
-image:../../images_www/v6/7/features/ruby-debugger.png[]
+image:ruby-debugger.png[]
 
  
 
@@ -80,12 +80,12 @@ If you install the Bundler gem, you can run Bundler actions from the project con
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:http://wiki.netbeans.org/wiki/view/Ruby[The Ruby Wiki]
+image:arrow-button.gif[] link:http://wiki.netbeans.org/wiki/view/Ruby[The Ruby Wiki]
 
-image:../../images_www/v6/arrow-button.gif[] link:http://wiki.netbeans.org/RubySupport[Ruby Support Wiki]
+image:arrow-button.gif[] link:http://wiki.netbeans.org/RubySupport[Ruby Support Wiki]
 
 
- |image:../../images_www/v6/features/ruby-gems.png[] 
+ |image:ruby-gems.png[] 
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

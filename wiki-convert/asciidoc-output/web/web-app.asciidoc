@@ -30,17 +30,17 @@
 
 == Developing with Web Application Frameworks
 
-link:../../images_www/v7/screenshots/web-app2.png[image:../../images_www/v7/screenshots/web-app2-cut1.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/screenshots/web-app2.png[image:web-app2-cut1.png[][font-11]#Click image for fullscreen preview#]
 
 NetBeans IDE supports various Web application frameworks, including all the specifications for Web application development provided as part of the Java EE specification. You can also customize the IDE to work with additional frameworks of your choice.
 
-    [overview-right]#link:../../images_www/v7/3/features/ee-6-web-profile.png[image:../../images_www/v7/3/features/ee-6-web-profile-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ee-6-web-profile.png[image:ee-6-web-profile-cut.png[]]#
 
 === Java EE 6 Web Profile Support
 
 The link:http://www.oracle.com/technetwork/java/javaee/downloads/javaee6-standards-jsp-141130.html[Java EE 6 Web Profile] defines a subset of specifications that can be used to build Web applications. In addition to supporting the full Java EE specification, NetBeans provides out of the box support for the Web profile, including support for JSF, JSPs, Servlets.
 
-     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:../../images_www/v7/3/features/jsf-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:jsf-dev-cut.png[]]#
 
 === JSF Development
 
@@ -50,7 +50,7 @@ The IDE also supports various JSF component libraries (*PrimeFaces, RichFaces, I
 
 link:../../kb/docs/web/jsf20-intro.html[Introduction to JavaServer Faces]
 
-     [overview-right]#link:../../images_www/v7/3/features/jsf-crud-gen.png[image:../../images_www/v7/3/features/jsf-crud-gen-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/jsf-crud-gen.png[image:jsf-crud-gen-cut.png[]]#
 
 === Wizard Based Client Generation
 
@@ -73,19 +73,19 @@ The IDE now generates code using annotations instead of deployment descriptors w
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/template-wizard-cut.png[]#
+|[overview-centre]#image:template-wizard-cut.png[]#
 The IDE provides a Facelets Template wizard for creating Facelets templates, and a Facelets Template Client wizard for creating files that rely on a template.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/jsp-dev-cut.png[]#
+[overview-centre]#image:jsp-dev-cut.png[]#
 In JavaServer Pages (JSP) files, the editor assists you with code completion, hypertext navigation, error checking, and debugging. You can drag and drop code snippets from a pallete. There is support for creating and using custom tag libraries.
 
 link:../../kb/docs/web/quickstart-webapps.html[Introduction to developing Web applications with JSP]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/hibernate-web-apps.png[]#
+[overview-centre]#image:hibernate-web-apps.png[]#
 Hibernate libraries are automatically bundled with your application when you select the Hibernate framework in the New Project wizard. The IDE provides wizards for creating Hibernate reverse engineering and configuration XML files and POJO classes.
 
 link:../../kb/docs/web/hibernate-webapp.html[Using Hibernate in a Web Application]
@@ -104,21 +104,21 @@ link:../../kb/docs/web/hibernate-webapp.html[Using Hibernate in a Web Applicatio
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/spring-completion.png[]#
+|[overview-centre]#image:spring-completion.png[]#
 Select the Spring framework in the New Project wizard and immediately start out with a skeleton Spring Web MVC application. Take advantage of refactoring (including XML configuration files), and code completion in the editor.
 
 link:../../kb/docs/web/quickstart-webapps-spring.html[Introduction to Spring Web MVC]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/struts.png[]#
+[overview-centre]#image:struts.png[]#
 Select the Struts framework to create flexible web applications based on standard technologies, such as JSP pages, JavaBeans, resource bundles, and XML. Benefit from code completion for Struts tags, and Struts Javadoc pop-ups in the editor.
 
 link:../../kb/docs/web/quickstart-webapps-struts.html[Introduction to the Struts Web Framework]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/plugin-portal-uc.png[]#
+[overview-centre]#image:plugin-portal-uc.png[]#
 You can install additional plugins providing support for other frameworks, when provided, from the IDE's Update Center.
 
 For example, the *Wicket* plugin can be installed to enable support for the Wicket framework.
@@ -136,4 +136,4 @@ link:../../kb/docs/web/framework-adding-support.html[Adding Support for a Web Fr
 * Get more details about features of the latest stable release on the link:http://wiki.netbeans.org/NewAndNoteworthyNB73[NetBeans IDE 7.3 New and Noteworthy page].
 * link:../../kb/trails/java-ee.html[Java EE and Java Web Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

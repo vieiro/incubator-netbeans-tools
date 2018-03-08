@@ -30,11 +30,11 @@
 
 == Совместная работа
 
-link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../images_www/v7/3/features/ide-collaboration-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/3/features/ide-collaboration-full.png[image:ide-collaboration-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 Работайте совместно с коллегами с помощью отслеживания ошибок и непрерывной интеграции.
 
-    [overview-left]#link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../images_www/v7/3/features/ide-collaboration-tracker-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/ide-collaboration-full.png[image:ide-collaboration-tracker-cut.png[]]#
 
 === Отслеживание ошибок
 
@@ -42,7 +42,7 @@ link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../image
 
 Удобная интеграция между системами контроля версий и отслеживанием ошибок позволяет фиксировать изменения кода и обновлять соответствующие состояния ошибок за один шаг. Создание новых и редактирование существующих ошибок; сортировка и фильтрация ошибок, сохранение запросов, создание исправлений и добавление вложений - все эти действия можно выполнять из IDE.
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:../../images_www/v7/3/features/ide-collaboration-hudson-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:ide-collaboration-hudson-cut.png[]]#
 
 === Непрерывная интеграция
 
@@ -61,4 +61,4 @@ link:http://wiki.netbeans.org/HudsonInNetBeans[Hudson в IDE NetBeans]
 * link:../../community/releases/81/index.html[На странице редакции IDE netbeans 8.1] приведен список выделенных функций в последней стабильной версии.
 * link:../../kb/trails/java-se.html[Учебная карта по общим сведениям о разработке на Java] для учебных курсов по началу работы.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

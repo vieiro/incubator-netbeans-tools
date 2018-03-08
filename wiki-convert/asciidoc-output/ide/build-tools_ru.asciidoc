@@ -30,11 +30,11 @@
 
 == Инструменты для сборки
 
-link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut.png[] [font-11]# Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut.png[] [font-11]# Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 Контролируйте процесс сборки там, где находится код, с помощью стандартных инструментов сборки, интегрированных в IDE.
 
-    [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:../../images_www/v7/3/features/ide-collaboration-hudson-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:ide-collaboration-hudson-cut.png[]]#
 
 === Hudson
 
@@ -46,7 +46,7 @@ IDE NetBeans позволяет создавать и контролироват
 
 link:http://wiki.netbeans.org/HudsonInNetBeans[Hudson в IDE NetBeans]
 
-     [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut2.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut2.png[]]#
 
 === Maven
 
@@ -58,7 +58,7 @@ link:http://wiki.netbeans.org/HudsonInNetBeans[Hudson в IDE NetBeans]
 
 link:http://wiki.netbeans.org/MavenBestPractices[Maven в IDE NetBeans]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:../../images_www/v7/3/features/ide-buildtools-ant-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:ide-buildtools-ant-cut.png[]]#
 
 === Ant
 
@@ -73,4 +73,4 @@ link:http://wiki.netbeans.org/MavenBestPractices[Maven в IDE NetBeans]
 * link:/community/releases/73/index.html[На странице сведений о версии IDE NetBeans 7.3] приведен список специальных функций в последней стабильной версии.
 * Более подробно о функциях последней стабильной версии см. на странице link:http://wiki.netbeans.org/NewAndNoteworthyNB73[Новые замечательные возможности IDE NetBeans 7.3].
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

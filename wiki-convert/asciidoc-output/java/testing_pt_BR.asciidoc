@@ -30,11 +30,11 @@
 
 == Testando e Analisando Código
 
-link:../../images_www/v7/3/features/ide-findbugs-full.png[image:../../images_www/v7/3/features/ide-analysis-main-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/3/features/ide-findbugs-full.png[image:ide-analysis-main-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 Quando você estiver testando sua aplicação, o IDE fornecerá ferramentas para usar JUnit e TestNG, assim como analisadores de código e, especificamente, a FindBugs.
 
-    [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:../../images_www/v7/3/features/ide-testing-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:ide-testing-cut.png[]]#
 
 === Testando
 
@@ -45,7 +45,7 @@ Quando você criar testes para as classes Java, poderá executá-los individualm
 A janela Resultados do Teste mostra os resultados dos testes executados.
 
 link:../../kb/docs/java/junit-intro.html[Gravando Testes JUnit no NetBeans IDE]
-link:../../kb/docs/java/testng-screencast.html[Vídeo do Uso do TestNG no NetBeans IDE]     [overview-left]#link:../../images_www/v7/3/features/ide-findbugs-full.png[image:../../images_www/v7/3/features/ide-findbugs-cut.png[]]#
+link:../../kb/docs/java/testng-screencast.html[Vídeo do Uso do TestNG no NetBeans IDE]     [overview-left]#link:../../images_www/v7/3/features/ide-findbugs-full.png[image:ide-findbugs-cut.png[]]#
 
 === Análise de Código
 
@@ -62,4 +62,4 @@ link:../../kb/docs/java/code-inspect.html[Análise de Código Estático no Edito
 * link:/community/releases/8.1/index.html[Página de Release do NetBeans IDE 8.1] para obter uma lista de funcionalidades específicas da última versão estável.
 * link:../../kb/trails/java-se.html[Trilha de Aprendizado em Desenvolvimento Geral de Java] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

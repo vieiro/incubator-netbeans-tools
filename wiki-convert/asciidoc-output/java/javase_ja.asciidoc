@@ -28,7 +28,7 @@
 
 == Java SE (Standard Edition)
 
-link:../../images_www/v7/screenshots/java-se.png[image:../../images_www/v7/screenshots/java-se-cut1.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/screenshots/java-se.png[image:java-se-cut1.png[][font-11]#イメージをクリックして全画面表示#]
 
 *NetBeans IDEには、Java開発者が本格的なJava SEアプリケーションを作成するために必要なツールがすべて用意されています。NetBeans IDEは、JDK 6およびJDK 7を使用した開発をサポートしています。*
 
@@ -67,12 +67,12 @@ Java SEは、デスクトップ・ユーザー向けのブラウザ・アプレ�
 
  |
 
-image:../../images_www/screenshots/6.0/javaSE_logo_150px.png[]
+image:javaSE_logo_150px.png[]
 
-image:../../images_www/v6/9/features/annotation-processor.png[]
+image:annotation-processor.png[]
 
 
-image:../../images_www/v6/5/features/java-call-hierarchy.png[]
+image:java-call-hierarchy.png[]
 
  
 
@@ -82,7 +82,7 @@ JUnit 3と4がIDEに統合されています。単体テストの作成、実行
 
  |
 
-image:../../images_www/v6/9/features/unit-test.png[]
+image:unit-test.png[]
 
  
 
@@ -96,14 +96,14 @@ NetBeans IDEのプロジェクト情報は、Apache AntおよびMavenスクリ�
 
 Java Beanサポートによって、Beanプロパティの生成とBeanInfoの編集が簡単になります。NetBeans GUIビルダーは、プロトタイプから、最終的なグラフィカル・ユーザー・インタフェースまで、Java Swing開発を支援します。正しく統合されたNetBeansデバッガ、およびNetBeansプロファイラは、堅牢なJavaデスクトップ・ソフトウェアの作成に役立ちます。
 
- |image:../../images_www/screenshots/6.0/baseIDE_ant_powered_150px.png[] 
+ |image:baseIDE_ant_powered_150px.png[] 
 |===
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/java-se.html[基本的なIDEおよびJavaプログラミングの学習]
+image:arrow-button.gif[] link:../../kb/trails/java-se.html[基本的なIDEおよびJavaプログラミングの学習]
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/platform.html[NetBeansプラットフォームの学習]
+image:arrow-button.gif[] link:../../kb/trails/platform.html[NetBeansプラットフォームの学習]
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

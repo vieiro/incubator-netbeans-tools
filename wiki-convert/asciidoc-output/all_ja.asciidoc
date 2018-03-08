@@ -471,4 +471,4 @@ link:../community/releases/71/relnotes.html[NetBeans IDE 7.1リリース・ノ�
 
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

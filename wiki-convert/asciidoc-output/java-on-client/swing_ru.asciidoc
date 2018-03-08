@@ -30,11 +30,11 @@
 
 == Swing
 
-link:../../images_www/v7/3/features/client-swing-main-full.png[image:../../images_www/v7/3/features/client-swing-main-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
+link:../../images_www/v7/3/features/client-swing-main-full.png[image:client-swing-main-cut.png[][font-11]#Для перехода к полноэкранному предварительному просмотру щелкните изображение#]
 
 Создавайте профессионально выглядящие графические интерфейсы SWING с автоматическими интервалами и выравниванием.
 
-    [overview-right]#link:../../images_www/v7/3/features/client-swing-full.png[image:../../images_www/v7/3/features/client-swing-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-swing-full.png[image:client-swing-cut.png[]]#
 
 === GUI Builder
 
@@ -44,7 +44,7 @@ link:../../images_www/v7/3/features/client-swing-main-full.png[image:../../image
 
 link:../../kb/docs/java/gui-functionality.html[Введение в построение GUI]
 link:../../kb/trails/matisse.html[Учебная карта по приложениям Java GUI]
-link:../../kb/docs/java/gui-builder-screencast.html[Разработка GUI Swing в IDE NetBeans]     [overview-left]#link:../../images_www/v7/3/features/client-swing-palette-full.png[image:../../images_www/v7/3/features/client-swing-palette-cut.png[]]#
+link:../../kb/docs/java/gui-builder-screencast.html[Разработка GUI Swing в IDE NetBeans]     [overview-left]#link:../../images_www/v7/3/features/client-swing-palette-full.png[image:client-swing-palette-cut.png[]]#
 
 === Палитра компонентов
 
@@ -52,7 +52,7 @@ link:../../kb/docs/java/gui-builder-screencast.html[Разработка GUI Swi
 
 Используйте 'Навигатор' для просмотра дерева и свойств компонентов.
 
-     [overview-right]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:../../images_www/v7/3/features/client-swing-visual-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:client-swing-visual-cut.png[]]#
 
 === Визуальный отладчик
 
@@ -62,7 +62,7 @@ link:../../kb/docs/java/gui-builder-screencast.html[Разработка GUI Swi
 
 link:../../kb/docs/java/debug-visual.html[Использование визуального отладчика в IDE NetBeans]
 
-     [overview-left]#link:../../images_www/v7/3/features/platform-screens.png[image:../../images_www/v7/3/features/platform-screens.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/platform-screens.png[image:platform-screens.png[]]#
 
 === Платформа NetBeans
 
@@ -79,4 +79,4 @@ link:https://netbeans.org/features/platform/all-docs.html[Учебная кар�
 * link:../../community/releases/81/index.html[На странице сведений о версии IDE netbeans 8.1] приведен список выделенных функций в последней стабильной версии.
 * link:../../kb/trails/java-se.html[Учебная карта по общим сведениям о разработке на Java] для учебных курсов по началу работы.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

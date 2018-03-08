@@ -104,6 +104,8 @@ public class HTMLConverter {
             output.write(":toc-title:\n");
             output.write("\n");
             CustomAsciiDocDocumentBuilder asciidocBuilder = new CustomAsciiDocDocumentBuilder(1, output);
+            asciidocBuilder.setImagesRootDirectory(new File("/home/antonio/WORK/REPOSITORIES/incubator-netbeans-website-cleanup/src/content/"));
+            asciidocBuilder.setOutputDirectory(asciidoc.getParentFile());
             InputSource source = new InputSource(reader);
             HtmlParser.instanceWithHtmlCleanupRules().parse(source, asciidocBuilder);
             output.write("\n");

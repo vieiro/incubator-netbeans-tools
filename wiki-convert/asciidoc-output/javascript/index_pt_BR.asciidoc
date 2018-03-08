@@ -28,7 +28,7 @@
 
 == Desenvolvendo com HTML, JavaScript e CSS
 
-link:../../images_www/v7/screenshots/html.png[image:../../images_www/v7/screenshots/html-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/screenshots/html.png[image:html-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 *As melhores ferramentas para desenvolvimento web.*
 
@@ -37,11 +37,11 @@ link:../../images_www/v7/screenshots/html.png[image:../../images_www/v7/screensh
 
 Tire vantagem do realce de sintaxe total, do recurso autocompletar código, da documentação pop-up e da verificação de erros para HTML, CSS e JavaScript, incluindo HTML 5, JavaScript 1.7 e do realce semântico para E.4X (objetos XML incorporados). O IDE valida o HTML usando o serviço validator.nu. O Editor reconhece o código HTML nos arquivos JavaScript e o código JavaScript em arquivos HTML. O Editor também reconhece HTML e JavaScript nos arquivos XHTML, PHP e JSP.
 
-==== HTML image:../../images_www/v6/features/improved_small.gif[]
+==== HTML image:improved_small.gif[]
 
 Você pode usar o editor no IDE para circundar rapidamente o código com uma tag ou remover uma tag ao redor usando novas dicas. Você também pode remover estilos em linha para um bloco de estilo ou arquivo .css.
 
-==== CSS image:../../images_www/v6/features/improved_small.gif[]
+==== CSS image:improved_small.gif[]
 
 O NetBeans IDE suporta o CSS 3. A refatoração, o realce de semântica, a marcação de ocorrências e outras funcionalidades foram adaptadas para o código CSS3. A funcionalidade autocompletar código CSS foi expandida para completar elementos html, propriedades do CSS 3 e seus valores, novas pseudoclasses e pseudoelementos e prefixos de namespace. Propriedades específicas do fornecedor (propriedades do prefixo hífen) também foram adicionadas ao recurso autocompletar código. A janela Navegador agora mostra classes, ids, elementos, namespaces e regras css em conjuntos separados de elementos.
 
@@ -63,19 +63,19 @@ Os editores NetBeans JavaScript e CSS são a opção perfeita para o desenvolvim
 O editor JavaScript NetBeans oferece o recurso de autocompletar código e documentação integrada para kits de ferramentas populares, como jQuery, Script.aculo.us, Prototype, etc. Faça o download dos kits de ferramentas favoritos do JavaScript, copie os arquivos em seu projeto e o editor os reconhecerá automaticamente.
 
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/web.html[Trilha de Aprendizado da Aplicação Web]
+image:arrow-button.gif[] link:../../kb/trails/web.html[Trilha de Aprendizado da Aplicação Web]
 
  |
 
-image:../../images_www/v6/8/features/javascript-browser-options.png[]
+image:javascript-browser-options.png[]
 
-image:../../images_www/v6/8/features/http-monitor.png[]
+image:http-monitor.png[]
 
-image:../../images_www/v6/8/features/ajax.png[]
+image:ajax.png[]
 
-image:../../images_www/v6/5/features/javascript-editor.png[]
+image:javascript-editor.png[]
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

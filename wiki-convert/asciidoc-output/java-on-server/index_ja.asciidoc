@@ -30,11 +30,11 @@
 
 == Java EEおよびWebアプリケーション開発
 
-link:../../images_www/v7/1/screenshots/web-app.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/1/screenshots/web-app.png[image:web-app-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 Webブラウザ、モバイル・デバイスなど、幅広い種類のクライアントからアクセスできる標準ベースのWebアプリケーションやエンタープライズ・アプリケーションを作成できます。何も設定しなくても圧倒的な開発を体験できます。すべての関連Java EEテクノロジのサポートを使用して、数回のクリックでJava EE 7、Java EE 6およびJava EE 5ベースのアプリケーションを作成できます。同時に、link:../html5/index.html[HTML5 Web開発のサポート]・ページの説明のような、HTML5、JavaScriptおよびCSS3開発のためのIDEの包括的サポートも利用できます。
 
-    [overview-right]#link:../../images_www/v7/3/features/ee-dev.png[image:../../images_www/v7/3/features/ee-dev-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ee-dev.png[image:ee-dev-cut.png[]]#
 
 === エンタープライズ・アプリケーション開発
 
@@ -42,7 +42,7 @@ NetBeans IDEは、最新のJava EE 7仕様のサポートを提供します。We
 
 link:java-ee.html[NetBeansでのJava EEサポート]
 
-     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:../../images_www/v7/3/features/http-monitor-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:http-monitor-cut.png[]]#
 
 === デプロイ、デバッグ、モニターおよびプロファイリング
 
@@ -50,7 +50,7 @@ link:java-ee.html[NetBeansでのJava EEサポート]
 
 また、JavaファイルまたはJSFファイルでブレークポイントを配置してアプリケーションをデバッグしたり、NetBeansプロファイラでそれをプロファイルしたりできます。また、WebサーバーでのJSF実行およびサーブレット実行からのデータ・フローの問題を診断できるHTTPサーバー側モニターもあります。
 
-     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:../../images_www/v7/3/features/rest-services-support-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/rest-services-support.png[image:rest-services-support-cut.png[]]#
 
 === Webサービス開発
 
@@ -60,7 +60,7 @@ NetBeans IDEは、より最新のJava EE 7およびJava EE 6仕様からより�
 
 link:web-services.html[NetBeansでのWebサービス・サポート]
 
-     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:../../images_www/v7/3/features/jsf-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:jsf-dev-cut.png[]]#
 
 === Webアプリケーション開発
 
@@ -85,21 +85,21 @@ link:../../kb/docs/web/framework-adding-support.html[Webフレームワークの
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/spring-completion.png[]#
+|[overview-centre]#image:spring-completion.png[]#
 新規プロジェクト・ウィザードでSpringフレームワークを選択して、スケルトンSpring Web MVCアプリケーションからすぐに作業を開始することができます。リファクタリング(XML構成ファイルを含む)やエディタでのコード補完を利用できます。
 
 link:../../kb/docs/web/quickstart-webapps-spring.html[Spring Web MVC入門]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/struts.png[]#
+[overview-centre]#image:struts.png[]#
 JSPページ、JavaBeans、リソース・バンドル、XMLなどの標準テクノロジに基づいた、柔軟性のあるWebアプリケーションを作成するには、Strutsフレームワークを選択します。Strutsタグのコード補完、およびエディタでのStruts Javadocのポップアップを活用できます。
 
 link:../../kb/docs/web/quickstart-webapps-struts.html[Struts Webフレームワーク入門]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/hibernate-web-apps.png[]#
+[overview-centre]#image:hibernate-web-apps.png[]#
 新規プロジェクト・ウィザードでHibernateフレームワークを選択すると、アプリケーションにHibernateライブラリが自動的にバンドルされます。IDEには、Hibernateリバース・エンジニアリングおよび構成XMLファイルとPOJOクラスを作成するためのウィザードが用意されています。
 
 link:../../kb/docs/web/hibernate-webapp.html[WebアプリケーションでのHibernateの使用]
@@ -112,4 +112,4 @@ link:../../kb/docs/web/hibernate-webapp.html[WebアプリケーションでのHi
 * 最新の安定版リリースの主な機能のリストについては、link:/community/releases/81/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-ee.html[「Java EEおよびJava Webの学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

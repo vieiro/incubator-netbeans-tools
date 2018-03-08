@@ -30,11 +30,11 @@
 
 == 小组协作
 
-link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../images_www/v7/3/features/ide-collaboration-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/ide-collaboration-full.png[image:ide-collaboration-cut.png[][font-11]#单击图像查看全屏预览#]
 
 通过问题跟踪和持续集成与小组内的其他人协同工作。
 
-    [overview-left]#link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../images_www/v7/3/features/ide-collaboration-tracker-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/ide-collaboration-full.png[image:ide-collaboration-tracker-cut.png[]]#
 
 === 问题跟踪
 
@@ -42,7 +42,7 @@ link:../../images_www/v7/3/features/ide-collaboration-full.png[image:../../image
 
 借助于版本控制系统和问题跟踪器之间的用户友好集成，您可以提交代码更改，并在一个步骤中更新关联的问题状态。在 IDE 中，可以执行下列所有操作：创建新问题并编辑现有问题；对问题进行排序和过滤并保存查询；创建补丁程序并添加连接。
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:../../images_www/v7/3/features/ide-collaboration-hudson-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:ide-collaboration-hudson-cut.png[]]#
 
 === 持续集成
 
@@ -61,4 +61,4 @@ link:http://wiki.netbeans.org/HudsonInNetBeans[NetBeans IDE 中的 Hudson]
 * link:../../community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/java-se.html[常规 Java 开发学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

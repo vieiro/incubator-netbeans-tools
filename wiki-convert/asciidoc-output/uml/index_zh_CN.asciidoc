@@ -28,7 +28,7 @@
 
 == NetBeans IDE UML 功能
 
-link:../../images_www/v6/5/screenshots/uml.png[image:../../images_www/v6/5/screenshots/uml-cut.png[]] 
+link:../../images_www/v6/5/screenshots/uml.png[image:uml-cut.png[]] 
 link:../../images_www/v6/5/screenshots/uml.png[[font-11]#单击图像查看全屏预览#]
 
 *NetBeans IDE 的 UML 插件适用于版本 6.7 及更早版本。*
@@ -42,9 +42,9 @@ Visual Paradigm 的 link:http://www.visual-paradigm.com/product/sde/nb/[SDE for 
 * 团队协作能力
 * 用于 Java、C++、PHP 等的代码生成功能
 
-image:../../images_www/v6/arrow-button.gif[] 在 link:http://www.visual-paradigm.com/product/sde/nb/[visual-paradigm.com] 上了解更多信息。
+image:arrow-button.gif[] 在 link:http://www.visual-paradigm.com/product/sde/nb/[visual-paradigm.com] 上了解更多信息。
 
- |image:../../images_www/v6/9/features/uml-visual-paradigm.png[] 
+ |image:uml-visual-paradigm.png[] 
 
 |=== JDeveloper
 
@@ -53,10 +53,10 @@ image:../../images_www/v6/arrow-button.gif[] 在 link:http://www.visual-paradigm
 * UML 图，如用例、类、活动和序列图
 * 特定于域的建模程序，如 JSF 流程图、EJB 图、数据库建模程序和方案编辑器。
 
-image:../../images_www/v6/arrow-button.gif[] 在 link:http://www.oracle.com/technology/products/jdev/htdocs/netbeans/uml.html[oracle.com] 上了解更多信息。
+image:arrow-button.gif[] 在 link:http://www.oracle.com/technology/products/jdev/htdocs/netbeans/uml.html[oracle.com] 上了解更多信息。
 
- |image:../../images_www/v6/9/features/uml-jdeveloper.png[]
+ |image:uml-jdeveloper.png[]
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

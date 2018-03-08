@@ -28,12 +28,12 @@
 
 == JavaFX 2.1
 
-link:../../images_www/v7/1/screenshots/javafx2-main-big.png[image:../../images_www/v7/1/screenshots/javafx2-main.png[][font-11]#Щелкните изображение для просмотрa на полном экране#]
+link:../../images_www/v7/1/screenshots/javafx2-main-big.png[image:javafx2-main.png[][font-11]#Щелкните изображение для просмотрa на полном экране#]
 
 *JavaFX 2 – это следующий шаг в эволюции Java как платформы для функционально насыщенных клиентских приложений. Эта технология обеспечивает упрощенную платформу пользовательского интерфейса Java с аппаратным ускорением для бизнес-приложений уровня предприятия. JavaFX 2 позволяет разработчикам создавать приложения JavaFX исключительно на языке программирования Java с помощью стандартных средств разработки Java. Они смогут даже получать доступ к возможностям системы, реализованным в машинном коде, или прямо подключаться к серверным промежуточным приложениям. JavaFX 2.1 включен в комплект Java JDK 7 (обновление 4) для Windows и Mac. JavaFX 2.1 также можно загрузить отдельно на link:http://www.oracle.com/technetwork/java/javafx/downloads/index.html[Oracle.com]. Подробнее см. раздел link:../../kb/docs/java/nb_fx_screencast.html[Видеоролик о поддержке JavaFX в среде NetBeans IDE].*
 
 |===
-|=== Проекты JavaFX image:../../images_www/v6/features/new_small.gif[]
+|=== Проекты JavaFX image:new_small.gif[]
 
 Создавайте проекты JavaFX в среде IDE. В IDE NetBeans пользователи могут создавать следующие типы проектов JavaFX:
 
@@ -43,7 +43,7 @@ link:../../images_www/v7/1/screenshots/javafx2-main-big.png[image:../../images_w
 * *JavaFX в приложении Swing* IDE NetBeans упрощает создание приложений Java SE, обеспечивающих возможность внедрения компонентов FX с помощью компонента Swing JFXPanel.
  |
 
-image:../../images_www/v7/1/features/javafx2-projecttypes.png[]
+image:javafx2-projecttypes.png[]
 
  
 
@@ -56,7 +56,7 @@ image:../../images_www/v7/1/features/javafx2-projecttypes.png[]
 * *В браузере.* Среда IDE встраивает приложение в браузер, используя страницу HTML, вызывающую файл JNLP. Среда IDE может создать новую страницу HTML, либо можно использовать собственную веб-страницу. Если приложение выполняется в среде IDE, среда IDE открывает страницу браузера, указывающую на страницу HTML в локальной файловой системе.
  |
 
-image:../../images_www/v7/1/features/javafx2-select-runas.png[]
+image:javafx2-select-runas.png[]
 
  
 
@@ -64,25 +64,25 @@ image:../../images_www/v7/1/features/javafx2-select-runas.png[]
 
 Используйте многофункциональный link:../java/javase.html[редактор кода Java] IDE NetBeans для создания кода приложений JavaFX.
 
- |image:../../images_www/v7/1/features/javafx2-ineditor.png[] 
+ |image:javafx2-ineditor.png[] 
 
 |=== Отладка JavaFX
 
 Для отладки приложений JavaFX используйте link:../java/debugger.html[средства отладки Java] IDE NetBeans, включая новый визуальный отладчик графического пользовательского интерфейса.
 
-image:../../images_www/v6/arrow-button.gif[] Дополнительные сведения см. в разделе link:../../kb/docs/java/debug-visual.html[Использование визуального отладчика в IDE NetBeans].
+image:arrow-button.gif[] Дополнительные сведения см. в разделе link:../../kb/docs/java/debug-visual.html[Использование визуального отладчика в IDE NetBeans].
 
- |image:../../images_www/v7/1/features/debug-take-snapshot.png[title="В главном меню выберите &quot;Отладка&quot; &gt; &quot;Сделать снимок графического интерфейса пользователя&quot;."] 
+ |image:debug-take-snapshot.png[title="В главном меню выберите &quot;Отладка&quot; &gt; &quot;Сделать снимок графического интерфейса пользователя&quot;."] 
 
 |=== Образцы проектов
 
 Оцените возможности поддержки JavaFX 2.1 и IDE NetBeans в более чем 30 образцах проектов JavaFX 2.1.
 
- |image:../../images_www/v7/1/features/javafx2-sample-projects.png[] 
+ |image:javafx2-sample-projects.png[] 
 
-|image:../../images_www/v6/arrow-button.gif[] link:http://docs.oracle.com/javafx/index.html[домашняя страница документации по JavaFX]: загрузки, демонстрационные ролики, разделы часто задаваемых вопросов и учебные руководства.
+|image:arrow-button.gif[] link:http://docs.oracle.com/javafx/index.html[домашняя страница документации по JavaFX]: загрузки, демонстрационные ролики, разделы часто задаваемых вопросов и учебные руководства.
 
  
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -30,11 +30,11 @@
 
 == HTML5 Web開発のサポート
 
-link:../../images_www/v7/3/features/html5-dev.png[image:../../images_www/v7/3/features/html5-dev-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/html5-dev.png[image:html5-dev-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 NetBeans IDE 7.3では、HTML5テクノロジ・ファミリを利用したクライアント側Webアプリケーションの開発体験をサポートおよび強化する新機能が導入されています。これを使用すると、デスクトップ・プラットフォームとモバイル・プラットフォームを同時にターゲットとする即応性の高いWebデザイン・パラダイムに対応した、リッチなWebアプリケーションをすばやく直観的に作成できます。また、link:../java-on-server/index.html[Java EE]およびlink:../php/index.html[PHP]アプリケーション内のHTML5テクノロジを使用できます。
 
-    [overview-right]#link:../../images_www/v7/3/features/html5-app.png[image:../../images_www/v7/3/features/html5-app-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/html5-app.png[image:html5-app-cut.png[]]#
 
 === 高速なHTML5開発のサポート
 
@@ -46,7 +46,7 @@ NetBeans IDEを使用すると、HTML5プロジェクトの作成時からHTML5 
 
 link:../../kb/docs/webclient/html5-gettingstarted.html[HTML5開発の開始]
 
-     [overview-left]#link:../../images_www/v7/3/features/html5-preview.png[image:../../images_www/v7/3/features/html5-preview-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/html5-preview.png[image:html5-preview-cut.png[]]#
 
 === Webページのライブ・プレビュー
 
@@ -56,7 +56,7 @@ Chromeと内部埋込みWebKitブラウザ(どちらもWebKitベース)の緊密
 
 *注意:* Webページのライブ・プレビューはモバイル・デバイスでも使用できます。つまり、Chromeおよび内部埋込みWebKitブラウザだけでなく、Android上のChromeおよびiOS上のMobile Safariでも使用できます。
 
-     [overview-right]#link:../../images_www/v7/3/features/html5-layout.png[image:../../images_www/v7/3/features/html5-layout-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/html5-layout.png[image:html5-layout-cut.png[]]#
 
 === レスポンシブWebデザイン機能
 
@@ -64,7 +64,7 @@ NetBeans IDEでは、レスポンシブWebデザイン・アーキテクチャ�
 
 ブラウザ機能の強化に加えて、IDEのCSSスタイル・エディタもブラウザに現在表示されているメディア問合せを認識し、CSSの編集内容をそのメディア問合せに自動的に配置します。
 
-     [overview-left]#link:../../images_www/v7/3/features/javascript-editing.png[image:../../images_www/v7/3/features/javascript-editing-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/javascript-editing.png[image:javascript-editing-cut.png[]]#
 
 === JavaScriptサポートの拡張
 
@@ -74,7 +74,7 @@ jQuery、JSON、Knockout、Ext Js、AngularJS、JsDoc、ExtDocおよびScriptDoc
 
 また、JavaScript言語自体のフォーマット・オプションも「オプション」ダイアログ・ボックスで制御できるようになりました。
 
-     [overview-right]#link:../../images_www/v7/3/features/html5-css-rules.png[image:../../images_www/v7/3/features/html5-css-rules-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/html5-css-rules.png[image:html5-css-rules-cut.png[]]#
 
 === CSSの編集およびスタイルのサポート
 
@@ -88,7 +88,7 @@ link:../../kb/docs/webclient/html5-editing-css.html[HTML5アプリケーショ�
 
 *注意:* CSSの編集およびスタイルのサポートはモバイル・デバイスでも使用できます。つまり、Chromeおよび内部埋込みWebKitブラウザだけでなく、Android上のChromeおよびiOS上のMobile Safariでも使用できます。
 
-     [overview-left]#link:../../images_www/v7/3/features/html5-device.png[image:../../images_www/v7/3/features/html5-device.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/html5-device.png[image:html5-device.png[]]#
 
 === モバイル・デバイス・サポートとCordova開発
 
@@ -113,21 +113,21 @@ IDEでは、Chromeブラウザおよび埋込みWebKitブラウザで視覚的�
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/html5-debug-cut.png[]#
+|[overview-centre]#image:html5-debug-cut.png[]#
 Chromeブラウザ、内部埋込みWebKitブラウザ、Android上のChromeブラウザ、およびiOS上のMobile Safariブラウザで、JavaScriptをデバッグできます。
 
 link:../../kb/docs/webclient/html5-js-support.html[JavaScriptのデバッグおよびテスト]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/html5-rest-client-cut.png[]#
+[overview-centre]#image:html5-rest-client-cut.png[]#
 RESTful Webサービス用のJavaScriptクライアントを作成することで、エンタープライズ・データに簡単にアクセスできます。
 
 RESTful JavaScriptクライアント・ウィザードを使用して、Webサービスを含むNetBeansプロジェクトに配置されたRESTful Webサービス用のJavaScriptクライアントをすばやく生成できます。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/html5-css-doc-cut.png[]#
+[overview-centre]#image:html5-css-doc-cut.png[]#
 アプリケーションを複数のブラウザで確実に動作させることができます。
 
 コード補完機能によって利用可能なインライン・ドキュメントにより、特定のコード構造がブラウザでサポートされているかどうかを確認できます。
@@ -140,4 +140,4 @@ RESTful JavaScriptクライアント・ウィザードを使用して、Webサ�
 * 最新の安定版リリースの主な機能のリストについては、link:/community/releases/80/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/php.html[PHPおよびHTML5の学習]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

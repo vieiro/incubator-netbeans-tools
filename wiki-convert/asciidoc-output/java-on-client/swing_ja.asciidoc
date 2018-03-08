@@ -30,11 +30,11 @@
 
 == Swing
 
-link:../../images_www/v7/3/features/client-swing-main-full.png[image:../../images_www/v7/3/features/client-swing-main-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/client-swing-main-full.png[image:client-swing-main-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 間隔や位置揃えの自動調整により、高度なSwing GUIを作成できます。
 
-    [overview-right]#link:../../images_www/v7/3/features/client-swing-full.png[image:../../images_www/v7/3/features/client-swing-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-swing-full.png[image:client-swing-cut.png[]]#
 
 === GUIビルダー
 
@@ -44,7 +44,7 @@ GUIビルダーを使用して、顧客の目の前でGUIのプロトタイプ�
 
 link:../../kb/docs/java/gui-functionality.html[GUIビルドの概要]
 link:../../kb/trails/matisse.html[Java GUIアプリケーションの学習]
-link:../../kb/docs/java/gui-builder-screencast.html[NetBeans IDEでのSwing GUIのデザイン]     [overview-left]#link:../../images_www/v7/3/features/client-swing-palette-full.png[image:../../images_www/v7/3/features/client-swing-palette-cut.png[]]#
+link:../../kb/docs/java/gui-builder-screencast.html[NetBeans IDEでのSwing GUIのデザイン]     [overview-left]#link:../../images_www/v7/3/features/client-swing-palette-full.png[image:client-swing-palette-cut.png[]]#
 
 === コンポーネント・パレット
 
@@ -52,7 +52,7 @@ link:../../kb/docs/java/gui-builder-screencast.html[NetBeans IDEでのSwing GUI�
 
 ナビゲータを使用して、コンポーネントのツリーとプロパティを表示できます。
 
-     [overview-right]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:../../images_www/v7/3/features/client-swing-visual-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:client-swing-visual-cut.png[]]#
 
 === ビジュアル・デバッガ
 
@@ -62,7 +62,7 @@ link:../../kb/docs/java/gui-builder-screencast.html[NetBeans IDEでのSwing GUI�
 
 link:../../kb/docs/java/debug-visual.html[NetBeans IDEでのビジュアル・デバッガの使用]
 
-     [overview-left]#link:../../images_www/v7/3/features/platform-screens.png[image:../../images_www/v7/3/features/platform-screens.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/platform-screens.png[image:platform-screens.png[]]#
 
 === NetBeansプラットフォーム
 
@@ -79,4 +79,4 @@ link:https://netbeans.org/features/platform/all-docs.html[NetBeansプラット�
 * 最新の安定版リリースの主な機能のリストについては、link:../../community/releases/80/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-se.html[「一般的なJava開発の学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

@@ -30,11 +30,11 @@
 
 == バージョニング
 
-link:../../images_www/v7/3/features/versioning-base-full.png[image:../../images_www/v7/3/features/versioning-base-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/3/features/versioning-base-full.png[image:versioning-base-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 NetBeans IDEにより、一連のポピュラーなバージョニング・システムを使用した簡単かつ直感的な操作が可能になります。
 
-  [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-version-full.png[image:../../images_www/v7/3/features/ide-collaboration-version-cut.png[]]#
+  [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-version-full.png[image:ide-collaboration-version-cut.png[]]#
 
 === バージョン制御ツール
 
@@ -61,17 +61,17 @@ link:../../kb/docs/ide/clearcase.html[NetBeans IDEでのClearCaseサポートの
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/versioning-git.png[]#
+|[overview-centre]#image:versioning-git.png[]#
 Gitは分散リビジョン制御システムであるため、通常はIDEを使用して連携する外部リポジトリをクローンして開始します。IDEを使用して変更を元のリポジトリにプッシュバックするか、変更をエクスポートして所有者に送信します。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/versioning-mercurial.png[]#
+[overview-centre]#image:versioning-mercurial.png[]#
 IDEのMercurialサポートでは、リポジトリをクローンでき、随時変更をバージョン制御されたファイルで管理できます。IDEでは、「プロジェクト」、「ファイル」および「お気に入り」ウィンドウのファイルとディレクトリの両方にMercurialコマンドを呼出しできます。link:http://netbeans.org/kb/docs/ide/mercurial-queues.html[Mercurialのキュー・ガイド]も参照してください。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/versioning-subversion.png[]#
+[overview-centre]#image:versioning-subversion.png[]#
 IDEのSubversionサポートでは、IDEの様々なウィンドウ(たとえば、「プロジェクト」、「ファイル」、「お気に入り」、「バージョニング」)に直接ステータス情報を表示することにより、バージョン制御されたファイルで変更の進展を管理できるため、随時Subversionコマンドを呼出しできます。
 
  
@@ -82,4 +82,4 @@ IDEのSubversionサポートでは、IDEの様々なウィンドウ(たとえば
 * 最新の安定版リリースの主な機能のリストについては、link:../../community/releases/80/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-se.html[「一般的なJava開発の学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

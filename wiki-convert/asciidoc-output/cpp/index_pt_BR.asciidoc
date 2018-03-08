@@ -28,14 +28,14 @@
 
 == Desenvolvimento em C e C++
 
-link:../../images_www/v7/screenshots/cnd.png[image:../../images_www/v7/screenshots/cnd-cut.png[]] 
+link:../../images_www/v7/screenshots/cnd.png[image:cnd-cut.png[]] 
 link:../../images_www/v7/1/screenshots/cnd.png[[font-11]# Clique na imagem para exibição em tela inteira#]
 
 Desenvolva aplicações nativas profissionais em C, C++ e Fortran para uma variedade de plataformas, incluindo os sistemas operacionais Windows, Linux, Mac OS e Solaris.
 
-[overview-right]#image:../../images_www/v6/5/features/cpp-editor.png[]
+[overview-right]#image:cpp-editor.png[]
 
-image:../../images_www/v7/2/features/cpp-11.png[]#
+image:cpp-11.png[]#
 
 === Projetos em C e C++
 
@@ -43,9 +43,9 @@ O NetBeans IDE inclui tipos de projeto para C e C++ e modelos de projeto apropri
 
 É fácil criar novos projetos desde o início arrastando e soltando um arquivo binário até o IDE. O sistema de projetos automaticamente encontra os arquivos de código-fonte, adiciona-os ao projeto, configura a assistência do código e até explora as dependências do projeto. Os usuários agora têm mais flexibilidade para configurar o comando “Executar” e "Depurar", assim, podem executar uma estatística de depuração de erros e bibliotecas dinâmicas.
 
-  [overview-left]#image:../../images_www/v6/features/cpp-debugger_200px.jpg[]
+  [overview-left]#image:cpp-debugger_200px.jpg[]
 
-image:../../images_www/screenshots/7.0/cnddebugger-eval-window.png[]#
+image:cnddebugger-eval-window.png[]#
 
 === Integração do Depurador GNU
 
@@ -55,7 +55,7 @@ O suporte adicional para impressão pretty permite que os usuários analisem var
 
 A janela "Avaliação da expressão" permite que os usuários avaliem qualquer expressão personalizada no contexto do programa atual.
 
-  [overview-right]#image:../../images_www/screenshots/7.0/cnd-template-annotations.png[]#
+  [overview-right]#image:cnd-template-annotations.png[]#
 
 === Assistência ao Código
 
@@ -148,4 +148,4 @@ A janela Usos mostra onde uma classe (estrutura), função, variável, macro, di
 * link:/community/releases/81/index.html[Página de Release do NetBeans IDE 8.1] para obter uma lista de funcionalidades específicas da última versão estável.
 * link:../../kb/trails/cnd.html[Trilha de Aprendizado de C/C++] para obter tutoriais que ajudarão você a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

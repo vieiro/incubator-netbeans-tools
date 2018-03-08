@@ -30,17 +30,17 @@
 
 == Webアプリケーション・フレームワークでの開発
 
-link:../../images_www/v7/screenshots/web-app2.png[image:../../images_www/v7/screenshots/web-app2-cut1.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/screenshots/web-app2.png[image:web-app2-cut1.png[][font-11]#イメージをクリックして全画面表示#]
 
 NetBeans IDEは、Java EE仕様の一部として提供されているWebアプリケーション開発用のすべての仕様を含め、様々なWebアプリケーション・フレームワークをサポートしています。選択した他のフレームワークで作業できるように、IDEをカスタマイズすることもできます。
 
-    [overview-right]#link:../../images_www/v7/3/features/ee-6-web-profile.png[image:../../images_www/v7/3/features/ee-6-web-profile-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ee-6-web-profile.png[image:ee-6-web-profile-cut.png[]]#
 
 === Java EE 6 Webプロファイルのサポート
 
 link:http://www.oracle.com/technetwork/java/javaee/downloads/javaee6-standards-jsp-141130.html[Java EE 6 Webプロファイル]は、Webアプリケーションのビルドに使用できる仕様のサブセットを定義したものです。NetBeansは、Java EE仕様を完全にサポートするだけでなく、JSF、JSP、サーブレットなどWebプロファイルに対するサポートも提供しています。
 
-     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:../../images_www/v7/3/features/jsf-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/jsf-dev.png[image:jsf-dev-cut.png[]]#
 
 === JSF開発
 
@@ -50,7 +50,7 @@ IDEは、Faceletページの開発を簡略化できる様々なJSFコンポー�
 
 link:../../kb/docs/web/jsf20-intro.html[JavaServer Faces入門]
 
-     [overview-right]#link:../../images_www/v7/3/features/jsf-crud-gen.png[image:../../images_www/v7/3/features/jsf-crud-gen-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/jsf-crud-gen.png[image:jsf-crud-gen-cut.png[]]#
 
 === ウィザード・ベースのクライアント生成
 
@@ -73,19 +73,19 @@ JSF CRUD (作成、読取り、更新、削除)アプリケーション・ジェ
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/template-wizard-cut.png[]#
+|[overview-centre]#image:template-wizard-cut.png[]#
 IDEには、Faceletsテンプレートを作成するためのFaceletsテンプレート・ウィザードと、テンプレートに依存するファイルを作成するためのFaceletsテンプレート・クライアント・ウィザードが用意されています。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/jsp-dev-cut.png[]#
+[overview-centre]#image:jsp-dev-cut.png[]#
 JavaServer Pages (JSP)ファイルのエディタは、コード補完、ハイパーテキスト・ナビゲーション、エラー・チェック、デバッグなどでユーザーを支援します。コード・スニペットをパレットからドラッグ・アンド・ドロップできます。カスタム・タグ・ライブラリの作成および使用がサポートされています。
 
 link:../../kb/docs/web/quickstart-webapps.html[JSPによるWebアプリケーション開発入門]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/hibernate-web-apps.png[]#
+[overview-centre]#image:hibernate-web-apps.png[]#
 新規プロジェクト・ウィザードでHibernateフレームワークを選択すると、アプリケーションにHibernateライブラリが自動的にバンドルされます。IDEには、Hibernateリバース・エンジニアリングおよび構成XMLファイルとPOJOクラスを作成するためのウィザードが用意されています。
 
 link:../../kb/docs/web/hibernate-webapp.html[WebアプリケーションでのHibernateの使用]
@@ -104,21 +104,21 @@ link:../../kb/docs/web/hibernate-webapp.html[WebアプリケーションでのHi
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/spring-completion.png[]#
+|[overview-centre]#image:spring-completion.png[]#
 新規プロジェクト・ウィザードでSpringフレームワークを選択して、スケルトンSpring Web MVCアプリケーションからすぐに作業を開始することができます。リファクタリング(XML構成ファイルを含む)やエディタでのコード補完を利用できます。
 
 link:../../kb/docs/web/quickstart-webapps-spring.html[Spring Web MVC入門]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/struts.png[]#
+[overview-centre]#image:struts.png[]#
 JSPページ、JavaBeans、リソース・バンドル、XMLなどの標準テクノロジに基づいた、柔軟性のあるWebアプリケーションを作成するには、Strutsフレームワークを選択します。Strutsタグのコード補完、およびエディタでのStruts Javadocのポップアップを活用できます。
 
 link:../../kb/docs/web/quickstart-webapps-struts.html[Struts Webフレームワーク入門]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/plugin-portal-uc.png[]#
+[overview-centre]#image:plugin-portal-uc.png[]#
 IDEのアップデート・センターから、他のフレームワークをサポートするその他のプラグインをインストールすることもできます(用意されている場合)。
 
 たとえば、Wicketフレームワークのサポートを可能にする*Wicket*プラグインをインストールできます。
@@ -136,4 +136,4 @@ link:../../kb/docs/web/framework-adding-support.html[Webフレームワークの
 * 最近の安定版リリースの機能の詳細は、link:http://wiki.netbeans.org/NewAndNoteworthyNB73[NetBeans IDE 7.3の新機能と注目すべき機能のページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-ee.html[「Java EEおよびJava Webの学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

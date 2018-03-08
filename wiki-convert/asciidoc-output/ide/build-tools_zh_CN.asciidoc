@@ -30,11 +30,11 @@
 
 == 构建工具
 
-link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut.png[] [font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut.png[] [font-11]#单击图像查看全屏预览#]
 
 使用集成到 IDE 的标准构建工具在代码所在的位置控制构建。
 
-    [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:../../images_www/v7/3/features/ide-collaboration-hudson-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-hudson-full.png[image:ide-collaboration-hudson-cut.png[]]#
 
 === Hudson
 
@@ -46,7 +46,7 @@ link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../im
 
 link:http://wiki.netbeans.org/HudsonInNetBeans[NetBeans IDE 中的 Hudson]
 
-     [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut2.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut2.png[]]#
 
 === Maven
 
@@ -58,7 +58,7 @@ NetBeans IDE 支持 Maven 构建系统，可帮助您管理项目的依赖关系
 
 link:http://wiki.netbeans.org/MavenBestPractices[NetBeans IDE 中的 Maven]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:../../images_www/v7/3/features/ide-buildtools-ant-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-ant-full.png[image:ide-buildtools-ant-cut.png[]]#
 
 === Ant
 
@@ -73,4 +73,4 @@ link:http://wiki.netbeans.org/MavenBestPractices[NetBeans IDE 中的 Maven]
 * link:/community/releases/73/index.html[NetBeans IDE 7.3 发行版页]，提供最新稳定发行版中的特定功能的列表。
 * 在link:http://wiki.netbeans.org/NewAndNoteworthyNB73[“NetBeans IDE 7.3 新增功能和重要功能”页]上获取有关最新稳定发行版的功能的详细信息。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

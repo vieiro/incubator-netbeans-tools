@@ -28,14 +28,14 @@
 
 == C/C++の開発
 
-link:../../images_www/v7/screenshots/cnd.png[image:../../images_www/v7/screenshots/cnd-cut.png[]]
+link:../../images_www/v7/screenshots/cnd.png[image:cnd-cut.png[]]
 link:../../images_www/v7/1/screenshots/cnd.png[[font-11]#イメージをクリックして全画面表示#]
 
 Windows、Linux、OS XおよびSolarisオペレーティング・システムなど、様々なプラットフォーム向けの本格的なネイティブ・アプリケーションをC/C++およびFortranで開発できます。
 
-[overview-right]#image:../../images_www/v6/5/features/cpp-editor.png[]
+[overview-right]#image:cpp-editor.png[]
 
-image:../../images_www/v7/2/features/cpp-11.png[]#
+image:cpp-11.png[]#
 
 === C/C++プロジェクト
 
@@ -43,9 +43,9 @@ NetBeans IDEには、C/C++用のプロジェクト・タイプと適切なプロ
 
 IDEにバイナリ・ファイルをドラッグ・アンド・ドロップするのみで、簡単に新しいプロジェクトを最初から作成できるようになりました。プロジェクト・システムによって自動的にソース・ファイルが検出され、プロジェクトに追加される他、コード支援が構成され、プロジェクトの依存性も調査されます。さらに、「実行」および「デバッグ」コマンドの構成がより柔軟になり、静的ライブラリおよび動的ライブラリの実行とデバッグができるようになりました。
 
-  [overview-left]#image:../../images_www/v6/features/cpp-debugger_200px.jpg[]
+  [overview-left]#image:cpp-debugger_200px.jpg[]
 
-image:../../images_www/screenshots/7.0/cnddebugger-eval-window.png[]#
+image:cnddebugger-eval-window.png[]#
 
 === GNUデバッガ統合
 
@@ -55,7 +55,7 @@ C/C++エディタは、複数セッションのGNU gdbデバッガと統合さ�
 
 「式評価」ウィンドウでは、現在のプログラム・コンテキストでカスタム式を評価できます。
 
-  [overview-right]#image:../../images_www/screenshots/7.0/cnd-template-annotations.png[]#
+  [overview-right]#image:cnd-template-annotations.png[]#
 
 === コード支援
 
@@ -148,4 +148,4 @@ Qtアプリケーション開発フレームワークは、GUIフォーム、リ
 * 最新の安定版リリースの個別機能のリストについては、link:/community/releases/81/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/cnd.html[C/C++の学習]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

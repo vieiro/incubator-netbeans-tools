@@ -28,7 +28,7 @@
 
 == Платформа NetBeans
 
-image:../../images_www/v6/features/platform_450px.jpg[]
+image:platform_450px.jpg[]
 
 *Создание приложения рабочей среды на основе платформы NetBeans позволяет сэкономить несколько лет работы разработчика.*
 
@@ -41,4 +41,4 @@ image:../../images_www/v6/features/platform_450px.jpg[]
 Платформа NetBeans предоставляет надежную и гибкую архитектуру приложений. Ваше приложение не обязательно должно выглядеть так же, как IDE. Это поможет вам сэкономить годы времени, затрачиваемого на разработку. Платформа NetBeans предоставляет проверенную временем архитектуру совершенно бесплатно. Эта архитектура поможет обеспечить надежность процессов разработки. Поскольку архитектура платформы NetBeans является модульной, создавать надежные и расширяемые приложения будет очень просто.
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

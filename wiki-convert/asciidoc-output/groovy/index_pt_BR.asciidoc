@@ -30,11 +30,11 @@
 
 == Groovy
 
-link:../../images_www/v7/3/features/groovy-full.png[image:../../images_www/v7/3/features/groovy-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/3/features/groovy-full.png[image:groovy-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 O NetBeans IDE fornece ferramentas para desenvolvedores de Groovy e Grails com integração com projetos Java EE e Java SE.
 
-    [overview-right]#link:../../images_www/v7/3/features/groovy-editor-full.png[image:../../images_www/v7/3/features/groovy-editor-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/groovy-editor-full.png[image:groovy-editor-cut.png[]]#
 
 === Editor de Groovy
 
@@ -42,7 +42,7 @@ O editor Groovy oferece suporte a realce de sintaxe e dobramento de código. O r
 
 O Groovy se integra bem com Java em qualquer projeto Java EE e Java SE. Você pode chamar classes Groovy por meio do código Java e classes Java por meio do código Groovy.
 
-link:../../kb/docs/java/groovy-quickstart.html[Introdução ao Groovy]     [overview-left]#link:../../images_www/v7/3/features/groovy-grails-full.png[image:../../images_www/v7/3/features/groovy-grails-cut.png[]]#
+link:../../kb/docs/java/groovy-quickstart.html[Introdução ao Groovy]     [overview-left]#link:../../images_www/v7/3/features/groovy-grails-full.png[image:groovy-grails-cut.png[]]#
 
 === Grails
 
@@ -50,7 +50,7 @@ Para a camada Web, o IDE é compatível com o framework do Grails. Várias açõ
 
 O IDE também abre projetos do Grails existentes sem agregar metadados.
 
-link:../../kb/docs/web/grails-quickstart.html[Introdução ao Framework do Grails]     [overview-right]#link:../../images_www/v7/3/features/groovy-gradle.png[image:../../images_www/v7/3/features/groovy-gradle-cut.png[]]#
+link:../../kb/docs/web/grails-quickstart.html[Introdução ao Framework do Grails]     [overview-right]#link:../../images_www/v7/3/features/groovy-gradle.png[image:groovy-gradle-cut.png[]]#
 
 === Griffon e Gradle
 
@@ -66,4 +66,4 @@ link:http://plugins.netbeans.org/plugin/44510/gradle-support[Plug-in do Gradle]�
 * link:../../community/releases/81/index.html[Página da Release NetBeans IDE 8.1] para obter uma lista de funcionalidades realçadas na última versão estável.
 * link:../../kb/trails/java-se.html[Trilha de Aprendizado em Desenvolvimento Geral de Java] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

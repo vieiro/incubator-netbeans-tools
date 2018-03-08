@@ -28,7 +28,7 @@
 
 == Ruby 和 Ruby on Rails
 
-link:../../images_www/v6/9/screenshots/ruby.png[image:../../images_www/v6/9/screenshots/ruby-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v6/9/screenshots/ruby.png[image:ruby-cut.png[][font-11]#单击图像查看全屏预览#]
 
 *注：自 NetBeans IDE 7.0 开始，标准的 NetBeans IDE 版本不再支持 Ruby 和 Ruby on Rails。有关详细信息，请参见 link:http://wiki.netbeans.org/RubySupport[Ruby 支持 Wiki 页]。*
 
@@ -39,7 +39,7 @@ link:../../images_www/v6/9/screenshots/ruby.png[image:../../images_www/v6/9/scre
 
  |
 
-image:../../images_www/v6/7/features/ruby-editor.png[]
+image:ruby-editor.png[]
 
  
 
@@ -62,13 +62,13 @@ Ruby on Rails 项目类型支持 Rake 目标和数据库迁移。"Rake Runner"�
 
  |
 
-image:../../images_www/v6/7/features/ruby-test.png[]
+image:ruby-test.png[]
 
-image:../../images_www/v6/7/features/ruby-files.png[]
+image:ruby-files.png[]
 
-image:../../images_www/v6/7/features/ruby-rails.png[]
+image:ruby-rails.png[]
 
-image:../../images_www/v6/7/features/ruby-debugger.png[]
+image:ruby-debugger.png[]
 
  
 
@@ -80,12 +80,12 @@ image:../../images_www/v6/7/features/ruby-debugger.png[]
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:http://wiki.netbeans.org/wiki/view/Ruby[Ruby Wiki]
+image:arrow-button.gif[] link:http://wiki.netbeans.org/wiki/view/Ruby[Ruby Wiki]
 
-image:../../images_www/v6/arrow-button.gif[] link:http://wiki.netbeans.org/RubySupport[Ruby 支持 Wiki]
+image:arrow-button.gif[] link:http://wiki.netbeans.org/RubySupport[Ruby 支持 Wiki]
 
 
- |image:../../images_www/v6/features/ruby-gems.png[] 
+ |image:ruby-gems.png[] 
 |===
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

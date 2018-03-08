@@ -30,11 +30,11 @@
 
 == Java Enterprise Editionのサポート
 
-link:../../images_www/v7/1/screenshots/web-app.png[image:../../images_www/v7/1/screenshots/web-app-cut.png[][font-11]#イメージをクリックして全画面表示#]
+link:../../images_www/v7/1/screenshots/web-app.png[image:web-app-cut.png[][font-11]#イメージをクリックして全画面表示#]
 
 NetBeans IDEは、Java EEプラットフォームを利用するWebアプリケーションおよびサーバー側アプリケーションの開発に対し、優れたサポートを提供しています。IDEのサポートは、Java EEおよびGlassFishの各チームとの密接な協力のもとで、Java EE仕様との最大限の統合と、できるかぎり容易な使用方法を実現するために開発されました。したがって、Java EEの仕様やフレームワークを扱った経験がない場合に、Java EEプログラミングを短時間で学び、成果を上げるためには、NetBeans IDEを使用するのが最善の方法です。
 
-    [overview-right]#link:../../images_www/v7/3/features/java-ee-7-full.png[image:../../images_www/v7/3/features/java-ee-7-full-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/java-ee-7-full.png[image:java-ee-7-full-cut.png[]]#
 
 === Java Enterprise Edition 7のサポート
 
@@ -44,7 +44,7 @@ IDEで提供されるサポートは、アプリケーションをすばやく�
 
 link:../../kb/trails/java-ee.html[Java EEおよびJava Webの学習]
 
-     [overview-left]#link:../../images_www/v7/3/features/ejb-dev.png[image:../../images_www/v7/3/features/ejb-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/ejb-dev.png[image:ejb-dev-cut.png[]]#
 
 === EJB開発の簡素化
 
@@ -52,7 +52,7 @@ IDEは、Webアプリケーション・プロジェクト内でも最新のEJB 3
 
 link:../../kb/docs/javaee/javaee-entapp-ejb.html[EJB 3.1を使用したエンタープライズ・アプリケーションの作成]
 
-     [overview-right]#link:../../images_www/v7/3/features/jsf-dev.png[image:../../images_www/v7/3/features/jsf-dev-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/jsf-dev.png[image:jsf-dev-cut.png[]]#
 
 === JSF開発
 
@@ -62,7 +62,7 @@ IDEは、Faceletページの開発を簡略化できる様々なJSFコンポー�
 
 link:../../kb/docs/web/jsf20-intro.html[JavaServer Faces入門]
 
-     [overview-left]#link:../../images_www/v7/3/features/jpa-dev.png[image:../../images_www/v7/3/features/jpa-dev-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/jpa-dev.png[image:jpa-dev-cut.png[]]#
 
 === JPAのサポート
 
@@ -85,19 +85,19 @@ IDEには、JPQL問合せをIDEから直接実行できる、スタンドアロ�
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/template-wizard-cut.png[]#
+|[overview-centre]#image:template-wizard-cut.png[]#
 IDEには、Faceletsテンプレートを作成するためのFaceletsテンプレート・ウィザードと、テンプレートに依存するファイルを作成するためのFaceletsテンプレート・クライアント・ウィザードが用意されています。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/jsp-dev-cut.png[]#
+[overview-centre]#image:jsp-dev-cut.png[]#
 JavaServer Pages (JSP)ファイルのエディタは、コード補完、ハイパーテキスト・ナビゲーション、エラー・チェック、デバッグなどでユーザーを支援します。コード・スニペットをパレットからドラッグ・アンド・ドロップできます。カスタム・タグ・ライブラリの作成および使用がサポートされています。
 
 link:../../kb/docs/web/quickstart-webapps.html[JSPによるWebアプリケーション開発入門]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/ee-7-web-profile-cut.png[]#
+[overview-centre]#image:ee-7-web-profile-cut.png[]#
 link:http://www.oracle.com/technetwork/java/javaee/tech/index.html[Java EE Webプロファイル]は、Webアプリケーションのビルドに使用できる仕様のサブセットを定義したものです。NetBeansは、Webプロファイルを使用したアプリケーションの作成を標準でサポートしています。
 
  
@@ -114,19 +114,19 @@ link:http://www.oracle.com/technetwork/java/javaee/tech/index.html[Java EE Web�
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/jsf-crud-gen-cut.png[]#
+|[overview-centre]#image:jsf-crud-gen-cut.png[]#
 JSF CRUD (作成、読取り、更新、削除)アプリケーション・ジェネレータを使用して、データベースのデータを操作するために機能する完全なJSFページを作成できます。新規ファイル・ウィザードでは、カスタマイズ可能なCRUD JSFページを既存のエンティティから作成できます。
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/cdi-support-cut.png[]#
+[overview-centre]#image:cdi-support-cut.png[]#
 新規プロジェクト・ウィザードや新規ファイル・ウィザードを使用して、コンテキストと依存性の注入(CDI: Contexts and Dependency Injection)に対応するファイルを作成できます。いずれかの注入ポイントを右クリックして、「注入可能に移動」および「注入可能物を検査」メニュー・アクションをトリガーするなどのエディタ・サポートが用意されています。
 
 link:../../kb/docs/javaee/cdi-intro.html[CDIおよびJSF 2.0の開始]
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/jpa-jpql-cut.png[]#
+[overview-centre]#image:jpa-jpql-cut.png[]#
 スタンドアロンのJPQLエディタを使用すると、JPAアプリケーションを実行して問合せをテストするのではなく、問合せをIDEから直接実行できます。JPQLエディタは、JPQLキーワードのコード補完をサポートしています。管理対象エンティティの場合、EclipseLinkまたHibernateプロバイダを使用していれば、JPQL問合せのSQL表現が得られます。JPQL問合せの問題箇所も指摘されます。
 
  
@@ -139,7 +139,7 @@ link:../../kb/docs/javaee/cdi-intro.html[CDIおよびJSF 2.0の開始]
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/websocket-endpoint-cut.png[]#
+|[overview-centre]#image:websocket-endpoint-cut.png[]#
 IDEはブラウザ・クライアントとアプリケーション・サーバー間の双方向通信を可能にするため、Java API for WebSocket (JSR 356)を使用するWebアプリケーションを作成するためのサポートを提供します。
 
 link:../../kb/docs/javaee/maven-websocketapi.html[WebSocket APIの使用]
@@ -152,4 +152,4 @@ link:../../kb/docs/javaee/maven-websocketapi.html[WebSocket APIの使用]
 * 最新の安定版リリースの主な機能のリストについては、link:/community/releases/80/index.html[NetBeans IDE 8.1リリース・ページ]を参照してください。
 * 作業を開始する際に役立つチュートリアルについては、link:../../kb/trails/java-ee.html[「Java EEおよびJava Webの学習」]を参照してください。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

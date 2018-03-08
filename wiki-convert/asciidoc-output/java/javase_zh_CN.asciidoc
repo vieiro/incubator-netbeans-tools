@@ -28,7 +28,7 @@
 
 == Java SE (Standard Edition)
 
-link:../../images_www/v7/screenshots/java-se.png[image:../../images_www/v7/screenshots/java-se-cut1.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/screenshots/java-se.png[image:java-se-cut1.png[][font-11]#单击图像查看全屏预览#]
 
 *NetBeans IDE 为 Java 开发者提供创建专业 Java SE 应用程序所需的全部工具。NetBeans IDE 支持 JDK 6 和 JDK 7 的开发。*
 
@@ -65,12 +65,12 @@ Java 调用分层结构视图将显示一个表示项目中选定方法的调用
 
  |
 
-image:../../images_www/screenshots/6.0/javaSE_logo_150px.png[]
+image:javaSE_logo_150px.png[]
 
-image:../../images_www/v6/9/features/annotation-processor.png[]
+image:annotation-processor.png[]
 
 
-image:../../images_www/v6/5/features/java-call-hierarchy.png[]
+image:java-call-hierarchy.png[]
 
  
 
@@ -80,7 +80,7 @@ IDE 中集成了 JUnit 3 和 4。您可以在 IDE 中快速创建、运行和重
 
  |
 
-image:../../images_www/v6/9/features/unit-test.png[]
+image:unit-test.png[]
 
  
 
@@ -94,14 +94,14 @@ NetBeans IDE 以开放、可扩展、非专用的格式存储项目信息，如 
 
 Java Bean 支持可简化 Bean 属性生成和 BeanInfo 编辑过程。NetBeans GUI 构建器可帮助您执行从原型到最终图形用户界面的 Java Swing 开发。完美集成的 NetBeans 调试器和 Netbeans 分析器帮助您编写稳定可靠的 Java 桌面软件。
 
- |image:../../images_www/screenshots/6.0/baseIDE_ant_powered_150px.png[] 
+ |image:baseIDE_ant_powered_150px.png[] 
 |===
 
  
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/java-se.html[基本 IDE 和 Java 编程学习资源]
+image:arrow-button.gif[] link:../../kb/trails/java-se.html[基本 IDE 和 Java 编程学习资源]
 
-image:../../images_www/v6/arrow-button.gif[] link:../../kb/trails/platform.html[NetBeans 平台学习资源]
+image:arrow-button.gif[] link:../../kb/trails/platform.html[NetBeans 平台学习资源]
 
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

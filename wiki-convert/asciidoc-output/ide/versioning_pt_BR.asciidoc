@@ -30,11 +30,11 @@
 
 == Controle de Versão
 
-link:../../images_www/v7/3/features/versioning-base-full.png[image:../../images_www/v7/3/features/versioning-base-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/3/features/versioning-base-full.png[image:versioning-base-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 O NetBeans IDE permite que você trabalhe de forma fácil e intuitiva com uma variedade de sistemas de controle de versão populares
 
-  [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-version-full.png[image:../../images_www/v7/3/features/ide-collaboration-version-cut.png[]]#
+  [overview-right]#link:../../images_www/v7/3/features/ide-collaboration-version-full.png[image:ide-collaboration-version-cut.png[]]#
 
 === Ferramentas de Controle de Versão
 
@@ -61,17 +61,17 @@ link:../../kb/docs/ide/clearcase.html[Usando Suporte de ClearCase no NetBeans ID
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/versioning-git.png[]#
+|[overview-centre]#image:versioning-git.png[]#
 Como o Git é um sistema de controle de versão distribuído, você normalmente começa usando o IDE para clonar um repositório externo para trabalhar. Use o IDE para inserir as alterações de volta no repositório original ou para exportar suas alterações e enviá-las ao proprietário.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/versioning-mercurial.png[]#
+[overview-centre]#image:versioning-mercurial.png[]#
 O suporte ao Mercurial do IDE permite que você clone repositórios e gerencie alterações efetuadas nos arquivos com versão controlada à medida que você trabalha. No IDE, você pode chamar os comandos do Mercurial em arquivos e diretórios contidos na janelas Projetos, Arquivos e Favoritos. Consulte também link:http://netbeans.org/kb/docs/ide/mercurial-queues.html[Guia de Filas do Mercurial].
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/versioning-subversion.png[]#
+[overview-centre]#image:versioning-subversion.png[]#
 O suporte ao Subversion do IDE permite que você gerencie as evolução das alterações em arquivos com versão controlada, exibindo informações de status diretamente nas várias janelas do IDE (por exemplo, Projetos, Arquivos, Favoritos, Controle de Versão), para que você possa chamar comandos do Subversion à medida que você trabalha.
 
  
@@ -82,4 +82,4 @@ O suporte ao Subversion do IDE permite que você gerencie as evolução das alte
 * link:../../community/releases/81/index.html[Página da Release NetBeans IDE 8.1] para obter uma lista de funcionalidades realçadas na última versão estável.
 * link:../../kb/trails/java-se.html[Trilha de Aprendizado em Desenvolvimento Geral de Java] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

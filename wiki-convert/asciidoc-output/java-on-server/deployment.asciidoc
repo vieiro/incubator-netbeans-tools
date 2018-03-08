@@ -30,11 +30,11 @@
 
 == Application Deployment and Monitoring
 
-link:../../images_www/v7/3/features/deploy-monitor.png[image:../../images_www/v7/3/features/deploy-monitor-cut.png[][font-11]#Click image for fullscreen preview#]
+link:../../images_www/v7/3/features/deploy-monitor.png[image:deploy-monitor-cut.png[][font-11]#Click image for fullscreen preview#]
 
 NetBeans IDE supports multiple deployment platforms with out of the box support for the latest version of Glassfish. Post deployment, you can leverage the support for monitoring, profiling and testing your applications.
 
-    [overview-right]#link:../../images_www/v7/3/features/deploy-servers.png[image:../../images_www/v7/3/features/deploy-servers-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/deploy-servers.png[image:deploy-servers-cut.png[]]#
 
 === Deployment on Servers
 
@@ -46,13 +46,13 @@ The IDE instantly redeploys any running Java EE application when a change is mad
 
 Also available, is the link:http://plugins.netbeans.org/plugin/22254/jrebel-netbeans-plugin[JRebel plugin] that enables you to use JRebel to see changes you make to the code without the need to redeploy.
 
-     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:../../images_www/v7/3/features/http-monitor-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/http-monitor.png[image:http-monitor-cut.png[]]#
 
 === HTTP Monitoring
 
 In addition to the link:../java/debugger.html[debugging and profiling support], the IDE provides the HTTP Server-Side Monitor to help diagnose problems with data flow from JSP page and servlet execution on the web server. The HTTP Server-Side Monitor gathers data about HTTP requests that are processed by the servlet engine. For each HTTP request that is processed, the monitor records data about the incoming request and the data states maintained on the server. You can view data, store data for future sessions, and replay and edit previous requests.
 
-     [overview-right]#link:../../images_www/v7/3/features/javaee-testing-maven.png[image:../../images_www/v7/3/features/javaee-testing-maven-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/javaee-testing-maven.png[image:javaee-testing-maven-cut.png[]]#
 
 === Java EE Applications Testing
 
@@ -75,17 +75,17 @@ link:../../kb/docs/javaee/maven-entapp-testing.html[Testing a Maven based Java E
 
  
 
-|[overview-centre]#image:../../images_www/v7/3/features/open-servlet-cut.png[]#
+|[overview-centre]#image:open-servlet-cut.png[]#
 When you execute a JSP file, you can view the translated servlet source in the Source Editor which can help debug issues in the JSP file.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/http-replay-cut.png[]#
+[overview-centre]#image:http-replay-cut.png[]#
 In the HTTP Server Monitor, you can save and replay HTTP requests. When you replay a request, the response appears in the web browser. You can also edit a request to help debug issues corresponding to various scenarios for the request.
 
  |
 
-[overview-centre]#image:../../images_www/v7/3/features/webapp-configuration-cut.png[]#
+[overview-centre]#image:webapp-configuration-cut.png[]#
 The IDE automatically updates your deployment descriptors as you code your web application. You can manually configure your deployment descriptors editing the descriptor files with a document view of the associated XML.
 
  
@@ -96,4 +96,4 @@ The IDE automatically updates your deployment descriptors as you code your web a
 * link:/community/releases/81/index.html[NetBeans IDE 8.1 Release Page] for a list of highlighted features in the latest stable release.
 * link:../../kb/trails/java-ee.html[Java EE and Java Web Learning Trail] for tutorials that will help you get started.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

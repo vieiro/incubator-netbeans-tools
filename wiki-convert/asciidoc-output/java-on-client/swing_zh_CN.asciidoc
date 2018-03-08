@@ -30,11 +30,11 @@
 
 == Swing
 
-link:../../images_www/v7/3/features/client-swing-main-full.png[image:../../images_www/v7/3/features/client-swing-main-cut.png[][font-11]#单击图像查看全屏预览#]
+link:../../images_www/v7/3/features/client-swing-main-full.png[image:client-swing-main-cut.png[][font-11]#单击图像查看全屏预览#]
 
 创建具备自动调整间距和自动对齐的专业 Swing GUI。
 
-    [overview-right]#link:../../images_www/v7/3/features/client-swing-full.png[image:../../images_www/v7/3/features/client-swing-cut.png[]]#
+    [overview-right]#link:../../images_www/v7/3/features/client-swing-full.png[image:client-swing-cut.png[]]#
 
 === GUI 构建器
 
@@ -44,7 +44,7 @@ link:../../images_www/v7/3/features/client-swing-main-full.png[image:../../image
 
 link:../../kb/docs/java/gui-functionality.html[GUI 构建简介]
 link:../../kb/trails/matisse.html[Java GUI 应用程序学习资源]
-link:../../kb/docs/java/gui-builder-screencast.html[在 NetBeans IDE 中设计 Swing GUI]     [overview-left]#link:../../images_www/v7/3/features/client-swing-palette-full.png[image:../../images_www/v7/3/features/client-swing-palette-cut.png[]]#
+link:../../kb/docs/java/gui-builder-screencast.html[在 NetBeans IDE 中设计 Swing GUI]     [overview-left]#link:../../images_www/v7/3/features/client-swing-palette-full.png[image:client-swing-palette-cut.png[]]#
 
 === 组件面板
 
@@ -52,7 +52,7 @@ link:../../kb/docs/java/gui-builder-screencast.html[在 NetBeans IDE 中设计 S
 
 使用导航器查看组件树和属性。
 
-     [overview-right]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:../../images_www/v7/3/features/client-swing-visual-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/client-swing-visual-full.png[image:client-swing-visual-cut.png[]]#
 
 === 可视调试器
 
@@ -62,7 +62,7 @@ link:../../kb/docs/java/gui-builder-screencast.html[在 NetBeans IDE 中设计 S
 
 link:../../kb/docs/java/debug-visual.html[使用 NetBeans IDE 中的可视调试器]
 
-     [overview-left]#link:../../images_www/v7/3/features/platform-screens.png[image:../../images_www/v7/3/features/platform-screens.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/platform-screens.png[image:platform-screens.png[]]#
 
 === NetBeans 平台
 
@@ -79,4 +79,4 @@ link:https://netbeans.org/features/platform/all-docs.html[NetBeans 平台学习�
 * link:../../community/releases/81/index.html[NetBeans IDE 8.1 发行版页]，提供最新的稳定发行版中的重要功能列表。
 * link:../../kb/trails/java-se.html[常规 Java 开发学习资源]，提供将帮助您入门的教程。
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.

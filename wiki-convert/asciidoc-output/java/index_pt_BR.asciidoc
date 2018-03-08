@@ -30,11 +30,11 @@
 
 == Java
 
-link:../../images_www/v7/3/features/ide-management-main-full.png[image:../../images_www/v7/3/features/ide-management-main-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
+link:../../images_www/v7/3/features/ide-management-main-full.png[image:ide-management-main-cut.png[][font-11]#Clique na imagem para exibição em tela inteira#]
 
 O NetBeans IDE oferece aos desenvolvedores Java todas as ferramentas necessárias para a criação de aplicações desktop, móveis e corporativas.
 
-    [overview-left]#link:../../images_www/v7/3/features/java-editor-full.png[image:../../images_www/v7/3/features/java-editor-cut.png[]]#
+    [overview-left]#link:../../images_www/v7/3/features/java-editor-full.png[image:java-editor-cut.png[]]#
 
 === Criando, Editando e Refatorando
 
@@ -44,7 +44,7 @@ O editor sensível a idiomas do NetBeans detecta erros enquanto você digita e a
 
 link:editor.html[Editando e Refatorando no NetBeans IDE]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:../../images_www/v7/3/features/ide-buildtools-maven-cut2.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-buildtools-maven-full.png[image:ide-buildtools-maven-cut2.png[]]#
 
 === Compilando
 
@@ -56,7 +56,7 @@ O IDE inclui um Maven Repository Browser e gráficos para analisar dependências
 
 link:build-tools.html[Crie Ferramentas no NetBeans IDE]
 
-     [overview-left]#link:../../images_www/v7/3/features/debugger.png[image:../../images_www/v7/3/features/debugger-cut.png[]]#
+     [overview-left]#link:../../images_www/v7/3/features/debugger.png[image:debugger-cut.png[]]#
 
 === Depurando e Criando Perfil
 
@@ -64,7 +64,7 @@ Para identificar e resolver problemas nas suas aplicações, como deadlocks e va
 
 link:debugger.html[Depurador e Criador de Perfil no NetBeans IDE]
 
-     [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:../../images_www/v7/3/features/ide-testing-cut.png[]]#
+     [overview-right]#link:../../images_www/v7/3/features/ide-testing-full.png[image:ide-testing-cut.png[]]#
 
 === Testando e Analisando Código
 
@@ -79,4 +79,4 @@ link:testing.html[Testando e Analisando Código no NetBeans IDE]
 * link:/community/releases/74/index.html[Página de Release do NetBeans IDE 7.4] para obter uma lista de funcionalidades específicas da última versão estável.
 * link:../../kb/trails/java-se.html[Trilha de Aprendizado em Desenvolvimento Geral de Java] para tutoriais que o ajudarão a começar.
 
-NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-07, and needs to be reviewed.
+NOTE: This document was automatically converted to the AsciiDoc format on 2018-03-08, and needs to be reviewed.
