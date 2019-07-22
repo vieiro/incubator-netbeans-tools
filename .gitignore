@@ -11,3 +11,4 @@
 /html-convert/target/**
 /html-convert/tutorials-asciidoc/**
 /html-convert/external-links.txt
+/asciidoctor-linter/target/**
